@@ -47,7 +47,6 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
-        <script src="https://unpkg.com/netlify-cms-yoast-seo@~1.0/dist/main.js"></script>
       </Helmet>
       <Navbar />
       <div>{children}</div>

@@ -1,4 +1,5 @@
 import { graphql, useStaticQuery } from 'gatsby'
+import {AnalysisWebWorker } from 'yoastseo'
 
 const useSiteMetadata = () => {
   const { site } = useStaticQuery(
