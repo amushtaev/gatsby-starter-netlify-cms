@@ -2,20 +2,25 @@ import React from "react"
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import { HTMLContent } from '../components/Content'
+import IndustriesVideo from '../components/IndustriesVideo'
 
-export const IndustriesPageTemplate = ({title, content, contentComponent}) => {
-  const PageContent = contentComponent || Content
+export const IndustriesPageTemplate = () => {
   return (
     <section className="section section--gradient">
+      <div className="signup-block">
+        <h2 className="signup-block__title">FIND THE PERFECT TEMPLATE FOR YOUR VIDEO</h2>
+        <input className="pb-form__input pb-form__input--large pb-form__input--full-border" type="text" name="template"
+               placeholder="e.g. bestservice.com/bestoffer.html" />
+        <div className="pb-form__item pb-form__item--submit">
+          <a className="signup-form__submit pb-button pb-button--xl pb-button--primary">Search templates </a>
+        </div>
+      </div>
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
-              <PageContent className="content" content={content} />
+              <IndustriesVideo />
             </div>
           </div>
         </div>
@@ -25,8 +30,6 @@ export const IndustriesPageTemplate = ({title, content, contentComponent}) => {
 }
 
 IndustriesPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
-  content: PropTypes.string,
   contentComponent: PropTypes.func,
 }
 
@@ -37,8 +40,6 @@ const IndustriesPage = ({ data }) => {
     <Layout>
       <IndustriesPageTemplate
         contentComponent={HTMLContent}
-        title={post.frontmatter.title}
-        content={post.html}
       />
     </Layout>
   )

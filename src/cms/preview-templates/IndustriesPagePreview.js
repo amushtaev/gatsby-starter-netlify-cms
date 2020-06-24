@@ -2,10 +2,10 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { IndustriesPageTemplate } from '../../templates/industries-page'
 
-const AboutPagePreview = ({ entry, widgetFor }) => (
+const IndustriesPagePreview = ({ entry, widgetFor }) => (
   <IndustriesPageTemplate
-    title={entry.getIn(['data', 'title'])}
-    content={widgetFor('body')}
+    /*title={entry.getIn(['data', 'title'])}
+    content={widgetFor('body')}*/
   />
 )
 
