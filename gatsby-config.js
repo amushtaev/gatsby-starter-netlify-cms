@@ -56,6 +56,14 @@ module.exports = {
               destinationDir: 'static',
             },
           },
+          {
+            resolve: 'gatsby-source-graphql',
+            options: {
+              typeName: 'WPGraphQL',
+              fieldName: 'wpgraphql',
+              url: 'https://softcube.com/graphql',
+            }
+          },
         ],
       },
     },

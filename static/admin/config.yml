@@ -27,7 +27,7 @@ collections:
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-
+      - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
   - name: "pages"
     label: "Pages"
     files:
