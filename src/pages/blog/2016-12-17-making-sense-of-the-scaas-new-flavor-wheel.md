@@ -9,6 +9,7 @@ featuredimage: /img/flavor_wheel.jpg
 tags:
   - flavor
   - tasting
+yoast_keyword: What the updates mean to you
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
