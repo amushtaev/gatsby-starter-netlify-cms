@@ -1,9 +1,8 @@
 import React from "react"
 import { request } from "graphql-request"
-import Pricing from "./components/Pricing";
 
 async function GetVideo() {
-  const endpoint = "https://graph.softcube.com/graphql"
+  const endpoint = "https://graph.softcube.com/graphql";
 
   const query = /* GraphQL */`
   query getsearch($tag: String!) {
@@ -61,13 +60,13 @@ async function GetVideo() {
     }
   ];
 
-  return  tags.map((tag) => {
-    return request(endpoint, query, tag);
+  return tags.map((tag) => {
+    //request(endpoint, query, tag).then((data) => console.log(data.search))
+    let d = request(endpoint, query, tag).then((response) => {
+      return response.search
+    });
+    console.log(d, "data.search")
   })
 }
 
-const GetQuery  = () => {
-  return GetVideo().catch((error) => console.error(error));
-};
-
-export default GetQuery
+export default GetVideo();
