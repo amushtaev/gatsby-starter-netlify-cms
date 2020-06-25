@@ -3,17 +3,18 @@ personal: case-study
 templateKey: blog-post
 slug: case-study
 category_name: CASE STUDY
-categories: CASE STUDY
-title: Making sense of the SCAA’s new Flavokyukyukyukuk
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
-featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
+featuredpost: false
+date: 2016-12-17T15:04:10.000Z
+yoast_keyword: What the updates mean to you
+title: Making sense of the SCAA’s new Flavokyukyukyukuk
 tags:
   - flavor
   - tasting
-yoast_keyword: What the updates mean to you
+categories: CASE STUDY
+description: The Coffee Taster’s Flavor Wheel, the official resource used by
+  coffee tasters, has been revised for the first time this year.
+category: CASE STUDY
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
