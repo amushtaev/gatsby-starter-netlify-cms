@@ -1,13 +1,18 @@
 ---
+personal: FACEBOOK ADS
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-featuredpost: false
+category_name: FACEBOOK ADS
+slug: facebook-ads
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredpost: false
+date: 2017-01-04T15:04:10.000Z
+title: A beginners’ guide to brewing with Chemex
 tags:
   - brewing
   - chemex
+description: Brewing with a Chemex probably seems like a complicated,
+  time-consuming ordeal, but once you get used to the process, it becomes a
+  soothing ritual that's worth the effort every time.
 ---
 ![chemex](/img/chemex.jpg)
 
