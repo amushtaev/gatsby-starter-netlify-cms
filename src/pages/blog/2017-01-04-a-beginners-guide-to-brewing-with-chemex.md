@@ -1,18 +1,20 @@
 ---
 personal: facebook-ads
 templateKey: blog-post
-category_name: FACEBOOK ADS
 slug: facebook-ads
-featuredimage: /img/chemex.jpg
-featuredpost: false
-date: 2017-01-04T15:04:10.000Z
+category_name: FACEBOOK ADS
+categories: FACEBOOK ADS
 title: A beginners’ guide to brewing with Chemex
-tags:
-  - brewing
-  - chemex
+date: 2017-01-04T15:04:10.000Z
 description: Brewing with a Chemex probably seems like a complicated,
   time-consuming ordeal, but once you get used to the process, it becomes a
   soothing ritual that's worth the effort every time.
+featuredpost: false
+featuredimage: /img/chemex.jpg
+tags:
+  - brewing
+  - chemex
+yoast_keyword: FACEBOOK ADS
 ---
 ![chemex](/img/chemex.jpg)
 
