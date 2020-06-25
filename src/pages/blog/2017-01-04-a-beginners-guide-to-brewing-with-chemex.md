@@ -1,5 +1,5 @@
 ---
-personal: FACEBOOK ADS
+personal: facebook-ads
 templateKey: blog-post
 category_name: FACEBOOK ADS
 slug: facebook-ads
