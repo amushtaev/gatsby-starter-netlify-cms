@@ -13,6 +13,15 @@ media_folder: static/img
 public_folder: /img
 
 collections:
+  - name: "categories"
+    label: "Categories"
+    identifier_field: slug
+    folder: "src/pages/blog/"
+    create: true
+    fields:
+      - {label: "Category", name: "category_name", widget: "string"}
+      - {label: "Category Image", name: "category_img", widget: "image"}
+      - {label: "Slug", name: "slug", widget: "string"}
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
