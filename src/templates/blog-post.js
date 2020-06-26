@@ -13,6 +13,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  categories,
 }) => {
   const PostContent = contentComponent || Content
 
@@ -22,6 +23,7 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+            <p>{categories}</p>
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
@@ -44,7 +46,7 @@ export const BlogPostTemplate = ({
       </div>
     </section>
   )
-}
+};
 
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
@@ -52,10 +54,12 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  yoastKeyword: PropTypes.string,
+  categories: PropTypes.string,
 }
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
@@ -70,6 +74,10 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            <meta
+              name='key'
+              content={`${post.frontmatter.yoast_keyword}`}
+            />
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -77,13 +85,13 @@ const BlogPost = ({ data }) => {
       />
     </Layout>
   )
-}
+};
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
-}
+};
 
 export default BlogPost
 
@@ -97,7 +105,8 @@ export const pageQuery = graphql`
         title
         description
         tags
+        yoast_keyword
       }
     }
   }
-`
+`;
