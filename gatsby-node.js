@@ -18,6 +18,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               tags
               templateKey
+              categories
             }
           }
         }
@@ -31,8 +32,10 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges
 
-    posts.forEach((edge) => {
-      const id = edge.node.id
+    posts.forEach((edge, index, post) => {
+      const id = edge.node.id;
+      const previous = index === posts.length - 1 ? null : posts[index + 1].node;
+      const next = index === 0 ? null : posts[index - 1].node;
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
@@ -42,18 +45,44 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+          previous,
+          next,
         },
+      });
+
+      // collect the encountered categories
+      const categoriesFound = [];
+      posts.forEach(post  => {
+        console.log(!post.node.frontmatter.categories, "post")
+        if(post.node.frontmatter.categories) {
+          post.node.frontmatter.categories.forEach(cat => {
+            if (categoriesFound.indexOf(cat) === -1) {
+              categoriesFound.push(cat)
+            }
+          })
+        }
+      });
+
+      categoriesFound.forEach(cat => {
+        createPage({
+          path: `category/${cat}`,
+          component: path.resolve(`./src/templates/category-page.js`),
+          context: {
+            category: cat,
+          },
+        })
       })
-    })
+
+    });
 
     // Tag pages:
-    let tags = []
+    let tags = [];
     // Iterate through each post, putting all found tags into `tags`
     posts.forEach((edge) => {
       if (_.get(edge, `node.frontmatter.tags`)) {
         tags = tags.concat(edge.node.frontmatter.tags)
       }
-    })
+    });
     // Eliminate duplicate tags
     tags = _.uniq(tags)
 
@@ -70,7 +99,7 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
   })
-}
+};
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
@@ -84,4 +113,4 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       value,
     })
   }
-}
+};

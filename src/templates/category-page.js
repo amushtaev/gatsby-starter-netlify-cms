@@ -6,7 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const BlogPostTemplate = ({
+export const BlogCatPostTemplate = ({
   content,
   contentComponent,
   description,
@@ -15,7 +15,7 @@ export const BlogPostTemplate = ({
   helmet,
   category,
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
   return (
     <section className="section">
@@ -48,7 +48,7 @@ export const BlogPostTemplate = ({
   )
 }
 
-BlogPostTemplate.propTypes = {
+BlogCatPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
@@ -57,12 +57,12 @@ BlogPostTemplate.propTypes = {
   category:PropTypes.string,
 }
 
-const BlogPost = ({ data }) => {
+const CategoryPost = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <BlogPostTemplate
+      <BlogCatPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -81,18 +81,18 @@ const BlogPost = ({ data }) => {
       />
     </Layout>
   )
-}
+};
 
-BlogPost.propTypes = {
+CategoryPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
 }
 
-export default BlogPost
+export default CategoryPost
 
-export const pageQuery = graphql`
-  query BlogPostByID($id: String!) {
+export const pageCatQuery = graphql`
+  query BlogCatPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
