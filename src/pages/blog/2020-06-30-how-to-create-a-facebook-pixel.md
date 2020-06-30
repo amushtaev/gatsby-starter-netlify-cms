@@ -1,5 +1,5 @@
 ---
-categories: INSTAGRAM ADS, FACEBOOK  ADS
+categories: INSTAGRAM ADS
 templateKey: blog-post
 title: HOW TO CREATE A FACEBOOK PIXEL
 date: 2020-06-30T08:15:40.088Z
