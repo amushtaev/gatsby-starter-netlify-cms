@@ -13,7 +13,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
-  category,
+  categories,
 }) => {
   const PostContent = contentComponent || Content
 
@@ -23,7 +23,7 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h3>Categories: {category.map(category => <div>{category}</div>)} </h3>
+            <h3>Categories: {categories.map(category => <div>{category}</div>)} </h3>
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
@@ -46,7 +46,7 @@ export const BlogPostTemplate = ({
       </div>
     </section>
   )
-}
+};
 
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
@@ -54,8 +54,8 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
-  category:PropTypes.string,
-}
+  categories:PropTypes.string,
+};
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
@@ -75,19 +75,19 @@ const BlogPost = ({ data }) => {
             />
           </Helmet>
         }
-        category={post.frontmatter.categories}
+        categories={post.frontmatter.categories}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
     </Layout>
   )
-}
+};
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
-}
+};
 
 export default BlogPost
 
@@ -105,4 +105,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
