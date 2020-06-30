@@ -1,5 +1,5 @@
 ---
-categories: INSTAGRAM ADS
+category: INSTAGRAM ADS
 templateKey: blog-post
 title: HOW TO CREATE A FACEBOOK PIXEL
 date: 2020-06-30T08:15:40.088Z
@@ -17,6 +17,7 @@ tags:
   - Facebook
   - Pixel
 yoast_keyword: Facebook, Pixel
+categories: INSTAGRAM ADS
 ---
 <!--StartFragment-->
 
