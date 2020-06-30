@@ -17,10 +17,10 @@ const CategoriesPage = ({
     <Layout>
       <Helmet title={`Categories | ${title}`} />
       <h1 className="title is-size-2 is-bold-light">Categories</h1>
-      <ul className="taglist">
+      <ul className="categorylist">
         {group.map((catygory) => (
           <li key={catygory.fieldValue}>
-            <Link to={`/tags/${kebabCase(catygory.fieldValue)}/`}>
+            <Link to={`/categories/${kebabCase(catygory.fieldValue)}/`}>
               {catygory.fieldValue} ({catygory.totalCount})
             </Link>
           </li>
@@ -46,5 +46,4 @@ export const categoryPageQuery = graphql`
       }
     }
   }
-  `
-;
+`;

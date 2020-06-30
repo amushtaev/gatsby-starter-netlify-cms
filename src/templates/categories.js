@@ -32,7 +32,7 @@ class CategoryRoute extends React.Component {
               >
                 <h3></h3>
                 <h3 className="title is-size-4 is-bold-light">{categoryHeader}</h3>
-                <ul className="categorнlist">{postLinks}</ul>
+                <ul className="categorylist">{postLinks}</ul>
                 <p>
                   <Link to="/categories/">All</Link>
                 </p>

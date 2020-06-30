@@ -5,7 +5,7 @@ import { BlogPostTemplate } from '../../templates/blog-post'
 const BlogPostPreview = ({ entry, widgetFor }) => {
   const tags = entry.getIn(['data', 'tags']);
   const yoastKeyword = entry.getIn(['data', 'yoast_keyword']);
-  const categories = entry.getIn(['data', 'categories'])
+  const categories = entry.getIn(['data', 'category'])
   console.log(yoastKeyword, "yoastKeyword", categories, "categories")
   return (
     <BlogPostTemplate
@@ -14,7 +14,7 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
       yoastKeyword={yoastKeyword}
       tags={tags && tags.toJS()}
       title={entry.getIn(['data', 'title'])}
-      categories={categories}
+      category={categories}
     />
   )
 };
