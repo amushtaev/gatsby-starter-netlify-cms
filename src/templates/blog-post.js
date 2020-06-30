@@ -13,8 +13,10 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  category,
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
+  console.log({category}, "categories")
 
   return (
     <section className="section">
@@ -22,6 +24,7 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+            <p>{category}</p>
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
@@ -44,7 +47,7 @@ export const BlogPostTemplate = ({
       </div>
     </section>
   )
-}
+};
 
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
@@ -52,11 +55,13 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  yoastKeyword: PropTypes.string,
+  category: PropTypes.string,
 }
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
-
+  const { markdownRemark: post } = data;
+  console.log("data", data)
   return (
     <Layout>
       <BlogPostTemplate
@@ -70,20 +75,25 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            <meta
+              name='key'
+              content={`${post.frontmatter.yoast_keyword}`}
+            />
           </Helmet>
         }
+        category={post.frontmatter.category}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
     </Layout>
   )
-}
+};
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
-}
+};
 
 export default BlogPost
 
@@ -97,7 +107,9 @@ export const pageQuery = graphql`
         title
         description
         tags
+        category
+        yoast_keyword
       }
     }
   }
-`
+`;
