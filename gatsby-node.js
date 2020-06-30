@@ -19,6 +19,7 @@ exports.createPages = ({ actions, graphql }) => {
               tags
               templateKey
               title
+              category
             }
           }
         }
@@ -39,7 +40,7 @@ exports.createPages = ({ actions, graphql }) => {
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
         //TODO
-        categories: edge.node.frontmatter.categories,
+        categories: edge.node.frontmatter.category,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
         ),
@@ -48,6 +49,7 @@ exports.createPages = ({ actions, graphql }) => {
           id,
           previous,
           next,
+          categories,
         },
       })
     });
@@ -99,7 +101,7 @@ exports.createSchemaCustomization = ({ actions, graphql }) => {
       frontmatter: Frontmatter
     }
     type Frontmatter {
-      categories: [String!]!
+      category: [String!]!
     }
   `;
   createTypes(typeDefs)
