@@ -1,9 +1,14 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import Layout from '../../components/Layout'
 
 const CategoriesPage = () => {
-  return <button>Hello world</button>
-}
+  return (
+    <Layout>
+      <button>Hello world</button>
+    </Layout>
+  )
+};
 
 export default CategoriesPage;
 

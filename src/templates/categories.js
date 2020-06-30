@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
-class Categoryoute extends React.Component {
+class CategoryRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map((post) => (
@@ -13,10 +13,10 @@ class Categoryoute extends React.Component {
         </Link>
       </li>
     ));
-    const tag = this.props.pageContext.tag
+    const category = this.props.pageContext.category;
     const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount;
-    const tagHeader = `${totalCount} post${
+    const categoryHeader = `${totalCount} post${
       totalCount === 1 ? '' : 's'
     } tagged with “${category}”`;
 
@@ -30,10 +30,11 @@ class Categoryoute extends React.Component {
                 className="column is-10 is-offset-1"
                 style={{ marginBottom: '6rem' }}
               >
-                <h3 className="title is-size-4 is-bold-light">{tagHeader}</h3>
-                <ul className="taglist">{postLinks}</ul>
+                <h3></h3>
+                <h3 className="title is-size-4 is-bold-light">{categoryHeader}</h3>
+                <ul className="categorнlist">{postLinks}</ul>
                 <p>
-                  <Link to="/tags/">All</Link>
+                  <Link to="/categories/">All</Link>
                 </p>
               </div>
             </div>
@@ -44,7 +45,7 @@ class Categoryoute extends React.Component {
   }
 }
 
-export default Categoryoute
+export default CategoryRoute
 
 export const CatygoryPageQuery = graphql`
   query CategoryPage($category: String) {
@@ -66,6 +67,7 @@ export const CatygoryPageQuery = graphql`
           }
           frontmatter {
             title
+            category_name
           }
         }
       }

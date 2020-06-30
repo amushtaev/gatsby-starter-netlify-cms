@@ -13,10 +13,10 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
-  categories,
+  category,
 }) => {
   const PostContent = contentComponent || Content;
-  console.log({categories}, "categories")
+  console.log({category}, "categories")
 
   return (
     <section className="section">
@@ -24,7 +24,7 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <p>{categories}</p>
+            <p>{category}</p>
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
@@ -56,7 +56,7 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   helmet: PropTypes.object,
   yoastKeyword: PropTypes.string,
-  categories: PropTypes.string,
+  category: PropTypes.string,
 }
 
 const BlogPost = ({ data }) => {
@@ -81,6 +81,7 @@ const BlogPost = ({ data }) => {
             />
           </Helmet>
         }
+        category={post.frontmatter.category}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
@@ -106,6 +107,7 @@ export const pageQuery = graphql`
         title
         description
         tags
+        category
         yoast_keyword
       }
     }

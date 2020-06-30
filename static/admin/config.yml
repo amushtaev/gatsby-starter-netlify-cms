@@ -16,11 +16,11 @@ collections:
   - name: "categories"
     label: "Categories"
     identifier_field: slug
-    folder: "src/pages/blog/"
+    folder: "src/pages/categories/"
     create: true
     fields:
       - {label: "Category", name: "categories", widget: "string"}
-      - {label: "Category Image", name: "category_img", widget: "image"}
+      - {label: "Category Image", name: "category_img", widget: "image", required: false}
       - {label: "Slug", name: "slug", widget: "string"}
   - name: "blog"
     label: "Blog"
