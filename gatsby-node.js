@@ -18,6 +18,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               tags
               templateKey
+              title
             }
           }
         }
@@ -30,9 +31,10 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges;
-    console.log(posts, "posts")
-    posts.forEach((edge) => {
+    posts.forEach((edge, index) => {
       const id = edge.node.id;
+      const previous = index === posts.length - 1 ? null : posts[index + 1].node;
+      const next = index === 0 ? null : posts[index - 1].node;
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
@@ -44,6 +46,8 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+          previous,
+          next,
         },
       })
     });
@@ -76,7 +80,7 @@ exports.createPages = ({ actions, graphql }) => {
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
-  fmImagesToRelative(node); // convert image paths for gatsby images
+  fmImagesToRelative(node);
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
