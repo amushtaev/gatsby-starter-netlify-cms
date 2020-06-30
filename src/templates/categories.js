@@ -67,7 +67,6 @@ export const CatygoryPageQuery = graphql`
           }
           frontmatter {
             title
-            category_name
           }
         }
       }

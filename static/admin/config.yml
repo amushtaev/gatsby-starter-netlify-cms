@@ -19,7 +19,7 @@ collections:
     folder: "src/pages/categories/"
     create: true
     fields:
-      - {label: "Category", name: "categories", widget: "string"}
+      - {label: "Category", name: "category", widget: "string"}
       - {label: "Category Image", name: "category_img", widget: "image", required: false}
       - {label: "Slug", name: "slug", widget: "string"}
   - name: "blog"
