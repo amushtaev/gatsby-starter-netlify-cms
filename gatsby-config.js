@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Softcube + Netlify CMS Starter',
+    title: 'Gatsby + Netlify CMS Starter',
     description:
       'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
@@ -56,14 +56,6 @@ module.exports = {
               destinationDir: 'static',
             },
           },
-          {
-            resolve: 'gatsby-source-graphql',
-            options: {
-              typeName: 'WPGraphQL',
-              fieldName: 'wpgraphql',
-              url: 'https://softcube.com/graphql',
-            }
-          },
         ],
       },
     },
@@ -82,4 +74,4 @@ module.exports = {
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
-};
+}

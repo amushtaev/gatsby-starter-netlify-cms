@@ -22,7 +22,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            SOFTCUBE BLOG
+            Latest Stories
           </h1>
         </div>
         <section className="section">

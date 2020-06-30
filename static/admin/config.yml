@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repo: amushtaev/one-click-hugo-cms
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
@@ -13,22 +12,12 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "categories"
-    label: "Categories"
-    identifier_field: slug
-    folder: "src/pages/categories/"
-    create: true
-    fields:
-      - {label: "Category", name: "category", widget: "string"}
-      - {label: "Category Image", name: "category_img", widget: "image", required: false}
-      - {label: "Slug", name: "slug", widget: "string"}
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Category", name: "category", widget: "string"}
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -37,7 +26,7 @@ collections:
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
+
   - name: "pages"
     label: "Pages"
     files:
@@ -61,11 +50,6 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/industries/index.md"
-        label: "Industries"
-        name: "industries"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "industries-page"}
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"
