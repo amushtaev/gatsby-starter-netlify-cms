@@ -1,7 +1,13 @@
 ---
+<<<<<<< HEAD
 category: INSTAGRAM ADS
 templateKey: blog-post
 title: HOW TO CREATE A FACEBOOK PIXEL туц
+=======
+categories: INSTAGRAM ADS
+templateKey: blog-post
+title: HOW TO CREATE A FACEBOOK PIXEL
+>>>>>>> 838492c... Fix Bugs in Category Page
 date: 2020-06-30T08:15:40.088Z
 description: >-
   Ready to create a Facebook pixel?
@@ -17,7 +23,10 @@ tags:
   - Facebook
   - Pixel
 yoast_keyword: Facebook, Pixel
+<<<<<<< HEAD
 categories: INSTAGRAM ADS
+=======
+>>>>>>> 838492c... Fix Bugs in Category Page
 ---
 <!--StartFragment-->
 
@@ -147,4 +156,8 @@ Now that you know how to make a Facebook pixel your right hand helper in managin
 
 [](https://video.softcube.com/media/5abaef956b187ea16c0387cefdb19eb4.mp4)
 
+<<<<<<< HEAD
 Soon after you launch AI-produced video ads, your Facebook pixel will show you how they boost your conversions. Good luck!
+=======
+Soon after you launch AI-produced video ads, your Facebook pixel will show you how they boost your conversions. Good luck!
+>>>>>>> 838492c... Fix Bugs in Category Page
