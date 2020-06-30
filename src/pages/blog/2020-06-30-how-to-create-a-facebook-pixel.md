@@ -1,7 +1,7 @@
 ---
 category: INSTAGRAM ADS
 templateKey: blog-post
-title: HOW TO CREATE A FACEBOOK PIXEL
+title: HOW TO CREATE A FACEBOOK PIXEL туц
 date: 2020-06-30T08:15:40.088Z
 description: >-
   Ready to create a Facebook pixel?
