@@ -23,7 +23,13 @@ export const BlogCatPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h3>Categories: {categories.map(category => <div>{category}</div>)} </h3>
+            {categories && categories.length ? (
+              <h3>Categories:
+                {categories.map((category) => (
+                  <div>{category}</div>
+                ))}
+              </h3>
+            ) : null}
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>

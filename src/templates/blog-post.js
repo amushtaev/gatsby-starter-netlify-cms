@@ -23,7 +23,13 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h3>Categories: {categories.map(category => <div>{category}</div>)} </h3>
+            {categories && categories.length ? (
+            <h3>Categories:
+              {categories.map((category) => (
+                <div>{category}</div>
+              ))}
+            </h3>
+          ) : null}
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
@@ -54,12 +60,12 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
-  categories:PropTypes.string,
 };
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-
+  //TODO
+  console.log(post, "post")
   return (
     <Layout>
       <BlogPostTemplate
