@@ -1,11 +1,12 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import PropTypes from 'prop-types'
+import {graphql, Link} from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       active: false,
       navBarActiveClass: '',
@@ -30,7 +31,7 @@ const Navbar = class extends React.Component {
             })
       }
     )
-  }
+  };
 
   render() {
     return (
@@ -93,6 +94,38 @@ const Navbar = class extends React.Component {
       </nav>
     )
   }
-}
+};
 
 export default Navbar
+
+//TODO
+/*export const NavCategory = ({ data }) => {
+  const {allMarkdownRemark: posts} = data;
+  console.log(posts, "data NavCategory")
+  return (
+    <h3>link</h3>
+  )
+};
+
+NavCategory.PropTypes = {
+  fieldValue: PropTypes.string,
+  totalCount: PropTypes.number,
+};*/
+
+/*export const NavCategory = ({ data: {
+  allMarkdownRemark: { group },
+} }) => (
+  console.log(group, "data NavCategory")
+);*/
+
+
+export const navCatQuery = graphql`
+query NavCatLink {
+  allMarkdownRemark {
+    group(field: frontmatter___categories) {
+      fieldValue
+      totalCount
+    }
+  }
+}
+`;
