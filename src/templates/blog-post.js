@@ -15,7 +15,7 @@ export const BlogPostTemplate = ({
   helmet,
   categories,
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
   return (
     <section className="section">
@@ -26,7 +26,7 @@ export const BlogPostTemplate = ({
             {categories && categories.length ? (
             <h3>Categories:
               {categories.map((category) => (
-                <div>{category}</div>
+                <div key={category + `category`}>{category}</div>
               ))}
             </h3>
           ) : null}
@@ -60,6 +60,7 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  categories: PropTypes.array,
 };
 
 const BlogPost = ({ data }) => {

@@ -29,6 +29,13 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
+                  {post.frontmatter.categories && post.frontmatter.categories.length ? (
+                    <h3>Categories:
+                      {post.frontmatter.categories.map((category) => (
+                        <div>{category}</div>
+                      ))}
+                    </h3>
+                  ) : null}
                   <p className="post-meta">
                     <Link
                       className="title has-text-primary is-size-4"

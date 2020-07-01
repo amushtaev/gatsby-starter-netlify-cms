@@ -10,7 +10,6 @@ export const BlogCatPostTemplate = ({
   content,
   contentComponent,
   description,
-  tags,
   title,
   helmet,
   categories,
@@ -25,9 +24,13 @@ export const BlogCatPostTemplate = ({
           <div className="column is-10 is-offset-1">
             {categories && categories.length ? (
               <h3>Categories:
+                <ul className="categorylist">
                 {categories.map((category) => (
-                  <div>{category}</div>
+                  <li key={category + `category`}>
+                    <Link to={`/category/${kebabCase(category)}/`}>{category}</Link>
+                  </li>
                 ))}
+                </ul>
               </h3>
             ) : null}
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
@@ -35,18 +38,6 @@ export const BlogCatPostTemplate = ({
             </h1>
             <p>{description}</p>
             <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
           </div>
         </div>
       </div>
@@ -64,7 +55,7 @@ BlogCatPostTemplate.propTypes = {
 };
 
 const CategoryPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
