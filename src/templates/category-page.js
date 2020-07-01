@@ -110,23 +110,40 @@ export default CategoryPost
 
 export const pageCatQuery = graphql`
   query BlogCatPostBy {
-    allMarkdownRemark {
-      nodes {
-        id
-        frontmatter {
-          categories
-          description
-          date(formatString: "MMMM DD, YYYY")
-          title
-          templateKey
-          tags
-        }
-        html
+  allMarkdownRemark {
+    nodes {
+      id
+      frontmatter {
+        categories
+        description
+        date(formatString: "MMMM DD, YYYY")
+        title
+        templateKey
+        tags
       }
-      group(field: frontmatter___categories){
-        fieldValue
-        totalCount
+      html
+    }
+    group(field: frontmatter___categories) {
+      fieldValue
+      totalCount
+      nodes {
+        fields {
+          slug
+        }
+      }
+    }
+    edges {
+      next {
+        fields {
+          slug
+        }
+      }
+      previous {
+        fields {
+          slug
+        }
       }
     }
   }
+}
 `;

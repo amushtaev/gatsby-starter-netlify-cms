@@ -51,6 +51,11 @@ export const categoryPageQuery = graphql`
       group(field: frontmatter___categories) {
         fieldValue
         totalCount
+        nodes {
+          fields {
+            slug
+          }
+        }
       }
     }
   }
