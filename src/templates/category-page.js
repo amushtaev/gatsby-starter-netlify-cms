@@ -109,7 +109,7 @@ CategoryPost.propTypes = {
 export default CategoryPost
 
 export const pageCatQuery = graphql`
-  query BlogCatPostBy {
+  query BlogCatPost {
   allMarkdownRemark {
     nodes {
       id

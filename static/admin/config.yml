@@ -12,6 +12,15 @@ media_folder: static/img
 public_folder: /img
 
 collections:
+  - name: "categories"
+    label: "Categories"
+    folder: "src/pages/category"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "category-page"}
+      - {label: "Category", name: "categories", widget: "list"}
+
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
@@ -19,7 +28,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Category", name: "categories", widget: "list"}
+      - {label: "Category", name: "categories", widget: "select", multiple: true, options: ["python", "go", "development"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
