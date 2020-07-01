@@ -7,8 +7,8 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogCatPostTemplate = ({
-  content,
   contentComponent,
+  content,
   description,
   title,
   helmet,
@@ -17,8 +17,13 @@ export const BlogCatPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
-      {helmet || ''}
+    <section className="section amushtaev">
+      <div className="container content">
+        <div className="columns">
+          {console.log(PostContent, "PostContent")}
+        </div>
+      </div>
+      {/*{helmet || ''}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -40,41 +45,56 @@ export const BlogCatPostTemplate = ({
             <PostContent content={content} />
           </div>
         </div>
-      </div>
+      </div>*/}
     </section>
   )
 };
 
 BlogCatPostTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
+  helmet: PropTypes.object,
+  /*content: PropTypes.node.isRequired,
+
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
-  categories:PropTypes.string,
+  categories:PropTypes.string,*/
 };
 
 const CategoryPost = ({ data }) => {
-  const { markdownRemark: post } = data;
-
+  const { allMarkdownRemark: posts } = data;
+  console.log(posts.nodes, "posts.nodes", posts.group)
   return (
     <Layout>
+      {posts.group.map((category) => (
+        console.log(category, "category")
+      ))}
       <BlogCatPostTemplate
-        content={post.html}
         contentComponent={HTMLContent}
-        description={post.frontmatter.description}
         helmet={
           <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
+            <title>{`${posts.nodes}`}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.description}`}
+              content={`${posts.nodes}`}
             />
           </Helmet>
         }
-        categories={post.frontmatter.categories}
-        tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
+        /*content={posts.html}
+
+        description={posts.nodes}
+        helmet={
+          <Helmet titleTemplate="%s | Blog">
+            <title>{`${posts.nodes}`}</title>
+            <meta
+              name="description"
+              content={`${posts.nodes}`}
+            />
+          </Helmet>
+        }
+        categories={posts.nodes}
+        tags={posts.nodes}
+        title={posts.nodes}*/
       />
     </Layout>
   )
@@ -82,23 +102,30 @@ const CategoryPost = ({ data }) => {
 
 CategoryPost.propTypes = {
   data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
+    allMarkdownRemark: PropTypes.object,
   }),
 };
 
 export default CategoryPost
 
 export const pageCatQuery = graphql`
-  query BlogCatPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      id
-      html
-      frontmatter {
-        date(formatString: "MMMM DD, YYYY")
-        title
-        categories
-        description
-        tags
+  query BlogCatPostBy {
+    allMarkdownRemark {
+      nodes {
+        id
+        frontmatter {
+          categories
+          description
+          date(formatString: "MMMM DD, YYYY")
+          title
+          templateKey
+          tags
+        }
+        html
+      }
+      group(field: frontmatter___categories){
+        fieldValue
+        totalCount
       }
     }
   }
