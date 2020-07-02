@@ -1,13 +1,12 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import {graphql, Link} from 'gatsby'
+import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 import NavRoll from './NavRoll';
 
 const Navbar = class extends React.Component {
   constructor(props) {
-    super(props);
+    super(props)
     this.state = {
       active: false,
       navBarActiveClass: '',
@@ -32,7 +31,7 @@ const Navbar = class extends React.Component {
             })
       }
     )
-  };
+  }
 
   render() {
     const { data } = this.props;
@@ -97,6 +96,6 @@ const Navbar = class extends React.Component {
       </nav>
     )
   }
-};
+}
 
 export default Navbar
