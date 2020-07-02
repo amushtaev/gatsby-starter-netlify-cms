@@ -12,13 +12,13 @@ class BlogRoll extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
+            <div className="is-parent column is-4" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''
                 }`}
               >
-                <header>
+                <header className="header article">
                   {post.frontmatter.featuredimage ? (
                     <div className="featured-thumbnail">
                       <PreviewCompatibleImage
@@ -29,13 +29,15 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  {post.frontmatter.categories && post.frontmatter.categories.length ? (
-                    <h3>Categories:
-                      {post.frontmatter.categories.map((category) => (
-                        <div>{category}</div>
-                      ))}
-                    </h3>
-                  ) : null}
+                </header>
+                {post.frontmatter.categories && post.frontmatter.categories.length ? (
+                  <h3>Categories:
+                    {post.frontmatter.categories.map((category) => (
+                      <div>{category}</div>
+                    ))}
+                  </h3>
+                ) : null}
+                <div className="short-news-container">
                   <p className="post-meta">
                     <Link
                       className="title has-text-primary is-size-4"
@@ -43,20 +45,16 @@ class BlogRoll extends React.Component {
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
+                  </p>
+                  <div className="articl-footer">
+                    <span className="date">
                       {post.frontmatter.date}
                     </span>
-                  </p>
-                </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
+                    <Link className="read-more" to={post.fields.slug}>
+                      →
+                    </Link>
+                  </div>
+                </div>
               </article>
             </div>
           ))}

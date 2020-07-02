@@ -2,17 +2,72 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
-$kaldi-red-invert: #fff
+$black-invert: #fff
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+//Softcube base schema
+
+$menu-fontsize: 20px
+$menu-line-height: 25px
+$sub-menu-color: rgba(255, 255, 255, 0.6)
+$sub-menu-fontsize: 16px
+$sub-menu-line-height: 20px
+$main-schem-color-back: #12122F
+
+$color-yellow: #FED300
+$color-white: #ffffff
+
+$primary: $black
+$primary-invert: $black-invert
 $body-color: #12122F
 $black: #212121
-$main-schem-color-back: #12122F
+
+body
+  background: $main-schem-color-back
+  font-family: Source Sans Pro
+
+ul
+  display: flex
+  align-items: flex-start
+  flex-wrap: nowrap
+  flex-direction: row
+
+.h1-title
+  color: $color-white!important
+  font-family: Source Sans Pro
+  font-style: normal
+  font-weight: 900
+  font-size: 52px
+  line-height: 65px
+  text-align: center
+  letter-spacing: 0.02em
+  text-transform: uppercase
+  margin-top: 128px
+
+.h2-subtitle
+  font-family: Source Sans Pro
+  font-style: normal
+  font-weight: bold
+  font-size: 20px
+  line-height: 25px
+  text-align: center
+  letter-spacing: 0.02em
+  color: rgba(255, 255, 255, 0.84)
+  margin-top: 5px
+
+.subNav
+  margin-top: 112px
+
+.color--yellow
+  color: $color-yellow !important
+
+.navbar
+  background: transparent!important
 
 .navbar .navbar-menu
   box-shadow:none !important
+
+.navbar-item.white
+  color: $color-white
 
 .content .taglist
   list-style: none
@@ -69,12 +124,80 @@ $main-schem-color-back: #12122F
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
+//Softcube base class
+
+.column.is-4
+  padding: 20px !important
+
 .margin-top-0
   margin-top: 0 !important
 
+.blog-list-item
+  height: 370px !important
+  overflow: hidden !important
+
+.header.article
+  display: block
+
+.container
+  padding: 0 115px
+
 .navbar-item .icon
   color: $primary
+
+.blog-list-item .featured-thumbnail
+  flex-basis: 100% !important
+  margin: 0 !important
+  display: block !important
+  height: 170px !important
+  overflow: hidden !important
+
+.short-news-container
+  padding: 14px
+  position: relative
+  height: 170px
+
+.read-more
+  text-decoration: none !important
+  font-size: 2em
+  line-height: 0.7em
+  text-align: right
+
+.title.has-text-primary
+  text-decoration: none !important
+  font-family: Source Sans Pro
+  font-style: normal
+  font-weight: bold
+  font-size: 24px
+  line-height: 30px
+
+.articl-footer
+  position: absolute
+  bottom: 0
+  display: grid
+  grid-template-columns: 228px 80px
+
+.date
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  color: rgba(33, 33, 33, 0.54);
+
 // Override for use of svg's from https://simpleicons.org/
+
+.blog-list-item.is-featured
+  background: #fff !important
+
+.notification
+  border-radius: 0 !important
+  background-color: $color-white !important
+  padding: 0 !important
+
 .icon svg
   width: 1.5rem
   height: 1.5rem
@@ -85,15 +208,25 @@ footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
 
+.navbar-item img.logo
+  max-height: 100%!important
+  position: fixed
+  left: 72px
+  top: 12px
+  width: 54px
+
 //Menu overrides
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $black-invert
+$menu-item-active-background-color:	$black-invert
+$menu-list-border-left: 1px solid $black-invert
 $menu-label-color: $white-ter
 
+.container.header
+  max-width: 100%
+  padding: 0 72px 0 200px
 
 .menu-label
   font-size: 1em !important
@@ -113,15 +246,36 @@ $menu-label-color: $white-ter
     vertical-align: middle
     display: inline
 
+.sub-nav
+  font-family: Source Sans Pro
+  font-style: normal
+  font-weight: normal
+  font-size: 16px
+  line-height: 20px
+  display: flex
+  align-items: center
+  text-align: center
+  color: rgba(255, 255, 255, 0.6)
+
+.section-sub-nav
+  display: flex
+  flex-direction: row
+  width: fit-content
+  margin: auto
+
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: #d6400033
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
+
+@media screen and (min-width: 1024px)
+  .navbar
+    min-height: 4.25rem !important
 
 
 @import "~bulma"
