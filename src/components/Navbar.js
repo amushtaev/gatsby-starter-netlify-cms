@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import {graphql, Link} from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
+import NavRoll from './NavRoll';
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -34,6 +35,7 @@ const Navbar = class extends React.Component {
   };
 
   render() {
+    const { data } = this.props;
     return (
       <nav
         className="navbar is-transparent"
@@ -76,6 +78,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact/examples">
                 Form Examples
               </Link>
+              <NavRoll data={data} />
             </div>
             <div className="navbar-end has-text-centered">
               <a
@@ -97,35 +100,3 @@ const Navbar = class extends React.Component {
 };
 
 export default Navbar
-
-//TODO
-/*export const NavCategory = ({ data }) => {
-  const {allMarkdownRemark: posts} = data;
-  console.log(posts, "data NavCategory")
-  return (
-    <h3>link</h3>
-  )
-};
-
-NavCategory.PropTypes = {
-  fieldValue: PropTypes.string,
-  totalCount: PropTypes.number,
-};*/
-
-/*export const NavCategory = ({ data: {
-  allMarkdownRemark: { group },
-} }) => (
-  console.log(group, "data NavCategory")
-);*/
-
-
-export const navCatQuery = graphql`
-query NavCatLink {
-  allMarkdownRemark {
-    group(field: frontmatter___categories) {
-      fieldValue
-      totalCount
-    }
-  }
-}
-`;
