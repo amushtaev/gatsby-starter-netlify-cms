@@ -15,7 +15,7 @@ collections:
   - name: "categories_template"
     label: "Categories_template"
     identifier_field: slug
-    folder: "src/pages/category/"
+    folder: "src/pages/category"
     create: true
     fields:
       - {label: "Category_template", name: "category_name", widget: "select", multiple: true, options: ["Python", "Go", "Development"]}
