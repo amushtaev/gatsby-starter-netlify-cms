@@ -75,14 +75,11 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object,
   categories: PropTypes.array,
   id: PropTypes.string,
-  image: PropTypes.object,
+  image: PropTypes.string,
 };
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-  const { image } = post.frontmatter.image ? post.frontmatter.image.publicURL : "";
-  //TODO
-  console.log(image, "post.frontmatter.image", data)
 
   return (
     <Layout>
@@ -103,7 +100,9 @@ const BlogPost = ({ data }) => {
         categories={post.frontmatter.categories}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
-        image={post.frontmatter.image}
+        image={post.frontmatter.image ?
+          post.frontmatter.image.publicURL : null
+        }
       />
     </Layout>
   )
