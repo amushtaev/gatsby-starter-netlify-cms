@@ -103,7 +103,7 @@ const BlogPost = ({ data }) => {
         categories={post.frontmatter.categories}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
-        image={image}
+        image={post.frontmatter.image}
       />
     </Layout>
   )

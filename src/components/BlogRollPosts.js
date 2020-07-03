@@ -100,6 +100,9 @@ export default () => (
                     }
                   }
                 }
+                image {
+                  publicURL
+                }
               }
             }
           }
