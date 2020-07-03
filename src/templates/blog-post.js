@@ -34,7 +34,11 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container white s__width">
         <div className="columns">
-          <div className="column is-10 is-offset-1">
+          <div className="column post_column">
+            <img className="post_image" src={image} />
+            <h1 className="title post_title">
+              {title}
+            </h1>
             {categories && categories.length ? (
             <h3>Categories:
               {categories.map((category) => (
@@ -42,10 +46,6 @@ export const BlogPostTemplate = ({
               ))}
             </h3>
           ) : null}
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <img src={image} />
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
