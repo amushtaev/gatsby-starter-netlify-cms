@@ -25,7 +25,7 @@ collections:
     label: "Blog"
     folder: "src/pages/blog"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Category", name: "categories", widget: "select", multiple: true, options: ["Python", "Go", "Development", "Instagram Ads"]}
