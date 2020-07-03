@@ -31,14 +31,6 @@ class BlogRollPosts extends React.Component {
                     </div>
                   ) : null}
                 </header>
-                {post.frontmatter.categories && post.frontmatter.categories.length ? (
-                  <h3>Categories:
-                    {post.frontmatter.categories.map((category) => {
-                      console.log('test');
-                      return <div>{category}</div>
-                    })}
-                  </h3>
-                ) : null}
                 <div className="short-news-container">
                   <p className="post-meta">
                     <Link
@@ -58,7 +50,11 @@ class BlogRollPosts extends React.Component {
                   </div>
                 </div>
                 <div className="catecory_background">
-                  <>category</>
+                  {post.frontmatter.categories && post.frontmatter.categories.length ? (
+                    <>
+                      {post.frontmatter.categories.map((category) => (category))}
+                    </>
+                  ) : null}
                 </div>
               </article>
             </div>
@@ -93,6 +89,7 @@ export default () => (
               }
               frontmatter {
                 title
+                categories
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
