@@ -166,23 +166,35 @@ ul
   text-align: right
 
 [aria-current]
-  border-bottom: 4px solid #FFFFFF !important
+  border-bottom: 4px solid $color-white !important
   font-weight: 900 !important
   color: $color-white !important
 
-.sub-nav a.white
+.sub-nav .navbar-item.white,
+.navbar-item.color--yellow
+  background: transparent !important
 
 a.white:hover
   opacity: 0.8
   margin-top: 4px
   color: $color-white !important
-  border-bottom: 4px solid #FFFFFF !important
+  border-bottom: 4px solid $color-white !important
 
-.sub-nav a.white:hover
+.sub-nav .navbar-item.white:hover
   opacity: 0.8
-  margin-top: 4px
   color: $color-white !important
-  border-bottom: 4px solid #FFFFFF !important
+  margin-top: 4px
+  border-bottom: 4px solid $color-white !important
+  background: transparent !important
+  padding: 0 12px
+
+.navbar-item.color--yellow:hover
+  opacity: 0.8
+  color: $color-yellow !important
+  margin-top: 4px
+  border-bottom: 4px solid $color-yellow !important
+  background: transparent !important
+  padding: 0 12px
 
 .title.has-text-primary
   text-decoration: none !important
@@ -312,8 +324,9 @@ $menu-label-color: $white-ter
   .navbar
     min-height: 4.25rem !important
 
-container.white.s__width
+.container.white.s__width
   max-width: 1076px
+  margin-top: 96px
 
 
 @import "~bulma"
