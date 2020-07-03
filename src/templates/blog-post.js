@@ -15,11 +15,12 @@ export const BlogPostTemplate = ({
   title,
   helmet,
   categories,
+  id,
 }) => {
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section Blog-Post">
+    <section className="section Blog-Post" id={id}>
       <div
         className="index Blog"
       >
@@ -71,6 +72,7 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   helmet: PropTypes.object,
   categories: PropTypes.array,
+  id: PropTypes.string,
 };
 
 const BlogPost = ({ data }) => {
@@ -80,6 +82,7 @@ const BlogPost = ({ data }) => {
     <Layout>
       <BlogPostTemplate
         content={post.html}
+        id={post.id}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
