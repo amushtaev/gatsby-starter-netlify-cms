@@ -16,7 +16,8 @@ export const BlogPostTemplate = ({
   helmet,
   categories,
   id,
-  image
+  image,
+  date,
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -36,16 +37,19 @@ export const BlogPostTemplate = ({
         <div className="columns">
           <div className="column post_column">
             <img className="post_image" src={image} />
+            <div style={{paddingTop: "8px"}}>
+              {categories && categories.length ? (
+              <>
+                {categories.map((category) => (
+                  <span className="post_category" style={{display: "inline-flex"}} key={category + `category`}>{category}</span>
+                ))}
+              </>
+            ) : null}
+              <span className="date" style={{display: "inline-flex"}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
+            </div>
             <h1 className="title post_title">
               {title}
             </h1>
-            {categories && categories.length ? (
-            <h3>Categories:
-              {categories.map((category) => (
-                <div key={category + `category`}>{category}</div>
-              ))}
-            </h3>
-          ) : null}
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -76,6 +80,7 @@ BlogPostTemplate.propTypes = {
   categories: PropTypes.array,
   id: PropTypes.string,
   image: PropTypes.string,
+  date: PropTypes.string,
 };
 
 const BlogPost = ({ data }) => {
@@ -103,6 +108,7 @@ const BlogPost = ({ data }) => {
         image={post.frontmatter.image ?
           post.frontmatter.image.publicURL : null
         }
+        date={post.frontmatter.date}
       />
     </Layout>
   )
