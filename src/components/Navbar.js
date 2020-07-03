@@ -5,7 +5,7 @@ import logo from '../img/logo.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       active: false,
       navBarActiveClass: '',
@@ -30,7 +30,7 @@ const Navbar = class extends React.Component {
             })
       }
     )
-  }
+  };
 
   render() {
     return (
@@ -60,21 +60,21 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item white" to="/industries">
+              <Link onClick={() => this.toggleHamburger()} className="navbar-item white" to="/industries">
                 Industries
               </Link>
-              <Link className="navbar-item white" to="/pricing">
+              <Link onClick={() => this.toggleHamburger()} className="navbar-item white" to="/pricing">
                 Pricing
               </Link>
-              <Link className="navbar-item white" to="/blog">
+              <Link onClick={() => this.toggleHamburger()} className="navbar-item white" to="/blog">
                 Blog
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item white" to="/contact">
+              <Link onClick={() => this.toggleHamburger()} className="navbar-item white" to="https://app.softcube.com">
                 Sign In
               </Link>
-              <Link className="navbar-item color--yellow" to="/contact/examples">
+              <Link className="navbar-item color--yellow" to="https://app.softcube.com">
                 Sign Up
               </Link>
             </div>
