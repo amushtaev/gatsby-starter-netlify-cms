@@ -25,7 +25,7 @@ const CategoriesPage = ({data: {
             <ul className="categorylist">
               {group.map((category) => (
                 <li key={category.fieldValue}>
-                  <Link to={`/tags/${kebabCase(category.fieldValue)}/`}>
+                  <Link to={`/category/${kebabCase(category.fieldValue)}/`}>
                     {category.fieldValue} ({category.totalCount})
                   </Link>
                 </li>

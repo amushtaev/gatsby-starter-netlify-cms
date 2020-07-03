@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from '../../components/Layout'
+import LayoutBlog from '../../components/LayoutBlog'
 import BlogRoll from '../../components/BlogRoll'
 import NavRoll from "../../components/NavRoll";
 
@@ -8,7 +8,7 @@ export default class BlogIndexPage extends React.Component {
     const { data } = this.props;
 
     return (
-      <Layout>
+      <LayoutBlog>
         <div
           className=""
         >
@@ -27,7 +27,7 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
         </section>
-      </Layout>
+      </LayoutBlog>
     )
   }
 }

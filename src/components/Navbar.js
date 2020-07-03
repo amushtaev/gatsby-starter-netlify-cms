@@ -14,6 +14,8 @@ const Navbar = class extends React.Component {
 
   toggleHamburger = () => {
     // toggle the active boolean in the state
+    //TODO
+    console.log("this.state", this.state)
     this.setState(
       {
         active: !this.state.active,
@@ -60,18 +62,18 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link onClick={() => this.toggleHamburger()} className="navbar-item white" to="/industries">
+              <Link className="navbar-item white" to="/industries">
                 Industries
               </Link>
-              <Link onClick={() => this.toggleHamburger()} className="navbar-item white" to="/pricing">
+              <Link className="navbar-item white" to="/pricing">
                 Pricing
               </Link>
-              <Link onClick={() => this.toggleHamburger()} className="navbar-item white" to="/blog">
+              <Link className="navbar-item white" to="/blog">
                 Blog
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <Link onClick={() => this.toggleHamburger()} className="navbar-item white" to="https://app.softcube.com">
+              <Link className="navbar-item white" to="https://app.softcube.com">
                 Sign In
               </Link>
               <Link className="navbar-item color--yellow" to="https://app.softcube.com">

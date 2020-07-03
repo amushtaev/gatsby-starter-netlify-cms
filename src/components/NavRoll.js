@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import {graphql, Link, StaticQuery} from 'gatsby'
 
 class NavRoll extends React.Component {
+
   render() {
     const { data } = this.props;
 
@@ -12,9 +13,12 @@ class NavRoll extends React.Component {
           <li className="sub-nav">
             <a className="navbar-item color--yellow" href="/blog">See all</a>
           </li>
-          {data.allMarkdownRemark.group.map((cat) => (
+          {data.allMarkdownRemark.catNames.map((cat, index) => (
             <li className="sub-nav" key={cat.fieldValue}>
-              <Link className="navbar-item white" to="category/">{cat.fieldValue}</Link>
+              {data.allMarkdownRemark.catValues.map((slug, slugindex) =>
+                index === slugindex ?
+                  <Link className="navbar-item white" href={`category/${slug.fieldValue}`}>{cat.fieldValue}</Link> : null
+              )}
             </li>
           ))}
         </ul>
@@ -29,16 +33,30 @@ NavRoll.propTypes = {
       edges: PropTypes.array,
     }),
   }),
-}
+};
 
 export default () => (
   <StaticQuery
     query={graphql`
       query NavCatLink {
         allMarkdownRemark {
-          group(field: frontmatter___categories) {
+          catNames: group(field: frontmatter___categories) {
             fieldValue
             totalCount
+            nodes {
+              fields {
+                slug
+              }
+            }
+          }
+          catValues: group(field: frontmatter___categories_slug) {
+            fieldValue
+            totalCount
+            nodes {
+              fields {
+                slug
+              }
+            }
           }
         }
       }

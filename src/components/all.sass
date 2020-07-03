@@ -66,9 +66,6 @@ ul
 .navbar .navbar-menu
   box-shadow:none !important
 
-.navbar-item.white
-  color: $color-white
-
 .content .taglist
   list-style: none
   margin-bottom: 0
@@ -126,6 +123,10 @@ ul
 
 //Softcube base class
 
+.navbar-item.white
+  color: $color-white !important
+  margin: 0 32px
+
 .column.is-4
   padding: 20px !important
 
@@ -163,19 +164,24 @@ ul
   line-height: 0.7em
   text-align: right
 
-.is-active
-  border-bottom: 4px !important
-  font-weight: 600 !important
+[aria-current]
+  border-bottom: 4px solid #FFFFFF !important
+  font-weight: 900 !important
   color: $color-white !important
 
-a[aria-current]
-  border-bottom: 4px !important
-  font-weight: 600 !important
-  color: $color-white !important
+.sub-nav a.white
 
-a:hover
-  font-weight: 600 !important
+a.white:hover
   opacity: 0.8
+  margin-top: 4px
+  color: $color-white !important
+  border-bottom: 4px solid #FFFFFF !important
+
+.sub-nav a.white:hover
+  opacity: 0.8
+  margin-top: 4px
+  color: $color-white !important
+  border-bottom: 4px solid #FFFFFF !important
 
 .title.has-text-primary
   text-decoration: none !important
