@@ -41,11 +41,11 @@ export const BlogPostTemplate = ({
               {categories && categories.length ? (
               <>
                 {categories.map((category) => (
-                  <span className="post_category" style={{display: "inline-flex"}} key={category + `category`}>{category}</span>
+                  <span className="post_category" style={{display: `inline-flex`}} key={category + `category`}>{category}</span>
                 ))}
               </>
             ) : null}
-              <span className="date" style={{display: "inline-flex"}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
+              <span className="date" style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
             </div>
             <h1 className="title post_title">
               {title}
