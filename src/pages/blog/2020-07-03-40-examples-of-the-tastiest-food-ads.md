@@ -13,6 +13,7 @@ description: >-
   Watching a video on YouTube, Instagram, or any other platform during a lunch break can seem more tempting than having a conversation with a colleague or sitting in silence.
 featuredpost: true
 featuredimage: /img/food-ads-featured-image.jpg
+image: /img/food-ads-featured-image.jpg
 tags:
   - Snickers
 ---
