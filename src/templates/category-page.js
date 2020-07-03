@@ -63,7 +63,7 @@ BlogCatPostTemplate.propTypes = {
 
 const CategoryPost = ({ data }) => {
   const { allMarkdownRemark: posts } = data;
-  console.log(posts.nodes, "posts.nodes", posts.group)
+
   return (
     <Layout>
       {posts.group.map((category) => (
@@ -110,40 +110,40 @@ export default CategoryPost
 
 export const pageCatQuery = graphql`
   query BlogCatPost {
-  allMarkdownRemark {
-    nodes {
-      id
-      frontmatter {
-        categories
-        description
-        date(formatString: "MMMM DD, YYYY")
-        title
-        templateKey
-        tags
-      }
-      html
-    }
-    group(field: frontmatter___categories) {
-      fieldValue
-      totalCount
+    allMarkdownRemark {
       nodes {
-        fields {
-          slug
+        id
+        frontmatter {
+          categories
+          description
+          date(formatString: "MMMM DD, YYYY")
+          title
+          templateKey
+          tags
+        }
+        html
+      }
+      group(field: frontmatter___categories) {
+        fieldValue
+        totalCount
+        nodes {
+          fields {
+            slug
+          }
         }
       }
-    }
-    edges {
-      next {
-        fields {
-          slug
+      edges {
+        next {
+          fields {
+            slug
+          }
         }
-      }
-      previous {
-        fields {
-          slug
+        previous {
+          fields {
+            slug
+          }
         }
       }
     }
   }
-}
 `;

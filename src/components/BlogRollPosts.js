@@ -3,13 +3,14 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-class BlogRoll extends React.Component {
+class BlogRollPosts extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
+    let categoryPost = "";
 
     return (
-      <div className="columns is-multiline BlogRoll">
+      <div className="columns is-multiline BlogRollPosts">
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
@@ -32,9 +33,10 @@ class BlogRoll extends React.Component {
                 </header>
                 {post.frontmatter.categories && post.frontmatter.categories.length ? (
                   <h3>Categories:
-                    {post.frontmatter.categories.map((category) => (
-                      <div>{category}</div>
-                    ))}
+                    {post.frontmatter.categories.map((category) => {
+                      console.log('test');
+                      return <div>{category}</div>
+                    })}
                   </h3>
                 ) : null}
                 <div className="short-news-container">
@@ -55,6 +57,9 @@ class BlogRoll extends React.Component {
                     </Link>
                   </div>
                 </div>
+                <div className="catecory_background">
+                  <div>{this.category}</div>
+                </div>
               </article>
             </div>
           ))}
@@ -63,7 +68,7 @@ class BlogRoll extends React.Component {
   }
 }
 
-BlogRoll.propTypes = {
+BlogRollPosts.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -74,7 +79,7 @@ BlogRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query BlogRollQuery {
+      query BlogRollPostsQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
@@ -104,6 +109,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
+    render={(data, count) => <BlogRollPosts data={data} count={count} />}
   />
 )

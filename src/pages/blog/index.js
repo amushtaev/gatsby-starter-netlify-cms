@@ -1,6 +1,6 @@
 import React from 'react'
 import LayoutBlog from '../../components/LayoutBlog'
-import BlogRoll from '../../components/BlogRoll'
+import BlogRollPosts from '../../components/BlogRollPosts'
 import NavRoll from "../../components/NavRoll";
 
 export default class BlogIndexPage extends React.Component {
@@ -10,7 +10,7 @@ export default class BlogIndexPage extends React.Component {
     return (
       <LayoutBlog>
         <div
-          className=""
+          className="index Blog"
         >
           <h1 className="h1-title" >
             SOFTCUBE BLOG
@@ -20,10 +20,10 @@ export default class BlogIndexPage extends React.Component {
         <section>
           <NavRoll data={data} />
         </section>
-        <section className="section">
+        <section className="section index Posts">
           <div className="container">
             <div className="content">
-              <BlogRoll />
+              <BlogRollPosts />
             </div>
           </div>
         </section>

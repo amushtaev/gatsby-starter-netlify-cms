@@ -136,6 +136,7 @@ ul
 .blog-list-item
   height: 370px !important
   overflow: hidden !important
+  position: relative
 
 .header.article
   display: block
@@ -210,7 +211,7 @@ a.white:hover
 
 // Override for use of svg's from https://simpleicons.org/
 
-.blog-list-item.is-featured
+.blog-list-item.is-featured, .container.white
   background: #fff !important
 
 .notification
@@ -293,9 +294,22 @@ $menu-label-color: $white-ter
   flex-basis: 35%
   margin: 0 1.5em 0 0
 
+.catecory_background
+  background: rgba(0, 0, 0, 0.72)
+  width: fit-content
+  height: 34px
+  display: flex
+  position: absolute
+  top: 0
+  left: 0
+  padding: 8px 12px
+
 @media screen and (min-width: 1024px)
   .navbar
     min-height: 4.25rem !important
+
+container.white.s__width
+  max-width: 1076px
 
 
 @import "~bulma"

@@ -13,7 +13,7 @@ const CategoriesPage = ({data: {
 }) => (
 
   <Layout>
-    <section className="section">
+    <section className="section CategoriesPage">
       <Helmet title={`Categories | ${title}`} />
       <div className="container content">
         <div className="columns">

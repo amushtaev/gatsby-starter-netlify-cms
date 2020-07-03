@@ -5,6 +5,7 @@ import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import NavRoll from "../components/NavRoll";
 
 export const BlogPostTemplate = ({
   content,
@@ -18,9 +19,18 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
+    <section className="section Blog-Post">
+      <div
+        className="index Blog"
+      >
+        <h1 className="h1-title" >
+          SOFTCUBE BLOG
+        </h1>
+        <h2 className="h2-subtitle">News, guides, and updates on Google and Facebook marketing</h2>
+      </div>
+      <NavRoll />
       {helmet || ''}
-      <div className="container content">
+      <div className="container white s__width">
         <div className="columns">
           <div className="column is-10 is-offset-1">
             {categories && categories.length ? (
