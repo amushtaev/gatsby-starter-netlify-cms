@@ -58,7 +58,7 @@ class BlogRollPosts extends React.Component {
                   </div>
                 </div>
                 <div className="catecory_background">
-                  <div>{this.category}</div>
+                  <>category</>
                 </div>
               </article>
             </div>
