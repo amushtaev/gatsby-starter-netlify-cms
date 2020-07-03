@@ -16,6 +16,7 @@ export const BlogPostTemplate = ({
   helmet,
   categories,
   id,
+  image
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -44,6 +45,7 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <img src={image} />
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -73,10 +75,14 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object,
   categories: PropTypes.array,
   id: PropTypes.string,
+  image: PropTypes.string,
 };
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
+  const { image } = post.frontmatter.image ? post.frontmatter.image.publicURL : "";
+  //TODO
+  console.log(image, "post.frontmatter.image", post.frontmatter.image)
 
   return (
     <Layout>
@@ -97,6 +103,7 @@ const BlogPost = ({ data }) => {
         categories={post.frontmatter.categories}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        image={image}
       />
     </Layout>
   )
@@ -121,6 +128,9 @@ export const pageQuery = graphql`
         categories
         description
         tags
+        image {
+          publicURL
+        }
       }
     }
   }
