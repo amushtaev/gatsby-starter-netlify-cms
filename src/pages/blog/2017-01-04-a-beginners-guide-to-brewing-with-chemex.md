@@ -11,6 +11,7 @@ description: Brewing with a Chemex probably seems like a complicated,
   soothing ritual that's worth the effort every time.
 featuredpost: false
 featuredimage: /img/chemex.jpg
+image: /img/jumbotron.jpg
 tags:
   - brewing
   - chemex
