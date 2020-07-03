@@ -75,14 +75,14 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object,
   categories: PropTypes.array,
   id: PropTypes.string,
-  image: PropTypes.string,
+  image: PropTypes.object,
 };
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
   const { image } = post.frontmatter.image ? post.frontmatter.image.publicURL : "";
   //TODO
-  console.log(image, "post.frontmatter.image", post.frontmatter.image)
+  console.log(image, "post.frontmatter.image", data)
 
   return (
     <Layout>
