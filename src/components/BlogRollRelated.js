@@ -30,7 +30,7 @@ class BlogRollRelated extends React.Component {
                     </div>
                   ) : null}
                 </header>
-                <div className="short-news-container">
+                <div className="short-news-container_related">
                   <p className="post-meta">
                     <Link
                       className="title_related"
@@ -39,11 +39,11 @@ class BlogRollRelated extends React.Component {
                       {post.frontmatter.title}
                     </Link>
                   </p>
-                  <div className="articl-footer">
-                    <span className="date">
+                  <div className="articl-footer_related">
+                    <span className="date white">
                       {post.frontmatter.date}
                     </span>
-                    <Link className="read-more" to={post.fields.slug}>
+                    <Link className="read-more" to={post.fields.slug} style={{color: `#fff`}}>
                       →
                     </Link>
                   </div>
