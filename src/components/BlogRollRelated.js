@@ -33,7 +33,7 @@ class BlogRollRelated extends React.Component {
                 <div className="short-news-container">
                   <p className="post-meta">
                     <Link
-                      className="title has-text-primary is-size-4"
+                      className="title_related"
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
