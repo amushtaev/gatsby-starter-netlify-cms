@@ -10,6 +10,7 @@ import facebook from "../img/social/facebook.svg";
 import twitter from "../img/social/twitter.svg";
 import linkedin from "../img/social/linkedin.svg";
 import gplus from "../img/social/gplus.svg";
+import BlogRollRelated from "../components/BlogRollRelated";
 
 export const BlogPostTemplate = ({
   content,
@@ -68,6 +69,17 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+            <div className="column">
+              <h3 className="has-text-weight-semibold is-size-2">
+                Latest stories
+              </h3>
+              <BlogRollRelated />
+              <div className="column is-12 has-text-centered">
+                <Link className="btn" to="/blog">
+                  Read more
+                </Link>
+              </div>
+            </div>
           </div>
           <div className="column social" style={{
             width: `48px`,
