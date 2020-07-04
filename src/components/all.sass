@@ -251,6 +251,7 @@ a.white:hover
   font-size: 16px
   line-height: 20px
   color: #FFFFFF !important
+  text-decoration: none !important
 
 .notification
   border-radius: 0 !important
@@ -268,11 +269,18 @@ footer.footer
   background-color: transparent
 
 .navbar-item img.logo
-  max-height: 100%!important
-  position: fixed
-  left: 72px
-  top: 12px
+  max-height: 100% !important
+  /* position: fixed */
+  /* left: 72px */
+  /* top: 12px */
   width: 54px
+.navbar-item.logo
+  max-height: 100% !important
+  position: absolute !important
+  left: 72px !important
+  top: 12px !important
+  width: 54px !important
+  padding: 0 !important
 
 .title.post_title
   font-family: Source Sans Pro
@@ -285,6 +293,7 @@ footer.footer
   text-transform: uppercase
   color: #212121
   padding-top: 26px
+  text-decoration: none
 
 .column.post_column
   max-width: 740px
@@ -326,7 +335,7 @@ footer.footer
   position: absolute
   bottom: 0
   display: grid
-  grid-template-columns: 103px 80px
+  grid-template-columns: 115px 60px
 
 .social a
   background: transparent !important
