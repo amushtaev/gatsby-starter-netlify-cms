@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
+import PreviewCompatibleImageRelated from './PreviewCompatibleImageRelated'
 
 class BlogRollRelated extends React.Component {
   render() {
@@ -21,7 +21,7 @@ class BlogRollRelated extends React.Component {
                 <header className="header article BlogRollRelated">
                   {post.frontmatter.featuredimage ? (
                     <div className="image_related">
-                      <PreviewCompatibleImage
+                      <PreviewCompatibleImageRelated
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
                           alt: `featured image thumbnail for post ${post.frontmatter.title}`,
