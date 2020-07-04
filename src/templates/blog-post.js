@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
+import LayoutBlog from '../components/LayoutBlog'
 import Content, { HTMLContent } from '../components/Content'
 import NavRoll from "../components/NavRoll";
 import facebook from "../img/social/facebook.svg";
@@ -126,7 +126,7 @@ const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <LayoutBlog>
       <BlogPostTemplate
         content={post.html}
         id={post.id}
@@ -149,7 +149,7 @@ const BlogPost = ({ data }) => {
         }
         date={post.frontmatter.date}
       />
-    </Layout>
+    </LayoutBlog>
   )
 };
 
