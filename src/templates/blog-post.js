@@ -8,8 +8,6 @@ import Content, { HTMLContent } from '../components/Content'
 import NavRoll from "../components/NavRoll";
 import facebook from "../img/social/facebook.svg";
 import twitter from "../img/social/twitter.svg";
-import instagram from "../img/social/instagram.svg";
-import vimeo from "../img/social/vimeo.svg";
 import linkedin from "../img/social/linkedin.svg";
 import gplus from "../img/social/gplus.svg";
 
