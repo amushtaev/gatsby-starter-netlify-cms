@@ -7,7 +7,6 @@ class BlogRollRelated extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
-    let categoryPost = "";
 
     return (
       <div className="columns is-multiline BlogRollPosts">
@@ -15,13 +14,13 @@ class BlogRollRelated extends React.Component {
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
               <article
-                className={`blog-list-item tile is-child box notification ${
+                className={`blog-list-item tile is-child box notification with_background ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''
                 }`}
               >
-                <header className="header article BlogRoll">
+                <header className="header article BlogRollRelated">
                   {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
+                    <div className="image_related">
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
@@ -48,13 +47,6 @@ class BlogRollRelated extends React.Component {
                       →
                     </Link>
                   </div>
-                </div>
-                <div className="catecory_background">
-                  {post.frontmatter.categories && post.frontmatter.categories.length ? (
-                    <>
-                      {post.frontmatter.categories.map((category) => (category))}
-                    </>
-                  ) : null}
                 </div>
               </article>
             </div>

@@ -69,16 +69,11 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
-            <div className="column">
-              <h3 className="has-text-weight-semibold is-size-2">
-                Latest stories
+            <div className="column" style={{marginTop: `60px`}}>
+              <h3 className="post_related">
+                you may also like
               </h3>
               <BlogRollRelated />
-              <div className="column is-12 has-text-centered">
-                <Link className="btn" to="/blog">
-                  Read more
-                </Link>
-              </div>
             </div>
           </div>
           <div className="column social" style={{
