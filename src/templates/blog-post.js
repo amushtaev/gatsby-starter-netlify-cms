@@ -10,6 +10,8 @@ import facebook from "../img/social/facebook.svg";
 import twitter from "../img/social/twitter.svg";
 import instagram from "../img/social/instagram.svg";
 import vimeo from "../img/social/vimeo.svg";
+import linkedin from "../img/social/linkedin.svg";
+import gplus from "../img/social/gplus.svg";
 
 export const BlogPostTemplate = ({
   content,
@@ -37,7 +39,7 @@ export const BlogPostTemplate = ({
       </div>
       <NavRoll />
       {helmet || ''}
-      <div className="container white s__width">
+      <div className="container white s__width" style={{position: `relative`}}>
         <div className="columns">
           <div className="column post_column">
             <img className="post_image" src={image} />
@@ -69,12 +71,19 @@ export const BlogPostTemplate = ({
               </div>
             ) : null}
           </div>
-          <div className="column is-4 social">
+          <div className="column social" style={{
+            width: `48px`,
+            display: `flex`,
+            flexDirection: `column`,
+            position: `absolute`,
+            top: `32px`,
+            right: `60px`
+
+          }}>
             <a title="facebook" href="https://facebook.com">
               <img
                 src={facebook}
                 alt="Facebook"
-                style={{ width: '1em', height: '1em' }}
               />
             </a>
             <a title="twitter" href="https://twitter.com">
@@ -82,21 +91,18 @@ export const BlogPostTemplate = ({
                 className="fas fa-lg"
                 src={twitter}
                 alt="Twitter"
-                style={{ width: '1em', height: '1em' }}
               />
             </a>
-            <a title="instagram" href="https://instagram.com">
+            <a title="instagram" href="https://linkedin.com">
               <img
-                src={instagram}
-                alt="Instagram"
-                style={{ width: '1em', height: '1em' }}
+                src={linkedin}
+                alt="linkedin"
               />
             </a>
-            <a title="vimeo" href="https://vimeo.com">
+            <a title="vimeo" href="https://gplus.com">
               <img
-                src={vimeo}
-                alt="Vimeo"
-                style={{ width: '1em', height: '1em' }}
+                src={gplus}
+                alt="gplus"
               />
             </a>
           </div>
