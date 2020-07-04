@@ -9,7 +9,7 @@ class BlogRollRelated extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <div className="columns is-multiline BlogRollPosts">
+      <div className="columns is-multiline BlogRollPosts" style={{marginTop: `10px`}}>
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
