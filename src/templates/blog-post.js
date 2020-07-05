@@ -75,7 +75,7 @@ export const BlogPostTemplate = ({
               <h3 className="post_related">
                 you may also like
               </h3>
-              <BlogRollRelated categoriesRelated={categories}/>
+              <BlogRollRelated categories={categories}/>
             </div>
           </div>
           <div className="column social" style={{

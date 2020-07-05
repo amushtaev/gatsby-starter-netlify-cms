@@ -6,10 +6,10 @@ import PreviewCompatibleImageRelated from './PreviewCompatibleImageRelated'
 class BlogRollRelated extends React.Component {
 
   render() {
-    const { data, count, categoriesRelated} = this.props;
+    const { data, categories} = this.props;
     const { edges: posts } = data.allMarkdownRemark;
     //TODO
-    console.log(posts, "posts BlogRollRelated",  categoriesRelated, count)
+    console.log(posts, "posts BlogRollRelated",  categories.categories[0])
     return (
       <div className="columns is-multiline BlogRollPosts" style={{marginTop: `10px`}}>
         {posts &&
@@ -64,10 +64,10 @@ BlogRollRelated.propTypes = {
       edges: PropTypes.array,
     }),
   }),
-  categoriesRelated: PropTypes.array
+  categories: PropTypes.object
 };
 
-export default () => (
+export default (categories) => (
   <StaticQuery
     query={graphql`
       query BlogRollRelatedQuery {
@@ -104,6 +104,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRollRelated data={data} count={1} />}
+    render={(data, count) => <BlogRollRelated data={data} count={count} categories={categories} />}
   />
 )
