@@ -17,7 +17,7 @@ class NavRoll extends React.Component {
             <li className="sub-nav" key={cat.fieldValue}>
               {data.allMarkdownRemark.catValues.map((slug, slugindex) =>
                 index === slugindex ?
-                  <Link key={slug} className="navbar-item white" to="" href={`category/${slug.fieldValue}`}>{cat.fieldValue}</Link> : null
+                  <a key={slug} className="navbar-item white" href={`category/${slug.fieldValue}`}>{cat.fieldValue}</a> : null
               )}
             </li>
           ))}

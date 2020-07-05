@@ -25,6 +25,8 @@ export const BlogPostTemplate = ({
   date,
 }) => {
   const PostContent = contentComponent || Content;
+  //TODO
+  console.log(id, categories, "id BlogPostTemplate")
 
   return (
     <section className="section Blog-Post" id={id}>
@@ -73,7 +75,7 @@ export const BlogPostTemplate = ({
               <h3 className="post_related">
                 you may also like
               </h3>
-              <BlogRollRelated />
+              <BlogRollRelated categoriesRelated={categories}/>
             </div>
           </div>
           <div className="column social" style={{

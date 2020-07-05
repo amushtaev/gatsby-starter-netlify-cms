@@ -4,10 +4,12 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImageRelated from './PreviewCompatibleImageRelated'
 
 class BlogRollRelated extends React.Component {
-  render() {
-    const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
 
+  render() {
+    const { data, count, categoriesRelated} = this.props;
+    const { edges: posts } = data.allMarkdownRemark;
+    //TODO
+    console.log(posts, "posts BlogRollRelated",  categoriesRelated, count)
     return (
       <div className="columns is-multiline BlogRollPosts" style={{marginTop: `10px`}}>
         {posts &&
@@ -62,6 +64,7 @@ BlogRollRelated.propTypes = {
       edges: PropTypes.array,
     }),
   }),
+  categoriesRelated: PropTypes.array
 };
 
 export default () => (
@@ -101,6 +104,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRollRelated data={data} count={count} />}
+    render={(data, count) => <BlogRollRelated data={data} count={1} />}
   />
 )

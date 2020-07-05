@@ -3,8 +3,6 @@ import PropTypes from 'prop-types'
 
 const PreviewCompatibleImageRelated = ({ imageInfo }) => {
   const { alt = '', image } = imageInfo;
-  //TODO
-  console.log(image.childImageSharp.fluid.src)
 
   if (!!image)
     return <img src={image.childImageSharp.fluid.src} alt={alt} />;
