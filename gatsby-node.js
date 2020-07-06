@@ -32,10 +32,13 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges;
 
-    posts.forEach((edge, index, post) => {
+    posts.forEach((edge, index) => {
       const id = edge.node.id;
       const previous = index === posts.length - 1 ? null : posts[index + 1].node;
       const next = index === 0 ? null : posts[index - 1].node;
+      //TODO
+      console.log(previous, next, "previous next");
+
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
@@ -53,7 +56,6 @@ exports.createPages = ({ actions, graphql }) => {
       // collect the encountered categories
       const categoriesFound = [];
       posts.forEach(post  => {
-        console.log(!post.node.frontmatter.categories, "post")
         if(post.node.frontmatter.categories) {
           post.node.frontmatter.categories.forEach(cat => {
             if (categoriesFound.indexOf(cat) === -1) {
