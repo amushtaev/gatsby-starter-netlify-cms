@@ -8,13 +8,14 @@ class BlogRollRelated extends React.Component {
   render() {
     const { data, category, id} = this.props;
     const { edges: posts } = data.allMarkdownRemark;
+    const maxCountPosts = 3;
 
     return (
       <div className="columns is-multiline BlogRollPosts" style={{marginTop: `10px`}}>
         {posts &&
-          posts.map(({ node: post }) => (
+          posts.map(({ node: post }, index) => (
             <React.Fragment key={post.frontmatter.title}>
-              {post.frontmatter.categories[0] === category[0] && post.id !== id ? (
+              {post.frontmatter.categories[0] === category[0] && post.id !== id && index < maxCountPosts ? (
                 <div className="is-parent column is-4" key={post.fields.slug + `related`} id={post.id}>
                   <article
                     className={`blog-list-item tile is-child box notification with_background ${
