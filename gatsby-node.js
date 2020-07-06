@@ -34,10 +34,6 @@ exports.createPages = ({ actions, graphql }) => {
 
     posts.forEach((edge, index) => {
       const id = edge.node.id;
-      const previous = index === posts.length - 1 ? null : posts[index + 1].node;
-      const next = index === 0 ? null : posts[index - 1].node;
-      //TODO
-      console.log(previous, next, "previous next");
 
       createPage({
         path: edge.node.fields.slug,
@@ -48,33 +44,8 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
-          previous,
-          next,
         },
       });
-
-      // collect the encountered categories
-      const categoriesFound = [];
-      posts.forEach(post  => {
-        if(post.node.frontmatter.categories) {
-          post.node.frontmatter.categories.forEach(cat => {
-            if (categoriesFound.indexOf(cat) === -1) {
-              categoriesFound.push(cat)
-            }
-          })
-        }
-      });
-
-      categoriesFound.forEach(cat => {
-        createPage({
-          path: `category/${cat}`,
-          component: path.resolve(`./src/templates/category-page.js`),
-          context: {
-            category: cat,
-          },
-        })
-      })
-
     });
 
     // Tag pages:
