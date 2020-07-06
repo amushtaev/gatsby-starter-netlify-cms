@@ -5,7 +5,7 @@ categories:
 categories-slug:
   - instagram-ads
 title: THE BUDGET SAVING GUIDE TO INSTAGRAM ADS COST
-date: 2020-07-06T08:46:16.134Z
+date: 2020-07-05T08:46:16.134Z
 description: >-
   How much does it cost to advertise on Instagram?
 
