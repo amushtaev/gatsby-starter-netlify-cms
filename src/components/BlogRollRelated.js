@@ -6,7 +6,7 @@ import PreviewCompatibleImageRelated from './PreviewCompatibleImageRelated'
 class BlogRollRelated extends React.Component {
 
   render() {
-    const { data, category} = this.props;
+    const { data, category, id} = this.props;
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
@@ -14,8 +14,8 @@ class BlogRollRelated extends React.Component {
         {posts &&
           posts.map(({ node: post }) => (
             <React.Fragment key={post.frontmatter.title}>
-              {post.frontmatter.categories[0] === category.categories[0] ? (
-                <div className="is-parent column is-4" key={post.fields.slug + `related`}>
+              {post.frontmatter.categories[0] === category[0] && post.id !== id ? (
+                <div className="is-parent column is-4" key={post.fields.slug + `related`} id={post.id}>
                   <article
                     className={`blog-list-item tile is-child box notification with_background ${
                       post.frontmatter.featuredpost ? 'is-featured' : ''
@@ -67,10 +67,13 @@ BlogRollRelated.propTypes = {
       edges: PropTypes.array,
     }),
   }),
-  categories: PropTypes.object
+  categories: PropTypes.object,
+  id: PropTypes.any,
 };
 
-export default (categories) => (
+export default ({ categories, id }) => {
+
+  return (
   <StaticQuery
     query={graphql`
       query BlogRollRelatedQuery {
@@ -107,6 +110,6 @@ export default (categories) => (
         }
       }
     `}
-    render={(data, count) => <BlogRollRelated data={data} count={count} category={categories} />}
+    render={(data, count) => <BlogRollRelated data={data} count={count} category={categories} id={id} />}
   />
-)
+)}
