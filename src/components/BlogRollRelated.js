@@ -6,52 +6,55 @@ import PreviewCompatibleImageRelated from './PreviewCompatibleImageRelated'
 class BlogRollRelated extends React.Component {
 
   render() {
-    const { data, categories} = this.props;
+    const { data, category} = this.props;
     const { edges: posts } = data.allMarkdownRemark;
-    //TODO
-    console.log(posts, "posts BlogRollRelated",  categories.categories[0])
+
     return (
       <div className="columns is-multiline BlogRollPosts" style={{marginTop: `10px`}}>
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-4" key={post.id}>
-              <article
-                className={`blog-list-item tile is-child box notification with_background ${
-                  post.frontmatter.featuredpost ? 'is-featured' : ''
-                }`}
-              >
-                <header className="header article BlogRollRelated">
-                  {post.frontmatter.featuredimage ? (
-                    <div className="image_related">
-                      <PreviewCompatibleImageRelated
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        }}
-                      />
+            <React.Fragment key={post.frontmatter.title}>
+              {post.frontmatter.categories[0] === category.categories[0] ? (
+                <div className="is-parent column is-4" key={post.fields.slug + `related`}>
+                  <article
+                    className={`blog-list-item tile is-child box notification with_background ${
+                      post.frontmatter.featuredpost ? 'is-featured' : ''
+                    }`}
+                  >
+                    <header className="header article BlogRollRelated">
+                      {post.frontmatter.featuredimage ? (
+                        <div className="image_related">
+                          <PreviewCompatibleImageRelated
+                            imageInfo={{
+                              image: post.frontmatter.featuredimage,
+                              alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                            }}
+                          />
+                        </div>
+                      ) : null}
+                    </header>
+                    <div className="short-news-container_related">
+                      <p className="post-meta">
+                        <Link
+                          className="title_related"
+                          to={post.fields.slug}
+                        >
+                          {post.frontmatter.title}
+                        </Link>
+                      </p>
+                      <div className="articl-footer_related">
+                        <span className="date white">
+                          {post.frontmatter.date}
+                        </span>
+                        <Link className="read-more" to={post.fields.slug} style={{color: `#fff`}}>
+                          →
+                        </Link>
+                      </div>
                     </div>
-                  ) : null}
-                </header>
-                <div className="short-news-container_related">
-                  <p className="post-meta">
-                    <Link
-                      className="title_related"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                  </p>
-                  <div className="articl-footer_related">
-                    <span className="date white">
-                      {post.frontmatter.date}
-                    </span>
-                    <Link className="read-more" to={post.fields.slug} style={{color: `#fff`}}>
-                      →
-                    </Link>
-                  </div>
+                  </article>
                 </div>
-              </article>
-            </div>
+              ) : null}
+            </React.Fragment>
           ))}
       </div>
     )
@@ -104,6 +107,6 @@ export default (categories) => (
         }
       }
     `}
-    render={(data, count) => <BlogRollRelated data={data} count={count} categories={categories} />}
+    render={(data, count) => <BlogRollRelated data={data} count={count} category={categories} />}
   />
 )
