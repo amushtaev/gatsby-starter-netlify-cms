@@ -12,6 +12,7 @@ description: >-
 
 
   According to The Verge Tech Survey 2020, almost 10% of people don’t use Facebook because of advertising.
+featuredpost: true
 featuredimage: /img/best-time-to-run-facebook-ads-featured-image.jpg
 image: /img/best-time-to-run-facebook-ads-featured-image.jpg
 tags:
