@@ -3,6 +3,33 @@ import PropTypes from 'prop-types'
 import {graphql, Link, StaticQuery} from 'gatsby'
 
 class NavRoll extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      active: false,
+      navClassActive: "",
+      slugActive: null,
+    }
+  }
+
+  toggleActiveCategory = (slug) => {
+    console.log(slug, "slug")
+    this.setState(
+      {active: !this.state.active},
+      () => {
+        this.state.active ?
+          this.setState(
+            {navClassActive: "color--yellow",
+              slugActive: {slug}}
+          ) :
+          this.state(
+            {navClassActive: "",
+            slugActive: null}
+          )
+      }
+    )
+  };
+
 
   render() {
     const { data } = this.props;
@@ -17,7 +44,12 @@ class NavRoll extends React.Component {
             <li className="sub-nav" key={cat.fieldValue}>
               {data.allMarkdownRemark.catValues.map((slug, slugindex) =>
                 index === slugindex ?
-                  <a key={slug} className="navbar-item white" href={`category/${slug.fieldValue}`}>{cat.fieldValue}</a> : null
+                  <a
+                    key={slug}
+                    className="navbar-item white"
+                    href={`category/${slug.fieldValue}`} onClick={() => this.toggleActiveCategory(slug.fieldValue)}>
+                      {cat.fieldValue}
+                  </a> : null
               )}
             </li>
           ))}

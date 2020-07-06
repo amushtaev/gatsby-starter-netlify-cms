@@ -42,21 +42,27 @@ export default CategoriesPage
 
 export const categoryPageQuery = graphql`
   query CategoriesQuery {
-    site {
-      siteMetadata {
-        title
-      }
+  site {
+    siteMetadata {
+      title
     }
-    allMarkdownRemark(limit: 1000) {
-      group(field: frontmatter___categories) {
-        fieldValue
-        totalCount
-        nodes {
-          fields {
-            slug
+  }
+  allMarkdownRemark(limit: 1000) {
+    group(field: frontmatter___categories) {
+      fieldValue
+      totalCount
+      nodes {
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          image {
+            publicURL
           }
         }
       }
     }
   }
+}
 `;
