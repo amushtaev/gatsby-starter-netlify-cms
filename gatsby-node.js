@@ -46,6 +46,19 @@ exports.createPages = ({ actions, graphql }) => {
           id,
         },
       });
+
+      //TODO
+      createPage({
+        path: edge.node.fields.slug,
+        categories: edge.node.frontmatter.categories,
+        component: path.resolve(
+          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
+        ),
+        // additional data can be passed via context
+        context: {
+          id,
+        },
+      });
     });
 
     // Tag pages:
@@ -70,12 +83,36 @@ exports.createPages = ({ actions, graphql }) => {
           tag,
         },
       })
+    });
+
+    //TODO categories
+    let categories = [];
+    // Iterate through each post, putting all found categories into `categories`
+    posts.forEach((edge) => {
+      if (_.get(edge, `node.frontmatter.tags`)) {
+        categories = categories.concat(edge.node.frontmatter.tags)
+      }
+    });
+    // Eliminate duplicate tags
+    categories = _.uniq(categories);
+
+    // Make tag pages
+    categories.forEach((category) => {
+      const categoryPath = `/category/${_.kebabCase(category)}/`;
+
+      createPage({
+        path: categoryPath,
+        component: path.resolve(`src/templates/categories.js`),
+        context: {
+          category,
+        },
+      })
     })
   })
 };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
+  const { createNodeField } = actions;
   fmImagesToRelative(node); // convert image paths for gatsby images
 
   if (node.internal.type === `MarkdownRemark`) {

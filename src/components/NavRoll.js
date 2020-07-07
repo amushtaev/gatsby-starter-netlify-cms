@@ -47,7 +47,7 @@ class NavRoll extends React.Component {
                   <a
                     key={slug}
                     className="navbar-item white"
-                    href={`category/${slug.fieldValue}`} onClick={() => this.toggleActiveCategory(slug.fieldValue)}>
+                    href={`/category/${slug.fieldValue}`} onClick={() => this.toggleActiveCategory(slug.fieldValue)}>
                       {cat.fieldValue}
                   </a> : null
               )}

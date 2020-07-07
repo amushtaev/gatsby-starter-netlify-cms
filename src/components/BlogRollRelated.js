@@ -12,7 +12,7 @@ class BlogRollRelated extends React.Component {
     let count = 0;
 
     return (
-      <div className="columns is-multiline BlogRollPosts" style={{marginTop: `10px`}}>
+      <div key={count} className="columns is-multiline BlogRollPosts" style={{marginTop: `10px`}}>
         {posts &&
           posts.map(({ node: post }, index) => (
             <React.Fragment key={post.frontmatter.title}>
