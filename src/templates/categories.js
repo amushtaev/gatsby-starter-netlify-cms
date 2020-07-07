@@ -6,16 +6,10 @@ import BlogRollPosts from "../components/BlogRollPosts";
 class CategoriesRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.group;
-    console.log(posts[0].nodes, "posts")
-    const postLinks = posts.map((post) => (
-      <li key={post.nodes[0].fields.slug}>
-        <Link to={post.nodes[0].fields.slug}>
-          <h2 className="is-size-2">{post.nodes[0].frontmatter.title}</h2>
-        </Link>
-      </li>
-    ));
-    const category = this.props.pageContext.categories;
+    const category = "posts[0].fieldValue";
     const title = this.props.data.site.siteMetadata.title;
+    //TODO
+    console.log(category, "category", title, "title", )
 
     return (
       <Layout>
@@ -41,7 +35,7 @@ export const categoryPageQuery = graphql`
     }
   }
   allMarkdownRemark(limit: 1000) {
-    group(field: frontmatter___categories) {
+    postsName: group(field: frontmatter___categories) {
       fieldValue
       totalCount
       nodes {
@@ -55,6 +49,9 @@ export const categoryPageQuery = graphql`
           }
         }
       }
+    }
+    postsSlug: group(field: frontmatter___categories_slug){
+      fieldValue
     }
   }
 }

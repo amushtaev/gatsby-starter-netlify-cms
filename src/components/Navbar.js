@@ -14,8 +14,6 @@ const Navbar = class extends React.Component {
 
   toggleHamburger = () => {
     // toggle the active boolean in the state
-    //TODO
-    console.log("this.state", this.state)
     this.setState(
       {
         active: !this.state.active,
