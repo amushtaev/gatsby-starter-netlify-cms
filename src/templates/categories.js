@@ -7,14 +7,8 @@ import {Link} from "gatsby";
 
 class CategoriesRoute extends React.Component {
   render() {
-    console.log('data', this.props.data);
     const refSlug = window.location.href.split("/category/")[1];
-    console.log('refSlug', refSlug);
-
     const slugs = this.props.data.allMarkdownRemark.group;
-
-
-    console.log(slugs[3].fieldValue, "slugs")
 
     return (
       <Layout>
@@ -32,6 +26,7 @@ class CategoriesRoute extends React.Component {
             <div className="content">
               <div className="columns is-multiline BlogRollPosts">
                 {slugs.map((slug) => (
+                  //TODO key?
                   <>
                     {slug.fieldValue === refSlug ? (
                       <>
