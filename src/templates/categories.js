@@ -14,16 +14,16 @@ class CategoriesRoute extends React.Component {
 
     return (
       <Layout>
-        <section className="section index Posts">
-          <div
-            className="index Blog"
-          >
-            <h1 className="h1-title" >
-              SOFTCUBE BLOG
-            </h1>
-            <h2 className="h2-subtitle">News, guides, and updates on Google and Facebook marketing</h2>
-          </div>
-          <NavRoll />
+        <div
+          className="index Blog Category"
+        >
+          <h1 className="h1-title" >
+            SOFTCUBE BLOG
+          </h1>
+          <h2 className="h2-subtitle">News, guides, and updates on Google and Facebook marketing</h2>
+        </div>
+        <NavRoll />
+        <section className="section index Category">
           <div className="container">
             <div className="content">
               <div className="columns is-multiline BlogRollPosts">
