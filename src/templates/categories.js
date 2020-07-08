@@ -1,6 +1,5 @@
 import React from 'react'
-import Layout from '../components/Layout'
-import BlogRollPosts from "../components/BlogRollPosts";
+import LayoutBlog from '../components/LayoutBlog'
 import NavRoll from "../components/NavRoll";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import {Link} from "gatsby";
@@ -11,7 +10,7 @@ class CategoriesRoute extends React.Component {
     const slugs = this.props.data.allMarkdownRemark.group;
 
     return (
-      <Layout>
+      <LayoutBlog>
         <div
           className="index Blog Category"
         >
@@ -86,7 +85,7 @@ class CategoriesRoute extends React.Component {
             </div>
           </div>
         </section>
-      </Layout>
+      </LayoutBlog>
     )
   }
 }
