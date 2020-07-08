@@ -3,38 +3,17 @@ import PropTypes, {node} from 'prop-types'
 import {graphql, Link, StaticQuery} from 'gatsby'
 
 class NavRoll extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      active: false,
-      navClassActive: "",
-    }
-  }
-
-  toggleActiveCategory = (slug) => {
-    this.setState(
-      {active: !this.state.active},
-      () => {
-        this.state.active ?
-          this.setState(
-            {navClassActive: "color--yellow"}
-          ) :
-          this.state(
-            {navClassActive: ""}
-          )
-      }
-    )
-  };
-
 
   render() {
-    const { data } = this.props;
+    const { data, active } = this.props;
+    //TODO
+    console.log(active, "active")
 
     return (
       <div className="subNav">
         <ul className="section-sub-nav">
           <li className="sub-nav">
-            <a className="navbar-item color--yellow" href="/blog">See all</a>
+            <a className={`navbar-item ${!active ? "color--yellow" : "white"}`} href="/blog">See all</a>
           </li>
           {data.allMarkdownRemark.catNames.map((cat, index) => (
             <li className="sub-nav" key={cat.fieldValue}>
@@ -42,7 +21,7 @@ class NavRoll extends React.Component {
                 index === slugindex ?
                   <Link
                     key={slug}
-                    className="navbar-item white"
+                    className={`navbar-item ${active === slug.fieldValue ? "color--yellow" : "white"}`}
                     to={`/category/${slug.fieldValue}`}
                     pathname={slug.fieldValue}
                     propsslug={slug.fieldValue}
@@ -66,7 +45,7 @@ NavRoll.propTypes = {
   }),
 };
 
-export default () => (
+export default ({active}) => (
   <StaticQuery
     query={graphql`
       query NavCatLink {
@@ -92,6 +71,6 @@ export default () => (
         }
       }
     `}
-    render={(data) => <NavRoll data={data} />}
+    render={(data) => <NavRoll data={data} active={active} />}
   />
 )

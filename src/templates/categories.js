@@ -22,7 +22,7 @@ class CategoriesRoute extends React.Component {
           </h1>
           <h2 className="h2-subtitle">News, guides, and updates on Google and Facebook marketing</h2>
         </div>
-        <NavRoll />
+        <NavRoll active={refSlug} />
         <section className="section index Category">
           <div className="container">
             <div className="content">
