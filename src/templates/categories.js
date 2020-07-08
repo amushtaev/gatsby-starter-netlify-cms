@@ -7,8 +7,12 @@ import {Link} from "gatsby";
 
 class CategoriesRoute extends React.Component {
   render() {
-    const slugs = this.props.data.allMarkdownRemark.group;
+    console.log('data', this.props.data);
     const refSlug = window.location.href.split("/category/")[1];
+    console.log('refSlug', refSlug);
+
+    const slugs = this.props.data.allMarkdownRemark.group;
+
 
     console.log(slugs[3].fieldValue, "slugs")
 
@@ -52,6 +56,7 @@ class CategoriesRoute extends React.Component {
                               </header>
                               <div className="short-news-container">
                                 <p className="post-meta">
+                                  <>{console.log(post.node, "post.node")}</>
                                   <Link
                                     className="title has-text-primary is-size-4"
                                     to={post.node.fields.slug}
@@ -60,9 +65,9 @@ class CategoriesRoute extends React.Component {
                                   </Link>
                                 </p>
                                 <div className="articl-footer">
-                      <span className="date">
-                        {post.node.frontmatter.date}
-                      </span>
+                                  <span className="date">
+                                    {post.node.frontmatter.date}
+                                  </span>
                                   <Link className="read-more" to={post.node.fields.slug}>
                                     →
                                   </Link>
