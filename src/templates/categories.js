@@ -54,7 +54,7 @@ class CategoriesRoute extends React.Component {
                                 <p className="post-meta">
                                   <Link
                                     className="title has-text-primary is-size-4"
-                                    to="{post.fields.slug}"
+                                    to={post.node.fields.slug}
                                   >
                                     {post.node.frontmatter.title}
                                   </Link>
@@ -63,7 +63,7 @@ class CategoriesRoute extends React.Component {
                       <span className="date">
                         {post.node.frontmatter.date}
                       </span>
-                                  <Link className="read-more" to="{post.node.fields.slug}">
+                                  <Link className="read-more" to={post.node.fields.slug}>
                                     →
                                   </Link>
                                 </div>
@@ -119,6 +119,9 @@ export const categoryPageQuery = graphql`
             featuredimage {
               publicURL
             }
+          }
+          fields {
+            slug
           }
         }
       }
