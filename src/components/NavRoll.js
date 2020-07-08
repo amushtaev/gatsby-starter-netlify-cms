@@ -1,5 +1,5 @@
 import React from 'react'
-import PropTypes from 'prop-types'
+import PropTypes, {node} from 'prop-types'
 import {graphql, Link, StaticQuery} from 'gatsby'
 
 class NavRoll extends React.Component {
@@ -8,23 +8,19 @@ class NavRoll extends React.Component {
     this.state = {
       active: false,
       navClassActive: "",
-      slugActive: null,
     }
   }
 
   toggleActiveCategory = (slug) => {
-    console.log(slug, "slug")
     this.setState(
       {active: !this.state.active},
       () => {
         this.state.active ?
           this.setState(
-            {navClassActive: "color--yellow",
-              slugActive: {slug}}
+            {navClassActive: "color--yellow"}
           ) :
           this.state(
-            {navClassActive: "",
-            slugActive: null}
+            {navClassActive: ""}
           )
       }
     )
@@ -47,7 +43,10 @@ class NavRoll extends React.Component {
                   <Link
                     key={slug}
                     className="navbar-item white"
-                    href={`/category/${slug.fieldValue}`}>
+                    to={`/category/${slug.fieldValue}`}
+                    pathname={slug.fieldValue}
+                    propsslug={slug.fieldValue}
+                  >
                       {cat.fieldValue}
                   </Link > : null
               )}
