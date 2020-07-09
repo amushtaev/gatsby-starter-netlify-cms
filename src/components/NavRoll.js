@@ -6,9 +6,6 @@ class NavRoll extends React.Component {
 
   render() {
     const { data, active } = this.props;
-    //TODO
-    console.log('data', data);
-    console.log(active, "active")
 
     return (
       <div className="subNav">
