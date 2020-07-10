@@ -34,7 +34,7 @@ class BlogRollPosts extends React.Component {
                   <p className="post-meta">
                     <Link
                       className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
+                      to={post.fields.slug.replace("/blog", "")}
                     >
                       {post.frontmatter.title}
                     </Link>
@@ -43,7 +43,7 @@ class BlogRollPosts extends React.Component {
                     <span className="date">
                       {post.frontmatter.date}
                     </span>
-                    <Link className="read-more" to={post.fields.slug}>
+                    <Link className="read-more" to={post.fields.slug.replace("/blog", "")}>
                       →
                     </Link>
                   </div>

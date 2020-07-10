@@ -50,10 +50,9 @@ class CategoriesRoute extends React.Component {
                               </header>
                               <div className="short-news-container">
                                 <p className="post-meta">
-                                  <>{console.log(post.node, "post.node")}</>
                                   <Link
                                     className="title has-text-primary is-size-4"
-                                    to={post.node.fields.slug}
+                                    to={post.node.fields.slug.replace("/blog", "")}
                                   >
                                     {post.node.frontmatter.title}
                                   </Link>
@@ -62,7 +61,7 @@ class CategoriesRoute extends React.Component {
                                   <span className="date">
                                     {post.node.frontmatter.date}
                                   </span>
-                                  <Link className="read-more" to={post.node.fields.slug}>
+                                  <Link className="read-more" to={post.node.fields.slug.replace("/blog", "")}>
                                     →
                                   </Link>
                                 </div>

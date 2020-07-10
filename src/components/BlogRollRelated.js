@@ -39,7 +39,7 @@ class BlogRollRelated extends React.Component {
                       <p className="post-meta">
                         <Link
                           className="title_related"
-                          to={post.fields.slug}
+                          to={post.fields.slug.replace("/blog", "")}
                         >
                           {post.frontmatter.title}
                         </Link>
@@ -48,7 +48,7 @@ class BlogRollRelated extends React.Component {
                         <span className="date white">
                           {post.frontmatter.date}
                         </span>
-                        <Link className="read-more" to={post.fields.slug} style={{color: `#fff`}}>
+                        <Link className="read-more" to={post.fields.slug.replace("/blog", "")} style={{color: `#fff`}}>
                           →
                         </Link>
                       </div>

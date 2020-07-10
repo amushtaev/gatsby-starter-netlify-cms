@@ -2,6 +2,7 @@ const _ = require('lodash');
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+const createPaginatedPages = require('gatsby-paginate')
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
@@ -31,11 +32,24 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges;
 
+    createPaginatedPages({
+      edges: posts,
+      createPage: createPage,
+      pageTemplate: 'src/pages/blog/index.js',
+      pageLength: 2, // This is optional and defaults to 10 if not used
+      pathPrefix: 'blog', // This is optional and defaults to an empty string if not used
+      context: {}, // This is optional and defaults to an empty object if not used
+      buildPath: (index, pathPrefix) =>
+        index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}`, // This is optional and this is the default
+    });
+
     posts.forEach((edge) => {
       const id = edge.node.id;
+      let pagePath = edge.node.fields.slug;
+      pagePath = String(pagePath).includes("/blog/") ? String(pagePath).replace(`\/blog`, "") : pagePath;
 
       createPage({
-        path: edge.node.fields.slug,
+        path: pagePath,
         tags: edge.node.frontmatter.tags,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
@@ -43,6 +57,7 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+          slug: pagePath,
         },
       });
     });
