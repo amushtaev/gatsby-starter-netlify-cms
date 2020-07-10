@@ -1,15 +1,20 @@
+const {createLinkedPages, createPaginationPages} = require("gatsby-pagination");
 const _ = require('lodash');
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
-const createPaginatedPages = require('gatsby-paginate')
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      site {
+        siteMetadata {
+          title
+        }
+      }
+      allMarkdownRemark(limit: 1000, sort: {fields: [frontmatter___date], order: DESC}) {
         edges {
           node {
             id
@@ -20,33 +25,88 @@ exports.createPages = ({ actions, graphql }) => {
               tags
               templateKey
               categories
+              title
+              date(formatString: "MMMM DD, YYYY")
+              image {
+                publicURL
+              }
+              featuredimage {
+                publicURL
+                childImageSharp {
+                  fluid(maxWidth: 10, quality: 10) {
+                    src
+                    srcSet
+                    base64
+                  }
+                }
+              }
             }
           }
         }
       }
     }
+
   `).then((result) => {
     if (result.errors) {
       return Promise.reject(result.errors)
     }
 
-    const posts = result.data.allMarkdownRemark.edges;
+    //const posts = result.data.allMarkdownRemark.edges;
+    const {
+      data: {
+        allMarkdownRemark: { edges },
+        site: {
+          siteMetadata: { title, shortTitle },
+        },
+      },
+    } = result;
 
-    createPaginatedPages({
-      edges: posts,
-      createPage: createPage,
-      pageTemplate: 'src/pages/blog/index.js',
-      pageLength: 2, // This is optional and defaults to 10 if not used
-      pathPrefix: 'blog', // This is optional and defaults to an empty string if not used
-      context: {}, // This is optional and defaults to an empty object if not used
-      buildPath: (index, pathPrefix) =>
-        index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}`, // This is optional and this is the default
+    // Create Pagination Pages
+    createPaginationPages({
+      createPage,
+      edges: edges,
+      component: path.resolve('src/templates/blog.js'),
+      limit: 6,
+      pathFormatter: p => (p === 0 ? `/blog/` : `/blog/page/${p}`),
+      //pathFormatter: prefixPathFormatter('/blog'),
+      context: {
+        title,
+        shortTitle,
+      },
+    });
+    // Create linked blog pages
+    createLinkedPages({
+      createPage,
+      edges: edges,
+      component: path.resolve(`src/templates/blog.js`),
+      edgeParser: edge => {
+        const {
+          id,
+          fields: { slug },
+          frontmatter: { templateKey },
+        } = edge.node;
+        return {
+          path: slug,
+          // additional data can be passed via context
+          context: {
+            id,
+            slug,
+          },
+        };
+      },
+      circular: true,
     });
 
-    posts.forEach((edge) => {
+    edges.forEach((edge) => {
       const id = edge.node.id;
-      let pagePath = edge.node.fields.slug;
-      pagePath = String(pagePath).includes("/blog/") ? String(pagePath).replace(`\/blog`, "") : pagePath;
+      const pagePath = String(edge.node.fields.slug).includes("/blog/") ?
+        String(edge.node.fields.slug).replace(`\/blog`, "") :
+        edge.node.fields.slug;
+      const templateKey = String(edge.node.frontmatter.templateKey) === "blog-post" ?
+        "blog" :
+        String(edge.node.frontmatter.templateKey);
+
+      console.log(templateKey)
 
       createPage({
         path: pagePath,
@@ -65,7 +125,7 @@ exports.createPages = ({ actions, graphql }) => {
     // Tag pages:
     let tags = [];
     // Iterate through each post, putting all found tags into `tags`
-    posts.forEach((edge) => {
+    edges.forEach((edge) => {
       if (_.get(edge, `node.frontmatter.tags`)) {
         tags = tags.concat(edge.node.frontmatter.tags)
       }
@@ -89,7 +149,7 @@ exports.createPages = ({ actions, graphql }) => {
     //TODO categories
     let categories = [];
     // Iterate through each post, putting all found categories into `categories`
-    posts.forEach((edge) => {
+    edges.forEach((edge) => {
       if (_.get(edge, `node.frontmatter.categories`)) {
         categories = categories.concat(edge.node.frontmatter.categories)
       }
@@ -108,7 +168,7 @@ exports.createPages = ({ actions, graphql }) => {
           category,
         },
       })
-    })
+    });
   })
 };
 

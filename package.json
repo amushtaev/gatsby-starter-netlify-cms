@@ -20,6 +20,7 @@
     "gatsby-transformer-remark": "^2.8.25",
     "gatsby-transformer-sharp": "^2.5.11",
     "gatsby-paginate": "^1.1.1",
+    "gatsby-pagination": "^1.2.0",
     "gatsby-awesome-pagination": "^0.3.6",
     "lodash": "^4.17.19",
     "lodash-webpack-plugin": "^0.11.5",

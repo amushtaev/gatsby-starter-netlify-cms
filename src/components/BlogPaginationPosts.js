@@ -3,12 +3,12 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-class BlogRollPosts extends React.Component {
+export default class BlogPaginationPosts extends React.Component {
   render() {
-    const { data, pageContext } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const { pageContext } = this.props;
+    const posts = pageContext.nodes;
 
-    console.log(pageContext, "pageContext")
+    console.log(pageContext, "pageContext BlogPaginationPosts")
 
     return (
       <div className="columns is-multiline BlogRollPosts">
@@ -25,7 +25,7 @@ class BlogRollPosts extends React.Component {
                     <div className="featured-thumbnail">
                       <PreviewCompatibleImage
                         imageInfo={{
-                          image: post.frontmatter.featuredimage,
+                          image: post.frontmatter.image.publicURL,
                           alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                         }}
                       />
@@ -64,53 +64,3 @@ class BlogRollPosts extends React.Component {
     )
   }
 }
-
-BlogRollPosts.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  }),
-  pageContext: PropTypes.object,
-};
-
-export default ({pageContext}) => (
-  <StaticQuery
-    query={graphql`
-      query BlogRollPostsQuery {
-        allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-        ) {
-          edges {
-            node {
-              excerpt(pruneLength: 400)
-              id
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                categories
-                templateKey
-                date(formatString: "MMMM DD, YYYY")
-                featuredpost
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
-                image {
-                  publicURL
-                }
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={(data, count) => <BlogRollPosts data={data} count={count} pageContext={pageContext} />}
-  />
-)

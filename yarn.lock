@@ -6486,6 +6486,11 @@ gatsby-paginate@^1.1.1:
   dependencies:
     path "^0.12.7"
 
+gatsby-pagination@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/gatsby-pagination/-/gatsby-pagination-1.2.0.tgz#847ebb694613969665c1f6f686ee4025ba392cc2"
+  integrity sha512-1C9Ul4vwUbmzlv202Ictj0pEL0ff7xa8fb/1UY6LiSdVMwh013QXqZm4YyVSMQKFl1zoNAlN3zWca5FMTK2bYg==
+
 gatsby-plugin-netlify-cms@^4.3.11:
   version "4.3.11"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-4.3.11.tgz#c576d9a293b83e6dccc17c0f1f55c99582be8aa8"
