@@ -4,7 +4,7 @@ categories:
   - Instagram Ads
 categories-slug:
   - instagram-ads
-title: 40 EXAMPLES OF THE TASTIEST FOOD ADS
+title: 40 EXAMPLES OF THE TASTIEST FOOD ADS!
 date: 2020-07-03T18:53:38.547Z
 description: >-
   How often do you eat in front of the screen? 
