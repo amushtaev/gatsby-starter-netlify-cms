@@ -1,14 +1,11 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
+import { Link } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 export default class BlogPaginationPosts extends React.Component {
   render() {
     const { pageContext } = this.props;
     const posts = pageContext.nodes;
-
-    console.log(pageContext, "pageContext BlogPaginationPosts")
 
     return (
       <div className="columns is-multiline BlogRollPosts">

@@ -22,7 +22,8 @@ const BlogPage = ({data, pageContext }) => {
     pages,
     total,
   } = pageContext;
-  const prevLink = prev.includes("page/1") ? prev.replace("page/1", "") : prev;
+
+  //const prevLink = prev.includes("page/1") ? prev.replace("page/1", "") : prev;
   // Create the navigation link
   let navItems = [
     {
@@ -113,7 +114,7 @@ const BlogPage = ({data, pageContext }) => {
         </div>
         <nav className="pagination">
           {prev && (
-            <Link to={prevLink} className="pagination-previous">
+            <Link to={prev} className="pagination-previous">
               Previous
             </Link>
           )}

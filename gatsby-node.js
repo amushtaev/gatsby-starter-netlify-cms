@@ -67,7 +67,7 @@ exports.createPages = ({ actions, graphql }) => {
       edges: edges,
       component: path.resolve('src/templates/blog.js'),
       limit: 6,
-      pathFormatter: p => (p === 0 ? `/blog/` : `/blog/page/${p}`),
+      pathFormatter: p => (p === 1 ? `/blog/` : `/blog/page/${p}`),
       //pathFormatter: prefixPathFormatter('/blog'),
       context: {
         title,
@@ -102,11 +102,6 @@ exports.createPages = ({ actions, graphql }) => {
       const pagePath = String(edge.node.fields.slug).includes("/blog/") ?
         String(edge.node.fields.slug).replace(`\/blog`, "") :
         edge.node.fields.slug;
-      const templateKey = String(edge.node.frontmatter.templateKey) === "blog-post" ?
-        "blog" :
-        String(edge.node.frontmatter.templateKey);
-
-      console.log(templateKey)
 
       createPage({
         path: pagePath,

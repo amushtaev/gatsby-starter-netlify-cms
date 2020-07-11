@@ -1,14 +1,13 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
+import { Link } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-class BlogRollPosts extends React.Component {
-  render() {
-    const { data, pageContext } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+export default class BlogRollPosts extends React.Component {
 
-    console.log(pageContext, "pageContext")
+  render() {
+    const { data } = this.props;
+    const { edges: posts } = data.allMarkdownRemark;
 
     return (
       <div className="columns is-multiline BlogRollPosts">
@@ -21,11 +20,11 @@ class BlogRollPosts extends React.Component {
                 }`}
               >
                 <header className="header article BlogRoll">
-                  {post.frontmatter.featuredimage ? (
+                  {post.frontmatter.image ? (
                     <div className="featured-thumbnail">
                       <PreviewCompatibleImage
                         imageInfo={{
-                          image: post.frontmatter.featuredimage,
+                          image: post.frontmatter.image.publicURL,
                           alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                         }}
                       />
@@ -71,10 +70,9 @@ BlogRollPosts.propTypes = {
       edges: PropTypes.array,
     }),
   }),
-  pageContext: PropTypes.object,
 };
 
-export default ({pageContext}) => (
+/*export default () => (
   <StaticQuery
     query={graphql`
       query BlogRollPostsQuery {
@@ -107,10 +105,23 @@ export default ({pageContext}) => (
                 }
               }
             }
+            next {
+              fields {
+                slug
+              }
+            }
+            previous {
+              fields {
+                slug
+              }
+            }
           }
         }
       }
     `}
-    render={(data, count) => <BlogRollPosts data={data} count={count} pageContext={pageContext} />}
+    render={
+      (data, count) =>
+        <BlogRollPosts data={data} count={count} />
+    }
   />
-)
+)*/
