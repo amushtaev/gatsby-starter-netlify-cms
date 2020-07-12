@@ -66,7 +66,7 @@ exports.createPages = ({ actions, graphql }) => {
         edgesBlog = edgesBlog.concat(edge)
       }
     });
-    console.log(edgesBlog, "edges")
+
     // Create Pagination Pages
     createPaginationPages({
       createPage,
