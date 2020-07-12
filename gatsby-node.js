@@ -45,7 +45,6 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
     }
-
   `).then((result) => {
     if (result.errors) {
       return Promise.reject(result.errors)
@@ -61,10 +60,17 @@ exports.createPages = ({ actions, graphql }) => {
       },
     } = result;
 
+    let edgesBlog = [];
+    edges.forEach((edge) => {
+      if (edge.node.fields.slug.indexOf('/blog') > -1) {
+        edgesBlog = edgesBlog.concat(edge)
+      }
+    });
+    console.log(edgesBlog, "edges")
     // Create Pagination Pages
     createPaginationPages({
       createPage,
-      edges: edges,
+      edges: edgesBlog,
       component: path.resolve('src/templates/blog.js'),
       limit: 6,
       pathFormatter: p => (p === 1 ? `/blog/` : `/blog/page/${p}`),
@@ -77,7 +83,7 @@ exports.createPages = ({ actions, graphql }) => {
     // Create linked blog pages
     createLinkedPages({
       createPage,
-      edges: edges,
+      edges: edgesBlog,
       component: path.resolve(`src/templates/blog.js`),
       edgeParser: edge => {
         const {
@@ -171,11 +177,9 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
   fmImagesToRelative(node); // convert image paths for gatsby images
 
-
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode, basePath: `pages` });
 
-    console.log(value, "path")
     createNodeField({
       name: `slug`,
       node,
