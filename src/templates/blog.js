@@ -23,6 +23,8 @@ const BlogPage = ({data, pageContext }) => {
     total,
   } = pageContext;
 
+  console.log(pageContext, "page")
+
   //const prevLink = prev.includes("page/1") ? prev.replace("page/1", "") : prev;
   // Create the navigation link
   let navItems = [
@@ -99,7 +101,7 @@ const BlogPage = ({data, pageContext }) => {
         className="index Blog"
       >
         <h1 className="h1-title" >
-          SOFTCUBE BLOG
+          SOFTCUBE BLOG blog
         </h1>
         <h2 className="h2-subtitle">News, guides, and updates on Google and Facebook marketing</h2>
       </div>

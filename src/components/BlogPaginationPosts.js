@@ -8,7 +8,7 @@ export default class BlogPaginationPosts extends React.Component {
     const posts = pageContext.nodes;
 
     return (
-      <div className="columns is-multiline BlogRollPosts">
+      <div className="columns is-multiline BlogPaginationPosts">
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
