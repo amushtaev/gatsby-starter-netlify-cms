@@ -15,7 +15,7 @@ class BlogRollRelated extends React.Component {
       <div key={count} className="columns is-multiline BlogRollPosts" style={{marginTop: `10px`}}>
         {posts &&
           posts.map(({ node: post }, index) => (
-            <React.Fragment key={post.frontmatter.title}>
+            <React.Fragment key={index}>
               {post.frontmatter.categories[0] === category[0] && post.id !== id && count++ < maxCountPosts ? (
                 <div className="is-parent column is-4" key={post.fields.slug + `related`} id={post.id}>
                   <article

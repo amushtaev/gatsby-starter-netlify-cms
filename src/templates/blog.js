@@ -3,6 +3,8 @@ import { Link } from 'gatsby'
 import NavRoll from "../components/NavRoll";
 import BlogPaginationPosts from "../components/BlogPaginationPosts";
 import LayoutBlog from "../components/LayoutBlog";
+import nextIco from "../img/nextIco.svg";
+import prevIco from "../img/prevIco.svg";
 
 // A sweet helper function to create pagination object
 const createPaginationObjects = (length, page, increment = 2) =>
@@ -101,7 +103,7 @@ const BlogPage = ({data, pageContext }) => {
         className="index Blog"
       >
         <h1 className="h1-title" >
-          SOFTCUBE BLOG blog
+          SOFTCUBE BLOG
         </h1>
         <h2 className="h2-subtitle">News, guides, and updates on Google and Facebook marketing</h2>
       </div>
@@ -113,32 +115,32 @@ const BlogPage = ({data, pageContext }) => {
           <div className="content">
             <BlogPaginationPosts pageContext={ pageContext } />
           </div>
+          <nav className="pagination">
+            {prev && (
+              <Link to={prev} className="pagination-previous">
+                <img src={prevIco}/>
+              </Link>
+            )}
+            <ul className="pagination-list">
+              {navItems.map(item => (
+                <li key={item.index}>
+                  {item.separator ? (
+                    <span className="pagination-ellipsis">&hellip;</span>
+                  ) : (
+                    <Link to={item.link} className={`pagination-link ${ item.current ? 'is-current' : '' }`} aria-label={`Goto page ${item.index}`} >
+                      {item.index}
+                    </Link>
+                  )}
+                </li>
+              ))}
+            </ul>
+            {next && (
+              <Link to={next} className="pagination-next">
+                <img src={nextIco}/>
+              </Link>
+            )}
+          </nav>
         </div>
-        <nav className="pagination">
-          {prev && (
-            <Link to={prev} className="pagination-previous">
-              Previous
-            </Link>
-          )}
-          {next && (
-            <Link to={next} className="pagination-next">
-              Next page
-            </Link>
-          )}
-          <ul className="pagination-list">
-            {navItems.map(item => (
-              <li key={item.index}>
-                {item.separator ? (
-                  <span className="pagination-ellipsis">&hellip;</span>
-                ) : (
-                  <Link to={item.link} className={`pagination-link ${ item.current ? 'is-current' : '' }`} aria-label={`Goto page ${item.index}`} >
-                    {item.index}
-                  </Link>
-                )}
-              </li>
-            ))}
-          </ul>
-        </nav>
       </section>
     </LayoutBlog>
   )

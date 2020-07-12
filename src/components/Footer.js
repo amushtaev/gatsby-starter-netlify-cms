@@ -1,102 +1,61 @@
 import React from 'react'
 import { Link } from 'gatsby'
-
-import logo from '../img/logo.svg'
-import facebook from '../img/social/facebook.svg'
-import linkedin from '../img/social/linkedin.svg'
-import twitter from '../img/social/twitter.svg'
-import gplus from '../img/social/gplus.svg'
+import facebookFooter from '../img/social/facebookFooter.svg'
+import twitterFooter from '../img/social/twitterFooter.svg'
+import instagramFooter from '../img/social/instagramFooter.svg'
 
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
-          <img
-            src={logo}
-            alt="Kaldi"
-            style={{ width: '14em', height: '10em' }}
-          />
-        </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
-            <div style={{ maxWidth: '100vw' }} className="columns">
-              <div className="column is-4">
+      <footer className="">
+        <div className="content"  style={{background: `transparent`}}>
+          <div className="container">
+            <div style={{ maxWidth: '100vw', borderTop: `solid 4px rgba(255, 255, 255, 0.32)`, display: `grid`, gridTemplateColumns: `1fr 154px` }} className="columns footer_grid">
+              <div className="column" style={{padding: `38px 0px`}}>
                 <section className="menu">
-                  <ul className="menu-list">
+                  <ul className="menu-list_footer">
+                    <li><a className="copyright" style={{paddingTop: `7px`}}>© 2020 Softcube</a></li>
                     <li>
-                      <Link to="/" className="navbar-item">
-                        Home
+                      <Link to="/" className="navbar-item footer">
+                        Terms of Service
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
-                        About
+                      <Link className="navbar-item footer" to="#">
+                        Privacy Policy
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
+                      <Link className="navbar-item footer" to="#">
+                        Membership Agreement
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
+                      <Link className="navbar-item footer" to="#">
+                        Copyright
                       </Link>
                     </li>
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 social">
+              <div className="column social_footer">
                 <a title="facebook" href="https://facebook.com">
                   <img
-                    src={facebook}
+                    src={facebookFooter}
                     alt="Facebook"
                   />
                 </a>
                 <a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
-                    src={twitter}
+                    src={twitterFooter}
                     alt="Twitter"
                   />
                 </a>
                 <a title="instagram" href="https://linkedin.com">
                   <img
-                    src={linkedin}
-                    alt="linkedin"
-                  />
-                </a>
-                <a title="vimeo" href="https://gplus.com">
-                  <img
-                    src={gplus}
-                    alt="gplus"
+                    src={instagramFooter}
+                    alt="InstagramF"
                   />
                 </a>
               </div>
