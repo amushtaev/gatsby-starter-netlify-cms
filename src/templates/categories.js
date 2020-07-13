@@ -6,7 +6,7 @@ import {Link} from "gatsby";
 
 class CategoriesRoute extends React.Component {
   render() {
-    const refSlug = window !== 'undefined' && window.location.href.split("/category/")[1];
+    const refSlug = typeof window !== 'undefined' && window.location.href.split("/category/")[1];
     const slugs = this.props.data.allMarkdownRemark.group;
 
     return (
