@@ -19,8 +19,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Category", name: "categories", widget: "select", multiple: true, options: ["Python", "Go", "Development", "Instagram Ads", "Facebook Ads"]}
-      - {label: "Category-Slug", name: "categories-slug", widget: "select", multiple: true, options: ["python", "go", "development", "instagram-ads", "facebook-ads"]}
+      - {label: "Category", name: "categories", widget: "select", multiple: true, options: ["Case Stud", "Facebook Ads", "Instagram Ads", "News", "Tutorials", "Video Ads"]}
+      - {label: "Category-Slug", name: "categories-slug", widget: "select", multiple: true, options: ["case-study", "facebook-ads", "instagram-ads", "news", "tutorials", "video-ads"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
