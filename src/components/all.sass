@@ -421,6 +421,14 @@ footer
   padding-right: 162px !important
   white-space: nowrap !important
 
+.column.social
+  width: 48px !important
+  display: flex !important
+  flex-direction: column !important
+  position: absolute !important
+  top: 32px !important
+  right: 60px !important
+
 .column.social_footer
   width: 100px !important
   display: grid !important
@@ -514,6 +522,23 @@ $menu-label-color: $white-ter
   max-width: 1076px
   margin-top: 68px
 
+@media screen and (min-width: 450px) and (max-width: 1405px)
+  .container
+    padding: inherit
+
+  ul.menu-list_footer, ul.section-sub-nav
+    flex-wrap: wrap-reverse
+  ul.menu-list_footer li
+    display: block
+    width: 100%
+
+  .columns.footer_grid
+    display: grid !important
+    grid-template-columns: 1fr 185px
+
+  .copyright
+    padding: 20px 32px 0 !important
+
 
 @import "~bulma"
 
@@ -523,10 +548,110 @@ $menu-label-color: $white-ter
   .blog-list-item .featured-thumbnail
     flex-basis: 50%
 
-+mobile
+  .navbar-burger
+    color: #fff
+
+  .container
+    padding: 10px 0
+  .container.header
+    max-width: 100%
+    padding: inherit
+
+  .columns
+    margin-left: 10px
+    margin-right: 10px
+
+  .navbar-item.logo
+    left: 12px !important
+    top: 12px !important
+
+  .section-sub-nav
+    display: grid
+    grid-template-columns: 1fr 1fr 1fr
+  a.navbar-item
+    cursor: pointer
+    display: block
+    margin: 0 auto !important
+
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
     text-align: center
-    max-width: 70%
+    max-width: 100%
     margin: 0 0 1em
+  .articl-footer
+    display: grid
+    grid-template-columns: 1fr 1fr
+    width: 91%
+  .column.post_column
+    padding: 0 20px
+
+  ul.menu-list_footer, ul.section-sub-nav
+    flex-wrap: wrap-reverse
+  ul.menu-list_footer li
+    display: block
+    width: 100%
+
+  .copyright
+    padding: 20px 32px 0 !important
+  .column.social
+    width: auto !important
+    flex-direction: row !important
+    top: 0 !important
+    right: 10px !important
+
++mobile
+  .navbar-burger
+    color: #fff
+
+  .container
+    padding: 10px 0
+  .container.header
+    max-width: 100%
+    padding: inherit
+
+  .columns
+    margin-left: 10px
+    margin-right: 10px
+
+  .navbar-item.logo
+    left: 12px !important
+    top: 12px !important
+
+  .index.Blog
+    padding: 0 15px
+
+  .section-sub-nav
+    display: grid
+    grid-template-columns: 1fr 1fr 1fr
+  a.navbar-item
+    cursor: pointer
+    display: block
+    margin: 0 auto !important
+
+  .blog-list-item header
+    display: block
+  .blog-list-item .featured-thumbnail
+    text-align: center
+    max-width: 100%
+    margin: 0 0 1em
+  .articl-footer
+    display: grid
+    grid-template-columns: 1fr 1fr
+    width: 91%
+  .column.post_column
+    padding: 0 20px
+
+  ul.menu-list_footer, ul.section-sub-nav
+    flex-wrap: wrap-reverse
+  ul.menu-list_footer li
+    display: block
+    width: 100%
+
+  .copyright
+    padding: 20px 32px 0 !important
+  .column.social
+    width: auto !important
+    flex-direction: row !important
+    top: 0 !important
+    right: 10px !important

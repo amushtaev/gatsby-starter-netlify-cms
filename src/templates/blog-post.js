@@ -76,15 +76,7 @@ export const BlogPostTemplate = ({
               <BlogRollRelated categories={categories} id={id}/>
             </div>
           </div>
-          <div className="column social" style={{
-            width: `48px`,
-            display: `flex`,
-            flexDirection: `column`,
-            position: `absolute`,
-            top: `32px`,
-            right: `60px`
-
-          }}>
+          <div className="column social">
             <a title="facebook" href="https://facebook.com">
               <img
                 src={facebook}

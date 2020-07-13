@@ -10,7 +10,7 @@ const Footer = class extends React.Component {
       <footer className="">
         <div className="content"  style={{background: `transparent`}}>
           <div className="container">
-            <div style={{ maxWidth: '100vw', borderTop: `solid 4px rgba(255, 255, 255, 0.32)`, display: `grid`, gridTemplateColumns: `1fr 154px` }} className="columns footer_grid">
+            <div style={{ borderTop: `solid 4px rgba(255, 255, 255, 0.32)` }} className="columns footer_grid">
               <div className="column" style={{padding: `38px 0px`}}>
                 <section className="menu">
                   <ul className="menu-list_footer">
