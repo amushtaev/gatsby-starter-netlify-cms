@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
 categories:
-  - Python
-  - Go
+  - News
 categories-slug:
-  - python
-  - go
+  - news
 title: test 1 edit adesign.dp.ua
 date: 2020-06-30T15:01:54.359Z
 description: test 1
