@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Stud
+  - Case Study
 categories-slug:
   - case-study
 title: A beginners’ guide to brewing with Chemex
