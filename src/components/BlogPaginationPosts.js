@@ -24,6 +24,7 @@ export default class BlogPaginationPosts extends React.Component {
                         imageInfo={{
                           image: post.frontmatter.image.publicURL,
                           alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                          srcSet: post.frontmatter.featuredimage.childImageSharp.fluid.srcSet,
                         }}
                       />
                     </div>
