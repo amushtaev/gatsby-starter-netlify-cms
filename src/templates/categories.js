@@ -7,7 +7,9 @@ import {Link} from "gatsby";
 class CategoriesRoute extends React.Component {
   render() {
     const refSlug = typeof window !== 'undefined' && window.location.href.split("/category/")[1];
-    const slugs = this.props.data.allMarkdownRemark.group;
+    const data = this.props.data.allMarkdownRemark.group;
+
+    console.log(data)
 
     return (
       <LayoutBlog>
@@ -24,12 +26,11 @@ class CategoriesRoute extends React.Component {
           <div className="container">
             <div className="content">
               <div className="columns is-multiline BlogRollPosts">
-                {slugs.map((slug, index) => (
-                  //TODO key?
+                {data.map((posts, index) => (
                   <React.Fragment key={`${index}category`}>
-                    {slug.fieldValue === refSlug ? (
+                    {posts.fieldValue === refSlug ? (
                       <React.Fragment key={index}>
-                        {slug.edges.map((post) => (
+                        {posts.edges.map((post) => (
                           <div className="is-parent column is-4" key={post.node.id}>
                             <article
                               className={`blog-list-item tile is-child box notification ${
@@ -116,6 +117,11 @@ export const categoryPageQuery = graphql`
             featuredpost
             featuredimage {
               publicURL
+              childImageSharp {
+                fluid(maxWidth: 220, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
             }
           }
           fields {
