@@ -6,7 +6,7 @@ import {Link} from "gatsby";
 
 class CategoriesRoute extends React.Component {
   render() {
-    const refSlug = window.location.href.split("/category/")[1];
+    const refSlug = window !== 'undefined' && window.location.href.split("/category/")[1];
     const slugs = this.props.data.allMarkdownRemark.group;
 
     return (
@@ -24,11 +24,11 @@ class CategoriesRoute extends React.Component {
           <div className="container">
             <div className="content">
               <div className="columns is-multiline BlogRollPosts">
-                {slugs.map((slug) => (
+                {slugs.map((slug, index) => (
                   //TODO key?
-                  <>
+                  <React.Fragment key={`${index}category`}>
                     {slug.fieldValue === refSlug ? (
-                      <>
+                      <React.Fragment key={index}>
                         {slug.edges.map((post) => (
                           <div className="is-parent column is-4" key={post.node.id}>
                             <article
@@ -76,9 +76,9 @@ class CategoriesRoute extends React.Component {
                             </article>
                           </div>
                         ))}
-                      </>
+                      </React.Fragment>
                     ) : null}
-                  </>
+                  </React.Fragment>
                 ))}
               </div>
             </div>
