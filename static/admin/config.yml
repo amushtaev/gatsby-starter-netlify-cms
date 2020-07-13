@@ -19,7 +19,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Category", name: "categories", widget: "select", multiple: true, options: ["Case Stud", "Facebook Ads", "Instagram Ads", "News", "Tutorials", "Video Ads"]}
+      - {label: "Category", name: "categories", widget: "select", multiple: true, options: ["Case Study", "Facebook Ads", "Instagram Ads", "News", "Tutorials", "Video Ads"]}
       - {label: "Category-Slug", name: "categories-slug", widget: "select", multiple: true, options: ["case-study", "facebook-ads", "instagram-ads", "news", "tutorials", "video-ads"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
