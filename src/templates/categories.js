@@ -99,7 +99,13 @@ export const categoryPageQuery = graphql`
       title
     }
   }
-  allMarkdownRemark(limit: 1000, sort: {order: DESC, fields: [frontmatter___date]}) {
+  allMarkdownRemark(
+    limit: 1000, 
+    sort: {
+      order: DESC, 
+      fields: [frontmatter___date]
+    }
+  ) {
     group(field: frontmatter___categories_slug) {
       fieldValue
       totalCount
