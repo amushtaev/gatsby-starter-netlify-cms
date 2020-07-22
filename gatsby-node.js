@@ -1,4 +1,4 @@
-const {createLinkedPages, createPaginationPages} = require("gatsby-pagination");
+const {createLinkedPages, createPaginationPages} = require('gatsby-pagination');
 const _ = require('lodash');
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');

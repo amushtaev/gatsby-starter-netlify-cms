@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes, {node} from 'prop-types'
 import {graphql, Link, StaticQuery} from 'gatsby'
+import Search from './Search'
 
 class NavRoll extends React.Component {
 
@@ -29,6 +30,7 @@ class NavRoll extends React.Component {
               )}
             </li>
           ))}
+          <Search searchIndex={data.siteSearchIndex.index} />
         </ul>
       </div>
     )
@@ -66,6 +68,9 @@ export default ({active}) => (
               }
             }
           }
+        }
+        siteSearchIndex {
+          index
         }
       }
     `}
