@@ -108,7 +108,7 @@ const CatPage = ({data, pageContext }) => {
         <h2 className="h2-subtitle">News, guides, and updates on Google and Facebook marketing</h2>
       </div>
       <section>
-        <NavRoll data={data} />
+        <NavRoll active={slug[0]} />
       </section>
       <section className="section index Posts">
         <div className="container">
