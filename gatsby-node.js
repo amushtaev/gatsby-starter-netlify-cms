@@ -165,16 +165,58 @@ exports.createPages = ({ actions, graphql }) => {
     categories = _.uniq(categories);
 
     // Make category pages
-    categories.forEach((category) => {
-      const categoryPath = `/category/${_.kebabCase(category)}/`;
+    categories.forEach((category, index) => {
+      let edgesCat = [];
+      edges.forEach((edge) => {
+        if(edge.node.frontmatter.categories && edge.node.frontmatter.categories[0] === category) {
+          edgesCat = edgesCat.concat(edge)
+        }
+      });
 
-      createPage({
+      console.log(edgesCat, "edgesCategory")
+      const categoryPath = `/category/${_.kebabCase(category)}`;
+
+      createPaginationPages({
+        createPage,
+        edges: edgesCat,
+        component: path.resolve('src/templates/categories.js'),
+        limit: 1,
+        pathFormatter: p => (p === 1 ? categoryPath : `${categoryPath}/page/${p}`),
+        context: {
+          title,
+          shortTitle,
+        },
+      });
+      createLinkedPages({
+        createPage,
+        edges: edgesCat,
+        component: path.resolve(`src/templates/categories.js`),
+        edgeParser: edge => {
+          const {
+            id,
+            fields: { slug },
+            frontmatter: { templateKey },
+          } = edge.node;
+          return {
+            path: slug,
+            // additional data can be passed via context
+            context: {
+              id,
+              slug,
+            },
+          };
+        },
+        circular: true,
+      });
+
+      /*createPage({
         path: categoryPath,
         component: path.resolve(`src/templates/categories.js`),
         context: {
-          category,
+          edgesCat,
+          slug: categoryPath
         },
-      })
+      })*/
     });
   })
 };
