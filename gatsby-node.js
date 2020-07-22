@@ -31,6 +31,7 @@ exports.createPages = ({ actions, graphql }) => {
               tags
               templateKey
               categories
+              categories_slug
               title
               date(formatString: "MMMM DD, YYYY")
               image {
@@ -68,7 +69,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     let edgesBlog = [];
     edges.forEach((edge) => {
-      if (edge.node.fields.slug.indexOf('/blog') > -1) {
+      if (edge.node.fields.slug.indexOf(`/blog`) > -1) {
         edgesBlog = edgesBlog.concat(edge)
       }
     });
@@ -77,7 +78,7 @@ exports.createPages = ({ actions, graphql }) => {
     createPaginationPages({
       createPage,
       edges: edgesBlog,
-      component: path.resolve('src/templates/blog.js'),
+      component: path.resolve(`src/templates/blog.js`),
       limit: 6,
       pathFormatter: p => (p === 1 ? `/blog/` : `/blog/page/${p}`),
       //pathFormatter: prefixPathFormatter('/blog'),
@@ -111,8 +112,8 @@ exports.createPages = ({ actions, graphql }) => {
 
     edges.forEach((edge) => {
       const id = edge.node.id;
-      const pagePath = String(edge.node.fields.slug).includes("/blog/") ?
-        String(edge.node.fields.slug).replace(`\/blog`, "") :
+      const pagePath = String(edge.node.fields.slug).includes(`/blog/`) ?
+        String(edge.node.fields.slug).replace(`\/blog`, ``) :
         edge.node.fields.slug;
 
       createPage({
@@ -167,24 +168,27 @@ exports.createPages = ({ actions, graphql }) => {
     // Make category pages
     categories.forEach((category, index) => {
       let edgesCat = [];
-      edges.forEach((edge) => {
+      let slug = ``;
+        edges.forEach((edge) => {
         if(edge.node.frontmatter.categories && edge.node.frontmatter.categories[0] === category) {
-          edgesCat = edgesCat.concat(edge)
+          edgesCat = edgesCat.concat(edge);
+          slug = edge.node.frontmatter.categories_slug
         }
       });
 
-      console.log(edgesCat, "edgesCategory")
       const categoryPath = `/category/${_.kebabCase(category)}`;
 
       createPaginationPages({
         createPage,
         edges: edgesCat,
-        component: path.resolve('src/templates/categories.js'),
+        component: path.resolve(`src/templates/categories.js`),
         limit: 1,
         pathFormatter: p => (p === 1 ? categoryPath : `${categoryPath}/page/${p}`),
         context: {
           title,
           shortTitle,
+          category,
+          slug,
         },
       });
       createLinkedPages({
@@ -208,15 +212,6 @@ exports.createPages = ({ actions, graphql }) => {
         },
         circular: true,
       });
-
-      /*createPage({
-        path: categoryPath,
-        component: path.resolve(`src/templates/categories.js`),
-        context: {
-          edgesCat,
-          slug: categoryPath
-        },
-      })*/
     });
   })
 };

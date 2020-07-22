@@ -22,15 +22,16 @@ const CatPage = ({data, pageContext }) => {
     prev,
     next,
     pages,
+    slug,
   } = pageContext;
 
-  console.log(pageContext, "Cat", pages, "pages", page, "page", prev, "prev", next, "next")
+  console.log(pageContext, "Cat", pages, "pages", page, "page", prev, "prev", next, "next", slug)
 
   //const prevLink = prev.includes("page/1") ? prev.replace("page/1", "") : prev;
   // Create the navigation link
   let navItems = [
     {
-      link: `/category/`,
+      link: `/category/${slug}`,
       index: 1,
       current: page === 1,
     },
@@ -39,7 +40,7 @@ const CatPage = ({data, pageContext }) => {
     navItems = [
       ...navItems,
       ...Array.from({ length: pages - 1 }, (_, i) => ({
-        link: `/category/page/${i + 2}/`,
+        link: `/category/${slug}/page/${i + 2}/`,
         index: i + 2,
         current: page === i + 2,
       })),
@@ -59,7 +60,7 @@ const CatPage = ({data, pageContext }) => {
           index: 'starter-separator',
         },
         {
-          link: `/category/page/${pages}/`,
+          link: `/category/${slug}/page/${pages}/`,
           index: pages,
           current: false,
         },
@@ -87,7 +88,7 @@ const CatPage = ({data, pageContext }) => {
           index: 'finisher-separator',
         },
         {
-          link: `/category/page/${pages}/`,
+          link: `/category/${slug}/page/${pages}/`,
           index: pages,
           current: false,
         },
