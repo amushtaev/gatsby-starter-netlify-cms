@@ -34,7 +34,7 @@ class NavRoll extends React.Component {
               )}
             </li>
           ))}
-          <Search searchIndex={data.siteSearchIndex.index} />
+          <Search />
         </ul>
       </div>
     )
@@ -72,9 +72,6 @@ export default ({active}) => (
               }
             }
           }
-        }
-        siteSearchIndex {
-          index
         }
       }
     `}

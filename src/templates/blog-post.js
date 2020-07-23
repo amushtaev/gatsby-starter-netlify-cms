@@ -47,7 +47,7 @@ export const BlogPostTemplate = ({
       <div className="container white s__width" style={{position: `relative`}}>
         <div className="columns">
           <div className="column post_column">
-            <img className="post_image" src={image} />
+            <img className="post_image" src={image} alt={title} />
             <div style={{paddingTop: "8px"}}>
               {categories && categories.length ? (
               <>

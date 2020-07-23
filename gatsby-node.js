@@ -154,7 +154,7 @@ exports.createPages = ({ actions, graphql }) => {
       })
     });
 
-    //TODO categories
+    //Categories page with pagination
     let categories = [];
     // Iterate through each post, putting all found categories into `categories`
     edges.forEach((edge) => {

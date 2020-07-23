@@ -21,8 +21,6 @@ const Pagination = ({pageContext, category, link}) =>{
     total,
   } = pageContext;
 
-  console.log(category, link, "category, link")
-
   // Create the navigation link
   let navItems = [
     {
