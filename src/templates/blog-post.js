@@ -11,6 +11,7 @@ import twitter from "../img/social/twitter.svg";
 import linkedin from "../img/social/linkedin.svg";
 import gplus from "../img/social/gplus.svg";
 import BlogRollRelated from "../components/BlogRollRelated";
+import { DiscussionEmbed } from "disqus-react"
 
 export const BlogPostTemplate = ({
   content,
@@ -20,11 +21,16 @@ export const BlogPostTemplate = ({
   title,
   helmet,
   categories,
+  slug,
   id,
   image,
   date,
 }) => {
   const PostContent = contentComponent || Content;
+  const disqusConfig = {
+    shortname: process.env.GATSBY_DISQUS_NAME,
+    config: { identifier: slug, title },
+  }
 
   return (
     <section className="section Blog-Post" id={id}>
@@ -69,6 +75,7 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+            <DiscussionEmbed {...disqusConfig} />
             <div className="column" style={{marginTop: `60px`}}>
               <h3 className="post_related">
                 you may also like

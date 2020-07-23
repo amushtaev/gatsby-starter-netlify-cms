@@ -18,7 +18,7 @@ export default class Search extends Component {
     return (
       <li className="searshItem">
         <input type="text" value={this.state.query} onChange={this.search} className="searshInput" placeholder="Search" />
-        <img
+        <img className="searsh"
           src={search}
           alt="Search"
         />

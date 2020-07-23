@@ -32,7 +32,8 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
     "uuid": "^8.2.0",
-    "seo": "^0.0.15"
+    "seo": "^0.0.15",
+    "disqus-react": "^1.0.9"
   },
   "keywords": [
     "gatsby"

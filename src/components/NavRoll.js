@@ -12,7 +12,11 @@ class NavRoll extends React.Component {
       <div className="subNav">
         <ul className="section-sub-nav">
           <li className="sub-nav">
-            <a className={`navbar-item ${!active ? "color--yellow" : "white"}`} href="/blog">See all</a>
+            <Link
+              className={`navbar-item ${!active ? "color--yellow" : "white"}`}
+              to="/blog">
+                See all
+            </Link>
           </li>
           {data.allMarkdownRemark.catNames.map((cat, index) => (
             <li className="sub-nav" key={cat.fieldValue}>
