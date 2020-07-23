@@ -4,9 +4,20 @@ import {graphql, Link, StaticQuery} from 'gatsby'
 import Search from './Search'
 
 class NavRoll extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      searchQuery: ''
+    }
+  }
+
+  setChange (string) {
+    this.setState({searchQuery: string});
+  }
 
   render() {
     const { data, active } = this.props;
+    console.log(this.state.searchQuery, "searchQuery")
 
     return (
       <div className="subNav">
@@ -34,7 +45,7 @@ class NavRoll extends React.Component {
               )}
             </li>
           ))}
-          <Search />
+          <Search setChange={(string) => this.setChange(string)}/>
         </ul>
       </div>
     )

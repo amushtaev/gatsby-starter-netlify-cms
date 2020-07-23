@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, {Component, useEffect} from 'react'
 import search from "../img/search.svg";
 
 // Search component
@@ -6,16 +6,24 @@ export default class Search extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      query: ``,
-      results: [],
+      searchQuery: ''
     }
   }
 
+  handleChange (e) {
+    this.setState({searchQuery: e.target.value});
+    this.props.setChange(e.target.value)
+  }
+
   render() {
-    console.log(this.state.results, "this.state.results", this.state.query)
     return (
       <li className="searshItem">
-        <input type="text" value={this.state.query} onChange={this.search} className="searshInput" placeholder="Search" />
+        <input
+          type="text"
+           value={ this.state.searchQuery}
+           onChange={(e) => {this.handleChange(e)}}
+           className="searshInput" placeholder="Search"
+        />
         <img className="searsh"
           src={search}
           alt="Search"
