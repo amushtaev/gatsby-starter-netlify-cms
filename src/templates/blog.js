@@ -3,13 +3,17 @@ import NavRoll from '../components/NavRoll';
 import BlogPaginationPosts from '../components/BlogPaginationPosts';
 import LayoutBlog from '../components/LayoutBlog';
 import Pagination from '../components/Pagination';
+import PropTypes from "prop-types";
 
-const BlogPage = ({data, pageContext }) => {
-  console.log(pageContext)
+const BlogPage = ({data, pageContext, stringSearch}) => {
+  let [string, setString] = useState('');
+
   useEffect(() => {
-    console.log("useEffect")
-  });
+    setString(stringSearch)
+  }, [string]);
+  console.log(string, "useEffect String", stringSearch)
 
+  //console.log(string, "BlogPage")
   return (
     <LayoutBlog>
       <div
@@ -21,7 +25,7 @@ const BlogPage = ({data, pageContext }) => {
         <h2 className='h2-subtitle'>News, guides, and updates on Google and Facebook marketing</h2>
       </div>
       <section>
-        <NavRoll data={data} />
+        <NavRoll data={data} string={(string) => String(string)}/>
       </section>
       <section className='section index Posts'>
         <div className='container'>
@@ -35,3 +39,10 @@ const BlogPage = ({data, pageContext }) => {
   )
 };
 export default BlogPage
+
+export const String= (stringSearch) => {
+  console.log(stringSearch, "function String")
+  return (
+    <stringSearch stringSearch={stringSearch} />
+  )
+};

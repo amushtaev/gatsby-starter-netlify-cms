@@ -142,7 +142,7 @@ const IndexPage = ({ data }) => {
       />
     </Layout>
   )
-}
+};
 
 IndexPage.propTypes = {
   data: PropTypes.shape({
@@ -190,4 +190,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

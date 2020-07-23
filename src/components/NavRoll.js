@@ -7,7 +7,8 @@ class NavRoll extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      searchQuery: ''
+      searchQuery: '',
+      change: this.props.change
     }
   }
 
@@ -16,8 +17,7 @@ class NavRoll extends React.Component {
   }
 
   render() {
-    const { data, active } = this.props;
-    console.log(this.state.searchQuery, "searchQuery")
+    const { data, active, change, stringFun } = this.props;
 
     return (
       <div className="subNav">
@@ -45,7 +45,7 @@ class NavRoll extends React.Component {
               )}
             </li>
           ))}
-          <Search setChange={(string) => this.setChange(string)}/>
+          <Search setChange={(string) => this.setChange(string)} stringFun={stringFun}/>
         </ul>
       </div>
     )
@@ -60,7 +60,7 @@ NavRoll.propTypes = {
   }),
 };
 
-export default ({active}) => (
+export default ({active, string}) => (
   <StaticQuery
     query={graphql`
       query NavCatLink {
@@ -86,6 +86,6 @@ export default ({active}) => (
         }
       }
     `}
-    render={(data) => <NavRoll data={data} active={active} />}
+    render={(data) => <NavRoll data={data} active={active} stringFun={string} />}
   />
 )

@@ -4,7 +4,7 @@ import BlogPaginationPosts from "../components/BlogPaginationPosts";
 import LayoutBlog from "../components/LayoutBlog";
 import Pagination from "../components/Pagination";
 
-const CatPage = ({data, pageContext }) => {
+const CatPage = ({pageContext }) => {
   //const refSlug = typeof window !== 'undefined' && window.location.href.split("/category/")[1];
   const {
     slug,
