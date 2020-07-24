@@ -4,20 +4,8 @@ import {graphql, Link, StaticQuery} from 'gatsby'
 import Search from './Search'
 
 class NavRoll extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      searchQuery: '',
-      change: this.props.change
-    }
-  }
-
-  setChange (string) {
-    this.setState({searchQuery: string});
-  }
-
   render() {
-    const { data, active, change, stringFun } = this.props;
+    const { data, active } = this.props;
 
     return (
       <div className="subNav">
@@ -45,7 +33,7 @@ class NavRoll extends React.Component {
               )}
             </li>
           ))}
-          <Search setChange={(string) => this.setChange(string)} stringFun={stringFun}/>
+          <Search onSearch={this.props.onSearch} value={this.props.defaultSearch} />
         </ul>
       </div>
     )
@@ -58,9 +46,11 @@ NavRoll.propTypes = {
       edges: PropTypes.array,
     }),
   }),
+  defaultSearch: PropTypes.string,
+  onSearch: PropTypes.func,
 };
 
-export default ({active, string}) => (
+export default ({active, defaultSearchValue, onSearch}) => (
   <StaticQuery
     query={graphql`
       query NavCatLink {
@@ -86,6 +76,6 @@ export default ({active, string}) => (
         }
       }
     `}
-    render={(data) => <NavRoll data={data} active={active} stringFun={string} />}
+    render={(data) => <NavRoll data={data} active={active} defaultSearch={defaultSearchValue} onSearch={(value) => onSearch(value)} />}
   />
 )

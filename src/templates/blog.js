@@ -3,17 +3,56 @@ import NavRoll from '../components/NavRoll';
 import BlogPaginationPosts from '../components/BlogPaginationPosts';
 import LayoutBlog from '../components/LayoutBlog';
 import Pagination from '../components/Pagination';
-import PropTypes from "prop-types";
+import PropTypes from 'prop-types';
+import {graphql} from "gatsby";
 
-const BlogPage = ({data, pageContext, stringSearch}) => {
-  let [string, setString] = useState('');
+const BlogPage = ({pageContext, stringSearch}) => {
+    const [search, setSearch] = useState(stringSearch);
 
-  useEffect(() => {
-    setString(stringSearch)
-  }, [string]);
-  console.log(string, "useEffect String", stringSearch)
+    useEffect(() => {
+      const searchBlogPostQuery = graphql`
+        query searchBlogPost($search: String!) {
+          allMarkdownRemark(filter: {frontmatter: {title: {regex: $search}}}, limit: 100) {
+            nodes {
+              frontmatter {
+                title
+              }
+            }
+            edges {
+              node {
+                id
+                fields {
+                  slug
+                }
+                frontmatter {
+                  tags
+                  templateKey
+                  categories
+                  categories_slug
+                  title
+                  date(formatString: "MMMM DD, YYYY")
+                  image {
+                    publicURL
+                  }
+                  featuredimage {
+                    publicURL
+                    childImageSharp {
+                      fluid(maxWidth: 250, quality: 100) {
+                        src
+                        srcSet
+                        base64
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      `;
+      console.log('SEARCH', search);
+    }, [search]);
 
-  //console.log(string, "BlogPage")
   return (
     <LayoutBlog>
       <div
@@ -25,7 +64,7 @@ const BlogPage = ({data, pageContext, stringSearch}) => {
         <h2 className='h2-subtitle'>News, guides, and updates on Google and Facebook marketing</h2>
       </div>
       <section>
-        <NavRoll data={data} string={(string) => String(string)}/>
+        <NavRoll defaultSearch={stringSearch} onSearch={(value) => setSearch(value)} />
       </section>
       <section className='section index Posts'>
         <div className='container'>
@@ -40,9 +79,6 @@ const BlogPage = ({data, pageContext, stringSearch}) => {
 };
 export default BlogPage
 
-export const String= (stringSearch) => {
-  console.log(stringSearch, "function String")
-  return (
-    <stringSearch stringSearch={stringSearch} />
-  )
+BlogPage.propType = {
+  stringSearch: PropTypes.string,
 };

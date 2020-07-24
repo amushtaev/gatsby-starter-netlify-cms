@@ -1,34 +1,30 @@
 import React, {Component, useEffect} from 'react'
 import search from "../img/search.svg";
+import PropTypes from "prop-types";
 
 // Search component
 export default class Search extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      searchQuery: ''
+      searchQuery: props.value,
     }
   }
 
   handleChange (e) {
-    this.setState({searchQuery: e.target.value});
-    this.props.setChange(e.target.value)
-    this.setState({stringFun: e.target.value})
-    this.props.stringFun(e.target.value)
+    this.props.onSearch(e.target.value)
   }
 
   render() {
-    const { stringFun } = this.props;
-
     return (
-      <li className="searshItem">
+      <li className="searchItem">
         <input
           type="text"
            value={ this.state.searchQuery}
            onChange={(e) => {this.handleChange(e)}}
-           className="searshInput" placeholder="Search"
+           className="searchInput" placeholder="Search"
         />
-        <img className="searsh"
+        <img className="search"
           src={search}
           alt="Search"
         />
@@ -36,3 +32,8 @@ export default class Search extends Component {
     )
   }
 }
+
+Search.propTypes = {
+  value: PropTypes.string,
+  onSearch: PropTypes.func.isRequired,
+};
