@@ -24,7 +24,7 @@ const Pricing = ({ data }) => (
       </div>
     ))}
   </div>
-)
+);
 
 Pricing.propTypes = {
   data: PropTypes.arrayOf(
@@ -35,6 +35,6 @@ Pricing.propTypes = {
       items: PropTypes.array,
     })
   ),
-}
+};
 
 export default Pricing

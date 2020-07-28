@@ -4,54 +4,23 @@ import BlogPaginationPosts from '../components/BlogPaginationPosts';
 import LayoutBlog from '../components/LayoutBlog';
 import Pagination from '../components/Pagination';
 import PropTypes from 'prop-types';
-import {graphql} from "gatsby";
+/*import SearchPage from './search-result'
+import { Redirect } from "react-router-dom";
+import {useRoutes, useRedirect} from 'hookrouter';*/
+import useDebounce from '../components/DebouncedHook'
 
 const BlogPage = ({pageContext, stringSearch}) => {
-    const [search, setSearch] = useState(stringSearch);
+  const [search, setSearch] = useState(stringSearch);
+  const [redirctTo, setRedirctTo] = useState(false);
+  const debouncedSearchTerm = useDebounce(search, 1000);
 
-    useEffect(() => {
-      const searchBlogPostQuery = graphql`
-        query searchBlogPost($search: String!) {
-          allMarkdownRemark(filter: {frontmatter: {title: {regex: $search}}}, limit: 100) {
-            nodes {
-              frontmatter {
-                title
-              }
-            }
-            edges {
-              node {
-                id
-                fields {
-                  slug
-                }
-                frontmatter {
-                  tags
-                  templateKey
-                  categories
-                  categories_slug
-                  title
-                  date(formatString: "MMMM DD, YYYY")
-                  image {
-                    publicURL
-                  }
-                  featuredimage {
-                    publicURL
-                    childImageSharp {
-                      fluid(maxWidth: 250, quality: 100) {
-                        src
-                        srcSet
-                        base64
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      `;
-      console.log('SEARCH', search);
-    }, [search]);
+  useEffect(() => {
+    setRedirctTo(true);
+    /*if(redirctTo)  SearchResult(search)*/
+    if(redirctTo) {
+      window.location.href = `/search?${search}`;
+    }
+  }, [debouncedSearchTerm]);
 
   return (
     <LayoutBlog>
@@ -82,3 +51,10 @@ export default BlogPage
 BlogPage.propType = {
   stringSearch: PropTypes.string,
 };
+
+function SearchResult(search) {
+  console.log(search, 'SEARCH search');
+  /*return (
+    <Redirect to="/search${search}" path="/search${search}" component={SearchPage} />
+    )*/
+}

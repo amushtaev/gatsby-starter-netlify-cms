@@ -213,6 +213,43 @@ exports.createPages = ({ actions, graphql }) => {
         circular: true,
       });
     });
+    //TODO
+    // Create Search Pagination Pages
+    createPaginationPages({
+      createPage,
+      edges: edgesBlog,
+      component: path.resolve(`src/templates/search-result.js`),
+      limit: 20,
+      pathFormatter: p => (p === 1 ? `/search/` : `/search/page/${p}`),
+      //pathFormatter: prefixPathFormatter('/blog'),
+      context: {
+        title,
+        shortTitle,
+      },
+    });
+    // Create linked Search pages
+    createLinkedPages({
+      createPage,
+      edges: edgesBlog,
+      component: path.resolve(`src/templates/search-result.js`),
+      edgeParser: edge => {
+        const {
+          id,
+          fields: { slug },
+          frontmatter: { templateKey },
+        } = edge.node;
+        return {
+          path: slug,
+          // additional data can be passed via context
+          context: {
+            id,
+            slug,
+          },
+        };
+      },
+      circular: true,
+    });
+
   })
 };
 
@@ -230,3 +267,61 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 };
+
+/*//search-result
+const redirectPages = require('./src/templates/search-result');
+exports.createPages = ({ graphql, actions }) => {
+  const redirectPageTemplate = path.resolve('./src/templates/search-result.js');
+  return new Promise((resolve) => {
+    graphql(`
+    {
+      site {
+        siteMetadata {
+          title
+        }
+      }
+      allMarkdownRemark(
+        limit: 1000,
+        sort: {
+          fields: [frontmatter___date],
+          order: DESC
+        }
+      ) {
+        edges {
+          node {
+            id
+            fields {
+              slug
+            }
+            frontmatter {
+              tags
+              templateKey
+              categories
+              categories_slug
+              title
+              date(formatString: "MMMM DD, YYYY")
+              image {
+                publicURL
+              }
+              featuredimage {
+                publicURL
+                childImageSharp {
+                  fluid(maxWidth: 250, quality: 100) {
+                    src
+                    srcSet
+                    base64
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  `).then((result) => {
+      redirectPages([
+        {url: '/blog/', redirect: '/search'},
+      ], createPage, redirectPageTemplate);
+    })
+  });
+};*/

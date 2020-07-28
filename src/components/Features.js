@@ -22,7 +22,7 @@ const FeatureGrid = ({ gridItems }) => (
       </div>
     ))}
   </div>
-)
+);
 
 FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
@@ -31,6 +31,6 @@ FeatureGrid.propTypes = {
       text: PropTypes.string,
     })
   ),
-}
+};
 
 export default FeatureGrid

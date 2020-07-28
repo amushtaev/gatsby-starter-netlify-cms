@@ -6,8 +6,8 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 export default class BlogRollPosts extends React.Component {
 
   render() {
-    const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const { pageContext } = this.props;
+    const posts = pageContext.nodes;
 
     return (
       <div className="columns is-multiline BlogRollPosts">
