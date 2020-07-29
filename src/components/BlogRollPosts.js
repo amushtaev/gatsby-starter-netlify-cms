@@ -1,13 +1,13 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 import PropTypes from 'prop-types'
-import { Link } from 'gatsby'
+import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-export default class BlogRollPosts extends React.Component {
+class BlogRollPosts extends React.Component {
 
   render() {
-    const { pageContext } = this.props;
-    const posts = pageContext.nodes;
+    const { data, search } = this.props;
+    const { edges: posts } = data.allMarkdownRemark;
 
     return (
       <div className="columns is-multiline BlogRollPosts">
@@ -72,7 +72,7 @@ BlogRollPosts.propTypes = {
   }),
 };
 
-/*export default () => (
+export default ({search}) => (
   <StaticQuery
     query={graphql`
       query BlogRollPostsQuery {
@@ -82,7 +82,7 @@ BlogRollPosts.propTypes = {
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 20)
               id
               fields {
                 slug
@@ -121,7 +121,7 @@ BlogRollPosts.propTypes = {
     `}
     render={
       (data, count) =>
-        <BlogRollPosts data={data} count={count} />
+        <BlogRollPosts data={data} search={search} />
     }
   />
-)*/
+)

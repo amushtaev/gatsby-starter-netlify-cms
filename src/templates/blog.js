@@ -4,23 +4,33 @@ import BlogPaginationPosts from '../components/BlogPaginationPosts';
 import LayoutBlog from '../components/LayoutBlog';
 import Pagination from '../components/Pagination';
 import PropTypes from 'prop-types';
-/*import SearchPage from './search-result'
-import { Redirect } from "react-router-dom";
-import {useRoutes, useRedirect} from 'hookrouter';*/
+import SearchPage from './search-result'
+import { Redirect, Route, Router, Switch } from "react-router";
 import useDebounce from '../components/DebouncedHook'
+import { createBrowserHistory } from 'history'
 
 const BlogPage = ({pageContext, stringSearch}) => {
   const [search, setSearch] = useState(stringSearch);
   const [redirctTo, setRedirctTo] = useState(false);
   const debouncedSearchTerm = useDebounce(search, 1000);
+  const history = window.browserHistory || createBrowserHistory();
 
   useEffect(() => {
     setRedirctTo(true);
-    /*if(redirctTo)  SearchResult(search)*/
-    if(redirctTo) {
-      window.location.href = `/search?${search}`;
-    }
   }, [debouncedSearchTerm]);
+
+  if(debouncedSearchTerm && redirctTo){
+    console.log(debouncedSearchTerm, 'SEARCH search', redirctTo);
+    return (
+      <Router  history={history}>
+        <Switch>
+          <Route path='/search'>
+            <SearchPage pageContext={pageContext} search={debouncedSearchTerm} />
+          </Route>
+          <Redirect path='/blog' to='/search' />
+        </Switch>
+      </Router>)
+  }
 
   return (
     <LayoutBlog>
@@ -52,9 +62,3 @@ BlogPage.propType = {
   stringSearch: PropTypes.string,
 };
 
-function SearchResult(search) {
-  console.log(search, 'SEARCH search');
-  /*return (
-    <Redirect to="/search${search}" path="/search${search}" component={SearchPage} />
-    )*/
-}

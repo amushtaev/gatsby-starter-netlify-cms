@@ -1,15 +1,14 @@
 import React from 'react'
-import {graphql, Link, StaticQuery} from 'gatsby'
 import NavRoll from "../components/NavRoll";
 import BlogRollPosts from "../components/BlogRollPosts";
 import LayoutBlog from "../components/LayoutBlog";
-import PropTypes from "prop-types";
 
-const SearchPage = ({pageContext }) => {
+const SearchPage = ({pageContext, search }) => {
   //const refSlug = typeof window !== 'undefined' && window.location.href.split("/category/")[1];
 
   const {
     slug,
+    title,
   } = pageContext;
 
     return (
@@ -28,7 +27,7 @@ const SearchPage = ({pageContext }) => {
         <section className="section index Posts">
           <div className="container">
             <div className="content">
-              <BlogRollPosts pageContext={ pageContext } />
+              <BlogRollPosts pageContext={ pageContext } search={search} />
             </div>
           </div>
         </section>
