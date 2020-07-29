@@ -76,3 +76,5 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Description, name: description, widget: string, required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
+          - {label: "Tags", name: "tags", widget: "list", required: false}
