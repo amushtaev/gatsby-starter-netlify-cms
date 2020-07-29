@@ -30,7 +30,7 @@ export const BlogPostTemplate = ({
   const disqusConfig = {
     shortname: process.env.GATSBY_DISQUS_NAME,
     config: { identifier: slug, title },
-  }
+  };
 
   return (
     <section className='section Blog-Post' id={id}>
