@@ -75,7 +75,7 @@ BlogRollPosts.propTypes = {
   }),
 };
 
-export default ({search}) => (
+/*export default ({search}) => (
   <StaticQuery regex={search}
     query={graphql`
       query BlogRollPostsQuery {
@@ -127,14 +127,14 @@ export default ({search}) => (
         <BlogRollPosts data={data} search={search} />
     }
   />
-)
+)*/
 
 
-/*
 export default ({search}) => (
-  <StaticQuery regex={search}
-               query={graphql`
-      query BlogRollPostsQuery($regex: String="/YOU/") {
+  <StaticQuery
+    $regex={search}
+    query={graphql`
+      query BlogRollPostsQuery($regex: String) {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" }, title: {regex: $regex} } }
@@ -178,9 +178,9 @@ export default ({search}) => (
         }
       }
     `}
-               render={
-                 (data, count) =>
-                   <BlogRollPosts data={data} search={search} />
-               }
+     render={
+       (data, count) =>
+         <BlogRollPosts data={data} search={search} />
+     }
   />
-)*/
+)

@@ -18,7 +18,7 @@ const BlogPage = ({pageContext, stringSearch}) => {
   useEffect(() => {
     setRedirctTo(true);
   }, [debouncedSearchTerm]);
-
+  //TODO
   if(debouncedSearchTerm && redirctTo){
     console.log(debouncedSearchTerm, 'SEARCH search', redirctTo);
     return (

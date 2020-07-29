@@ -1,14 +1,39 @@
-import React from 'react'
+import React, {useEffect, useState} from 'react'
 import NavRoll from "../components/NavRoll";
 import BlogPaginationPosts from "../components/BlogPaginationPosts";
 import LayoutBlog from "../components/LayoutBlog";
 import Pagination from "../components/Pagination";
+import useDebounce from "../components/DebouncedHook";
+import {createBrowserHistory} from "history";
+import {Redirect, Route, Router, Switch} from "react-router";
+import SearchPage from "./search-result";
 
-const CatPage = ({pageContext }) => {
+const CatPage = ({pageContext, stringSearch }) => {
   //const refSlug = typeof window !== 'undefined' && window.location.href.split("/category/")[1];
   const {
     slug,
   } = pageContext;
+  const [search, setSearch] = useState(stringSearch);
+  const [redirctTo, setRedirctTo] = useState(false);
+  const debouncedSearchTerm = useDebounce(search, 1000);
+  const history = window.browserHistory || createBrowserHistory();
+
+  useEffect(() => {
+    setRedirctTo(true);
+  }, [debouncedSearchTerm]);
+  //TODO
+  if(debouncedSearchTerm && redirctTo){
+    console.log(debouncedSearchTerm, 'SEARCH search', redirctTo, slug);
+    return (
+      <Router  history={history}>
+        <Switch>
+          <Route path='/search'>
+            <SearchPage pageContext={pageContext} search={debouncedSearchTerm} />
+          </Route>
+          <Redirect path='/category/' to='/search' />
+        </Switch>
+      </Router>)
+  }
 
   return (
     <LayoutBlog>
@@ -21,7 +46,7 @@ const CatPage = ({pageContext }) => {
         <h2 className="h2-subtitle">News, guides, and updates on Google and Facebook marketing</h2>
       </div>
       <section>
-        <NavRoll active={slug[0]} />
+        <NavRoll active={slug[0]} defaultSearch={stringSearch} onSearch={(value) => setSearch(value)} />
       </section>
       <section className="section index Posts">
         <div className="container">
