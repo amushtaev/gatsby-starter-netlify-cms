@@ -23,7 +23,6 @@ const CatPage = ({pageContext, stringSearch }) => {
   }, [debouncedSearchTerm]);
   //TODO
   if(debouncedSearchTerm && redirctTo){
-    console.log(debouncedSearchTerm, 'SEARCH search', redirctTo, slug);
     return (
       <Router  history={history}>
         <Switch>
