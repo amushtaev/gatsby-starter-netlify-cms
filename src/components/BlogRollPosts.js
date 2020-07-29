@@ -14,6 +14,7 @@ class BlogRollPosts extends React.Component {
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
+              <>{console.log(post.frontmatter.title)}</>
               <article
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''
@@ -75,14 +76,14 @@ BlogRollPosts.propTypes = {
 export default ({search}) => (
   <StaticQuery
     query={graphql`
-      query BlogRollPostsQuery {
+      query BlogRollPostsQuery($regex: String="/YOU/") {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" }, title: {regex: $regex} } }
         ) {
           edges {
             node {
-              excerpt(pruneLength: 20)
+              excerpt(pruneLength: 200)
               id
               fields {
                 slug
