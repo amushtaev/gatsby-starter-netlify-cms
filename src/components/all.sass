@@ -127,11 +127,10 @@ ul
 .section.Blog-Post
   padding: 0 !important
 
-.navbar-item.white
+.navbar_item
   color: $color-white !important
 
-.navbar-item.white,
-.navbar-item.color--yellow
+.navbar_item
   margin-right: 56px
 
 .column.is-4
@@ -151,7 +150,16 @@ ul
 .container
   padding: 0 115px
 
-.navbar-item .icon
+.navbar_item
+  font-family: Source Sans Pro,sans-serif
+  font-style: normal
+  font-weight: normal
+  font-size: 20px
+  line-height: 36px
+  color: #ffffff
+  opacity: 0.8
+
+.navbar_item .icon
   color: $primary
 
 .blog-list-item .featured-thumbnail
@@ -172,36 +180,44 @@ ul
   line-height: 0.7em
   text-align: right
 
-[aria-current]
+a[aria*='page']
   border-bottom: 4px solid $color-white !important
   font-weight: 900 !important
   color: $color-white !important
 
-.sub-nav .navbar-item.white,
-.navbar-item.color--yellow
+.sub-nav .navbar_item,
+.navbar_item.color--yellow
   background: transparent !important
 
-a.white:hover
-  opacity: 0.8
+.has-text-centered, .section-sub-nav
+  display: flex !important
+  align-items: center !important
+  justify-content: center !important
+
+.section-sub-nav
+  height: 45px
+
+a.hover
+  opacity: 1
   margin-top: 4px
   color: $color-white !important
   border-bottom: 4px solid $color-white !important
 
-.sub-nav .navbar-item.white:hover
-  opacity: 0.8
+.navbar_item:hover
+  opacity: 1
   color: $color-white !important
   margin-top: 4px
   border-bottom: 4px solid $color-white !important
   background: transparent !important
-  padding: 4px 12px
 
-.navbar-item.color--yellow:hover
-  opacity: 0.8
+.navbar_item.color--yellow
   color: $color-yellow !important
+
+.navbar_item.color--yellow:hover
+  opacity: 1
   margin-top: 4px
   border-bottom: 4px solid $color-yellow !important
   background: transparent !important
-  padding: 4px 12px
 
 .title.has-text-primary
   text-decoration: none !important
@@ -266,19 +282,19 @@ a.white:hover
   width: 1.5rem
   height: 1.5rem
   fill: currentColor
-.navbar-brand .navbar-item.logo
+.navbar-brand .navbar_item.logo
   padding: 0 1rem
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
 
-.navbar-item img.logo
+.navbar_item img.logo
   max-height: 100% !important
   /* position: fixed */
   /* left: 72px */
   /* top: 12px */
   width: 54px
-.navbar-item.logo
+.navbar_item.logo
   max-height: 100% !important
   position: absolute !important
   left: 72px !important
@@ -438,7 +454,7 @@ footer.footer
 
 footer
   margin-top: 52px !important
-.navbar-item.footer
+.navbar_item.footer
   font-family: Source Sans Pro
   font-style: normal !important
   font-weight: normal !important
@@ -611,14 +627,14 @@ $menu-label-color: $white-ter
     margin-left: 10px
     margin-right: 10px
 
-  .navbar-item.logo
+  .navbar_item.logo
     left: 12px !important
     top: 12px !important
 
   .section-sub-nav
     display: grid
     grid-template-columns: 1fr 1fr 1fr
-  a.navbar-item
+  a.navbar_item
     cursor: pointer
     display: block
     margin: 0 auto !important
@@ -664,7 +680,7 @@ $menu-label-color: $white-ter
     margin-left: 10px
     margin-right: 10px
 
-  .navbar-item.logo
+  .navbar_item.logo
     left: 12px !important
     top: 12px !important
 
@@ -674,7 +690,7 @@ $menu-label-color: $white-ter
   .section-sub-nav
     display: grid
     grid-template-columns: 1fr 1fr 1fr
-  a.navbar-item
+  a.navbar_item
     cursor: pointer
     display: block
     margin: 0 auto !important
@@ -713,7 +729,7 @@ $menu-label-color: $white-ter
     position: absolute
     width: 100%
     top: 49px
-  a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active
+  a.navbar_item:focus, a.navbar_item:focus-within, a.navbar_item:hover, a.navbar_item.is-active
     width: fit-content
     border-bottom: 4px #fff solid
     background: none

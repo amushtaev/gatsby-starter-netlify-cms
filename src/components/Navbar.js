@@ -8,6 +8,10 @@ const Navbar = class extends React.Component {
     this.state = {
       active: false,
       navBarActiveClass: '',
+    };
+    this.pageState = {
+      active: false,
+      navBarActiveClass: '',
     }
   }
 
@@ -40,7 +44,7 @@ const Navbar = class extends React.Component {
       >
         <div className="container header">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item logo" title="Logo Softcube">
+            <Link to="/" className="navbar_item logo" title="Logo Softcube">
               <img src={logo} alt="Softcube" className="logo"/>
             </Link>
             {/* Hamburger menu */}
@@ -59,21 +63,21 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item white" to="/industries">
+              <Link className="navbar_item" to="/industries">
                 Industries
               </Link>
-              <Link className="navbar-item white" to="/pricing">
+              <Link className="navbar_item" to="/pricing">
                 Pricing
               </Link>
-              <Link className="navbar-item white" to="/blog">
+              <Link className="navbar_item" to="/blog">
                 Blog
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item white" to="https://app.softcube.com">
+              <Link className="navbar_item" to="https://app.softcube.com">
                 Sign In
               </Link>
-              <Link className="navbar-item color--yellow" to="https://app.softcube.com">
+              <Link className="navbar_item color--yellow" to="https://app.softcube.com">
                 Sign Up
               </Link>
             </div>

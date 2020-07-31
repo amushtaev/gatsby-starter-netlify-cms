@@ -155,8 +155,6 @@ function PlanCard(props) {
   const [featuresList, setFeaturesList] = useState([]);
   const [isCheckoutForm, setIsCheckoutForm] = useState(false);
 
-  console.log(plan, check)
-
   useEffect(() => {
     if (plan.name === 'BASIC') {
       setFeaturesList(Features.basic);

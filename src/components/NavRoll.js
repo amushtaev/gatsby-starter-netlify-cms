@@ -12,7 +12,7 @@ class NavRoll extends React.Component {
         <ul className="section-sub-nav">
           <li className="sub-nav">
             <Link
-              className={`navbar-item ${!active ? "color--yellow" : "white"}`}
+              className={`navbar_item ${!active ? "color--yellow" : ""}`}
               to="/blog">
                 See all
             </Link>
@@ -23,7 +23,7 @@ class NavRoll extends React.Component {
                 index === slugindex ?
                   <Link
                     key={slug}
-                    className={`navbar-item ${active === slug.fieldValue ? "color--yellow" : "white"}`}
+                    className={`navbar_item ${active === slug.fieldValue ? "color--yellow" : ""}`}
                     to={`/category/${slug.fieldValue}`}
                     pathname={slug.fieldValue}
                     propsslug={slug.fieldValue}

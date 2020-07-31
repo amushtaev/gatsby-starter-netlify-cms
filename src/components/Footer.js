@@ -16,22 +16,22 @@ const Footer = class extends React.Component {
                   <ul className="menu-list_footer">
                     <li><a className="copyright" style={{paddingTop: `7px`}}>© 2020 Softcube</a></li>
                     <li>
-                      <Link to="/" className="navbar-item footer">
+                      <Link to="/" className="navbar_item footer">
                         Terms of Service
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item footer" to="#">
+                      <Link className="navbar_item footer" to="#">
                         Privacy Policy
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item footer" to="#">
+                      <Link className="navbar_item footer" to="#">
                         Membership Agreement
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item footer" to="#">
+                      <Link className="navbar_item footer" to="#">
                         Copyright
                       </Link>
                     </li>
