@@ -96,7 +96,8 @@ PricingPage.propType = {
   stringSearch: PropTypes.string,
 };
 
-function PlansPricing( isSubscribing, subscribe, subscribeResult ) {
+function PlansPricing( props ) {
+  const {isSubscribing, subscribe, subscribeResult} = props;
   const [check, setCheck] = useState(true);
 
   return (
@@ -129,7 +130,8 @@ function PlansPricing( isSubscribing, subscribe, subscribeResult ) {
   );
 }
 
-function PlansComponent(check) {
+function PlansComponent(props) {
+  const { plan, check, isSubscribing, subscribe, subscribeResult } = props;
   const [plans] = useState([initialPlans]);
 
   return (
@@ -149,8 +151,10 @@ function PlansComponent(check) {
 }
 
 function PlanCard(props) {
+  const { plan, check, isSubscribing, subscribe, subscribeResult } = props;
   const [featuresList, setFeaturesList] = useState([]);
-  const {plan, check} = props;
+  const [isCheckoutForm, setIsCheckoutForm] = useState(false);
+
   console.log(plan, check)
 
   useEffect(() => {
@@ -199,6 +203,7 @@ function PlanCard(props) {
           )}
           <ChooseButton
             text={
+              // eslint-disable-next-line no-nested-ternary
               plan.name === 'CUSTOM'
                 ? 'Contact us'
                 : plan.name === 'PRO'
@@ -206,7 +211,7 @@ function PlanCard(props) {
                 : 'Choose Basic'
             }
             onClick={() => {
-              //plan.name !== 'CUSTOM' && setIsCheckoutForm(true);
+              plan.name !== 'CUSTOM' && setIsCheckoutForm(true);
             }}
           />
         </Tier>
