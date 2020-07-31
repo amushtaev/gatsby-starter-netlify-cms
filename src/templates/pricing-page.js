@@ -148,17 +148,19 @@ function PlansComponent(check) {
   );
 }
 
-function PlanCard(plan, check) {
+function PlanCard(props) {
   const [featuresList, setFeaturesList] = useState([]);
+  const {plan, check} = props;
+  console.log(plan, check)
 
   useEffect(() => {
-    if (plan.plan.name === 'BASIC') {
+    if (plan.name === 'BASIC') {
       setFeaturesList(Features.basic);
     }
-    if (plan.plan.name === 'PRO') {
+    if (plan.name === 'PRO') {
       setFeaturesList(Features.pro);
     }
-    if (plan.plan.name === 'CUSTOM') {
+    if (plan.name === 'CUSTOM') {
       setFeaturesList(Features.custom);
     }
   }, [plan]);
@@ -176,22 +178,22 @@ function PlanCard(plan, check) {
           {plan.name === 'CUSTOM' && <CustomPricing>Custom pricing</CustomPricing>}
           {plan.name !== 'CUSTOM' && (
             <PriceContainer>
-              <OldPrice check={check}>{`$ ${plan.plan.pricing.monthly.mon}`}</OldPrice>
+              <OldPrice check={check}>{`$ ${plan.pricing.monthly.mon}`}</OldPrice>
               <div>
                 <Price>
                   {`$ ${
-                    check ? plan.plan.pricing.annual.mon : plan.pricing.monthly.mon
+                    check ? plan.pricing.annual.mon : plan.pricing.monthly.mon
                   }`}
                 </Price>
                 <Per>{' / MO'}</Per>
               </div>
               <BilledAnnually>
                 {`$${
-                  check ? plan.plan.pricing.annual.ann : plan.plan.pricing.monthly.ann
+                  check ? plan.pricing.annual.ann : plan.pricing.monthly.ann
                 } / billed annually`}
               </BilledAnnually>
               <DownloadVideos>
-                {!check ? plan.plan.videosCount.annual : plan.plan.videosCount.monthly}
+                {!check ? plan.videosCount.annual : plan.videosCount.monthly}
               </DownloadVideos>
             </PriceContainer>
           )}
