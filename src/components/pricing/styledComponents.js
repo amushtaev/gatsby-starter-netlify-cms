@@ -539,9 +539,9 @@ export const PricingLargeHeading = styled(CreateLargeHeading)`
 export const InputContainer = styled.div`
     display: inline-flex;
     flex-direction: row;
-    margin: 52px 0 0 0;
+    margin: 20px 0 0 20px;
     padding: 0;
-    width: 100%;
+    width: 96%;
 `;
 
 export const BigSimpleTextInputStyled = styled(BigSimpleTextInput)`

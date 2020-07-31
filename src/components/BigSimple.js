@@ -31,24 +31,25 @@ const Input = styled.input`
 `;
 
 export const BigSimpleTextInput = (props) => {
-  const [id, className, name, placeholder, defaultValue, onChange] = props;
+  const {id, className, name, placeholder, defaultValue, onChange} = props;
   return (
     <Container className={className}>
-      <Back />
-      <InputContainer>
-        <Input
-          id={id}
-          type='text'
-          name={name}
-          placeholder={placeholder ?? ''}
-          defaultValue={defaultValue ?? ''}
-          onChange={(e) => {
-            if (onChange !== undefined) {
-              onChange(e.target.value);
-            }
-          }}
-        />
-      </InputContainer>
+      <Back>
+        <InputContainer>
+          <Input
+            id={id}
+            type='text'
+            name={name}
+            placeholder={placeholder ?? ''}
+            defaultValue={defaultValue ?? ''}
+            onChange={(e) => {
+              if (onChange !== undefined) {
+                onChange(e.target.value);
+              }
+            }}
+          />
+        </InputContainer>
+      </Back>
     </Container>
   );
 };
