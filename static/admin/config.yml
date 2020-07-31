@@ -61,3 +61,11 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Description, name: description, widget: string, required: false}
+      - file: "src/pages/industries/index.md"
+        label: "Industries Page"
+        name: "industries"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "industries-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Heading, name: heading, widget: string, required: false}
+          - {label: Description, name: description, widget: string, required: false}

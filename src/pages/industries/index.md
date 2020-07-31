@@ -1,5 +1,7 @@
 ---
-title: Industries Page
-heading: Industries Page
-description: Industries Page
+templateKey: 'industries-page'
+path: /industries
+title: industries
+heading: industries
+description: Plans that match your inventory volume
 ---
