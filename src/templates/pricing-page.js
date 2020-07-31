@@ -211,7 +211,8 @@ function PlanCard(props) {
                 : 'Choose Basic'
             }
             onClick={() => {
-              plan.name !== 'CUSTOM' && setIsCheckoutForm(true);
+              //plan.name !== 'CUSTOM' && setIsCheckoutForm(true);
+              window.location.href = 'https://app.softcube.com'
             }}
           />
         </Tier>
@@ -436,7 +437,8 @@ function WhatOurClientSay() {
       <TryAiButton
         text='Try AI video ad maker'
         onClick={() => {
-          hist.push('/create');
+          //hist.push('/create');
+          window.location.href = 'https://app.softcube.com'
         }}
       />
     </>
@@ -563,7 +565,8 @@ function PasteYourLink() {
         <BigButtonStyled
           text='Create video'
           onClick={() => {
-            hist.push(`/create?link=${inputValue}`);
+            //hist.push(`/create?link=${inputValue}`);
+            window.location.href = 'https://app.softcube.com'
           }}
         />
       </InputContainer>
