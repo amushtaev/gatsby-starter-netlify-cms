@@ -443,11 +443,13 @@ function WhatOurClientSay() {
   );
 }
 
-function ArrowLeft(disabled) {
+function ArrowLeft(props) {
+  const { disabled, onClick } = props;
   const disabeld = disabled ? ' arrow--disabled' : '';
   return (
     <Arrow
       left
+      onClick={onClick}
       className={`arrow arrow--left${disabeld}`}
       xmlns='http://www.w3.org/2000/svg'
       width='30'
@@ -462,12 +464,13 @@ function ArrowLeft(disabled) {
   );
 }
 
-function ArrowRight(disabled) {
-  console.log(disabled, "onClick, disabled ArrowRight")
+function ArrowRight(props) {
+  const { disabled, onClick } = props;
   const disabeld = disabled ? ' arrow--disabled' : '';
   return (
     <Arrow
       left={false}
+      onClick={onClick}
       className={`arrow arrow--right${disabeld}`}
       xmlns='http://www.w3.org/2000/svg'
       width='30'
