@@ -115,7 +115,7 @@ exports.createPages = ({ actions, graphql }) => {
       const pagePath = String(edge.node.fields.slug).includes(`/blog/`) ?
         String(edge.node.fields.slug).replace(`\/blog`, ``) :
         edge.node.fields.slug;
-console.log(edge.node.frontmatter.templateKey)
+
       createPage({
         path: pagePath,
         tags: edge.node.frontmatter.tags,

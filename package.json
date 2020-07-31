@@ -34,7 +34,11 @@
     "hookrouter": "^1.2.3",
     "uuid": "^8.2.0",
     "seo": "^0.0.15",
-    "disqus-react": "^1.0.9"
+    "disqus-react": "^1.0.9",
+    "keen-slider": "^5.2.2",
+    "styled-components": "^5.1.1",
+    "typescript": "^3.9.7",
+    "grommet": "^2.14.0"
   },
   "keywords": [
     "gatsby"
