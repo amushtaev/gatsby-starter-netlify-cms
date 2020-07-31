@@ -44,7 +44,7 @@ const Navbar = class extends React.Component {
       >
         <div className="container header">
           <div className="navbar-brand">
-            <Link to="/" className="navbar_item logo" title="Logo Softcube">
+            <Link to="/" className="navbar-item logo" title="Logo Softcube">
               <img src={logo} alt="Softcube" className="logo"/>
             </Link>
             {/* Hamburger menu */}
@@ -77,7 +77,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar_item" to="https://app.softcube.com">
                 Sign In
               </Link>
-              <Link className="navbar_item color--yellow" to="https://app.softcube.com">
+              <Link className="navbar_item color--yellow Sign Up" to="https://app.softcube.com">
                 Sign Up
               </Link>
             </div>

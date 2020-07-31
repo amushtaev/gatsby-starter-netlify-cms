@@ -59,7 +59,7 @@ ul
   margin-top: 112px
 
 .color--yellow
-  color: $color-yellow !important
+  color: $color-yellow
 
 .navbar
   background: transparent!important
@@ -128,7 +128,7 @@ ul
   padding: 0 !important
 
 .navbar_item
-  color: $color-white !important
+  color: $color-white
 
 .navbar_item
   margin-right: 56px
@@ -187,7 +187,7 @@ a[aria*='page']
 
 .sub-nav .navbar_item,
 .navbar_item.color--yellow
-  background: transparent !important
+  background: transparent
 
 .has-text-centered, .section-sub-nav
   display: flex !important
@@ -197,27 +197,28 @@ a[aria*='page']
 .section-sub-nav
   height: 45px
 
-a.hover
-  opacity: 1
-  margin-top: 4px
-  color: $color-white !important
-  border-bottom: 4px solid $color-white !important
-
 .navbar_item:hover
   opacity: 1
-  color: $color-white !important
   margin-top: 4px
-  border-bottom: 4px solid $color-white !important
-  background: transparent !important
+  color: $color-white
+  border-bottom: 4px solid $color-white
+  background: transparent
 
 .navbar_item.color--yellow
-  color: $color-yellow !important
+  color: $color-yellow
+  margin-top: -4px
+  border-bottom: 4px solid $color-yellow
+
+.navbar_item.color--yellow.Sign.Up
+  color: $color-yellow
+  border-bottom: 0
+.navbar_item.color--yellow.Sign.Up:hover
+  margin-top: 0
+  border-bottom: 4px solid $color-yellow
 
 .navbar_item.color--yellow:hover
   opacity: 1
-  margin-top: 4px
-  border-bottom: 4px solid $color-yellow !important
-  background: transparent !important
+  background: transparent
 
 .title.has-text-primary
   text-decoration: none !important
@@ -282,19 +283,19 @@ a.hover
   width: 1.5rem
   height: 1.5rem
   fill: currentColor
-.navbar-brand .navbar_item.logo
+.navbar-brand .navbar-item.logo
   padding: 0 1rem
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
 
-.navbar_item img.logo
+.navbar-item img.logo
   max-height: 100% !important
   /* position: fixed */
   /* left: 72px */
   /* top: 12px */
   width: 54px
-.navbar_item.logo
+.navbar-item.logo
   max-height: 100% !important
   position: absolute !important
   left: 72px !important
@@ -627,7 +628,7 @@ $menu-label-color: $white-ter
     margin-left: 10px
     margin-right: 10px
 
-  .navbar_item.logo
+  .navbar-item.logo
     left: 12px !important
     top: 12px !important
 
@@ -680,7 +681,7 @@ $menu-label-color: $white-ter
     margin-left: 10px
     margin-right: 10px
 
-  .navbar_item.logo
+  .navbar-item.logo
     left: 12px !important
     top: 12px !important
 
