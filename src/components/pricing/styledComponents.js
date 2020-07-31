@@ -232,6 +232,7 @@ export const SloganSmall = styled.span`
     text-align: center;
     letter-spacing: 0.02em;
     color: rgba(255, 255, 255, 0.84);
+    padding-bottom: 32px;
 `;
 
 export const TumblerGrid = styled.div`
