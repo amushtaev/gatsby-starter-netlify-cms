@@ -171,7 +171,8 @@ const Label = styled.span`
     user-select: none;
 `;
 
-export const BigButton = (className, disabled, onClick, text, submit) => {
+export const BigButton = (props) => {
+  const {className, disabled, onClick, text, submit} = props;
     return (
       <Button
         className={className}

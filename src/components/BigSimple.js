@@ -30,7 +30,8 @@ const Input = styled.input`
     width: 100%;
 `;
 
-export const BigSimpleTextInput = (id, className, name, placeholder, defaultValue, onChange) => {
+export const BigSimpleTextInput = (props) => {
+  const [id, className, name, placeholder, defaultValue, onChange] = props;
   return (
     <Container className={className}>
       <Back />
