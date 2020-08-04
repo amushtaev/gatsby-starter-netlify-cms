@@ -464,7 +464,7 @@ export const DownloadVideos = styled.span`
     font-family: Source Sans Pro;
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 20px;Search
     line-height: 25px;
     text-align: center;
     color: #fff;
@@ -474,6 +474,12 @@ export const DownloadVideos = styled.span`
 export const ChooseButton = styled(BigButton)`
     width: 196px;
     margin: 0 auto 42px auto;
+`;
+
+export const SearchButton = styled(BigButton)`
+    min-width: 196px;
+    width: 196px;
+    margin: 0 auto 42px 14px
 `;
 
 export const Feature = styled.span`

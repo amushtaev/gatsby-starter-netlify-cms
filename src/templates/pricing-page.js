@@ -131,7 +131,7 @@ function PlansPricing( props ) {
 }
 
 function PlansComponent(props) {
-  const { plan, check, isSubscribing, subscribe, subscribeResult } = props;
+  const { check } = props;
   const [plans] = useState([initialPlans]);
 
   return (
@@ -151,9 +151,8 @@ function PlansComponent(props) {
 }
 
 function PlanCard(props) {
-  const { plan, check, isSubscribing, subscribe, subscribeResult } = props;
+  const { plan, check } = props;
   const [featuresList, setFeaturesList] = useState([]);
-  const [isCheckoutForm, setIsCheckoutForm] = useState(false);
 
   useEffect(() => {
     if (plan.name === 'BASIC') {

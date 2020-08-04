@@ -1,82 +1,30 @@
 import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
-import { useKeenSlider } from 'keen-slider/react';
-import { useHistory } from 'react-router';
-import {
-  PricingLargeHeading,
-  PlansIncludeContainer,
-  IncludeContainer,
-  KeenSlider,
-  Slide,
-  DarkRectangle,
-  CommentCard,
-  CommentContainer,
-  AuthorContainer,
-  AuthorPhoto,
-  Author,
-  Dots,
-  Dot,
-  TryAiButton,
-  Comment,
-  Arrow,
-  PricingPageContainer,
-  PricingHeading,
-  SloganSmall,
-  TumblerGrid,
-  PlanType,
-  TestBox,
-  Check,
-  Discount,
-  Pricing,
-  ItemsWrapper,
-  PlanCardContainer,
-  CardHeader,
-  Tier,
-  PopularLabel,
-  PlanHeading,
-  PlanInfo,
-  CustomPricing,
-  PriceContainer,
-  OldPrice,
-  Price,
-  Per,
-  BilledAnnually,
-  DownloadVideos,
-  ChooseButton,
-  Feature,
-  MediumHeading,
-  AccordionWithMargin,
-  QuestionPanel,
-  Answer,
-  CreateLargeHeading,
-  InputContainer,
-  BigSimpleTextInputStyled,
-  softcubeDark,
-  MediumSlogan,
-  BigButtonStyled,
-} from '../components/pricing/styledComponents';
-import {
-  Comments,
-  Features,
-  QuestionsAnswersFirstColumn,
-  QuestionsAnswersSecondColumn,
-} from '../components/pricing/textContent';
-import {
-  CheckListIcon,
-  VideoContentIcon,
-  ReadyMadeTemplatesIcon ,
-  UnlimitedProjectsIcon,
-  SoftcubeSupportIcon,
-} from '../img/icons';
-import { initialPlans } from '../components/pricing/stripe/plans';
-import Accordion from '../components/Accordion';
 import Layout from '../components/Layout'
+import {
+  SearchButton,
+  BigSimpleTextInputStyled,
+  CreateLargeHeading, InputContainer,
+  PricingHeading,
+  PricingPageContainer,
+  SloganSmall
+} from '../components/pricing/styledComponents';
+import NavRight from '../components/NavRright';
+import GetData from "../components/industries/getData";
 
-const IndustriesPage = ({ isSubscribing, subscribe, subscribeResult }) => {
-
+const IndustriesPage = () => {
+GetData();
+console.log(GetData(), "GetData")
   return (
     <Layout>
-
+      <PricingPageContainer>
+        <IndustriesHead />
+        <SearchYourLink />
+        <div className="industries">
+          <NavRight />
+          <IndustriesVideo />
+        </div>
+      </PricingPageContainer>
     </Layout>
   );
 };
@@ -85,3 +33,49 @@ export default IndustriesPage
 IndustriesPage.propType = {
   stringSearch: PropTypes.string,
 };
+
+function IndustriesHead() {
+  return (
+    <>
+      <PricingHeading>FIND THE PERFECT VIDEO TEMPLATE</PricingHeading>
+    </>
+  )
+}
+
+function SearchYourLink() {
+  const [inputValue, setInputValue] = React.useState('');
+  return (
+    <div
+      style={{
+        width: 1068,
+        alignItems: 'center',
+        display: 'flex',
+        flexDirection: 'column',
+        margin: '32px 0 98px 0',
+      }}
+    >
+      <InputContainer>
+        <BigSimpleTextInputStyled
+          name='product-link'
+          defaultValue={inputValue}
+          placeholder='Paste your link, e.g., bestservice.com/bestoffer.html'
+          onChange={(value) => {
+            setInputValue(value);
+          }}
+        />
+        <SearchButton
+          text='Search'
+          onClick={() => {
+            window.location.href = 'https://app.softcube.com'
+          }}
+        />
+      </InputContainer>
+    </div>
+  );
+}
+
+function IndustriesVideo() {
+  return (
+    <div className='template-directory-video-grid'></div>
+  )
+}
