@@ -38,8 +38,7 @@
     "keen-slider": "^5.2.2",
     "styled-components": "^5.1.1",
     "typescript": "^3.9.7",
-    "grommet": "^2.14.0",
-    "axios": "^0.19.2"
+    "grommet": "^2.14.0"
   },
   "keywords": [
     "gatsby"

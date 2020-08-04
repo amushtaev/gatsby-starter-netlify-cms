@@ -15,7 +15,6 @@ import GetData from "../components/industries/getData";
 const IndustriesPage = () => {
 const [videoData] = GetData(20);
 
-console.log(videoData, "GetData")
   return (
     <Layout>
       <PricingPageContainer>
@@ -23,7 +22,7 @@ console.log(videoData, "GetData")
         <SearchYourLink />
         <div className="industries">
           <NavRight />
-          <IndustriesVideo />
+          <IndustriesVideo data={videoData.data} />
         </div>
       </PricingPageContainer>
     </Layout>
@@ -75,8 +74,16 @@ function SearchYourLink() {
   );
 }
 
-function IndustriesVideo() {
+function IndustriesVideo(data) {
+
   return (
-    <div className='template-directory-video-grid'></div>
+    <div className='template-directory-video-grid'>
+      {data.search
+        ? data.search.map((video) => {
+          console.log(video, "video")
+        })
+        : null
+      }
+    </div>
   )
 }

@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios'
 
 const Tags = [
   { 'tag': 'ecommerce',' "class"': 'e-commers' },
@@ -13,6 +12,7 @@ const GetData = (pageSize) => {
   const [tags] = useState(Tags);
   let postDates = [];
   let searchTags = [];
+  const [postDate, setPostDate] = useState([])
 
   tags.map((tag, index) => {
     searchTags.push(
@@ -20,32 +20,44 @@ const GetData = (pageSize) => {
     )
   });
 
-  postDates.push(axios.post('https://graph.softcube.com/graphql', {
-    query: `query 
-    {search(
-      tags: [${searchTags}], page: 1, pageSize: ${pageSize}) { 
-        id 
-        project { 
-          id 
-          size { id name } 
-          video { 
-            urlInfo { 
-              accountID 
-              storageLevel 
-              fileKeyPreview 
-              fileKeyBigThumbnail
-            } 
-          }
+  useEffect(() => {
+    // POST request using fetch inside useEffect React hook
+    const requestOptions = {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify
+      (
+        {
+          query: `query 
+            {search(
+              tags: [${searchTags}], page: 1, pageSize: ${pageSize}) { 
+                id 
+                project { 
+                  id 
+                  size { id name } 
+                  video { 
+                    urlInfo { 
+                      accountID 
+                      storageLevel 
+                      fileKeyPreview 
+                      fileKeyBigThumbnail
+                    } 
+                  }
+                }
+                tags
+              }
+            }`
         }
-        tags
-      }
-    }`
-  }, {
-    headers: {
-      'Content-Type': 'application/json'
-    }
-  }));
-
+      )
+    };
+      fetch('https://graph.softcube.com/graphql', requestOptions)
+        .then((response) => response.json())
+        .then((responseJSON) => {
+          setPostDate( responseJSON )
+        });
+  }, []);
+  //TODO
+  postDates.push(postDate);
   return postDates
 };
 
