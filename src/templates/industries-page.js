@@ -74,7 +74,8 @@ function SearchYourLink() {
   );
 }
 
-function IndustriesVideo(data) {
+function IndustriesVideo(props) {
+  const { data } = props;
 
   return (
     <div className='template-directory-video-grid'>
