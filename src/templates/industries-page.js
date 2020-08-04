@@ -13,8 +13,9 @@ import NavRight from '../components/NavRright';
 import GetData from "../components/industries/getData";
 
 const IndustriesPage = () => {
-GetData();
-console.log(GetData(), "GetData")
+const [videoData] = GetData(20);
+
+console.log(videoData, "GetData")
   return (
     <Layout>
       <PricingPageContainer>

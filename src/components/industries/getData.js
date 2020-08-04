@@ -9,20 +9,44 @@ const Tags = [
   { 'tag': 'food and delivery', 'class': 'food-delivery' },
   { 'tag': 'fitness', 'class': 'fitness' }];
 
-const GetData = () => {
-  const [tags] = useState(Tags)
-  let postDatas = [];
+const GetData = (pageSize) => {
+  const [tags] = useState(Tags);
+  let postDates = [];
+  let searchTags = [];
+
   tags.map((tag, index) => {
-    console.log(tag.tag, "tag.tag")
-    postDatas.push(axios.post('https://graph.softcube.com/graphql', {
-      query: `query {search(tags: [{name: "${tag.tag}", score: 1}], page: 1, pageSize: 20) { id project { id size { id name } video { urlInfo { accountID storageLevel fileKeyPreview fileKeyBigThumbnail} } }}}`
-    }, {
-      headers: {
-        'Content-Type': 'application/json'
-      }
-    }))
+    searchTags.push(
+      '{name: "' + tag.tag + '", score: ' + index +'}'
+    )
   });
-  return postDatas
+
+  postDates.push(axios.post('https://graph.softcube.com/graphql', {
+    query: `query 
+    {search(
+      tags: [${searchTags}], page: 1, pageSize: ${pageSize}) { 
+        id 
+        project { 
+          id 
+          size { id name } 
+          video { 
+            urlInfo { 
+              accountID 
+              storageLevel 
+              fileKeyPreview 
+              fileKeyBigThumbnail
+            } 
+          }
+        }
+        tags
+      }
+    }`
+  }, {
+    headers: {
+      'Content-Type': 'application/json'
+    }
+  }));
+
+  return postDates
 };
 
 export default GetData
