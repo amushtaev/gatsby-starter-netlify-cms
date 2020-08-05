@@ -20,7 +20,7 @@ const BlogPage = ({pageContext, stringSearch}) => {
   }, [debouncedSearchTerm]);
   //TODO
   if(debouncedSearchTerm && redirctTo){
-    console.log(debouncedSearchTerm, 'SEARCH search', redirctTo);
+
     return (
       <Router  history={history}>
         <Switch>
