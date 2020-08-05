@@ -154,6 +154,39 @@ const Button = styled.button`
     }
 `;
 
+const SmallButton = styled.button`
+    background: rgba(0, 0, 0, 0.54);
+    border: 1px solid #FED300;
+    box-sizing: border-box;
+    border-radius: 24px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FED300;
+    justify-content: center;
+    align-self: center;
+
+    &:hover {
+        background: rgba(0, 0, 0, 1.0);
+    }
+    & span {
+        font-family: Source Sans Pro;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 16px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FED300;
+    }
+`;
+
 const Label = styled.span`
     display: inline-block;
     flex: 0 0 auto;
@@ -185,6 +218,22 @@ export const BigButton = (props) => {
           </Label>
       </Button>
     );
+};
+
+export const BlackButton = (props) => {
+  const {className, disabled, onClick, text, submit} = props;
+  return (
+    <SmallButton
+      className={className}
+      type={submit !== undefined && submit ? 'submit' : 'button'}
+      disabled={disabled}
+      onClick={onClick}
+    >
+      <Label disabled={disabled} text={text}>
+        {text}
+      </Label>
+    </SmallButton>
+  );
 };
 
 export const TryAiButton = styled(BigButton)`
@@ -474,6 +523,12 @@ export const DownloadVideos = styled.span`
 export const ChooseButton = styled(BigButton)`
     width: 196px;
     margin: 0 auto 42px auto;
+`;
+
+export const VideoButton = styled(BlackButton)`
+    width: 84px;
+    height: 28px;
+    margin: 0 auto;
 `;
 
 export const SearchButton = styled(BigButton)`

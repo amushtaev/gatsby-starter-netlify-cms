@@ -691,11 +691,12 @@ $menu-label-color: $white-ter
   color: rgba(255, 255, 255, 1.0)
 
 .templates-categories-menu
-  display: grid
+  display: block
 
 .template-directory-video-grid
-  width: calc(100% - 250px)
+  //width: calc(100% - 250px)
   display: grid
+  margin-left: 76px
   flex-grow: 1
 
 .sub-nav-left
@@ -709,6 +710,67 @@ $menu-label-color: $white-ter
     text-align: center
     color: rgba(255, 255, 255, 0.6)
     height: 40px
+
+.responsive-grid
+  display: flex
+
+.grid
+  /*background: #DDD;*/
+  -webkit-column-count: 4
+  -moz-column-count: 4
+  column-count: 4
+
+.grid:after
+  content: ''
+  display: block
+  clear: both
+
+.grid-item
+  position: relative
+  padding-bottom: 20px
+
+.video-item__content
+  position: absolute
+  z-index: 100
+  width: 100%
+  height: 100%
+  border-radius: inherit
+  display: flex
+
+.template-video-item__overlay
+  background-color: rgba(0,0,0,.4)
+  transition: opacity .5s
+  will-change: opacity
+  opacity: 0
+  display: flex
+
+.industries-grid_column
+  display: inline-block
+  vertical-align: top
+  padding-right: 24px
+
++tablet-only
+  //industries
+  .grid
+    -webkit-column-count: 3
+    -moz-column-count: 3
+    column-count: 3
+
+  .template-video-item__overlay
+    display: none
+
++tablet
+  //indusries
+  .template-directory-video-grid
+    margin-left: 76px
+
+  .grid
+    -webkit-column-count: 4
+    -moz-column-count: 4
+    column-count: 4
+
+  .template-video-item__overlay
+    display: none
 
 +mobile
   .navbar-burger
@@ -783,3 +845,25 @@ $menu-label-color: $white-ter
     height: auto !important
     width: auto !important
     max-width: inherit !important
+
+  //industries
+  .template-directory-video-grid
+    width: 100% !important
+    padding: 0 !important
+    margin-left: 0 !important
+
+  .grid-item
+    display: inline-block
+    list-style: none
+    margin-bottom: 18px
+    vertical-align: top
+    position: relative
+    padding-bottom: 20px
+
+  .grid
+    -webkit-column-count: 1
+    -moz-column-count: 1
+    column-count: 1
+
+  .template-video-item__overlay
+    display: none

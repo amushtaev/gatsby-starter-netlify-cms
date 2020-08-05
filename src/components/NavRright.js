@@ -1,5 +1,5 @@
 import React from 'react'
-import {graphql, Link} from 'gatsby'
+import {Link} from 'gatsby'
 import {
   browseTemplates,
 } from '../components/industries/textContent';

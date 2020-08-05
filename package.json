@@ -38,7 +38,8 @@
     "keen-slider": "^5.2.2",
     "styled-components": "^5.1.1",
     "typescript": "^3.9.7",
-    "grommet": "^2.14.0"
+    "grommet": "^2.14.0",
+    "react-masonry-css": "^1.0.14"
   },
   "keywords": [
     "gatsby"
