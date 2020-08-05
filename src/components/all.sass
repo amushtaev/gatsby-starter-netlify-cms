@@ -525,11 +525,14 @@ $menu-label-color: $white-ter
 .menu-label
   font-size: 1em !important
   text-align: left
+
 .menu-list
   list-style: none !important
   text-align: left
+
 .social
   padding: 2em
+
 .social a
     padding: .5em .5em .3em .5em
     border-radius: 1em
@@ -561,9 +564,11 @@ $menu-label-color: $white-ter
 // blog roll
 .blog-list-item.is-featured
   background-color: #d6400033
+
 .blog-list-item header
   display: flex
   margin-bottom: 1em
+
 .blog-list-item .featured-thumbnail
   flex-basis: 35%
   margin: 0 1.5em 0 0
@@ -596,6 +601,7 @@ $menu-label-color: $white-ter
 
   ul.menu-list_footer, ul.section-sub-nav
     flex-wrap: wrap-reverse
+
   ul.menu-list_footer li
     display: block
     width: 100%
@@ -610,7 +616,6 @@ $menu-label-color: $white-ter
 
 @import "~bulma"
 
-
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail
@@ -621,6 +626,7 @@ $menu-label-color: $white-ter
 
   .container
     padding: 10px 0
+
   .container.header
     max-width: 100%
     padding: inherit
@@ -636,6 +642,7 @@ $menu-label-color: $white-ter
   .section-sub-nav
     display: grid
     grid-template-columns: 1fr 1fr 1fr
+
   a.navbar_item
     cursor: pointer
     display: block
@@ -643,25 +650,30 @@ $menu-label-color: $white-ter
 
   .blog-list-item header
     display: block
+
   .blog-list-item .featured-thumbnail
     text-align: center
     max-width: 100%
     margin: 0 0 1em
+
   .articl-footer
     display: grid
     grid-template-columns: 1fr 1fr
     width: 91%
+
   .column.post_column
     padding: 0 20px
 
   ul.menu-list_footer, ul.section-sub-nav
     flex-wrap: wrap-reverse
+
   ul.menu-list_footer li
     display: block
     width: 100%
 
   .copyright
     padding: 20px 32px 0 !important
+
   .column.social
     width: auto !important
     flex-direction: row !important
@@ -727,7 +739,7 @@ $menu-label-color: $white-ter
 
 .grid-item
   position: relative
-  padding-bottom: 20px
+  margin-bottom: 24px
 
 .video-item__content
   position: absolute
@@ -736,13 +748,37 @@ $menu-label-color: $white-ter
   height: 100%
   border-radius: inherit
   display: flex
+  align-items: center
+  text-align: center
+  flex-direction: column
+  justify-content: center
+
+.video-item__content_video
+  position: absolute
+  top: 0
+  left: 0
+  padding-top: 0
+  margin-top: 0
+  align-items: center
+  text-align: center
+  flex-direction: column
+  justify-content: center
 
 .template-video-item__overlay
   background-color: rgba(0,0,0,.4)
   transition: opacity .5s
   will-change: opacity
-  opacity: 0
+  //opacity: 0
   display: flex
+  width: 100%
+  height: 100%
+  position: absolute
+
+.opacity_null
+  opacity: 0
+
+.opacity_load__video
+  opacity: 1
 
 .industries-grid_column
   display: inline-block
@@ -757,7 +793,7 @@ $menu-label-color: $white-ter
     column-count: 3
 
   .template-video-item__overlay
-    display: none
+    //display: none
 
 +tablet
   //indusries
@@ -770,7 +806,7 @@ $menu-label-color: $white-ter
     column-count: 4
 
   .template-video-item__overlay
-    display: none
+    //display: none
 
 +mobile
   .navbar-burger
@@ -778,6 +814,7 @@ $menu-label-color: $white-ter
 
   .container
     padding: 10px 0
+
   .container.header
     max-width: 100%
     padding: inherit
@@ -796,6 +833,7 @@ $menu-label-color: $white-ter
   .section-sub-nav
     display: grid
     grid-template-columns: 1fr 1fr 1fr
+
   a.navbar_item
     cursor: pointer
     display: block
@@ -803,25 +841,30 @@ $menu-label-color: $white-ter
 
   .blog-list-item header
     display: block
+
   .blog-list-item .featured-thumbnail
     text-align: center
     max-width: 100%
     margin: 0 0 1em
+
   .articl-footer, .articl-footer_related
     display: grid
     grid-template-columns: 1fr 1fr
     width: 91%
+
   .column.post_column
     padding: 0 20px
 
   ul.menu-list_footer, ul.section-sub-nav
     flex-wrap: wrap-reverse
+
   ul.menu-list_footer li
     display: block
     width: 100%
 
   .copyright
     padding: 20px 32px 0 !important
+
   .column.social
     width: auto !important
     flex-direction: row !important
@@ -835,6 +878,7 @@ $menu-label-color: $white-ter
     position: absolute
     width: 100%
     top: 49px
+
   a.navbar_item:focus, a.navbar_item:focus-within, a.navbar_item:hover, a.navbar_item.is-active
     width: fit-content
     border-bottom: 4px #fff solid
@@ -855,10 +899,9 @@ $menu-label-color: $white-ter
   .grid-item
     display: inline-block
     list-style: none
-    margin-bottom: 18px
+    margin-bottom: 24px
     vertical-align: top
     position: relative
-    padding-bottom: 20px
 
   .grid
     -webkit-column-count: 1

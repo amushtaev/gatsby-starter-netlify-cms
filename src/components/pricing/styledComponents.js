@@ -529,6 +529,9 @@ export const VideoButton = styled(BlackButton)`
     width: 84px;
     height: 28px;
     margin: 0 auto;
+    position: relative;
+    z-index: 101;
+    cursor: pointer;
 `;
 
 export const SearchButton = styled(BigButton)`

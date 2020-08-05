@@ -12,7 +12,8 @@ const GetData = (pageSize) => {
   const [tags] = useState(Tags);
   let postDates = [];
   let searchTags = [];
-  const [postDate, setPostDate] = useState([])
+  const [postDate, setPostDate] = useState([]);
+  const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
 
   tags.map((tag, index) => {
     searchTags.push(

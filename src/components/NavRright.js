@@ -14,7 +14,7 @@ const NavRight = () => {
           <Link
             className="link-menu"
             data-link="all"
-            to='all'
+            to='/industries'
           >
             BROWSE TEMPLATES
           </Link>

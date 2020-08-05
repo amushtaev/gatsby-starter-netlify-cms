@@ -1,6 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { VideoButton } from '../pricing/styledComponents'
-import useDebounce from '../DebouncedHook'
 
 const VideoTemplate = (props) => {
   const {video} = props;
@@ -14,6 +13,10 @@ const VideoTemplate = (props) => {
     video.project.video.urlInfo.fileKeyPreview;
   const [onMouseEnterHandler, setOnMouseEnterHandler] = useState(false);
   const [onMouseLeaveHandler, setOnMouseLeaveHandler] = useState(true);
+  const [isLoading, setLoading ]  = useState(true);
+  const elementRef   = useRef(null);
+  const [elementWidth, setElementWidth] = useState();
+  const [elementHeight, setElementHeight] = useState();
 
   const mouseOut = () => {
     setOnMouseEnterHandler(false);
@@ -21,12 +24,18 @@ const VideoTemplate = (props) => {
   };
 
   const mouseOver = () => {
+    setElementHeight(elementRef.current.offsetHeight);
+    setElementWidth(elementRef.current.offsetWidth);
     setOnMouseEnterHandler(true);
     setOnMouseLeaveHandler(false)
   };
 
   return (
-    <li className={`grid-item ${video.project.size.name}`}>
+    <li
+      className={`grid-item ${video.project.size.name}`}
+      ref = { elementRef }
+      style={{width: elementWidth, height: elementHeight}}
+    >
       <div className='video-item__content'
            onMouseEnter={
              () => {
@@ -38,6 +47,7 @@ const VideoTemplate = (props) => {
                mouseOut()
              }
            }
+           style={{width: elementWidth, height: elementHeight}}
       >
         <VideoButton
           text='Try for free!'
@@ -45,7 +55,7 @@ const VideoTemplate = (props) => {
             window.location.href = 'https://app.softcube.com'
           }}
         />
-        <div className='template-video-item__overlay'></div>
+        <div className={`template-video-item__overlay ${onMouseEnterHandler ? 'opacity_load__video' : 'opacity_null'}`}></div>
       </div>
       <>
       {!onMouseEnterHandler && onMouseLeaveHandler
@@ -57,9 +67,23 @@ const VideoTemplate = (props) => {
         : null
       }
       {onMouseEnterHandler && !onMouseLeaveHandler
-        ? <video autoPlay={true} preload='auto' poster={itemImgSrc} loop={true}>
-          <source src={itemVideoSrc} type="video/mp4" />
-        </video>
+        ? <video
+          className='video-item__content_video'
+          autoPlay={true}
+          preload='auto'
+          poster={itemImgSrc}
+          loop={true}
+          onLoadStart={() => {
+            console.log('...I am loading...')
+            setLoading(true);
+          }}
+          onLoadedData={() => {
+            console.log('Data is loaded!')
+            setLoading(false);
+          }}
+          src={itemVideoSrc}
+          style={{width: elementWidth, height: elementHeight}}
+        />
         : null
       }
       </>
@@ -68,3 +92,4 @@ const VideoTemplate = (props) => {
 };
 
 export default VideoTemplate;
+
