@@ -1,5 +1,6 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { VideoButton } from '../pricing/styledComponents'
+import useDebounce from '../DebouncedHook'
 
 const VideoTemplate = (props) => {
   const {video} = props;
@@ -23,8 +24,6 @@ const VideoTemplate = (props) => {
     setOnMouseEnterHandler(true);
     setOnMouseLeaveHandler(false)
   };
-
-  console.log(video);
 
   return (
     <li className={`grid-item ${video.project.size.name}`}>
@@ -58,7 +57,7 @@ const VideoTemplate = (props) => {
         : null
       }
       {onMouseEnterHandler && !onMouseLeaveHandler
-        ? <video autoPlay={true}>
+        ? <video autoPlay={true} preload='auto' poster={itemImgSrc} loop={true}>
           <source src={itemVideoSrc} type="video/mp4" />
         </video>
         : null
@@ -69,30 +68,3 @@ const VideoTemplate = (props) => {
 };
 
 export default VideoTemplate;
-
-function useHover() {
-  const [value, setValue] = useState(false);
-
-  const ref = useRef(null);
-
-  const handleMouseOver = () => setValue(true);
-  const handleMouseOut = () => setValue(false);
-
-  useEffect(
-    () => {
-      const node = ref.current;
-      if (node) {
-        node.addEventListener('mouseover', handleMouseOver);
-        node.addEventListener('mouseout', handleMouseOut);
-
-        return () => {
-          node.removeEventListener('mouseover', handleMouseOver);
-          node.removeEventListener('mouseout', handleMouseOut);
-        };
-      }
-    },
-    [ref.current] // Recall only if ref changes
-  );
-
-  return [ref, value];
-}
