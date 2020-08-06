@@ -1,5 +1,7 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { VideoButton } from '../pricing/styledComponents'
+import useDebounce from "../DebouncedHook";
+
 
 const VideoTemplate = (props) => {
   const {video} = props;
@@ -17,6 +19,7 @@ const VideoTemplate = (props) => {
   const elementRef   = useRef(null);
   const [elementWidth, setElementWidth] = useState();
   const [elementHeight, setElementHeight] = useState();
+  const debounced = useDebounce(onMouseEnterHandler, 1000);
 
   const mouseOut = () => {
     setOnMouseEnterHandler(false);
@@ -58,11 +61,10 @@ const VideoTemplate = (props) => {
         <div className={`template-video-item__overlay ${onMouseEnterHandler ? 'opacity_load__video' : 'opacity_null'}`}></div>
       </div>
       <>
-      {!onMouseEnterHandler && onMouseLeaveHandler
+      {!onMouseEnterHandler && onMouseLeaveHandler || !debounced
         ? <img
           src={itemImgSrc}
           data-src={itemVideoSrc}
-          //onMouseLeave={toggleHover(false)}
         />
         : null
       }
@@ -74,11 +76,9 @@ const VideoTemplate = (props) => {
           poster={itemImgSrc}
           loop={true}
           onLoadStart={() => {
-            console.log('...I am loading...')
             setLoading(true);
           }}
           onLoadedData={() => {
-            console.log('Data is loaded!')
             setLoading(false);
           }}
           src={itemVideoSrc}

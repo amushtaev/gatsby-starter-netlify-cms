@@ -16,6 +16,8 @@ import VideoTemplate from '../components/industries/VideoTemplate'
 const IndustriesPage = () => {
 const [videoData] = GetData(30);
 
+console.log(videoData)
+
   return (
     <Layout>
       <PricingPageContainer>

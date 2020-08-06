@@ -15,6 +15,22 @@ const GetData = (pageSize) => {
   const [postDate, setPostDate] = useState([]);
   const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
 
+/*  if(!refSlug) {
+    tags.map((tag, index) => {
+      searchTags.push(
+        '{name: "' + tag.tag + '", score: ' + index +'}'
+      )
+    });
+  } else {
+    tags.map((tag, index) => {
+      if(refSlug === tag.class) {
+        searchTags.push(
+          '{name: "' + tag.tag + '", score: ' + index +'}'
+        )
+      }
+    });
+  }*/
+
   tags.map((tag, index) => {
     searchTags.push(
       '{name: "' + tag.tag + '", score: ' + index +'}'
@@ -28,26 +44,26 @@ const GetData = (pageSize) => {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify
       (
-        {
-          query: `query 
-            {search(
-              tags: [${searchTags}], page: 1, pageSize: ${pageSize}) { 
+      {
+        query: `query 
+          {search(
+            tags: [${searchTags}], page: 1, pageSize: ${pageSize}) { 
+              id 
+              project { 
                 id 
-                project { 
-                  id 
-                  size { id name } 
-                  video { 
-                    urlInfo { 
-                      accountID 
-                      storageLevel 
-                      fileKeyPreview 
-                      fileKeyBigThumbnail
-                    } 
-                  }
+                name
+                size { id name } 
+                video { 
+                  urlInfo { 
+                    accountID 
+                    storageLevel 
+                    fileKeyPreview 
+                    fileKeyBigThumbnail
+                  } 
                 }
-                tags
               }
-            }`
+            }
+          }`
         }
       )
     };
