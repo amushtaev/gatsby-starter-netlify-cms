@@ -613,6 +613,9 @@ $menu-label-color: $white-ter
   .copyright
     padding: 20px 32px 0 !important
 
+//Pricing
+.clients-say .arrow
+
 
 @import "~bulma"
 
@@ -748,10 +751,11 @@ $menu-label-color: $white-ter
   height: 100%
   border-radius: inherit
   display: flex
-  align-items: center
+  //align-items: center
   text-align: center
   flex-direction: column
   justify-content: center
+  align-items: flex-start
 
 .video-item__content_video
   position: absolute
@@ -759,10 +763,9 @@ $menu-label-color: $white-ter
   left: 0
   padding-top: 0
   margin-top: 0
-  align-items: center
-  text-align: center
   flex-direction: column
   justify-content: center
+  align-items: stretch
 
 .template-video-item__overlay
   background-color: rgba(0,0,0,.4)
@@ -910,3 +913,10 @@ $menu-label-color: $white-ter
 
   .template-video-item__overlay
     display: none
+
+  //Pricing
+  .clients-say .arrow
+    display: none
+
+  .clients-say
+    width: 100%

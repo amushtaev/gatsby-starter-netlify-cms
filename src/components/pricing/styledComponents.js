@@ -9,6 +9,11 @@ export const PlansIncludeContainer = styled.div`
     height: 621px;
     display: flex;
     flex-wrap: wrap;
+    
+    @media screen and (max-width: 768px) {
+      width: 100%;
+      height: auto;
+    }
 `;
 
 export const IncludeContainer = styled.div`
@@ -17,6 +22,10 @@ export const IncludeContainer = styled.div`
     height: 240px;
     flex-direction: column;
     align-items: center;
+    
+    @media screen and (max-width: 720px) {
+      width: 320px
+    }
 `;
 
 export const KeenSlider = styled.div`
@@ -31,6 +40,10 @@ export const KeenSlider = styled.div`
     -ms-touch-action: pan-y;
     touch-action: pan-y;
     -webkit-tap-highlight-color: transparent;
+    
+    @media screen and (max-width: 768px) {
+      width: 100%;
+    }
 `;
 
 export const Slide = styled.div`
@@ -49,6 +62,10 @@ export const DarkRectangle = styled.div`
     position: absolute;
     background: linear-gradient(270deg, rgba(18, 18, 47, 0.24) 0%, rgba(18, 18, 47, 0) 62.95%),
         rgba(18, 18, 47, 0.82);
+        
+    @media screen and (max-width: 768px) {
+      background: none
+    }
 `;
 
 export const CommentCard = styled.div`
@@ -250,6 +267,17 @@ export const Arrow = styled.svg`
     ${props => props.left ? 'left: 110px;' : 'left: auto; right: 110px;'}
 `;
 
+export const DivAllPlansInclude = styled.div`
+    width: 1068px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
+    @media screen and (max-width: 1067px) {
+      width: 100%;
+    }
+`;
+
 export const PricingPageContainer = styled.div`
     display: flex;
     flex-direction: column;
@@ -282,6 +310,10 @@ export const SloganSmall = styled.span`
     letter-spacing: 0.02em;
     color: rgba(255, 255, 255, 0.84);
     padding-bottom: 32px;
+    
+    @media screen and (max-width: 720px) {
+      padding: 0 20px 32px
+    }
 `;
 
 export const TumblerGrid = styled.div`
@@ -349,6 +381,10 @@ export const Discount = styled.span`
 export const Pricing = styled.div`
     align-items: center;
     width: 1076px;
+    
+    @media screen and (max-width: 1075px) {
+      width: 100%;
+    }
 `;
 
 export const ItemsWrapper = styled.div`
@@ -441,6 +477,39 @@ export const PlanInfo = styled.div`
     text-align: center;
     color: rgba(255, 255, 255, 0.54);
     margin: 0 24px;
+`;
+
+export const DivAskedQuestions = styled.div`
+    width: 1068px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+    @media screen and (max-width: 768px) {
+      width: 100%
+    }
+`;
+
+export const DivAccordion = styled.div`
+    display: flex; 
+    flex-direction: row;
+    
+    @media screen and (max-width: 1040px) {
+      flex-direction: column;
+      max-width: 100%;
+    }
+`;
+
+export const DivPasteYourLink = styled.div`
+    width: 1068px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 98px 0;
+    
+    @media screen and (max-width: 768px) {
+      width: 100%
+    }
 `;
 
 export const CustomPricing = styled.span`
@@ -564,6 +633,10 @@ export const MediumHeading = styled.span`
 
 export const AccordionWithMargin = styled(Accordion)`
     margin: 0 24px 0 0;
+    
+    @media screen and (max-width: 1040px) {
+      margin: 0
+    }
 `;
 
 export const QuestionPanel = styled(AccordionPanel)`
@@ -579,6 +652,12 @@ export const QuestionPanel = styled(AccordionPanel)`
     font-size: 24px;
     line-height: 30px;
     padding: 32px 24px;
+    
+    @media screen and (max-width: 560px) {
+      min-width: calc(100% - 20px);
+      max-width: calc(100% - 20px);
+      margin: 0 auto;
+    }
 `;
 
 export const Answer = styled.div`
@@ -607,10 +686,22 @@ export const InputContainer = styled.div`
     margin: 20px 0 0 20px;
     padding: 0;
     width: 96%;
+    
+    @media screen and (max-width: 560px) {
+      display: block;
+      margin: 20px 20px 0;
+      padding: 0;
+      width: 90%;
+      text-align: center;
+    }
 `;
 
 export const BigSimpleTextInputStyled = styled(BigSimpleTextInput)`
     flex: 0 1 auto;
+    
+    @media screen and (max-width:560px) {
+      margin-bottom: 30px;
+    }
 `;
 
 const Input = styled.input`

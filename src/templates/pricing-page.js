@@ -54,6 +54,10 @@ import {
   softcubeDark,
   MediumSlogan,
   BigButtonStyled,
+  DivAllPlansInclude,
+  DivAskedQuestions,
+  DivPasteYourLink,
+  DivAccordion,
 } from '../components/pricing/styledComponents';
 import {
   Comments,
@@ -167,7 +171,7 @@ function PlanCard(props) {
   }, [plan]);
 
   return (
-    <div style={{ maxWidth: '306px' }}>
+    <div style={{ maxWidth: '306px', margin: '0 auto' }}>
       <PlanCardContainer>
         <Tier>
           <CardHeader pro={plan.name === 'PRO'}>
@@ -233,17 +237,12 @@ function PlanCard(props) {
 
 function AllPlansInclude() {
   return (
-    <div
-      style={{
-        width: 1068,
-        justifyContent: 'center',
-        display: 'flex',
-        flexDirection: 'column',
-      }}
+    <DivAllPlansInclude
+      className='all-plans-include'
     >
       <PricingLargeHeading>ALL PLANS INCLUDE</PricingLargeHeading>
       <PlansIncludeContainer>
-        <div style={{ flex: '0 0 40%' }}>
+        <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
           <IncludeContainer>
             <div style={{ margin: '0 auto' }}>
               <VideoContentIcon
@@ -258,7 +257,7 @@ function AllPlansInclude() {
             </MediumSlogan>
           </IncludeContainer>
         </div>
-        <div style={{ flex: '0 0 40%' }}>
+        <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
           <IncludeContainer>
             <div style={{ margin: '0 auto' }}>
               <ReadyMadeTemplatesIcon
@@ -273,7 +272,7 @@ function AllPlansInclude() {
             </MediumSlogan>
           </IncludeContainer>
         </div>
-        <div style={{ flex: '0 0 40%' }}>
+        <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
           <IncludeContainer>
             <div style={{ margin: '0 auto' }}>
               <UnlimitedProjectsIcon
@@ -288,7 +287,7 @@ function AllPlansInclude() {
             </MediumSlogan>
           </IncludeContainer>
         </div>
-        <div style={{ flex: '0 0 40%' }}>
+        <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
           <IncludeContainer>
             <div style={{ margin: '0 auto' }}>
               <SoftcubeSupportIcon
@@ -304,7 +303,7 @@ function AllPlansInclude() {
           </IncludeContainer>
         </div>
       </PlansIncludeContainer>
-    </div>
+    </DivAllPlansInclude>
   );
 }
 
@@ -322,6 +321,18 @@ function WhatOurClientSay() {
     loop: true,
     mode: 'snap',
     breakpoints: {
+      '(min-width: 300px)': {
+        slidesPerView: 1,
+        mode: 'free-snap',
+        centered: false,
+        loop: true,
+      },
+      '(min-width: 520px)': {
+        slidesPerView: 2,
+        mode: 'free-snap',
+        centered: true,
+        loop: true,
+      },
       '(min-width: 768px)': {
         slidesPerView: 3,
         mode: 'free-snap',
@@ -359,7 +370,7 @@ function WhatOurClientSay() {
       <PricingLargeHeading style={{ margin: '40px auto 62px auto' }}>
         WHAT OUR CLIENT SAY
       </PricingLargeHeading>
-      <div style={{ position: 'relative', overflowX: 'hidden', padding: '20px 0 27px 0' }}>
+      <div className='clients-say' style={{ position: 'relative', overflowX: 'hidden', padding: '20px 0 27px 0'}}>
         <KeenSlider
           // @ts-ignore
           ref={sliderRef}
@@ -494,18 +505,11 @@ function FrequentlyAskedQuestions() {
   const [QuestionsAnswersSecond] = useState([QuestionsAnswersSecondColumn]);
 
   return (
-    <div
-      style={{
-        width: 1068,
-        alignItems: 'center',
-        display: 'flex',
-        flexDirection: 'column',
-      }}
-    >
+    <DivAskedQuestions>
       <PricingLargeHeading style={{ margin: '130px 0 82px 0' }}>
         FREQUENTLY ASKED QUESTIONS
       </PricingLargeHeading>
-      <div style={{ display: 'flex', flexDirection: 'row' }}>
+      <DivAccordion>
         <AccordionWithMargin animate={false} gap='24px' multiple>
           {QuestionsAnswersFirst[0].map((qa) => (
             <QuestionPanel
@@ -528,8 +532,8 @@ function FrequentlyAskedQuestions() {
             </QuestionPanel>
           ))}
         </Accordion>
-      </div>
-    </div>
+      </DivAccordion>
+    </DivAskedQuestions>
   );
 }
 
@@ -537,15 +541,7 @@ function PasteYourLink() {
   const [inputValue, setInputValue] = React.useState('');
   const hist = useHistory();
   return (
-    <div
-      style={{
-        width: 1068,
-        alignItems: 'center',
-        display: 'flex',
-        flexDirection: 'column',
-        margin: '0 0 98px 0',
-      }}
-    >
+    <DivPasteYourLink>
       <CreateLargeHeading style={{ margin: '130px 0 0 0' }}>
         PASTE YOUR LINK
       </CreateLargeHeading>
@@ -567,6 +563,6 @@ function PasteYourLink() {
           }}
         />
       </InputContainer>
-    </div>
+    </DivPasteYourLink>
   );
 }

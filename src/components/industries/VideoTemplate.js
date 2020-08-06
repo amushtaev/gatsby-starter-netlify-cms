@@ -20,7 +20,7 @@ const VideoTemplate = (props) => {
   const [elementWidth, setElementWidth] = useState();
   const [elementHeight, setElementHeight] = useState();
   const debounced = useDebounce(onMouseEnterHandler, 1000);
-
+//rufus скачать
   const mouseOut = () => {
     setOnMouseEnterHandler(false);
     setOnMouseLeaveHandler(true)
@@ -37,7 +37,7 @@ const VideoTemplate = (props) => {
     <li
       className={`grid-item ${video.project.size.name}`}
       ref = { elementRef }
-      style={{width: elementWidth, height: elementHeight}}
+      style={{width: elementWidth, height: elementHeight,}}
     >
       <div className='video-item__content'
            onMouseEnter={
@@ -50,7 +50,7 @@ const VideoTemplate = (props) => {
                mouseOut()
              }
            }
-           style={{width: elementWidth, height: elementHeight}}
+           style={{width: elementWidth, height: '100%'}}
       >
         <VideoButton
           text='Try for free!'
@@ -65,6 +65,7 @@ const VideoTemplate = (props) => {
         ? <img
           src={itemImgSrc}
           data-src={itemVideoSrc}
+          style={{width: elementWidth, height: elementHeight}}
         />
         : null
       }
@@ -82,7 +83,6 @@ const VideoTemplate = (props) => {
             setLoading(false);
           }}
           src={itemVideoSrc}
-          style={{width: elementWidth, height: elementHeight}}
         />
         : null
       }
