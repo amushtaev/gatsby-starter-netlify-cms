@@ -2,7 +2,6 @@ import React, { useRef, useEffect, useState } from 'react';
 import { VideoButton } from '../pricing/styledComponents'
 import useDebounce from "../DebouncedHook";
 
-
 const VideoTemplate = (props) => {
   const {video} = props;
   const itemImgSrc = 'https://s3.eu-central-1.amazonaws.com/media.softcube.com/' +
@@ -35,7 +34,8 @@ const VideoTemplate = (props) => {
 
   return (
     <li
-      className={`grid-item ${video.project.size.name}`}
+      className={`grid-item ${video.project.size.name} ${video.tags[0]}`
+      }
       ref = { elementRef }
       style={{width: elementWidth, height: elementHeight,}}
     >

@@ -1,11 +1,11 @@
 export const browseTemplates = [
   {
     name: 'E-commerce',
-    link:'e-commerce',
+    link:'ecommerce',
   },
   {
     name: 'Food and delivery',
-    link:'food-delivery',
+    link:'food-and-delivery',
   },
   {
     name: 'Real estate',
@@ -17,7 +17,7 @@ export const browseTemplates = [
   },
   {
     name: 'Car dealerships',
-    link:'car',
+    link:'car-dealerships',
   },
   {
     name: 'Fitness',

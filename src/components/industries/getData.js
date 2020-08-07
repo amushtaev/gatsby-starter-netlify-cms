@@ -1,35 +1,18 @@
 import React, { useState, useEffect } from 'react';
 
 const Tags = [
-  { 'tag': 'ecommerce',' "class"': 'e-commers' },
-  { 'tag': 'car dealerships', 'class': 'car' },
-  { 'tag': 'real estate', 'class': 'real-estate' },
-  { 'tag': 'travel', 'class': 'travel' },
-  { 'tag': 'food and delivery', 'class': 'food-delivery' },
-  { 'tag': 'fitness', 'class': 'fitness' }];
+  { 'tag': 'ecommerce' },
+  { 'tag': 'car dealerships' },
+  { 'tag': 'real estate' },
+  { 'tag': 'travel' },
+  { 'tag': 'food and delivery' },
+  { 'tag': 'fitness' }];
 
 const GetData = (pageSize) => {
   const [tags] = useState(Tags);
   let postDates = [];
   let searchTags = [];
   const [postDate, setPostDate] = useState([]);
-  const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
-
-/*  if(!refSlug) {
-    tags.map((tag, index) => {
-      searchTags.push(
-        '{name: "' + tag.tag + '", score: ' + index +'}'
-      )
-    });
-  } else {
-    tags.map((tag, index) => {
-      if(refSlug === tag.class) {
-        searchTags.push(
-          '{name: "' + tag.tag + '", score: ' + index +'}'
-        )
-      }
-    });
-  }*/
 
   tags.map((tag, index) => {
     searchTags.push(
@@ -44,11 +27,13 @@ const GetData = (pageSize) => {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify
       (
-      {
-        query: `query 
+        {
+          query: `query 
           {search(
             tags: [${searchTags}], page: 1, pageSize: ${pageSize}) { 
-              id 
+              id
+              templateType
+              tags
               project { 
                 id 
                 name
@@ -67,11 +52,11 @@ const GetData = (pageSize) => {
         }
       )
     };
-      fetch('https://graph.softcube.com/graphql', requestOptions)
-        .then((response) => response.json())
-        .then((responseJSON) => {
-          setPostDate( responseJSON )
-        });
+    fetch('https://graph.softcube.com/graphql', requestOptions)
+      .then((response) => response.json())
+      .then((responseJSON) => {
+        setPostDate( responseJSON )
+      });
   }, []);
   //TODO
   postDates.push(postDate);

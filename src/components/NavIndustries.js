@@ -4,8 +4,10 @@ import {
   browseTemplates,
 } from '../components/industries/textContent';
 
-const NavRight = () => {
-  const { active } = '';
+const NavIndusties = () => {
+  const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
+
+  console.log(refSlug, "refSlug")
 
   return (
     <>
@@ -19,16 +21,16 @@ const NavRight = () => {
             BROWSE TEMPLATES
           </Link>
         </li>
-        {browseTemplates.map((cat, index) => (
-          <li className="sub-nav-left" key={cat.name}>
+        {browseTemplates.map((tag, index) => (
+          <li className="sub-nav-left" key={tag.name}>
             <Link
-              key={cat.link}
-              className={`navbar_item ${active === cat.link ? "color--yellow" : ""}`}
-              to={`#${cat.link}`}
-              pathname={cat.link}
-              propsslug={cat.link}
+              key={tag.link}
+              className={`navbar_item ${refSlug === tag.link ? "color--yellow" : ""}`}
+              to={`#${tag.link}`}
+              pathname={tag.link}
+              propsslug={tag.link}
             >
-              {cat.name}
+              {tag.name}
             </Link >
           </li>
         ))}
@@ -37,4 +39,4 @@ const NavRight = () => {
   )
 };
 
-export default NavRight
+export default NavIndusties

@@ -9,12 +9,13 @@ import {
   PricingHeading,
   PricingPageContainer,
 } from '../components/pricing/styledComponents';
-import NavRight from '../components/NavRright';
+import NavIndustries from '../components/NavIndustries';
 import GetData from '../components/industries/getData';
 import VideoTemplate from '../components/industries/VideoTemplate'
 
 const IndustriesPage = () => {
 const [videoData] = GetData(30);
+const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
 
 console.log(videoData)
 
@@ -24,7 +25,7 @@ console.log(videoData)
         <IndustriesHead />
         <SearchYourLink />
         <div className='industries'>
-          <NavRight />
+          <NavIndustries />
           <IndustriesVideo videoData={videoData.data} />
         </div>
       </PricingPageContainer>
