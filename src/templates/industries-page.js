@@ -14,10 +14,10 @@ import GetData from '../components/industries/getData';
 import VideoTemplate from '../components/industries/VideoTemplate'
 
 const IndustriesPage = () => {
-const [videoData] = GetData(30);
-const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
+  const [videoData] = GetData(30);
+  const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
 
-console.log(videoData)
+  console.log(videoData)
 
   return (
     <Layout>
@@ -96,16 +96,16 @@ function IndustriesVideo({videoData}) {
               className="industries-grid"
               columnClassName="industries-grid_column"
             >
-            {videoData ?
-              videoData.search
-                ? videoData.search.map((video) => (
-                  <VideoTemplate
-                    key={video.id}
-                    video={video} />
-                ))
+              {videoData ?
+                videoData.search
+                  ? videoData.search.map((video) => (
+                    <VideoTemplate
+                      key={video.id}
+                      video={video} />
+                  ))
+                  : null
                 : null
-              : null
-            }
+              }
             </Masonry>
           </ul>
         </div>

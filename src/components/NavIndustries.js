@@ -7,8 +7,6 @@ import {
 const NavIndusties = () => {
   const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
 
-  console.log(refSlug, "refSlug")
-
   return (
     <>
       <ul className="templates-categories-menu">
