@@ -10,29 +10,98 @@ import {
   PricingPageContainer,
 } from '../components/pricing/styledComponents';
 import NavIndustries from '../components/NavIndustries';
-import GetData from '../components/industries/getData';
 import VideoTemplate from '../components/industries/VideoTemplate'
 
-const IndustriesPage = () => {
-  const [videoData] = GetData(30);
-  const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
+const Tags = [
+  { 'tag': 'ecommerce' },
+  { 'tag': 'car dealerships' },
+  { 'tag': 'real estate' },
+  { 'tag': 'travel' },
+  { 'tag': 'food and delivery' },
+  { 'tag': 'fitness' }];
 
-  console.log(videoData)
+const GetData = () => {
+  const [tags] = useState(Tags);
+  let postDates = [];
+  let searchTags = [];
+  const [postDate, setPostDate] = useState([]);
+  const pageSize = 30;
 
-  return (
-    <Layout>
-      <PricingPageContainer>
-        <IndustriesHead />
-        <SearchYourLink />
-        <div className='industries'>
-          <NavIndustries />
-          <IndustriesVideo videoData={videoData.data} />
-        </div>
-      </PricingPageContainer>
-    </Layout>
-  );
+  tags.map((tag, index) => {
+    searchTags.push(
+      '{name: "' + tag.tag + '", score: ' + index +'}'
+    )
+  });
+
+  useEffect(() => {
+    // POST request using fetch inside useEffect React hook
+    const requestOptions = {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify
+      (
+        {
+          query: `query 
+          {search(
+            tags: [${searchTags}], page: 1, pageSize: ${pageSize}) { 
+              id
+              templateType
+              tags
+              project { 
+                id 
+                name
+                size { id name } 
+                video { 
+                  urlInfo { 
+                    accountID 
+                    storageLevel 
+                    fileKeyPreview 
+                    fileKeyBigThumbnail
+                  } 
+                }
+              }
+            }
+          }`
+        }
+      )
+    };
+    fetch('https://graph.softcube.com/graphql', requestOptions)
+      .then((response) => response.json())
+      .then((responseJSON) => {
+        console.log(responseJSON, 'responseJSON')
+        setPostDate( responseJSON )
+      });
+  }, []);
+
+  postDates.push(postDate);
+  return IndustriesPage(postDates)
 };
-export default IndustriesPage
+
+export default GetData
+
+const IndustriesPage = (props) => {
+  /*const [videoData] = GetData(30);*/
+  const [videoData] = props;
+  const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
+  if(videoData.data) {
+    console.log(videoData.data.search, "videoData.data.search" ,props)
+    return (
+      <Layout>
+        <PricingPageContainer>
+          <IndustriesHead />
+          <SearchYourLink />
+          <div className='industries'>
+            <NavIndustries />
+            <IndustriesVideo videoData={videoData.data} />
+          </div>
+        </PricingPageContainer>
+      </Layout>
+    );
+  } else {
+    return null
+  }
+};
+
 
 IndustriesPage.propType = {
   stringSearch: PropTypes.string,

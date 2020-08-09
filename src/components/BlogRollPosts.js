@@ -75,61 +75,6 @@ BlogRollPosts.propTypes = {
   }),
 };
 
-/*export default ({search}) => (
-  <StaticQuery regex={search}
-    query={graphql`
-      query BlogRollPostsQuery {
-        allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-        ) {
-          edges {
-            node {
-              excerpt(pruneLength: 200)
-              id
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                categories
-                templateKey
-                date(formatString: "MMMM DD, YYYY")
-                featuredpost
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
-                image {
-                  publicURL
-                }
-              }
-            }
-            next {
-              fields {
-                slug
-              }
-            }
-            previous {
-              fields {
-                slug
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={
-      (data, count) =>
-        <BlogRollPosts data={data} search={search} />
-    }
-  />
-)*/
-
-
 export default ({search}) => (
   <StaticQuery
     $regex={search}
