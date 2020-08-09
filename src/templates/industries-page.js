@@ -68,7 +68,6 @@ const GetData = () => {
     fetch('https://graph.softcube.com/graphql', requestOptions)
       .then((response) => response.json())
       .then((responseJSON) => {
-        console.log(responseJSON, 'responseJSON')
         setPostDate( responseJSON )
       });
   }, []);
@@ -87,8 +86,7 @@ const IndustriesPage = (props) => {
   if(videoData.data) {
     if (refSlug) {
       videoData.data.search.map((edge, index) => {
-        if(edge.tags[0] === refSlug) {
-          console.log(index, "index")
+        if(edge.tags[0].replace(/ /g, '-') === refSlug) {
           videoDatas = videoDatas.concat(edge)
         }
       })
