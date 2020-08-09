@@ -79,19 +79,19 @@ const GetData = () => {
 export default GetData
 
 const IndustriesPage = (props) => {
-  const [videoData] = props;
-  let videoDatas = [];
+  const [videoDataProps] = props;
+  let videoData = [];
   const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
 
-  if(videoData.data) {
+  if(videoDataProps.data) {
     if (refSlug) {
-      videoData.data.search.map((edge) => {
+      videoDataProps.data.search.map((edge) => {
         if(edge.tags[0].replace(/ /g, '-') === refSlug || edge.project.size.name === refSlug) {
-          videoDatas = videoDatas.concat(edge)
+          videoData = videoData.concat(edge)
         }
       })
     } else {
-      videoDatas = videoData.data.search
+      videoData = videoDataProps.data.search
     }
 
     return (
@@ -101,7 +101,7 @@ const IndustriesPage = (props) => {
           <SearchYourLink />
           <div className='industries'>
             <NavIndustries />
-            <IndustriesVideo videoDatas={videoDatas} />
+            <IndustriesVideo videoData={videoData} />
           </div>
         </PricingPageContainer>
       </Layout>
@@ -164,8 +164,6 @@ function IndustriesVideo(videoData) {
     500: 1
   };
 
-  console.log(videoData.videoDatas, "IndustriesVideo")
-
   return (
     <div className='template-directory-video-grid'>
       <div className='templates-video-grid'>
@@ -176,7 +174,7 @@ function IndustriesVideo(videoData) {
               className="industries-grid"
               columnClassName="industries-grid_column"
             >
-              {videoData.videoDatas.map((video) => (
+              {videoData.videoData.map((video) => (
               <VideoTemplate
                 key={video.id}
                 video={video} />
