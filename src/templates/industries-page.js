@@ -80,11 +80,23 @@ const GetData = () => {
 export default GetData
 
 const IndustriesPage = (props) => {
-  /*const [videoData] = GetData(30);*/
   const [videoData] = props;
+  let videoDatas = [];
   const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
+
   if(videoData.data) {
-    console.log(videoData.data.search, "videoData.data.search" ,props)
+    if (refSlug) {
+      videoData.data.search.map((edge, index) => {
+        if(edge.tags[0] === refSlug) {
+          console.log(index, "index")
+          videoDatas = videoDatas.concat(edge)
+        }
+      })
+    } else {
+      videoDatas = videoData.data.search
+    }
+    console.log(videoDatas, "videoDatas")
+
     return (
       <Layout>
         <PricingPageContainer>
@@ -92,7 +104,7 @@ const IndustriesPage = (props) => {
           <SearchYourLink />
           <div className='industries'>
             <NavIndustries />
-            <IndustriesVideo videoData={videoData.data} />
+            <IndustriesVideo videoDatas={videoDatas} />
           </div>
         </PricingPageContainer>
       </Layout>
@@ -147,13 +159,15 @@ function SearchYourLink() {
   );
 }
 
-function IndustriesVideo({videoData}) {
+function IndustriesVideo(videoData) {
   const breakpointColumnsObj = {
     default: 4,
     1100: 3,
     700: 2,
     500: 1
   };
+
+  console.log(videoData.videoDatas, "IndustriesVideo")
 
   return (
     <div className='template-directory-video-grid'>
@@ -165,16 +179,11 @@ function IndustriesVideo({videoData}) {
               className="industries-grid"
               columnClassName="industries-grid_column"
             >
-              {videoData ?
-                videoData.search
-                  ? videoData.search.map((video) => (
-                    <VideoTemplate
-                      key={video.id}
-                      video={video} />
-                  ))
-                  : null
-                : null
-              }
+              {videoData.videoDatas.map((video) => (
+              <VideoTemplate
+                key={video.id}
+                video={video} />
+              ))}
             </Masonry>
           </ul>
         </div>
