@@ -25,7 +25,7 @@ const GetData = () => {
   let postDates = [];
   let searchTags = [];
   const [postDate, setPostDate] = useState([]);
-  const pageSize = 30;
+  const pageSize = 100;
 
   tags.map((tag, index) => {
     searchTags.push(
@@ -69,6 +69,7 @@ const GetData = () => {
       .then((response) => response.json())
       .then((responseJSON) => {
         setPostDate( responseJSON )
+        console.log(responseJSON)
       });
   }, []);
 
