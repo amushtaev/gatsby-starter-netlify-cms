@@ -85,15 +85,14 @@ const IndustriesPage = (props) => {
 
   if(videoData.data) {
     if (refSlug) {
-      videoData.data.search.map((edge, index) => {
-        if(edge.tags[0].replace(/ /g, '-') === refSlug) {
+      videoData.data.search.map((edge) => {
+        if(edge.tags[0].replace(/ /g, '-') === refSlug || edge.project.size.name === refSlug) {
           videoDatas = videoDatas.concat(edge)
         }
       })
     } else {
       videoDatas = videoData.data.search
     }
-    console.log(videoDatas, "videoDatas")
 
     return (
       <Layout>
