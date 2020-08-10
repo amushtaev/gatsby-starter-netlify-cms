@@ -28,6 +28,21 @@ export const IncludeContainer = styled.div`
     }
 `;
 
+export const IncludeContainerIndex = styled.div`
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:stretch;
+    width: 100%;
+    max-width: 1078px;
+    margin-top: 62px;
+    
+    @media screen and (max-width: 720px) {
+      max-width: inherit
+    }
+`;
+
 export const KeenSlider = styled.div`
     display: flex;
     max-width: 1626px;
@@ -298,6 +313,7 @@ export const CreateLargeHeading = styled.span`
 
 export const PricingHeading = styled(CreateLargeHeading)`
     margin: 55px 0 0 0;
+    max-width: 1078px
 `;
 
 export const SloganSmall = styled.span`
@@ -603,9 +619,41 @@ export const VideoButton = styled(BlackButton)`
     cursor: pointer;
 `;
 
+export const AllIndustriesButton = styled(BlackButton)`
+    width: 288px;
+    height: 64px;
+    border: 2px solid #FED300;
+    box-sizing: border-box;
+    border-radius: 60px;
+    background: transparent;
+    margin-top: 92px;
+    
+    span {
+      font-family: Source Sans Pro;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 20px;
+      line-height: 25px;
+      display: flex;
+      align-items: center;
+      text-align: center;
+      color: #FFFFFF;
+    }
+`;
+
 export const SearchButton = styled(BigButton)`
     min-width: 196px;
     width: 196px;
+    margin: 0 auto 42px 14px
+`;
+
+export const TryButton = styled(BigButton)`
+    position: absolute;
+    min-width: 288px;
+    width: 288px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     margin: 0 auto 42px 14px
 `;
 
@@ -630,6 +678,16 @@ export const MediumHeading = styled.span`
     color: #fff;
     margin: 24px 0 0 0;
 `;
+
+export const MediumHeadingLeft = styled(MediumHeading)`
+    text-align: left;
+    padding-left: 24px;
+    line-height: 0;
+    display: flex;
+    float: right;
+    width: calc(100% - 106px)
+`;
+
 
 export const AccordionWithMargin = styled(Accordion)`
     margin: 0 24px 0 0;
@@ -732,6 +790,15 @@ export const MediumSlogan = styled.span`
     margin: 8px 0 0 0;
     color: rgba(255, 255, 255, 0.54);
     width: 320px;
+`;
+
+export const MediumSloganLeft = styled(MediumSlogan)`
+    text-align: left;
+    padding-left: 24px;
+    margin: -36px 0 0 0;
+    width: calc(100% - 106px);
+    float: right;
+    display: flex
 `;
 
 export const softcubeDark = {
