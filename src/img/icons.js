@@ -482,8 +482,8 @@ export const PlayButton = (props) => {
     </g>
     <path d="M80.8546 57.222C81.4504 57.6176 81.4504 58.4926 80.8546 58.8882L51.9958 78.0491C51.3312 78.4904 50.4427 78.0138 50.4427 77.216L50.4427 38.8942C50.4427 38.0964 51.3312 37.6198 51.9958 38.0612L80.8546 57.222Z" fill="black"/>
     <defs>
-    <filter id="filter0_d" x="0" y="0" width="122" height="122" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+    <filter id="filter0_d" x="0" y="0" width="122" height="122" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+      <feFlood floodOpacity="0" result="BackgroundImageFix"/>
     <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
       <feOffset dy="4"/>
       <feGaussianBlur stdDeviation="2"/>

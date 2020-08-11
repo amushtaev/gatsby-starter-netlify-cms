@@ -372,7 +372,6 @@ function WhatOurClientSay() {
       </PricingLargeHeading>
       <div className='clients-say' style={{ position: 'relative', overflowX: 'hidden', padding: '20px 0 27px 0'}}>
         <KeenSlider
-          // @ts-ignore
           ref={sliderRef}
         >
           {Comments.map(

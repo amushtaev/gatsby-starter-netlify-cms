@@ -316,6 +316,11 @@ export const PricingHeading = styled(CreateLargeHeading)`
     max-width: 1078px
 `;
 
+export const IndexHeading = styled(CreateLargeHeading)`
+    margin: 152px 0 0 0;
+    max-width: 1078px
+`;
+
 export const SloganSmall = styled.span`
     font-family: Source Sans Pro, sans-serif;
     font-style: normal;

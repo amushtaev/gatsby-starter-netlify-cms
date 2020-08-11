@@ -8,6 +8,7 @@ import {
   InputContainer,
   MediumHeadingLeft,
   MediumSloganLeft,
+  IndexHeading,
   PricingHeading,
   PricingPageContainer,
   SloganSmall,
@@ -69,22 +70,22 @@ const IndexPageTemplate = () => {
         <PricingHeading>CREATE VIDEO ADS IN TWO CLICKS</PricingHeading>
         <SloganSmall>Paste your link and the Softcube AI will automatically create video ads that convert</SloganSmall>
         <VideoBaner/>
-        <PricingHeading>LINK TO YOUR LISTING PAGE</PricingHeading>
+        <IndexHeading>LINK TO YOUR LISTING PAGE</IndexHeading>
         <SearchYourLink />
-        <PricingHeading>AUTOMATICALLY CREATE & OPTIMIZE VIDEO ADS</PricingHeading>
+        <IndexHeading>AUTOMATICALLY CREATE & OPTIMIZE VIDEO ADS</IndexHeading>
         <AutomaticCreat />
-        <PricingHeading>CREATE MARKETING VIDEOS FOR EVERY INDUSTRY</PricingHeading>
+        <IndexHeading>CREATE MARKETING VIDEOS FOR EVERY INDUSTRY</IndexHeading>
         <SloganSmall>Because every ad should be a video ad</SloganSmall>
         <MarketingVideos />
-        <PricingHeading>HOW IT WORKS</PricingHeading>
+        <IndexHeading>HOW IT WORKS</IndexHeading>
         <HowItWorks/>
-        <PricingHeading>MAXIMIZE YOUR REACH ON ANY PLATFORM</PricingHeading>
+        <IndexHeading>MAXIMIZE YOUR REACH ON ANY PLATFORM</IndexHeading>
         <Maximize />
         <WhatOurClientSay/>
         <FrequentlyAskedQuestions />
-        <PricingHeading>LATEST ARTICLES</PricingHeading>
+        <IndexHeading>LATEST ARTICLES</IndexHeading>
         <BlogRoll />
-        <PricingHeading>RELATED ARTICLES</PricingHeading>
+        <IndexHeading>RELATED ARTICLES</IndexHeading>
         <BlogRollRelatedIndex />
       </PricingPageContainer>
     </Layout>
@@ -388,9 +389,9 @@ function WhatOurClientSay() {
 
   return (
     <>
-      <PricingLargeHeading style={{ margin: '40px auto 62px auto' }}>
+      <IndexHeading>
         WHAT OUR CLIENT SAY
-      </PricingLargeHeading>
+      </IndexHeading>
       <div className='clients-say' style={{ position: 'relative', overflowX: 'hidden', padding: '20px 0 27px 0'}}>
         <KeenSlider
           // @ts-ignore
@@ -567,7 +568,7 @@ function SearchYourLink() {
         alignItems: 'center',
         display: 'flex',
         flexDirection: 'column',
-        margin: '32px 0 98px 0',
+        margin: '32px 0 0 0',
       }}
     >
       <InputContainer>
