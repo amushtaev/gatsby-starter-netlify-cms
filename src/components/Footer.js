@@ -8,13 +8,20 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="">
-        <div className="content"  style={{background: `transparent`}}>
+        <div className="content" style={{ background: `transparent` }}>
           <div className="container">
-            <div style={{ borderTop: `solid 4px rgba(255, 255, 255, 0.32)` }} className="columns footer_grid">
-              <div className="column" style={{padding: `38px 0px`}}>
+            <div
+              style={{ borderTop: `solid 4px rgba(255, 255, 255, 0.32)` }}
+              className="columns footer_grid"
+            >
+              <div className="column" style={{ padding: `38px 0px` }}>
                 <section className="menu">
                   <ul className="menu-list_footer">
-                    <li><a className="copyright" style={{paddingTop: `7px`}}>© 2020 Softcube</a></li>
+                    <li>
+                      <a className="copyright" style={{ paddingTop: `7px` }}>
+                        © 2020 Softcube
+                      </a>
+                    </li>
                     <li>
                       <Link to="/" className="navbar_item footer">
                         Terms of Service
@@ -40,10 +47,7 @@ const Footer = class extends React.Component {
               </div>
               <div className="column social_footer">
                 <a title="facebook" href="https://facebook.com">
-                  <img
-                    src={facebookFooter}
-                    alt="Facebook"
-                  />
+                  <img src={facebookFooter} alt="Facebook" />
                 </a>
                 <a title="twitter" href="https://twitter.com">
                   <img
@@ -53,10 +57,7 @@ const Footer = class extends React.Component {
                   />
                 </a>
                 <a title="instagram" href="https://linkedin.com">
-                  <img
-                    src={instagramFooter}
-                    alt="InstagramF"
-                  />
+                  <img src={instagramFooter} alt="InstagramF" />
                 </a>
               </div>
             </div>

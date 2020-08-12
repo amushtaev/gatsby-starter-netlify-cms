@@ -4,8 +4,7 @@ import PropTypes from 'prop-types'
 const PreviewCompatibleImageRelated = ({ imageInfo }) => {
   const { alt = '', image } = imageInfo;
 
-  if (!!image)
-    return <img src={image.childImageSharp.fluid.src} alt={alt} />;
+  if (!!image) return <img src={image.childImageSharp.fluid.src} alt={alt} />;
 
   return null
 };

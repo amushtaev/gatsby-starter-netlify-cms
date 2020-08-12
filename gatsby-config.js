@@ -78,9 +78,9 @@ module.exports = {
         typeName: 'WPGraphQL',
         fieldName: 'wpgraphql',
         url: 'https://softcube.com/graphql',
-      }
+      },
     },
     // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
-};
+}

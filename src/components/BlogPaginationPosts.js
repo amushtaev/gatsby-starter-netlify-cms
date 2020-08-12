@@ -24,7 +24,9 @@ export default class BlogPaginationPosts extends React.Component {
                         imageInfo={{
                           image: post.frontmatter.image.publicURL,
                           alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                          srcSet: post.frontmatter.featuredimage.childImageSharp.fluid.srcSet,
+                          srcSet:
+                            post.frontmatter.featuredimage.childImageSharp.fluid
+                              .srcSet,
                         }}
                       />
                     </div>
@@ -34,24 +36,26 @@ export default class BlogPaginationPosts extends React.Component {
                   <p className="post-meta">
                     <Link
                       className="title has-text-primary is-size-4"
-                      to={post.fields.slug.replace("/blog", "")}
+                      to={post.fields.slug.replace('/blog', '')}
                     >
                       {post.frontmatter.title}
                     </Link>
                   </p>
                   <div className="articl-footer">
-                    <span className="date">
-                      {post.frontmatter.date}
-                    </span>
-                    <Link className="read-more" to={post.fields.slug.replace("/blog", "")}>
+                    <span className="date">{post.frontmatter.date}</span>
+                    <Link
+                      className="read-more"
+                      to={post.fields.slug.replace('/blog', '')}
+                    >
                       →
                     </Link>
                   </div>
                 </div>
                 <div className="catecory_background">
-                  {post.frontmatter.categories && post.frontmatter.categories.length ? (
+                  {post.frontmatter.categories &&
+                  post.frontmatter.categories.length ? (
                     <>
-                      {post.frontmatter.categories.map((category) => (category))}
+                      {post.frontmatter.categories.map((category) => category)}
                     </>
                   ) : null}
                 </div>

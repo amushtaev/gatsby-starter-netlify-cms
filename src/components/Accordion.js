@@ -1,5 +1,5 @@
-import React, { Children, useEffect, useState } from 'react';
-import { AccordionContext } from './AccordionContext';
+import React, { Children, useEffect, useState } from 'react'
+import { AccordionContext } from './AccordionContext'
 
 const Accordion = (props) => {
   const { activeIndex, children, multiple, animate, gap, className } = props;
@@ -8,9 +8,9 @@ const Accordion = (props) => {
   useEffect(() => {
     if (activeIndex !== undefined) {
       if (typeof activeIndex === 'number') {
-        setActiveIndexes([activeIndex]);
+        setActiveIndexes([activeIndex])
       } else {
-        setActiveIndexes(activeIndex);
+        setActiveIndexes(activeIndex)
       }
     }
   }, [activeIndex]);
@@ -20,15 +20,15 @@ const Accordion = (props) => {
 
     const nextActiveIndex = nextActiveIndexes.indexOf(index);
     if (nextActiveIndex > -1) {
-      nextActiveIndexes.splice(nextActiveIndex, 1);
+      nextActiveIndexes.splice(nextActiveIndex, 1)
     } else if (multiple) {
-      nextActiveIndexes.push(index);
+      nextActiveIndexes.push(index)
     } else {
-      nextActiveIndexes = [index];
+      nextActiveIndexes = [index]
     }
 
-    setActiveIndexes(nextActiveIndexes);
-  };
+    setActiveIndexes(nextActiveIndexes)
+  }
 
   return (
     <div className={className}>
@@ -48,7 +48,7 @@ const Accordion = (props) => {
           </AccordionContext.Provider>
         ))}
     </div>
-  );
+  )
 }
 
-export default Accordion;
+export default Accordion

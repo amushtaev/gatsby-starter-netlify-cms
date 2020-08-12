@@ -4,20 +4,29 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImageRelated from './PreviewCompatibleImageRelated'
 
 class BlogRollRelated extends React.Component {
-
   render() {
-    const { data, category, id} = this.props;
+    const { data, category, id } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
     const maxCountPosts = 4;
     let count = 0;
 
     return (
-      <div key={count} className="columns is-multiline BlogRollPosts" style={{marginTop: `10px`}}>
+      <div
+        key={count}
+        className="columns is-multiline BlogRollPosts"
+        style={{ marginTop: `10px` }}
+      >
         {posts &&
           posts.map(({ node: post }, index) => (
             <React.Fragment key={index}>
-              {post.frontmatter.categories[0] === category[0] && post.id !== id && count++ < maxCountPosts ? (
-                <div className="is-parent column is-4" key={post.fields.slug + `related`} id={post.id}>
+              {post.frontmatter.categories[0] === category[0] &&
+              post.id !== id &&
+              count++ < maxCountPosts ? (
+                <div
+                  className="is-parent column is-4"
+                  key={post.fields.slug + `related`}
+                  id={post.id}
+                >
                   <article
                     className={`blog-list-item tile is-child box notification with_background ${
                       post.frontmatter.featuredpost ? 'is-featured' : ''
@@ -39,7 +48,7 @@ class BlogRollRelated extends React.Component {
                       <p className="post-meta">
                         <Link
                           className="title_related"
-                          to={post.fields.slug.replace("/blog", "")}
+                          to={post.fields.slug.replace('/blog', '')}
                         >
                           {post.frontmatter.title}
                         </Link>
@@ -48,7 +57,11 @@ class BlogRollRelated extends React.Component {
                         <span className="date white">
                           {post.frontmatter.date}
                         </span>
-                        <Link className="read-more" to={post.fields.slug.replace("/blog", "")} style={{color: `#fff`}}>
+                        <Link
+                          className="read-more"
+                          to={post.fields.slug.replace('/blog', '')}
+                          style={{ color: `#fff` }}
+                        >
                           →
                         </Link>
                       </div>
@@ -74,44 +87,51 @@ BlogRollRelated.propTypes = {
 };
 
 export default ({ categories, id }) => {
-
   return (
-  <StaticQuery
-    query={graphql`
-      query BlogRollRelatedQuery {
-        allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-        ) {
-          edges {
-            node {
-              excerpt(pruneLength: 400)
-              id
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                categories
-                templateKey
-                date(formatString: "MMMM DD, YYYY")
-                featuredpost
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 220, quality: 100) {
-                      ...GatsbyImageSharpFluid
+    <StaticQuery
+      query={graphql`
+        query BlogRollRelatedQuery {
+          allMarkdownRemark(
+            sort: { order: DESC, fields: [frontmatter___date] }
+            filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+          ) {
+            edges {
+              node {
+                excerpt(pruneLength: 400)
+                id
+                fields {
+                  slug
+                }
+                frontmatter {
+                  title
+                  categories
+                  templateKey
+                  date(formatString: "MMMM DD, YYYY")
+                  featuredpost
+                  featuredimage {
+                    childImageSharp {
+                      fluid(maxWidth: 220, quality: 100) {
+                        ...GatsbyImageSharpFluid
+                      }
                     }
                   }
-                }
-                image {
-                  publicURL
+                  image {
+                    publicURL
+                  }
                 }
               }
             }
           }
         }
-      }
-    `}
-    render={(data, count) => <BlogRollRelated data={data} count={count} category={categories} id={id} />}
-  />
-)}
+      `}
+      render={(data, count) => (
+        <BlogRollRelated
+          data={data}
+          count={count}
+          category={categories}
+          id={id}
+        />
+      )}
+    />
+  )
+}

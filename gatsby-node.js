@@ -1,4 +1,7 @@
-const {createLinkedPages, createPaginationPages} = require('gatsby-pagination');
+const {
+  createLinkedPages,
+  createPaginationPages,
+} = require('gatsby-pagination');
 const _ = require('lodash');
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
@@ -15,11 +18,8 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
       allMarkdownRemark(
-        limit: 1000, 
-        sort: {
-          fields: [frontmatter___date], 
-          order: DESC
-        }
+        limit: 1000
+        sort: { fields: [frontmatter___date], order: DESC }
       ) {
         edges {
           node {
@@ -69,7 +69,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     let edgesBlog = [];
     edges.forEach((edge) => {
-      if (edge.node.fields.slug.indexOf(`/blog`) > -1) {
+      if (edge.node.fields.slug.indexOf(`\/blog`) > -1) {
         edgesBlog = edgesBlog.concat(edge)
       }
     });
@@ -78,9 +78,9 @@ exports.createPages = ({ actions, graphql }) => {
     createPaginationPages({
       createPage,
       edges: edgesBlog,
-      component: path.resolve(`src/templates/blog.js`),
+      component: path.resolve(`src\/templates\/blog.js`),
       limit: 6,
-      pathFormatter: p => (p === 1 ? `/blog/` : `/blog/page/${p}`),
+      pathFormatter: (p) => (p === 1 ? `\/blog\/` : `\/blog\/page\/${p}`),
       //pathFormatter: prefixPathFormatter('/blog'),
       context: {
         title,
@@ -91,8 +91,8 @@ exports.createPages = ({ actions, graphql }) => {
     createLinkedPages({
       createPage,
       edges: edgesBlog,
-      component: path.resolve(`src/templates/blog.js`),
-      edgeParser: edge => {
+      component: path.resolve(`src\/templates\/blog.js`),
+      edgeParser: (edge) => {
         const {
           id,
           fields: { slug },
@@ -105,51 +105,27 @@ exports.createPages = ({ actions, graphql }) => {
             id,
             slug,
           },
-        };
+        }
       },
       circular: true,
     });
 
     edges.forEach((edge) => {
       const id = edge.node.id;
-      const pagePath = String(edge.node.fields.slug).includes(`/blog/`) ?
-        String(edge.node.fields.slug).replace(`\/blog`, ``) :
-        edge.node.fields.slug;
+      const pagePath = String(edge.node.fields.slug).includes(`\/blog\/`)
+        ? String(edge.node.fields.slug).replace(`\/blog`, ``)
+        : edge.node.fields.slug;
 
       createPage({
         path: pagePath,
         tags: edge.node.frontmatter.tags,
         component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
+          `src\/templates\/${String(edge.node.frontmatter.templateKey)}.js`
         ),
         // additional data can be passed via context
         context: {
           id,
           slug: pagePath,
-        },
-      });
-    });
-
-    // Tag pages:
-    let tags = [];
-    // Iterate through each post, putting all found tags into `tags`
-    edges.forEach((edge) => {
-      if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
-      }
-    });
-    // Eliminate duplicate tags
-    tags = _.uniq(tags);
-
-    // Make tag pages
-    tags.forEach((tag) => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`;
-
-      createPage({
-        path: tagPath,
-        component: path.resolve(`src/templates/tags.js`),
-        context: {
-          tag,
         },
       })
     });
@@ -169,21 +145,25 @@ exports.createPages = ({ actions, graphql }) => {
     categories.forEach((category, index) => {
       let edgesCat = [];
       let slug = ``;
-        edges.forEach((edge) => {
-        if(edge.node.frontmatter.categories && edge.node.frontmatter.categories[0] === category) {
+      edges.forEach((edge) => {
+        if (
+          edge.node.frontmatter.categories &&
+          edge.node.frontmatter.categories[0] === category
+        ) {
           edgesCat = edgesCat.concat(edge);
           slug = edge.node.frontmatter.categories_slug
         }
-      });
+      })
 
-      const categoryPath = `/category/${_.kebabCase(category)}`;
+      const categoryPath = `\/category/${_.kebabCase(category)}`;
 
       createPaginationPages({
         createPage,
         edges: edgesCat,
-        component: path.resolve(`src/templates/categories.js`),
+        component: path.resolve(`src\/templates\/categories.js`),
         limit: 6,
-        pathFormatter: p => (p === 1 ? categoryPath : `${categoryPath}/page/${p}`),
+        pathFormatter: (p) =>
+          p === 1 ? categoryPath : `${categoryPath}\/page\/${p}`,
         context: {
           title,
           shortTitle,
@@ -195,7 +175,7 @@ exports.createPages = ({ actions, graphql }) => {
         createPage,
         edges: edgesCat,
         component: path.resolve(`src/templates/categories.js`),
-        edgeParser: edge => {
+        edgeParser: (edge) => {
           const {
             id,
             fields: { slug },
@@ -208,10 +188,10 @@ exports.createPages = ({ actions, graphql }) => {
               id,
               slug,
             },
-          };
+          }
         },
         circular: true,
-      });
+      })
     });
     //TODO
     // Create Search Pagination Pages
@@ -220,7 +200,7 @@ exports.createPages = ({ actions, graphql }) => {
       edges: edgesBlog,
       component: path.resolve(`src/templates/search-result.js`),
       limit: 20,
-      pathFormatter: p => (p === 1 ? `/search/` : `/search/page/${p}`),
+      pathFormatter: (p) => (p === 1 ? `/search/` : `/search/page/${p}`),
       //pathFormatter: prefixPathFormatter('/blog'),
       context: {
         title,
@@ -232,7 +212,7 @@ exports.createPages = ({ actions, graphql }) => {
       createPage,
       edges: edgesBlog,
       component: path.resolve(`src/templates/search-result.js`),
-      edgeParser: edge => {
+      edgeParser: (edge) => {
         const {
           id,
           fields: { slug },
@@ -245,11 +225,10 @@ exports.createPages = ({ actions, graphql }) => {
             id,
             slug,
           },
-        };
+        }
       },
       circular: true,
-    });
-
+    })
   })
 };
 

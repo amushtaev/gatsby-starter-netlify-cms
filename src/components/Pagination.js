@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import prevIco from "../img/prevIco.svg";
-import nextIco from "../img/nextIco.svg";
+import prevIco from '../img/prevIco.svg'
+import nextIco from '../img/nextIco.svg'
 
 // A sweet helper function to create pagination object
 const createPaginationObjects = (length, page, increment = 2, category) =>
@@ -11,15 +11,8 @@ const createPaginationObjects = (length, page, increment = 2, category) =>
     current: page === i + increment,
   }));
 
-const Pagination = ({pageContext, category, link}) =>{
-  const {
-    nodes,
-    page,
-    prev,
-    next,
-    pages,
-    total,
-  } = pageContext;
+const Pagination = ({ pageContext, category, link }) => {
+  const { page, prev, next, pages } = pageContext;
 
   // Create the navigation link
   let navItems = [
@@ -37,7 +30,7 @@ const Pagination = ({pageContext, category, link}) =>{
         index: i + 2,
         current: page === i + 2,
       })),
-    ];
+    ]
   } else {
     // We have a situation where we have to show the first
     // item, three items around the current one
@@ -56,7 +49,7 @@ const Pagination = ({pageContext, category, link}) =>{
           index: pages,
           current: false,
         },
-      ];
+      ]
     } else if (page > pages - 3) {
       // If the current one is closer to the last one
       navItems = [
@@ -66,7 +59,7 @@ const Pagination = ({pageContext, category, link}) =>{
           index: 'finisher-separator',
         },
         ...createPaginationObjects(4, page, pages - 3, category),
-      ];
+      ]
     } else {
       navItems = [
         ...navItems,
@@ -84,7 +77,7 @@ const Pagination = ({pageContext, category, link}) =>{
           index: pages,
           current: false,
         },
-      ];
+      ]
     }
   }
 
@@ -92,16 +85,22 @@ const Pagination = ({pageContext, category, link}) =>{
     <nav className="pagination">
       {prev && (
         <Link to={prev} className="pagination-previous">
-          <img src={prevIco}/>
+          <img src={prevIco} alt="pagination-previous" />
         </Link>
       )}
       <ul className="pagination-list">
-        {navItems.map(item => (
+        {navItems.map((item) => (
           <li key={item.index}>
             {item.separator ? (
               <span className="pagination-ellipsis">&hellip;</span>
             ) : (
-              <Link to={item.link} className={`pagination-link ${ item.current ? 'is-current' : '' }`} aria-label={`Goto page ${item.index}`} >
+              <Link
+                to={item.link}
+                className={`pagination-link ${
+                  item.current ? 'is-current' : ''
+                }`}
+                aria-label={`Goto page ${item.index}`}
+              >
                 {item.index}
               </Link>
             )}
@@ -110,11 +109,11 @@ const Pagination = ({pageContext, category, link}) =>{
       </ul>
       {next && (
         <Link to={next} className="pagination-next">
-          <img src={nextIco}/>
+          <img src={nextIco} alt="pagination-next" />
         </Link>
       )}
     </nav>
   )
 };
 
-export default Pagination;
+export default Pagination

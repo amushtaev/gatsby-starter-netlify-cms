@@ -1,6 +1,6 @@
 import React from 'react'
-import PropTypes, {node} from 'prop-types'
-import {graphql, Link, StaticQuery} from 'gatsby'
+import PropTypes from 'prop-types'
+import { graphql, Link, StaticQuery } from 'gatsby'
 import Search from './Search'
 
 class NavRoll extends React.Component {
@@ -12,28 +12,35 @@ class NavRoll extends React.Component {
         <ul className="section-sub-nav">
           <li className="sub-nav">
             <Link
-              className={`navbar_item ${!active ? "color--yellow" : ""}`}
-              to="/blog">
-                See all
+              className={`navbar_item ${!active ? 'color--yellow' : ''}`}
+              to="/blog"
+            >
+              See all
             </Link>
           </li>
           {data.allMarkdownRemark.catNames.map((cat, index) => (
             <li className="sub-nav" key={cat.fieldValue}>
               {data.allMarkdownRemark.catValues.map((slug, slugindex) =>
-                index === slugindex ?
+                index === slugindex ? (
                   <Link
                     key={slug}
-                    className={`navbar_item ${active === slug.fieldValue ? "color--yellow" : ""}`}
+                    className={`navbar_item ${
+                      active === slug.fieldValue ? 'color--yellow' : ''
+                    }`}
                     to={`/category/${slug.fieldValue}`}
                     pathname={slug.fieldValue}
                     propsslug={slug.fieldValue}
                   >
-                      {cat.fieldValue}
-                  </Link > : null
+                    {cat.fieldValue}
+                  </Link>
+                ) : null
               )}
             </li>
           ))}
-          <Search onSearch={this.props.onSearch} value={this.props.defaultSearch} />
+          <Search
+            onSearch={this.props.onSearch}
+            value={this.props.defaultSearch}
+          />
         </ul>
       </div>
     )
@@ -50,7 +57,7 @@ NavRoll.propTypes = {
   onSearch: PropTypes.func,
 };
 
-export default ({active, defaultSearchValue, onSearch}) => (
+export default ({ active, defaultSearchValue, onSearch }) => (
   <StaticQuery
     query={graphql`
       query NavCatLink {
@@ -76,6 +83,13 @@ export default ({active, defaultSearchValue, onSearch}) => (
         }
       }
     `}
-    render={(data) => <NavRoll data={data} active={active} defaultSearch={defaultSearchValue} onSearch={(value) => onSearch(value)} />}
+    render={(data) => (
+      <NavRoll
+        data={data}
+        active={active}
+        defaultSearch={defaultSearchValue}
+        onSearch={(value) => onSearch(value)}
+      />
+    )}
   />
 )
