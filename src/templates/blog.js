@@ -13,7 +13,7 @@ const BlogPage = ({pageContext, stringSearch}) => {
   const [search, setSearch] = useState(stringSearch);
   const [redirctTo, setRedirctTo] = useState(false);
   const debouncedSearchTerm = useDebounce(search, 1000);
-  const history = window.browserHistory || createBrowserHistory();
+  const history = createBrowserHistory();
 
   useEffect(() => {
     setRedirctTo(true);

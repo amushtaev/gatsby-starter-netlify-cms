@@ -4,7 +4,7 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
 import {useHistory} from "react-router";
 import {useKeenSlider} from "keen-slider/react";
-import {Arrow, DarkRectangle, Dot, Dots, KeenSlider} from "./pricing/styledComponents";
+import {Arrow, DarkRectangle, Dot, Dots, KeenSlider, Article} from "./pricing/styledComponents";
 
 const BlogRoll = (props) => {
   const { data} = props;
@@ -84,10 +84,11 @@ const BlogRoll = (props) => {
           {posts && posts.map(({ node: post }, index) => {
             const isVisiblePost = getVisibleCard(index, posts.length);
             return (
-              <article
+              <Article
                 key={`${post.id}:blogRoll:${index + 1}`}
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''} keen-slider__slide number-slide${index + 1}`}
+                noShadow={!isVisiblePost}
               >
                 <DarkRectangle visible={!isVisiblePost} />
                 <header className="header article BlogRoll">
@@ -112,13 +113,15 @@ const BlogRoll = (props) => {
                       {post.frontmatter.title}
                     </Link>
                   </p>
-                  <div className="articl-footer">
+                  <div
+                    className="articl-footer"
+                    style={{gridTemplateColumns: '194px 80px'}}
+                  >
                     <span className="date">
                       {post.frontmatter.date}
                     </span>
                     <Link
                       className="read-more"
-                      style={{gridTemplateColumns: '194px 80px'}}
                       to={post.fields.slug.replace("/blog", "")}
                     >
                       →
@@ -132,7 +135,7 @@ const BlogRoll = (props) => {
                     </>
                   ) : null}
                 </div>
-              </article>
+              </Article>
             )
           })}
         </KeenSlider>
@@ -236,7 +239,7 @@ export default () => {
             frontmatter: { 
               templateKey: { eq: "blog-post" } 
             } 
-          }, limit: 7) {
+          }, limit: 10) {
           edges {
             node {
               excerpt(pruneLength: 400)

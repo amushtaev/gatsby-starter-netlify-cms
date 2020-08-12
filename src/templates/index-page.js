@@ -1,4 +1,5 @@
 import React, {useState} from 'react'
+import { Link } from 'gatsby'
 import BlogRoll from '../components/BlogRoll'
 import BlogRollRelatedIndex from "../components/BlogRollRelatedIndex";
 import Layout from '../components/Layout';
@@ -166,30 +167,54 @@ function MarketingVideos() {
     <>
       <div className='marketing-videos' style={{marginTop: '62px'}}>
         <div className='marketing-videos--content'>
-          <img src={Commerce} alt="E-commerce" />
-          <span className='marketing-videos--title'>E-commerce</span>
+          <Link
+            to={'/industries/#ecommerce'}
+          >
+            <img src={Commerce} alt="E-commerce" />
+            <span className='marketing-videos--title'>E-commerce</span>
+          </Link>
         </div>
         <div className='marketing-videos--content'>
-          <img src={Food} alt="Food & Delivery" />
-          <span className='marketing-videos--title'>Food & Delivery</span>
+          <Link
+            to={'/industries/#food-and-delivery'}
+          >
+            <img src={Food} alt="Food & Delivery" />
+            <span className='marketing-videos--title'>Food & Delivery</span>
+          </Link>
         </div>
         <div className='marketing-videos--content'>
-          <img src={Real} alt="Real Estate" />
-          <span className='marketing-videos--title'>Real Estate</span>
+          <Link
+            to={'/industries/#real-estate'}
+          >
+            <img src={Real} alt="Real Estate" />
+            <span className='marketing-videos--title'>Real Estate</span>
+          </Link>
         </div>
       </div>
       <div className='marketing-videos' style={{marginTop: '52px'}}>
         <div className='marketing-videos--content'>
-          <img src={Fitness} alt="Fitness" />
-          <span className='marketing-videos--text'>Fitness</span>
+          <Link
+            to={'/industries/#fitness'}
+          >
+            <img src={Fitness} alt="Fitness" />
+            <span className='marketing-videos--title'>Fitness</span>
+          </Link>
         </div>
         <div className='marketing-videos--content'>
-          <img src={Electronics} alt="Electronics" />
-          <span className='marketing-videos--title'>Electronics</span>
+          <Link
+            to={'/industries/#fitness'}
+          >
+            <img src={Electronics} alt="Electronics" />
+            <span className='marketing-videos--title'>Electronics</span>
+          </Link>
         </div>
         <div className='marketing-videos--content'>
-          <img src={Travel } alt="Travel " />
-          <span className='marketing-videos--title'>Travel </span>
+          <Link
+            to={'/industries/#travel'}
+          >
+            <img src={Travel } alt="Travel " />
+            <span className='marketing-videos--title'>Travel </span>
+          </Link>
         </div>
       </div>
       <AllIndustriesButton
@@ -275,6 +300,7 @@ function VideoHowItWorks() {
 }
 
 function Maximize() {
+  const history = useHistory();
   return (
     <>
       <div className='marketing-videos' style={{marginTop: '82px'}}>
@@ -289,7 +315,7 @@ function Maximize() {
             <BigButtonStyled
               text='Learn more'
               onClick={() => {
-                window.location.href = 'https://app.softcube.com'
+                window.location.href = '/industries/#vertical'
               }}
             />
           </div>
@@ -303,8 +329,10 @@ function Maximize() {
             </span>
             <BigButtonStyled
               text='Learn more'
+              component={Link}
+              to="/industries/#wide"
               onClick={() => {
-                window.location.href = 'https://app.softcube.com'
+                window.location.href = '/industries/#wide'
               }}
             />
           </div>
@@ -319,7 +347,7 @@ function Maximize() {
             <BigButtonStyled
               text='Learn more'
               onClick={() => {
-                window.location.href = 'https://app.softcube.com'
+                window.location.href = '/industries/#square'
               }}
             />
           </div>

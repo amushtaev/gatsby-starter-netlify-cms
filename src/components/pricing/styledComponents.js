@@ -91,6 +91,13 @@ export const CommentCard = styled.div`
     transition: all 0.2s;
 `;
 
+export const Article = styled.article`
+  overflow: visible;
+    box-shadow: ${props => props.noShadow ? 'none'
+  : '-10px -10px 15px rgba(28, 28, 72, 0.5), 10px 10px 15px rgba(8, 8, 22, 0.5)'};
+    transition: all 0.2s;
+`;
+
 export const CommentContainer = styled.div`
     box-shadow: ${props => props.noShadow ? 'none' : '10px 10px 15px rgba(8, 8, 22, 0.5)'};
     height: 214px;
@@ -632,6 +639,7 @@ export const AllIndustriesButton = styled(BlackButton)`
     border-radius: 60px;
     background: transparent;
     margin-top: 92px;
+    cursor: pointer;
     
     span {
       font-family: Source Sans Pro;
@@ -659,7 +667,9 @@ export const TryButton = styled(BigButton)`
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    margin: 0 auto 42px 14px
+    margin: 0 auto 42px 14px;
+    z-index: 101;
+    cursor: pointer
 `;
 
 export const Feature = styled.span`
