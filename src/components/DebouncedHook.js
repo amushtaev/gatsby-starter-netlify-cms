@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect } from 'react';
 
 // Наш хук
 export default function useDebounce(value, delay) {
@@ -10,7 +10,7 @@ export default function useDebounce(value, delay) {
       // Выставить debouncedValue равным value (переданное значение)
       // после заданной задержки
       const handler = setTimeout(() => {
-        setDebouncedValue(value)
+        setDebouncedValue(value);
       }, delay);
 
       // Вернуть функцию очистки, которая будет вызываться каждый раз, когда ...
@@ -23,8 +23,8 @@ export default function useDebounce(value, delay) {
       // ... нашего приложения в поле поиска, мы не хотим, чтобы debouncedValue...
       // ... не менялось до тех пор, пока он не прекратит печатать дольше, чем 500ms.
       return () => {
-        clearTimeout(handler)
-      }
+        clearTimeout(handler);
+      };
     },
     // Вызывается снова, только если значение изменится
     // мы так же можем добавить переменную "delay" в массива зависимостей ...
@@ -32,5 +32,5 @@ export default function useDebounce(value, delay) {
     [value]
   );
 
-  return debouncedValue
+  return debouncedValue;
 }

@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
 
-const CategoriesPage = ({
+const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
     site: {
@@ -13,20 +13,20 @@ const CategoriesPage = ({
   },
 }) => (
   <Layout>
-    <section className="section CategoriesPage">
-      <Helmet title={`Categories | ${title}`} />
+    <section className="section">
+      <Helmet title={`Tags | ${title}`} />
       <div className="container content">
         <div className="columns">
           <div
             className="column is-10 is-offset-1"
             style={{ marginBottom: '6rem' }}
           >
-            <h1 className="title is-size-2 is-bold-light">Categories</h1>
-            <ul className="categorylist">
-              {group.map((category) => (
-                <li key={category.fieldValue}>
-                  <Link to={`/category/${kebabCase(category.fieldValue)}/`}>
-                    {category.fieldValue} ({category.totalCount})
+            <h1 className="title is-size-2 is-bold-light">Tags</h1>
+            <ul className="taglist">
+              {group.map((tag) => (
+                <li key={tag.fieldValue}>
+                  <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                    {tag.fieldValue} ({tag.totalCount})
                   </Link>
                 </li>
               ))}
@@ -36,33 +36,22 @@ const CategoriesPage = ({
       </div>
     </section>
   </Layout>
-);
+)
 
-export default CategoriesPage
+export default TagsPage
 
-export const categoryPageQuery = graphql`
-  query CategoriesQuery {
+export const tagPageQuery = graphql`
+  query TagsQuery {
     site {
       siteMetadata {
         title
       }
     }
     allMarkdownRemark(limit: 1000) {
-      group(field: frontmatter___categories) {
+      group(field: frontmatter___tags) {
         fieldValue
         totalCount
-        nodes {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            image {
-              publicURL
-            }
-          }
-        }
       }
     }
   }
-`;
+`

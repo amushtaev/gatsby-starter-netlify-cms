@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react'
-import PropTypes from 'prop-types'
-import Masonry from 'react-masonry-css'
+import React, { useEffect, useState } from 'react';
+import PropTypes from 'prop-types';
+import Masonry from 'react-masonry-css';
 import Layout from '../components/Layout'
 import {
   SearchButton,
@@ -8,37 +8,40 @@ import {
   InputContainer,
   PricingHeading,
   PricingPageContainer,
-} from '../components/pricing/styledComponents'
-import NavIndustries from '../components/NavIndustries'
+} from '../components/pricing/styledComponents';
+import NavIndustries from '../components/NavIndustries';
 import VideoTemplate from '../components/industries/VideoTemplate'
 
 const Tags = [
-  { tag: 'ecommerce' },
-  { tag: 'car dealerships' },
-  { tag: 'real estate' },
-  { tag: 'travel' },
-  { tag: 'food and delivery' },
-  { tag: 'fitness' },
-]
+  { 'tag': 'ecommerce' },
+  { 'tag': 'car dealerships' },
+  { 'tag': 'real estate' },
+  { 'tag': 'travel' },
+  { 'tag': 'food and delivery' },
+  { 'tag': 'fitness' }];
 
 const GetData = () => {
-  const [tags] = useState(Tags)
-  let postDates = []
-  let searchTags = []
-  const [postDate, setPostDate] = useState([])
-  const pageSize = 100
+  const [tags] = useState(Tags);
+  let postDates = [];
+  let searchTags = [];
+  const [postDate, setPostDate] = useState([]);
+  const pageSize = 100;
 
   tags.map((tag, index) => {
-    searchTags.push('{name: "' + tag.tag + '", score: ' + index + '}')
-  })
+    searchTags.push(
+      '{name: "' + tag.tag + '", score: ' + index +'}'
+    )
+  });
 
   useEffect(() => {
     // POST request using fetch inside useEffect React hook
     const requestOptions = {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        query: `query 
+      body: JSON.stringify
+      (
+        {
+          query: `query 
           {search(
             tags: [${searchTags}], page: 1, pageSize: ${pageSize}) { 
               id
@@ -58,36 +61,33 @@ const GetData = () => {
                 }
               }
             }
-          }`,
-      }),
-    }
+          }`
+        }
+      )
+    };
     fetch('https://graph.softcube.com/graphql', requestOptions)
       .then((response) => response.json())
       .then((responseJSON) => {
-        setPostDate(responseJSON)
+        setPostDate( responseJSON )
         console.log(responseJSON)
-      })
-  }, [])
+      });
+  }, []);
 
-  postDates.push(postDate)
+  postDates.push(postDate);
   return IndustriesPage(postDates)
-}
+};
 
 export default GetData
 
 const IndustriesPage = (props) => {
-  const [videoDataProps] = props
-  let videoData = []
-  const refSlug =
-    typeof window !== 'undefined' && window.location.href.split('#')[1]
+  const [videoDataProps] = props;
+  let videoData = [];
+  const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
 
-  if (videoDataProps.data) {
+  if(videoDataProps.data) {
     if (refSlug) {
       videoDataProps.data.search.map((edge) => {
-        if (
-          edge.tags[0].replace(/ /g, '-') === refSlug ||
-          edge.project.size.name === refSlug
-        ) {
+        if(edge.tags[0].replace(/ /g, '-') === refSlug || edge.project.size.name === refSlug) {
           videoData = videoData.concat(edge)
         }
       })
@@ -100,21 +100,22 @@ const IndustriesPage = (props) => {
         <PricingPageContainer>
           <IndustriesHead />
           <SearchYourLink />
-          <div className="industries">
+          <div className='industries'>
             <NavIndustries />
             <IndustriesVideo videoData={videoData} />
           </div>
         </PricingPageContainer>
       </Layout>
-    )
+    );
   } else {
     return null
   }
-}
+};
+
 
 IndustriesPage.propType = {
   stringSearch: PropTypes.string,
-}
+};
 
 function IndustriesHead() {
   return (
@@ -125,7 +126,7 @@ function IndustriesHead() {
 }
 
 function SearchYourLink() {
-  const [inputValue, setInputValue] = React.useState('')
+  const [inputValue, setInputValue] = React.useState('');
   return (
     <div
       style={{
@@ -138,22 +139,22 @@ function SearchYourLink() {
     >
       <InputContainer>
         <BigSimpleTextInputStyled
-          name="product-link"
+          name='product-link'
           defaultValue={inputValue}
-          placeholder="Paste your link, e.g., bestservice.com/bestoffer.html"
+          placeholder='Paste your link, e.g., bestservice.com/bestoffer.html'
           onChange={(value) => {
-            setInputValue(value)
+            setInputValue(value);
           }}
         />
         <SearchButton
-          text="Search"
+          text='Search'
           onClick={() => {
             window.location.href = 'https://app.softcube.com'
           }}
         />
       </InputContainer>
     </div>
-  )
+  );
 }
 
 function IndustriesVideo(videoData) {
@@ -161,21 +162,23 @@ function IndustriesVideo(videoData) {
     default: 4,
     1100: 3,
     700: 2,
-    500: 1,
-  }
+    500: 1
+  };
 
   return (
-    <div className="template-directory-video-grid">
-      <div className="templates-video-grid">
-        <div className="responsive-grid">
-          <ul className="grid">
+    <div className='template-directory-video-grid'>
+      <div className='templates-video-grid'>
+        <div className='responsive-grid'>
+          <ul className='grid'>
             <Masonry
               breakpointCols={breakpointColumnsObj}
               className="industries-grid"
               columnClassName="industries-grid_column"
             >
               {videoData.videoData.map((video) => (
-                <VideoTemplate key={video.id} video={video} />
+              <VideoTemplate
+                key={video.id}
+                video={video} />
               ))}
             </Masonry>
           </ul>

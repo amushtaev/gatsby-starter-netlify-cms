@@ -3,15 +3,8 @@ import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
-import LayoutBlog from '../components/LayoutBlog'
+import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import NavRoll from '../components/NavRoll'
-import facebook from '../img/social/facebook.svg'
-import twitter from '../img/social/twitter.svg'
-import linkedin from '../img/social/linkedin.svg'
-import gplus from '../img/social/gplus.svg'
-import BlogRollRelated from '../components/BlogRollRelated'
-import { DiscussionEmbed } from 'disqus-react'
 
 export const BlogPostTemplate = ({
   content,
@@ -20,58 +13,22 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
-  categories,
-  slug,
-  id,
-  image,
-  date,
 }) => {
   const PostContent = contentComponent || Content
-  const disqusConfig = {
-    shortname: process.env.GATSBY_DISQUS_NAME,
-    config: { identifier: slug, title },
-  }
 
   return (
-    <section className="section Blog-Post" id={id}>
-      <div className="index Blog">
-        <h1 className="h1-title">SOFTCUBE BLOG</h1>
-        <h2 className="h2-subtitle">
-          News, guides, and updates on Google and Facebook marketing
-        </h2>
-      </div>
-      <NavRoll />
+    <section className="section">
       {helmet || ''}
-      <div
-        className="container white s__width"
-        style={{ position: `relative` }}
-      >
+      <div className="container content">
         <div className="columns">
-          <div className="column post_column">
-            <img className="post_image" src={image} alt={title} />
-            <div style={{ paddingTop: `8px` }}>
-              {categories && categories.length ? (
-                <>
-                  {categories.map((category) => (
-                    <span
-                      className="post_category"
-                      style={{ display: `inline-flex` }}
-                      key={category + `category`}
-                    >
-                      {category}
-                    </span>
-                  ))}
-                </>
-              ) : null}
-              <span className="date" style={{ display: `inline-flex` }}>
-                &nbsp;&nbsp;•&nbsp;&nbsp;{date}
-              </span>
-            </div>
-            <h1 className="title post_title">{title}</h1>
+          <div className="column is-10 is-offset-1">
+            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+              {title}
+            </h1>
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
-              <div style={{ marginTop: `4rem`, display: `none` }}>
+              <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
                 <ul className="taglist">
                   {tags.map((tag) => (
@@ -82,25 +39,6 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
-            <DiscussionEmbed {...disqusConfig} />
-            <div className="column" style={{ marginTop: `60px` }}>
-              <h3 className="post_related">you may also like</h3>
-              <BlogRollRelated categories={categories} id={id} />
-            </div>
-          </div>
-          <div className="column social">
-            <a title="facebook" href="https://facebook.com">
-              <img src={facebook} alt="Facebook" />
-            </a>
-            <a title="twitter" href="https://twitter.com">
-              <img className="fas fa-lg" src={twitter} alt="Twitter" />
-            </a>
-            <a title="instagram" href="https://linkedin.com">
-              <img src={linkedin} alt="linkedin" />
-            </a>
-            <a title="gplus" href="https://gplus.com">
-              <img src={gplus} alt="gplus" />
-            </a>
           </div>
         </div>
       </div>
@@ -114,20 +52,15 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
-  categories: PropTypes.array,
-  id: PropTypes.string,
-  image: PropTypes.string,
-  date: PropTypes.string,
 }
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <LayoutBlog>
+    <Layout>
       <BlogPostTemplate
         content={post.html}
-        id={post.id}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
@@ -139,13 +72,10 @@ const BlogPost = ({ data }) => {
             />
           </Helmet>
         }
-        categories={post.frontmatter.categories}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
-        image={post.frontmatter.image ? post.frontmatter.image.publicURL : null}
-        date={post.frontmatter.date}
       />
-    </LayoutBlog>
+    </Layout>
   )
 }
 
@@ -165,12 +95,8 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
-        categories
         description
         tags
-        image {
-          publicURL
-        }
       }
     }
   }

@@ -23,6 +23,6 @@ Testimonials.propTypes = {
       author: PropTypes.string,
     })
   ),
-};
+}
 
 export default Testimonials

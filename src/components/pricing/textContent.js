@@ -1,9 +1,5 @@
 export const Features = {
-  basic: [
-    'Multiple video formats',
-    'Text animations',
-    'Upload your own content',
-  ],
+  basic: ['Multiple video formats', 'Text animations', 'Upload your own content'],
   pro: ['Multiple video formats', 'Text animations', 'Upload your own content'],
   custom: [
     'Everything in Pro',
@@ -12,59 +8,52 @@ export const Features = {
     'Multilingual catalog integration',
     'Custom footage sourcing',
   ],
-}
+};
 
 export const Comments = [
   {
     author: 'Hanna Schmid',
     text:
       "“Softcube video ads help me save time. I don't need to use various programs for creating ads anymore. It's amazing!”",
-    photo:
-      'https://s-http-public.s3.eu-central-1.amazonaws.com/review/HannaSchmid.png',
+    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/HannaSchmid.png',
   },
   {
     author: 'Dylan Pradas',
     text:
       '“Softcube video ads are so eye-catching! Video ads help me reach new customers with less effort”',
-    photo:
-      'https://s-http-public.s3.eu-central-1.amazonaws.com/review/DylanPradas.png',
+    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/DylanPradas.png',
   },
   {
     author: 'Elizabeth Davis',
     text:
       '“I tried video ads for the first time to promote my business and they performed better than my previous image ads. Thanks!”',
-    photo:
-      'https://s-http-public.s3.eu-central-1.amazonaws.com/review/ElizabethDavis.png',
+    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/ElizabethDavis.png',
   },
   {
     author: 'Leon Becker',
     text:
       '“The Softcube video library is the best way for me to make a lot of video ads in a few clicks!”',
-    photo:
-      'https://s-http-public.s3.eu-central-1.amazonaws.com/review/LeonBecker.png',
+    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/LeonBecker.png',
   },
   {
     author: 'Hanna Schmid',
     text:
       "“Softcube video ads help me save time. I don't need to use various programs for creating ads anymore. It's amazing!”",
-    photo:
-      'https://s-http-public.s3.eu-central-1.amazonaws.com/review/HannaSchmid.png',
+    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/HannaSchmid.png',
   },
   {
     author: 'Dylan Pradas',
     text:
       '“Softcube video ads are so eye-catching! Video ads help me reach new customers with less effort”',
-    photo:
-      'https://s-http-public.s3.eu-central-1.amazonaws.com/review/DylanPradas.png',
+    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/DylanPradas.png',
   },
   {
     author: 'Elizabeth Davis',
     text:
       '“I tried video ads for the first time to promote my business and they performed better than my previous image ads. Thanks!”',
-    photo:
-      'https://s-http-public.s3.eu-central-1.amazonaws.com/review/ElizabethDavis.png',
+    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/ElizabethDavis.png',
   },
-]
+];
 
 export const QuestionsAnswersFirstColumn = [
   {
@@ -82,7 +71,7 @@ export const QuestionsAnswersFirstColumn = [
     answer:
       'Yes, our online payment system enables you to make secure payments. We don’t save your credit card details.',
   },
-]
+];
 
 export const QuestionsAnswersSecondColumn = [
   {
@@ -99,4 +88,4 @@ export const QuestionsAnswersSecondColumn = [
     question: 'Which payment methods do you accept?',
     answer: 'We accept all major credit cards.',
   },
-]
+];
