@@ -16,7 +16,7 @@ const CatPage = ({pageContext, stringSearch }) => {
   const [search, setSearch] = useState(stringSearch);
   const [redirctTo, setRedirctTo] = useState(false);
   const debouncedSearchTerm = useDebounce(search, 1000);
-  const history = window.browserHistory || createBrowserHistory();
+  /*const history = window.browserHistory || createBrowserHistory();*/
 
   useEffect(() => {
     setRedirctTo(true);
@@ -24,7 +24,7 @@ const CatPage = ({pageContext, stringSearch }) => {
   //TODO
   if(debouncedSearchTerm && redirctTo){
     return (
-      <Router  history={history}>
+      <Router  /*history={history}*/>
         <Switch>
           <Route path='/search'>
             <SearchPage pageContext={pageContext} search={debouncedSearchTerm} />
