@@ -7,10 +7,12 @@ import {
   BigSimpleTextInputStyled,
   InputContainer,
   PricingHeading,
-  PricingPageContainer,
+  PricingPageContainer, IndexHeading,
 } from '../components/pricing/styledComponents';
 import NavIndustries from '../components/NavIndustries';
 import VideoTemplate from '../components/industries/VideoTemplate'
+import BlogRoll from "../components/blog/BlogRoll";
+import BlogRollRelatedIndex from "../components/blog/BlogRollRelatedIndex";
 
 const Tags = [
   { 'tag': 'ecommerce' },
@@ -104,6 +106,10 @@ const IndustriesPage = (props) => {
             <NavIndustries />
             <IndustriesVideo videoData={videoData} />
           </div>
+          <IndexHeading>LATEST ARTICLES</IndexHeading>
+          <BlogRoll />
+          <IndexHeading>RELATED ARTICLES</IndexHeading>
+          <BlogRollRelatedIndex />
         </PricingPageContainer>
       </Layout>
     );
