@@ -1,7 +1,7 @@
 import React from 'react'
 import NavRoll from "../components/NavRoll";
-import BlogRollPosts from "../components/BlogRollPosts";
-import LayoutBlog from "../components/LayoutBlog";
+import BlogRollPosts from "../components/blog/BlogRollPosts";
+import LayoutBlog from "../components/blog/LayoutBlog";
 
 const SearchPage = ({pageContext, search }) => {
   //const refSlug = typeof window !== 'undefined' && window.location.href.split("/category/")[1];

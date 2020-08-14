@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import { Link } from 'gatsby'
-import BlogRoll from '../components/BlogRoll'
-import BlogRollRelatedIndex from "../components/BlogRollRelatedIndex";
+import BlogRoll from '../components/blog/BlogRoll'
+import BlogRollRelatedIndex from "../components/blog/BlogRollRelatedIndex";
 import Layout from '../components/Layout';
 import {
   BigSimpleTextInputStyled,
@@ -85,19 +85,21 @@ export default IndexPageTemplate
 function VideoBanner() {
   return (
     <div className="video-banner">
+      <>
+        <video
+          className='video-item__content_banner'
+          autoPlay={true}
+          preload='auto'
+          poster='https://s-http-public.s3.eu-central-1.amazonaws.com/ezgif.com-gif-maker.webp?1e26'
+          loop={true}
+          src='https://s-http-public.s3.eu-central-1.amazonaws.com/landing_7_1.mp4?1e26'
+        />
+      </>
       <TryButton
         text='Try for free!'
         onClick={() => {
           window.location.href = 'https://app.softcube.com'
         }}
-      />
-      <video
-        className='video-item__content_banner'
-        autoPlay={true}
-        preload='auto'
-        poster='https://s-http-public.s3.eu-central-1.amazonaws.com/ezgif.com-gif-maker.webp?1e26'
-        loop={true}
-        src='https://s-http-public.s3.eu-central-1.amazonaws.com/landing_7_1.mp4?1e26'
       />
     </div>
   )
@@ -152,7 +154,7 @@ function AutomaticCreat() {
 function MarketingVideos() {
   return (
     <>
-      <div className='marketing-videos' style={{marginTop: '62px'}}>
+      <div className='marketing-videos top-marketing--videos'>
         <div className='marketing-videos--content'>
           <Link
             to={'/industries/#ecommerce'}
@@ -178,7 +180,7 @@ function MarketingVideos() {
           </Link>
         </div>
       </div>
-      <div className='marketing-videos' style={{marginTop: '52px'}}>
+      <div className='marketing-videos bottom-marketing--videos'>
         <div className='marketing-videos--content'>
           <Link
             to={'/industries/#fitness'}
@@ -431,13 +433,7 @@ function SearchYourLink() {
   const [inputValue, setInputValue] = React.useState('');
   return (
     <div
-      style={{
-        width: 1068,
-        alignItems: 'center',
-        display: 'flex',
-        flexDirection: 'column',
-        margin: '32px 0 0 0',
-      }}
+      className='SearchYourLink'
     >
       <InputContainer>
         <BigSimpleTextInputStyled

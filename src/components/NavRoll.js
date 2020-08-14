@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes, {node} from 'prop-types'
 import {graphql, Link, StaticQuery} from 'gatsby'
-import Search from './Search'
+import Search from './search/Search'
 
 class NavRoll extends React.Component {
   render() {

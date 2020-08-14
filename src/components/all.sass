@@ -345,6 +345,30 @@ footer.footer
   text-transform: uppercase
   color: #212121
 
+.title-try--white
+  font-family: Source Sans Pro
+  font-style: normal
+  font-weight: 900
+  font-size: 32px
+  line-height: 40px
+  margin: 0 auto
+  display: block
+  align-items: center
+  text-transform: uppercase
+  color: #FFFFFF
+
+.title-try--white.latest
+  text-align: left
+  display: block
+  padding-bottom: 20px
+
+.title-try--white.latest a
+  color: #ffffff
+  display: block
+  text-align: right
+  font-size: 16px
+  float: right
+
 .date.white
   color: $color-white !important
 
@@ -630,7 +654,7 @@ $menu-label-color: $white-ter
 
 .video-item__content_banner
   height: 420px
-  width: auto !important
+  width: auto
   max-width: fit-content
 
 .automatic-creat
@@ -652,6 +676,12 @@ $menu-label-color: $white-ter
   flex-wrap: wrap
   max-width: 1078px
   width: 1078px
+
+.top-marketing--videos
+  margin-top: 62px
+
+.bottom-marketing--videos
+  margin-top: 52px
 
 .marketing-videos--content
   flex-grow: 1
@@ -702,6 +732,13 @@ $menu-label-color: $white-ter
   width: 25%
   flex: none
   padding: 20px
+
+.SearchYourLink
+  width: 1068px
+  align-items: center
+  display: flex
+  flex-direction: column
+  margin: 32px 0 0 0
 
 @import "~bulma"
 
@@ -776,6 +813,7 @@ $menu-label-color: $white-ter
   width: 100%
   max-width: 1626px
   grid-template-columns: 300px 1fr
+  margin-top: 72px
 
 .nav-item--title
   font-family: Source Sans Pro
@@ -1000,9 +1038,107 @@ $menu-label-color: $white-ter
   .template-video-item__overlay
     display: none
 
+  .industries
+    display: block
+
+  .industries-grid_column
+    padding-left: 24px
+
+  .nav-item--title
+    font-weight: bold
+    font-size: 16px
+    line-height: 20px
+
+  .nav-item--title a
+    margin: auto
+    display: block
+    text-align: center
+    padding-top: 52px
+
   //Pricing
   .clients-say .arrow
     display: none
 
   .clients-say
     width: 100%
+
+  //blog
+  .title-try--white.latest
+    text-align: center
+    display: block
+    padding-bottom: 20px
+
+  .title-try--white.latest a
+    color: #ffffff
+    display: block
+    text-align: center
+    font-size: 16px
+    float: inherit
+
+    //index
+  .arrow
+    display: none
+
+  .video-banner
+    position: relative
+    margin: 40px auto
+    max-width: calc(100% - 40px)
+    max-height: 100%
+    overflow: hidden
+
+  .video-item__content_banner
+    height: auto
+    width: 100%
+    max-width: fit-content
+
+  .SearchYourLink
+    width: calc(100% - 20px)
+    align-items: center
+    display: flex
+    flex-direction: column
+    margin: 32px 0 0 0
+
+  .automatic-creat
+    text-align: center
+    margin: 0 20px
+    order: 2
+
+  .automatic-creat svg
+    display: block
+    margin: auto
+
+  .automatic-creat-img
+    order: 1
+    padding: 26px 26px 52px
+
+  .automatic-creat--content
+    width: 100%
+    height: auto
+    padding-bottom: 62px
+
+  .marketing-videos
+    width: 100%
+
+  .marketing-videos--content
+    width: calc(100% - 40px)
+
+  .marketing-videos--title
+    padding-bottom: 52px
+
+  .bottom-marketing--videos
+    margin-top: 0
+
+  .works-text--inner
+    margin: -36px 20px 82px
+    padding: 25px 10px 33px 10px
+
+  .video-banner svg
+    position: absolute
+    min-width: 50px
+    width: 50px
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+
+  .section.index
+    width: calc(100% - 40px)

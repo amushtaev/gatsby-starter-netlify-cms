@@ -1,5 +1,5 @@
 import React, {Component, useEffect} from 'react'
-import search from "../img/search.svg";
+import search from "../../img/search.svg";
 import PropTypes from "prop-types";
 
 // Search component

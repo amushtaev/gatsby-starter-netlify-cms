@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImageRelated from './PreviewCompatibleImageRelated'
+import PreviewCompatibleImageRelated from '../PreviewCompatibleImageRelated'
 
 class BlogRollRelated extends React.Component {
 

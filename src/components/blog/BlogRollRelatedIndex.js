@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql, StaticQuery } from 'gatsby'
-import SliderArticl from '../components/SliderArticl'
+import SliderArticl from '../SliderArticl'
 
 const BlogRollRelatedIndex = (props) => {
   const { data} = props;

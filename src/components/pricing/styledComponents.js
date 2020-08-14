@@ -325,7 +325,23 @@ export const PricingHeading = styled(CreateLargeHeading)`
 
 export const IndexHeading = styled(CreateLargeHeading)`
     margin: 152px 0 0 0;
-    max-width: 1078px
+    max-width: 1078px;
+    
+    @media screen and (max-width: 780px) {
+      margin: 132px 0 0 0;
+      max-width: 90%;
+      font-family: Source Sans Pro;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 32px;
+      line-height: 40px;
+      display: flex;
+      align-items: flex-end;
+      text-align: center;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: #FFFFFF;
+    }
 `;
 
 export const SloganSmall = styled.span`
@@ -669,7 +685,18 @@ export const TryButton = styled(BigButton)`
     transform: translate(-50%, -50%);
     margin: 0 auto 42px 14px;
     z-index: 101;
-    cursor: pointer
+    cursor: pointer;
+    
+    @media screen and (max-width: 768px) {
+      position: relative;
+      min-width: 288px;
+      width: 288px;
+      -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      margin: 100px auto 0;
+      z-index: 101;
+    }
 `;
 
 export const Feature = styled.span`
@@ -700,7 +727,15 @@ export const MediumHeadingLeft = styled(MediumHeading)`
     line-height: 0;
     display: flex;
     float: right;
-    width: calc(100% - 106px)
+    width: calc(100% - 106px);
+    
+    @media screen and (max-width: 780px) {
+      width: 100%;
+      float: inherit;
+      text-align: center;
+      display: block;
+      padding: 16px 0 0;
+    }
 `;
 
 
@@ -813,7 +848,16 @@ export const MediumSloganLeft = styled(MediumSlogan)`
     margin: -36px 0 0 0;
     width: calc(100% - 106px);
     float: right;
-    display: flex
+    display: flex;
+    
+    @media screen and (max-width: 780px) {
+      width: 100%;
+      float: inherit;
+      text-align: center;
+      display: block;
+      padding-left: 0;
+      margin: 26px 0 0 0;
+    }
 `;
 
 export const softcubeDark = {

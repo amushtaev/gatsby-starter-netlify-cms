@@ -3,15 +3,16 @@ import PropTypes from 'prop-types';
 import { kebabCase } from 'lodash';
 import { Helmet } from 'react-helmet';
 import { graphql, Link } from 'gatsby';
-import LayoutBlog from '../components/LayoutBlog';
+import LayoutBlog from '../components/blog/LayoutBlog';
 import Content, { HTMLContent } from '../components/Content';
 import NavRoll from '../components/NavRoll';
 import facebook from '../img/social/facebook.svg';
 import twitter from '../img/social/twitter.svg';
 import linkedin from '../img/social/linkedin.svg';
 import gplus from '../img/social/gplus.svg';
-import BlogRollRelated from '../components/BlogRollRelated';
-import { DiscussionEmbed } from 'disqus-react'
+import BlogRollRelated from '../components/blog/BlogRollRelated';
+import { TryAiButton } from '../components/pricing/styledComponents';
+import BlogRollPostsLatest from "../components/blog/BlogRollPostsLatest";
 
 export const BlogPostTemplate = ({
   content,
@@ -111,6 +112,28 @@ export const BlogPostTemplate = ({
             </a>
           </div>
         </div>
+      </div>
+      <div className='container' style={{textAlign: 'center', marginTop: '92px'}}>
+        <h3
+          className='title-try--white latest'>
+          LATEST ARTICLES
+          <Link
+            className="read-more" to={'/blog/'}
+          >
+            View all blog post  <span style={{fontSize: '24px', paddingLeft: '15px', lineHeight: '2.7rem'}}>→</span>
+          </Link>
+        </h3>
+        <BlogRollPostsLatest />
+        <h3 className='title-try--white' style={{paddingTop: '44px'}}>
+          you may also like
+        </h3>
+        <TryAiButton
+          text='Try AI video ad maker'
+          onClick={() => {
+            //hist.push('/create');
+            window.location.href = 'https://app.softcube.com'
+          }}
+        />
       </div>
     </section>
   )

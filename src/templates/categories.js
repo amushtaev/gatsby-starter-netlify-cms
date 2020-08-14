@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
 import NavRoll from "../components/NavRoll";
-import BlogPaginationPosts from "../components/BlogPaginationPosts";
-import LayoutBlog from "../components/LayoutBlog";
+import BlogPaginationPosts from "../components/blog/BlogPaginationPosts";
+import LayoutBlog from "../components/blog/LayoutBlog";
 import Pagination from "../components/Pagination";
 import useDebounce from "../components/DebouncedHook";
 import {createBrowserHistory} from "history";

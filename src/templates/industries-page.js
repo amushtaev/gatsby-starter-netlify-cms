@@ -128,14 +128,7 @@ function IndustriesHead() {
 function SearchYourLink() {
   const [inputValue, setInputValue] = React.useState('');
   return (
-    <div
-      style={{
-        width: 1068,
-        alignItems: 'center',
-        display: 'flex',
-        flexDirection: 'column',
-        margin: '32px 0 98px 0',
-      }}
+    <div className='SearchYourLink'
     >
       <InputContainer>
         <BigSimpleTextInputStyled
