@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useState} from 'react'
 import {Link} from 'gatsby'
 import {
   browseTemplates,
@@ -6,34 +6,60 @@ import {
 
 const NavIndusties = () => {
   const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
+  const [activeClass, setActiveClass] = useState('');
+  const [activeState, setActiveState] = useState(false);
+
+  const toggleHamburger = () => {
+    !activeState ? setActiveClass('is-active') : setActiveClass('')
+    !activeState ? setActiveState(true) : setActiveState(false)
+  };
 
   return (
-    <>
-      <ul className="templates-categories-menu">
-        <li className="nav-item--title">
-          <Link
-            className="link-menu"
-            data-link="all"
-            to='/industries'
-          >
-            BROWSE TEMPLATES
-          </Link>
-        </li>
-        {browseTemplates.map((tag, index) => (
-          <li className="sub-nav-left" key={tag.name}>
+    <nav
+      className="navbar is-transparent"
+      role="navigation"
+      aria-label="main-navigation"
+    >
+      {/* Hamburger menu */}
+      <div
+        className={`navbar-burger burger ${activeClass}`}
+        data-target="navIndusries"
+        onClick={() => toggleHamburger()}
+      >
+        <span />
+        <span />
+        <span />
+      </div>
+      <div
+        id="navIndusries"
+        className={`navbar-menu ${activeClass}`}
+      >
+        <ul className="templates-categories-menu" >
+          <li className="nav-item--title">
             <Link
-              key={tag.link}
-              className={`navbar_item ${refSlug === tag.link ? "color--yellow" : ""}`}
-              to={`#${tag.link}`}
-              pathname={tag.link}
-              propsslug={tag.link}
+              className="link-menu"
+              data-link="all"
+              to='/industries'
             >
-              {tag.name}
-            </Link >
+              BROWSE TEMPLATES
+            </Link>
           </li>
-        ))}
-      </ul>
-    </>
+          {browseTemplates.map((tag, index) => (
+            <li className="sub-nav-left" key={tag.name}>
+              <Link
+                key={tag.link}
+                className={`navbar_item ${refSlug === tag.link ? "color--yellow" : ""}`}
+                to={`#${tag.link}`}
+                pathname={tag.link}
+                propsslug={tag.link}
+              >
+                {tag.name}
+              </Link >
+            </li>
+          ))}
+        </ul>
+      </div>
+    </nav>
   )
 };
 
