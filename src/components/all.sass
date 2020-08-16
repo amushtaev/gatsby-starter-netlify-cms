@@ -158,16 +158,23 @@ ul
   line-height: 36px
   color: #ffffff
   opacity: 0.8
+  display: flex
+  align-items: center
+  justify-content: center
+
+  .notification a:not(.button):not(.dropdown-item)
+    text-decoration: none
 
 .navbar_item .icon
   color: $primary
 
+
 .blog-list-item .featured-thumbnail
-  flex-basis: 100% !important
-  margin: 0 !important
-  display: block !important
-  height: 170px !important
-  overflow: hidden !important
+  flex-basis: 100%
+  margin: 0
+  display: block
+  height: 170px
+  overflow: hidden
 
 .short-news-container
   padding: 14px
@@ -181,18 +188,18 @@ ul
   text-align: right
 
 a[aria-current]
-  border-bottom: 4px solid $color-white !important
-  font-weight: 900 !important
-  color: $color-white !important
+  border-bottom: 4px solid $color-white
+  font-weight: 900
+  color: $color-white
 
 .sub-nav .navbar_item,
 .navbar_item.color--yellow
   background: transparent
 
 .has-text-centered, .section-sub-nav
-  display: flex !important
-  align-items: center !important
-  justify-content: center !important
+  display: flex
+  align-items: center
+  justify-content: center
 
 .section-sub-nav
   height: 45px
@@ -595,7 +602,7 @@ $menu-label-color: $white-ter
 
 .blog-list-item .featured-thumbnail
   flex-basis: 35%
-  margin: 0 1.5em 0 0
+  /*margin: 0 1.5em 0 0*/
 
 .catecory_background
   background: rgba(0, 0, 0, 0.72)
@@ -1145,3 +1152,76 @@ $menu-label-color: $white-ter
 
   .navbar
     z-index: 130
+
+  .navbar-menu
+    background-color: #fff
+    box-shadow: 0 8px 16px rgba(33, 33, 33, 0.1)
+    padding: 3rem 0
+    position: absolute
+    width: 100%
+    top: 49px
+
+  .navbar_item, .nav-item--title a
+    color: #000
+
+  .nav-item--title a
+    font-family: Source Sans Pro
+    font-style: normal
+    font-weight: 900
+    font-size: 32px
+    line-height: 40px
+    align-items: center
+    text-align: center
+
+  .navbar_item.color--yellow
+    font-weight: bold
+    color: #000
+
+  .has-text-centered
+    display: block
+
+  .nav-item--title a:hover
+    color: black
+
+  .nav-item--title-mobile
+    font-family: Source Sans Pro
+    font-style: normal
+    font-weight: bold
+    font-size: 16px
+    line-height: 20px
+    text-align: center
+    color: rgba(255, 255, 255, 0.6)
+
+  .nav-item--title-mobile .link-menu
+    color: rgba(255, 255, 255, 0.6)
+
+  .navbar-burger--indusrties
+    color: #4a4a4a
+    cursor: pointer
+    display: block
+    height: 3.25rem
+    position: relative
+    width: 100%
+    margin-left: auto
+
+  .icon-triangl
+    position: absolute
+    right: calc(50% - 106px)
+    top: 0
+
+  .nav--text-mobile
+    font-family: Source Sans Pro
+    font-style: normal
+    font-weight: bold
+    font-size: 20px
+    line-height: 22px
+    display: none
+    align-items: center
+    text-align: center
+    color: #FED300
+
+  .active-nav--text
+    display: block
+
+  .template-directory-video-grid
+    margin-top: 52px

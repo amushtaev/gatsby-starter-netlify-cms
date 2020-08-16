@@ -391,7 +391,7 @@ export const FastIcon = (props) => {
 };
 
 export const EasyIcon = (props) => {
-  /*const [height, width, fill, stroke] = props*/;
+  /*const [height, width, fill, stroke] = props;*/
   return (
     <svg width={props.width} height={props.height} viewBox="0 0 82 82" fill="none" xmlns="http://www.w3.org/2000/svg">
       <circle cx="41" cy="41" r="41" fill="#3F3F55"/>
