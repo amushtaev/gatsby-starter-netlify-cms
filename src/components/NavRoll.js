@@ -2,6 +2,7 @@ import React, {useState} from 'react'
 import PropTypes, {node} from 'prop-types'
 import {graphql, Link, StaticQuery} from 'gatsby'
 import Search from './search/Search'
+import logo from "../img/logo.svg";
 
 class NavRoll extends React.Component {
   constructor(props) {
@@ -41,47 +42,54 @@ class NavRoll extends React.Component {
 
     return (
       <nav
+        className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
       >
-        <div
-          className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-          data-target="navBlog"
-          onClick={() => this.toggleHamburger()}
-        >
-          <span />
-          <span />
-          <span />
-        </div>
-        <div id="navBlog"
-             className={`subNav ${this.state.navBarActiveClass}`}
-        >
-          <ul className="section-sub-nav">
-            <li className="sub-nav">
-              <Link
-                className={`navbar_item ${!active ? "color--yellow" : ""}`}
-                to="/blog">
+        <div className="container header">
+          <div className="navbar-brand">
+            {/* Hamburger menu */}
+            <div
+              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+              data-target="navBlog"
+              onClick={() => this.toggleHamburger()}
+            >
+              <span />
+              <span />
+              <span />
+            </div>
+          </div>
+          <div
+            id="navBlog"
+            className={`navbar-menu subNav ${this.state.navBarActiveClass}`}
+          >
+            <ul className="section-sub-nav">
+              <li className="sub-nav">
+                <Link
+                  className={`navbar_item ${!active ? "color--yellow" : ""}`}
+                  to="/blog">
                   See all
-              </Link>
-            </li>
-            {data.allMarkdownRemark.catNames.map((cat, index) => (
-              <li className="sub-nav" key={cat.fieldValue}>
-                {data.allMarkdownRemark.catValues.map((slug, slugindex) =>
-                  index === slugindex ?
-                    <Link
-                      key={slug}
-                      className={`navbar_item ${active === slug.fieldValue ? "color--yellow" : ""}`}
-                      to={`/category/${slug.fieldValue}`}
-                      pathname={slug.fieldValue}
-                      propsslug={slug.fieldValue}
-                    >
-                        {cat.fieldValue}
-                    </Link > : null
-                )}
+                </Link>
               </li>
-            ))}
-            {/*<Search onSearch={this.props.onSearch} value={this.props.defaultSearch} />*/}
-          </ul>
+              {data.allMarkdownRemark.catNames.map((cat, index) => (
+                <li className="sub-nav" key={cat.fieldValue}>
+                  {data.allMarkdownRemark.catValues.map((slug, slugindex) =>
+                    index === slugindex ?
+                      <Link
+                        key={slug}
+                        className={`navbar_item ${active === slug.fieldValue ? "color--yellow" : ""}`}
+                        to={`/category/${slug.fieldValue}`}
+                        pathname={slug.fieldValue}
+                        propsslug={slug.fieldValue}
+                      >
+                        {cat.fieldValue}
+                      </Link > : null
+                  )}
+                </li>
+              ))}
+              {/*<Search onSearch={this.props.onSearch} value={this.props.defaultSearch} />*/}
+            </ul>
+          </div>
         </div>
       </nav>
     )
