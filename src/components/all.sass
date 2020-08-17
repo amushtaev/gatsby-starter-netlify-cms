@@ -124,6 +124,12 @@ ul
 
 //Softcube base class
 
+.mobile
+  display: none !important
+
+.navbar-burger
+ color: white !important
+
 .section.Blog-Post
   padding: 0 !important
 
@@ -943,6 +949,10 @@ $menu-label-color: $white-ter
     //display: none
 
 +mobile
+
+  .mobile
+    display: block !important
+
   .navbar-burger
     color: #fff
 
@@ -965,8 +975,7 @@ $menu-label-color: $white-ter
     padding: 0 15px
 
   .section-sub-nav
-    display: grid
-    grid-template-columns: 1fr 1fr 1fr
+    display: block
 
   a.navbar_item
     cursor: pointer
@@ -1060,7 +1069,7 @@ $menu-label-color: $white-ter
     margin: auto
     display: block
     text-align: center
-    padding-top: 52px
+    padding-top: 0
 
   //Pricing
   .clients-say .arrow
@@ -1081,6 +1090,52 @@ $menu-label-color: $white-ter
     text-align: center
     font-size: 16px
     float: inherit
+
+  .subNav
+    margin-top: 0
+
+  .section-sub-nav
+    height: inherit
+
+  .navbar_item.color--yellow
+    border-bottom: 4px solid #000
+
+  .sub-nav--text
+    color: white
+    display: none
+    display: flex
+    width: fit-content
+    align-items: center
+    justify-content: center
+
+  #navBlog .sub-nav
+    margin-top: 30px
+
+  #navBlog.navbar-menu
+    top: 95px
+
+  .navbar_item--text
+    display: none
+
+  .navbar_item--text.color--yellow
+    display: block
+    font-weight: bold
+    padding-bottom: 45px
+    font-size: 20px
+
+  .navbar-burger-text
+    padding-left: 24px
+    padding-top: 45px
+    display: flex
+
+  .sub-nav--text.active-nav--text
+    display: flex
+
+  .icon-triangl.blog
+    display: flex
+    position: inherit
+    padding-left: 12px
+    padding-top: 12px
 
     //index
   .arrow
@@ -1227,3 +1282,11 @@ $menu-label-color: $white-ter
 
   .template-directory-video-grid
     margin-top: 52px
+
+  .BlogPaginationPosts, .column.is-4
+    margin-left: 0
+    margin-right: 0
+    padding-left: 0 !important
+    padding-right: 0 !important
+
+

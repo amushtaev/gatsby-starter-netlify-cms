@@ -3,6 +3,7 @@ import PropTypes, {node} from 'prop-types'
 import {graphql, Link, StaticQuery} from 'gatsby'
 import Search from './search/Search'
 import logo from "../img/logo.svg";
+import {TriangleDownIcon, TriangleUpIcon} from "../img/icons";
 
 class NavRoll extends React.Component {
   constructor(props) {
@@ -11,10 +12,6 @@ class NavRoll extends React.Component {
       active: false,
       navBarActiveClass: '',
     };
-    this.pageState = {
-      active: false,
-      navBarActiveClass: '',
-    }
   }
 
   toggleHamburger = () => {
@@ -39,6 +36,7 @@ class NavRoll extends React.Component {
 
   render() {
     const { data, active } = this.props;
+    console.log(this.state.active, "this.state.active")
 
     return (
       <nav
@@ -47,16 +45,51 @@ class NavRoll extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container header">
-          <div className="navbar-brand">
+          <div className="navbar-brand mobile">
             {/* Hamburger menu */}
             <div
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+              className={`navbar-burger-text burger ${this.state.navBarActiveClass}`}
               data-target="navBlog"
               onClick={() => this.toggleHamburger()}
             >
-              <span />
-              <span />
-              <span />
+              <li className={`sub-nav--text ${!active ? "active-nav--text" : ""}`}
+              >
+                <p
+                  className={`navbar_item--text ${!active ? "color--yellow" : ""}`}
+                >
+                  All Posts
+                </p>
+              </li>
+              {data.allMarkdownRemark.catNames.map((cat, index) => (
+                <li className={`sub-nav--text ${!active ? "" : "active-nav--text"}`} key={`cat.link:${index}`}>
+                  {data.allMarkdownRemark.catValues.map((slug, slugindex) =>
+                    index === slugindex ?
+                      <p
+                        key={`cat.link:${slug}`}
+                        className={`navbar_item--text ${active === slug.fieldValue ? "color--yellow" : ""}`}
+                      >
+                        {cat.fieldValue}
+                      </p > : null
+                  )}
+                </li>
+              ))}
+              <div className='icon-triangl blog'>
+                {active ? (
+                  <TriangleUpIcon
+                    fill={'#FED300'}
+                    height={12}
+                    width={12}
+                    fillOpacity={'1'}
+                  />
+                ) : (
+                  <TriangleDownIcon
+                    fill='#FED300'
+                    height={12}
+                    width={12}
+                    fillOpacity={'1'}
+                  />
+                )}
+              </div>
             </div>
           </div>
           <div
@@ -64,6 +97,9 @@ class NavRoll extends React.Component {
             className={`navbar-menu subNav ${this.state.navBarActiveClass}`}
           >
             <ul className="section-sub-nav">
+              <li className="nav-item--title mobile">
+                <a>Blog categories</a>
+              </li>
               <li className="sub-nav">
                 <Link
                   className={`navbar_item ${!active ? "color--yellow" : ""}`}
