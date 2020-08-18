@@ -133,6 +133,7 @@ export const BlogPostTemplate = ({
             //hist.push('/create');
             window.location.href = 'https://app.softcube.com'
           }}
+          margin={'52px 0 0 0'}
         />
       </div>
     </section>

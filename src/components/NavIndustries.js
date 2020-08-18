@@ -82,7 +82,7 @@ const NavIndusties = () => {
             </Link>
           </li>
           {browseTemplates.map((tag, index) => (
-            <>{console.log(tag, "tag")}
+            <>
             <li className="sub-nav-left nav-left--mobile" key={tag.name}>
               <img key={`img:${tag.image}`} src={tag.image} className='mobile' />
               <Link

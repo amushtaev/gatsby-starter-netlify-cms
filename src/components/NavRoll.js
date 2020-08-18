@@ -44,7 +44,7 @@ class NavRoll extends React.Component {
         role="navigation"
         aria-label="main-navigation"
       >
-        <div className="container header">
+        <div className="container header nav">
           <div className="navbar-brand mobile">
             {/* Hamburger menu */}
             <div

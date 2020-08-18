@@ -159,9 +159,10 @@ function SearchYourLink() {
 function IndustriesVideo(videoData) {
   const breakpointColumnsObj = {
     default: 4,
-    1100: 3,
+    1640: 3,
+    1440: 2,
     700: 2,
-    500: 1
+    570: 1
   };
 
   return (

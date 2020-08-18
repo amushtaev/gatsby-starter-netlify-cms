@@ -46,7 +46,7 @@ export const IncludeContainerIndex = styled.div`
 export const KeenSlider = styled.div`
     display: flex;
     max-width: 1626px;
-    width: 1626px;
+    /*width: 1626px;*/
     overflow-y: visible;
     position: relative;
     user-select: none;
@@ -275,8 +275,8 @@ export const BlackButton = (props) => {
   );
 };
 
-export const TryAiButton = styled(BigButton)`
-    margin: 82px 0 0 0;
+export const  TryAiButton = styled(BigButton)`
+    margin: ${props => props.margin};
 `;
 
 export const Arrow = styled.svg`
@@ -324,7 +324,7 @@ export const PricingHeading = styled(CreateLargeHeading)`
 `;
 
 export const IndexHeading = styled(CreateLargeHeading)`
-    margin: 152px 0 0 0;
+    margin: 152px 0 ${props => props.bottom ? '82px' : '0'} 0;
     max-width: 1078px;
     
     @media screen and (max-width: 780px) {
@@ -785,7 +785,7 @@ export const Answer = styled.div`
 `;
 
 export const PricingLargeHeading = styled(CreateLargeHeading)`
-    margin: 130px 0 82px 0;
+    margin: 132px 0 82px 0;
 `;
 
 export const InputContainer = styled.div`

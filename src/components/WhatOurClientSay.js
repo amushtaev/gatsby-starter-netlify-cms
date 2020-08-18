@@ -74,7 +74,9 @@ const WhatOurClientSay = () => {
 
   return (
     <>
-      <IndexHeading>
+      <IndexHeading
+        bottom={true}
+      >
         WHAT OUR CLIENT SAY
       </IndexHeading>
       <div className='clients-say' style={{ position: 'relative', overflowX: 'hidden', padding: '20px 0 27px 0'}}>
@@ -155,6 +157,7 @@ const WhatOurClientSay = () => {
           //hist.push('/create');
           window.location.href = 'https://app.softcube.com'
         }}
+        margin={'102px 0 0 0'}
       />
     </>
   );

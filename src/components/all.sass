@@ -67,6 +67,14 @@ ul
 .navbar .navbar-menu
   box-shadow: none!important
 
+.navbar_item.footer:hover
+  padding-top: 0
+  margin-top: 0
+
+.copyright:hover
+  color: white
+  cursor: pointer
+
 .content .taglist
   list-style: none
   margin-bottom: 0
@@ -246,7 +254,7 @@ a[aria-current]
   position: absolute
   bottom: 0
   display: grid
-  grid-template-columns: 228px 80px
+  grid-template-columns: 228px 69px
 
 .date
   font-family: Source Sans Pro
@@ -492,52 +500,52 @@ footer.footer
   opacity: 0.6
 
 footer
-  margin-top: 52px !important
+  margin-top: 52px
 .navbar_item.footer
   font-family: Source Sans Pro
-  font-style: normal !important
-  font-weight: normal !important
-  font-size: 16px !important
-  line-height: 20px !important
-  display: flex !important
-  align-items: center !important
-  text-align: center !important
-  text-decoration-line: underline !important
-  color: #FFFFFF !important
-  background: none !important
-  border: none !important
-  padding: 0 32px 0 !important
-  white-space: nowrap !important
+  font-style: normal
+  font-weight: normal
+  font-size: 16px
+  line-height: 20px
+  display: flex
+  align-items: center
+  text-align: center
+  text-decoration-line: underline
+  color: #FFFFFF
+  background: none
+  border: none
+  padding: 0 32px 0
+  white-space: nowrap
 
 .menu-list_footer
   display: flex
 
 .copyright
-  font-family: Source Sans Pro !important
-  font-style: normal !important
-  font-weight: 600 !important
-  font-size: 16px !important
-  line-height: 20px !important
-  display: flex !important
-  align-items: center !important
-  color: #FFFFFF !important
-  cursor: none !important
-  padding-right: 162px !important
-  white-space: nowrap !important
+  font-family: Source Sans Pro
+  font-style: normal
+  font-weight: 600
+  font-size: 16px
+  line-height: 20px
+  display: flex
+  align-items: center
+  color: #FFFFFF
+  cursor: none
+  padding-right: 162px
+  white-space: nowrap
 
 .column.social
-  width: 48px !important
-  display: flex !important
-  flex-direction: column !important
-  position: absolute !important
-  top: 32px !important
-  right: 60px !important
+  width: 48px
+  display: flex
+  flex-direction: column
+  position: absolute
+  top: 32px
+  right: 60px
 
 .column.social_footer
-  width: 100px !important
-  display: grid !important
-  grid-template-columns: 55px 55px 55px !important
-  padding: 19px !important
+  width: 100px
+  display: grid
+  grid-template-columns: 55px 55px 55px
+  padding: 19px
 
 .social_footer img
   padding-top: 15px !important
@@ -558,6 +566,10 @@ $menu-label-color: $white-ter
 .container.header
   max-width: 100%
   padding: 0 72px 0 200px
+
+footer .container, section .container
+  max-width: 1078px
+  padding: 0
 
 .menu-label
   font-size: 1em !important
@@ -595,8 +607,11 @@ $menu-label-color: $white-ter
   display: flex
   flex-direction: row
   width: fit-content
-  margin: auto
-  max-width: 1114px
+  max-width: 1078px
+
+.container.header.nav
+  padding: 0
+  max-width: 1078px
 
 // blog roll
 .blog-list-item.is-featured
@@ -624,6 +639,9 @@ $menu-label-color: $white-ter
   align-items: center
   justify-content: center
 
+.columns.footer_grid
+  width: 100%
+
 @media screen and (min-width: 1024px)
   .navbar
     min-height: 4.25rem !important
@@ -648,7 +666,7 @@ $menu-label-color: $white-ter
     grid-template-columns: 1fr 185px
 
   .copyright
-    padding: 20px 32px 0 !important
+    padding: 20px 32px 0
 
 //Pricing
 .clients-say .arrow
@@ -747,83 +765,18 @@ $menu-label-color: $white-ter
   padding: 20px
 
 .SearchYourLink
-  width: 1068px
+  max-width: 1068px
+  width: calc(100% - 20px)
   align-items: center
   display: flex
   flex-direction: column
   margin: 32px 0 0 0
 
-@import "~bulma"
-
-// responsiveness
-+tablet-only
-  .blog-list-item .featured-thumbnail
-    flex-basis: 50%
-
-  .navbar-burger
-    color: #fff
-
-  .container
-    padding: 10px 0
-
-  .container.header
-    max-width: 100%
-    padding: inherit
-
-  .columns
-    margin-left: 10px
-    margin-right: 10px
-
-  .navbar-item.logo
-    left: 12px !important
-    top: 12px !important
-
-  .section-sub-nav
-    display: grid
-    grid-template-columns: 1fr 1fr 1fr
-
-  a.navbar_item
-    cursor: pointer
-    display: block
-    margin: 0 auto !important
-
-  .blog-list-item header
-    display: block
-
-  .blog-list-item .featured-thumbnail
-    text-align: center
-    max-width: 100%
-    margin: 0 0 1em
-
-  .articl-footer
-    display: grid
-    grid-template-columns: 1fr 1fr
-    width: 91%
-
-  .column.post_column
-    padding: 0 20px
-
-  ul.menu-list_footer, ul.section-sub-nav
-    flex-wrap: wrap-reverse
-
-  ul.menu-list_footer li
-    display: block
-    width: 100%
-
-  .copyright
-    padding: 20px 32px 0 !important
-
-  .column.social
-    width: auto !important
-    flex-direction: row !important
-    top: 0 !important
-    right: 10px !important
-
 //industries
 .industries
   display: grid
   /* align-items: start; */
-  width: 100%
+  width: calc(100% - 72px)
   max-width: 1626px
   grid-template-columns: 300px 1fr
   margin-top: 72px
@@ -852,16 +805,16 @@ $menu-label-color: $white-ter
   flex-grow: 1
 
 .sub-nav-left
-    font-family: Source Sans Pro
-    font-style: normal
-    font-weight: normal
-    font-size: 16px
-    line-height: 20px
-    display: flex
-    align-items: center
-    text-align: center
-    color: rgba(255, 255, 255, 0.6)
-    height: 40px
+  font-family: Source Sans Pro
+  font-style: normal
+  font-weight: normal
+  font-size: 16px
+  line-height: 20px
+  display: flex
+  align-items: center
+  text-align: center
+  color: rgba(255, 255, 255, 0.6)
+  height: 40px
 
 .responsive-grid
   display: flex
@@ -925,6 +878,76 @@ $menu-label-color: $white-ter
   vertical-align: top
   padding-right: 24px
 
+.navbar_item.footer
+  margin-right: 0
+
+@import "~bulma"
+
+// responsiveness
++tablet-only
+  .blog-list-item .featured-thumbnail
+    flex-basis: 50%
+
+  .navbar-burger
+    color: #fff
+
+  .container
+    padding: 10px 0
+
+  .container.header
+    max-width: 100%
+    padding: inherit
+
+  .columns
+    margin-left: 10px
+    margin-right: 10px
+
+  .navbar-item.logo
+    left: 12px !important
+    top: 12px !important
+
+  .section-sub-nav
+    display: grid
+    grid-template-columns: 1fr 1fr 1fr
+
+  a.navbar_item
+    cursor: pointer
+    display: block
+    margin: 0 auto
+
+  .blog-list-item header
+    display: block
+
+  .blog-list-item .featured-thumbnail
+    text-align: center
+    max-width: 100%
+    margin: 0 0 1em
+
+  .articl-footer
+    display: grid
+    grid-template-columns: 1fr 1fr
+    width: 91%
+
+  .column.post_column
+    padding: 0 20px
+
+  ul.menu-list_footer, ul.section-sub-nav
+    flex-wrap: wrap-reverse
+
+  ul.menu-list_footer li
+    display: block
+    width: 100%
+
+  .copyright
+    padding: 20px 32px 0
+
+  .column.social
+    width: auto !important
+    flex-direction: row !important
+    top: 0 !important
+    right: 10px !important
+
+
 +tablet-only
   //industries
   .grid
@@ -936,7 +959,81 @@ $menu-label-color: $white-ter
     //display: none
 
 +tablet
-  //indusries
+  //industries
+  @media screen and (max-width: 1023px)
+    .industries
+      display: block
+
+    .navbar-burger--indusrties
+      color: #4a4a4a
+      cursor: pointer
+      display: block
+      height: 3.25rem
+      position: relative
+      width: 100%
+      margin-left: auto
+
+    .nav-item--title-mobile
+      font-family: Source Sans Pro
+      font-style: normal
+      font-weight: bold
+      font-size: 16px
+      line-height: 20px
+      text-align: center
+      color: rgba(255, 255, 255, 0.6)
+
+    .nav-item--title-mobile .link-menu
+      color: rgba(255, 255, 255, 0.6)
+
+    .nav--text-mobile
+      font-family: Source Sans Pro
+      font-style: normal
+      font-weight: bold
+      font-size: 20px
+      line-height: 22px
+      display: none
+      align-items: center
+      text-align: center
+      color: #FED300
+
+    .active-nav--text
+      display: block
+
+    .icon-triangl
+      position: absolute
+      right: calc(50% - 106px)
+      top: 0
+
+    .arrow-next-mobile
+      margin-right: 24px
+
+    .nav-left--mobile
+      margin: 24px 0 14px 24px
+      text-align: left
+      border-bottom: 3px solid rgba(33, 33, 33, 0.08)
+      padding-block-end: 24px
+
+    .mobile
+      display: block !important
+
+    .SearchYourLink input
+      width: 96%
+
+    .template-directory-video-grid
+      margin-top: 52px
+
+  a.navbar_item.navbar_item--industies
+    //width: 100%
+    //margin-left: 10px
+    //color: black
+
+  .column.social_footer
+    margin: auto
+    padding: 0
+
+    .navbar_item.navbar_item--industies:hover
+      color: black
+
   .template-directory-video-grid
     margin-left: 76px
 
@@ -949,6 +1046,14 @@ $menu-label-color: $white-ter
     //display: none
 
 +mobile
+
+  .column.social_footer
+    margin: auto
+    padding: 0
+
+  .copyright
+    display: block
+    margin-top: 52px
 
   .mobile
     display: block !important
@@ -980,7 +1085,7 @@ $menu-label-color: $white-ter
   a.navbar_item
     cursor: pointer
     display: block
-    margin: 0 auto !important
+    margin: 0 auto
 
   .blog-list-item header
     display: block
@@ -1082,8 +1187,8 @@ $menu-label-color: $white-ter
 
   a.navbar_item.navbar_item--industies
     width: 100%
-    margin-left: 10px !important
-    color: black !important
+    margin-left: 10px
+    color: black
 
     .navbar_item.navbar_item--industies:hover
       color: black
