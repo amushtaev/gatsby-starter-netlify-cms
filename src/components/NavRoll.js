@@ -52,7 +52,7 @@ class NavRoll extends React.Component {
               data-target="navBlog"
               onClick={() => this.toggleHamburger()}
             >
-              <li className={`sub-nav--text ${!active ? "active-nav--text" : ""}`}
+              <li className={`sub-nav--text ${!this.state.active ? "active-nav--text" : ""}`}
               >
                 <p
                   className={`navbar_item--text ${!active ? "color--yellow" : ""}`}
@@ -74,7 +74,7 @@ class NavRoll extends React.Component {
                 </li>
               ))}
               <div className='icon-triangl blog'>
-                {active ? (
+                {this.state.active ? (
                   <TriangleUpIcon
                     fill={'#FED300'}
                     height={12}

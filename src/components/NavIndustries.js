@@ -6,8 +6,9 @@ import {
 import {
   TriangleDownIcon,
   TriangleUpIcon,
+  ArrowMenuMobile,
 } from '../img/icons'
-
+import PreviewCompatibleImage from "./PreviewCompatibleImage";
 
 const NavIndusties = () => {
   const refSlug = typeof window !== 'undefined' && window.location.href.split("#")[1];
@@ -81,17 +82,21 @@ const NavIndusties = () => {
             </Link>
           </li>
           {browseTemplates.map((tag, index) => (
-            <li className="sub-nav-left" key={tag.name}>
+            <>{console.log(tag, "tag")}
+            <li className="sub-nav-left nav-left--mobile" key={tag.name}>
+              <img key={`img:${tag.image}`} src={tag.image} className='mobile' />
               <Link
                 key={tag.link}
-                className={`navbar_item ${refSlug === tag.link ? "color--yellow" : ""}`}
+                className={`navbar_item navbar_item--industies ${refSlug === tag.link ? "active-industies" : ""}`}
                 to={`#${tag.link}`}
                 pathname={tag.link}
                 propsslug={tag.link}
               >
                 {tag.name}
               </Link >
+              <ArrowMenuMobile />
             </li>
+            </>
           ))}
         </ul>
       </div>
