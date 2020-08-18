@@ -37,9 +37,11 @@ export const IncludeContainerIndex = styled.div`
     width: 100%;
     max-width: 1078px;
     margin-top: 62px;
+    height: 383px;
     
     @media screen and (max-width: 720px) {
-      max-width: inherit
+      max-width: inherit;
+      height: auto;
     }
 `;
 
