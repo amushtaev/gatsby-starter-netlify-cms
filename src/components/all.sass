@@ -660,6 +660,10 @@ footer .container, section .container
     display: grid !important
     grid-template-columns: 1fr 185px
 
+  .column.social_footer
+    margin: auto
+    padding: inherit !important
+
 @media screen and (min-width: 450px) and (max-width: 1405px)
   .container
     padding: inherit
@@ -669,10 +673,14 @@ footer .container, section .container
 
   ul.menu-list_footer li
     display: block
-    width: 100%
+    width: fit-content
 
   .copyright
-    padding: 20px 32px 0
+    padding: 20px 162px 0 0
+
+  .column.social_footer
+    margin: auto
+    padding: inherit
 
 //Pricing
 .clients-say .arrow
@@ -887,10 +895,15 @@ footer .container, section .container
 .navbar_item.footer
   margin-right: 0
 
+.column.social_footer
+  margin: auto
+  padding: 0 0 0 112px
+
 @import "~bulma"
 
 // responsiveness
 +tablet-only
+
   .blog-list-item .featured-thumbnail
     flex-basis: 50%
 
@@ -965,8 +978,14 @@ footer .container, section .container
     //display: none
 
 +tablet
+
   //industries
   @media screen and (max-width: 1023px)
+
+    .column.social_footer
+      margin: auto
+      padding: inherit
+
     .industries
       display: block
 
@@ -1033,10 +1052,6 @@ footer .container, section .container
     //margin-left: 10px
     //color: black
 
-  .column.social_footer
-    margin: auto
-    padding: 0 0 0 112px
-
     .navbar_item.navbar_item--industies:hover
       color: black
 
@@ -1052,6 +1067,10 @@ footer .container, section .container
     //display: none
 
 +mobile
+
+  .column.social_footer
+    margin: auto
+    padding: inherit
 
   .column.social_footer
     margin: auto
