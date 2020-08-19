@@ -11,10 +11,12 @@ const Footer = class extends React.Component {
         <div className="content"  style={{background: `transparent`}}>
           <div className="container">
             <div style={{ borderTop: `solid 4px rgba(255, 255, 255, 0.32)` }} className="columns footer_grid">
-              <div className="column" style={{padding: `38px 0px`}}>
+              <div className="column" style={{padding: `1.75rem 0`}}>
                 <section className="menu">
-                  <ul className="menu-list_footer">
+                  <ul className="menu-list_footer l-copyright">
                     <li><a className="copyright" style={{paddingTop: `7px`}}>© 2020 Softcube</a></li>
+                  </ul>
+                  <ul className="menu-list_footer">
                     <li>
                       <Link className="navbar_item footer" to="https://softcube.com/static/terms-of-service/">
                         Terms of Service
@@ -36,28 +38,28 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                   </ul>
+                  <div className="column social_footer">
+                    <a title="facebook" href="https://facebook.com/softcube.video/">
+                      <img
+                        src={facebookFooter}
+                        alt="Facebook"
+                      />
+                    </a>
+                    <a title="twitter" href="https://twitter.com">
+                      <img
+                        className="fas fa-lg"
+                        src={twitterFooter}
+                        alt="Twitter"
+                      />
+                    </a>
+                    <a title="instagram" href="https://linkedin.com/company/softcube-inc/">
+                      <img
+                        src={instagramFooter}
+                        alt="InstagramF"
+                      />
+                    </a>
+                  </div>
                 </section>
-              </div>
-              <div className="column social_footer">
-                <a title="facebook" href="https://facebook.com/softcube.video/">
-                  <img
-                    src={facebookFooter}
-                    alt="Facebook"
-                  />
-                </a>
-                <a title="twitter" href="https://twitter.com">
-                  <img
-                    className="fas fa-lg"
-                    src={twitterFooter}
-                    alt="Twitter"
-                  />
-                </a>
-                <a title="instagram" href="https://linkedin.com/company/softcube-inc/">
-                  <img
-                    src={instagramFooter}
-                    alt="InstagramF"
-                  />
-                </a>
               </div>
             </div>
           </div>

@@ -642,6 +642,12 @@ footer .container, section .container
 .columns.footer_grid
   width: 100%
 
+footer section.menu
+  display: flex
+  align-items: stretch
+  align-items: center
+  justify-content: center
+
 @media screen and (min-width: 1024px)
   .navbar
     min-height: 4.25rem !important
@@ -652,17 +658,27 @@ footer .container, section .container
 
 @media screen and (min-width: 450px) and (max-width: 780px)
   .columns.footer_grid
-    display: grid !important
-    grid-template-columns: 1fr 185px
+    flex-direction: column
+    flex-basis: 100%
+    flex: 1
+    width: calc(100% - 20px)
+
+  .column.social_footer
+    text-align: center
+    order: 2
+    width: 150px
 
 @media screen and (min-width: 780px) and (max-width: 1405px)
   .columns.footer_grid
-    display: grid !important
-    grid-template-columns: 1fr 185px
+    flex-direction: column
+    flex-basis: 100%
+    flex: 1
+    width: calc(100% - 20px)
 
   .column.social_footer
     margin: auto
-    padding: inherit !important
+    text-align: center
+    padding: 0 !important
 
 @media screen and (min-width: 450px) and (max-width: 1405px)
   .container
@@ -1452,3 +1468,41 @@ footer .container, section .container
 
   .container.white.s__width
     margin-top: 0
+
+  .columns.footer_grid
+    flex-direction: column
+    flex-basis: 100%
+    flex: 1
+    width: calc(100% - 20px)
+
+  footer section.menu
+    display: flex
+    align-items: center
+    justify-content: center
+    flex-direction: column
+    width: 100%
+    flex-wrap: wrap
+
+  .menu-list_footer.l-copyright
+    order: 3
+  .column.social_footer
+    order: 2
+    width: 150px
+    text-align: center
+    margin-top: 52px
+
+  .menu-list_footer
+    order: 1
+
+  .navbar_item.footer
+    padding: 14px
+    font-family: Source Sans Pro
+    font-style: normal
+    font-weight: 600
+    font-size: 16px
+    line-height: 20px
+    display: flex
+    align-items: center
+    text-align: center
+    color: rgba(255, 255, 255, 0.7)
+    text-decoration: none
