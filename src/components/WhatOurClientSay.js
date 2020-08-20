@@ -75,6 +75,7 @@ const WhatOurClientSay = () => {
   return (
     <>
       <IndexHeading
+        top={'152px'}
         bottom={true}
       >
         WHAT OUR CLIENT SAY

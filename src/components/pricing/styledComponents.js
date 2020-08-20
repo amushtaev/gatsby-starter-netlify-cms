@@ -326,11 +326,11 @@ export const PricingHeading = styled(CreateLargeHeading)`
 `;
 
 export const IndexHeading = styled(CreateLargeHeading)`
-    margin: 152px 0 ${props => props.bottom ? '82px' : '0'} 0;
+    margin: ${props => props.top} 0 ${props => props.bottom ? '82px' : '0'} 0;
     max-width: 1078px;
     
     @media screen and (max-width: 780px) {
-      margin: 132px 0 0 0;
+      margin: 112px 0 0 0;
       max-width: 90%;
       font-family: Source Sans Pro;
       font-style: normal;
@@ -358,7 +358,7 @@ export const SloganSmall = styled.span`
     padding-bottom: 32px;
     
     @media screen and (max-width: 720px) {
-      padding: 0 20px 32px
+      padding: 0 20px 0
     }
 `;
 
@@ -675,7 +675,11 @@ export const AllIndustriesButton = styled(BlackButton)`
 export const SearchButton = styled(BigButton)`
     min-width: 196px;
     width: 196px;
-    margin: 0 auto 42px 14px
+    margin: 0 auto 0 14px;
+    
+    @media screen and (max-width:780px) {
+      margin: 0
+    }
 `;
 
 export const TryButton = styled(BigButton)`
@@ -696,7 +700,7 @@ export const TryButton = styled(BigButton)`
       -webkit-transform: translate(-50%,-50%);
       -ms-transform: translate(-50%,-50%);
       transform: translate(-50%,-50%);
-      margin: 100px auto 0;
+      margin: 0;
       z-index: 101;
     }
 `;
@@ -725,7 +729,6 @@ export const MediumHeading = styled.span`
 
 export const MediumHeadingLeft = styled(MediumHeading)`
     text-align: left;
-    padding-left: 24px;
     line-height: 0;
     display: flex;
     float: right;
@@ -846,7 +849,6 @@ export const MediumSlogan = styled.span`
 
 export const MediumSloganLeft = styled(MediumSlogan)`
     text-align: left;
-    padding-left: 24px;
     margin: -36px 0 0 0;
     width: calc(100% - 106px);
     float: right;

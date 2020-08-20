@@ -56,22 +56,22 @@ const IndexPageTemplate = () => {
         <PricingHeading>CREATE VIDEO ADS IN TWO CLICKS</PricingHeading>
         <SloganSmall>Paste your link and the Softcube AI will automatically create video ads that convert</SloganSmall>
         <VideoBanner/>
-        <IndexHeading>LINK TO YOUR LISTING PAGE</IndexHeading>
+        <IndexHeading top={'132px'}>LINK TO YOUR LISTING PAGE</IndexHeading>
         <SearchYourLink />
-        <IndexHeading>AUTOMATICALLY CREATE & OPTIMIZE VIDEO ADS</IndexHeading>
+        <IndexHeading top={'152px'}>AUTOMATICALLY CREATE & OPTIMIZE VIDEO ADS</IndexHeading>
         <AutomaticCreat />
-        <IndexHeading>CREATE MARKETING VIDEOS FOR EVERY INDUSTRY</IndexHeading>
+        <IndexHeading top={'152px'}>CREATE MARKETING VIDEOS FOR EVERY INDUSTRY</IndexHeading>
         <SloganSmall>Because every ad should be a video ad</SloganSmall>
         <MarketingVideos />
-        <IndexHeading>HOW IT WORKS</IndexHeading>
+        <IndexHeading top={'142px'}>HOW IT WORKS</IndexHeading>
         <HowItWorks/>
-        <IndexHeading>MAXIMIZE YOUR REACH ON ANY PLATFORM</IndexHeading>
+        <IndexHeading top={'152px'}>MAXIMIZE YOUR REACH ON ANY PLATFORM</IndexHeading>
         <Maximize />
         <WhatOurClientSay/>
         <FrequentlyAskedQuestions />
-        <IndexHeading>LATEST ARTICLES</IndexHeading>
+        <IndexHeading top={'138px'}>LATEST ARTICLES</IndexHeading>
         <BlogRoll />
-        <IndexHeading>RELATED ARTICLES</IndexHeading>
+        <IndexHeading top={'132px'}>RELATED ARTICLES</IndexHeading>
         <BlogRollRelatedIndex />
       </PricingPageContainer>
     </Layout>
@@ -83,7 +83,7 @@ export default IndexPageTemplate
 function VideoBanner() {
   return (
     <div className="video-banner">
-      <>
+      <div className="video-banner--conteiner">
         <video
           className='video-item__content_banner'
           autoPlay={true}
@@ -92,7 +92,7 @@ function VideoBanner() {
           loop={true}
           src='https://s-http-public.s3.eu-central-1.amazonaws.com/landing_7_1.mp4?1e26'
         />
-      </>
+      </div>
       <TryButton
         text='Try for free!'
         onClick={() => {
