@@ -1,8 +1,7 @@
-import React, {useState} from 'react'
-import PropTypes, {node} from 'prop-types'
+import React from 'react'
+import PropTypes from 'prop-types'
 import {graphql, Link, StaticQuery} from 'gatsby'
 import Search from './search/Search'
-import logo from "../img/logo.svg";
 import {TriangleDownIcon, TriangleUpIcon} from "../img/icons";
 
 class NavRoll extends React.Component {
@@ -36,7 +35,6 @@ class NavRoll extends React.Component {
 
   render() {
     const { data, active } = this.props;
-    console.log(this.state.active, "this.state.active")
 
     return (
       <nav
@@ -96,7 +94,7 @@ class NavRoll extends React.Component {
             id="navBlog"
             className={`navbar-menu subNav ${this.state.navBarActiveClass}`}
           >
-            <ul className="section-sub-nav">
+            <ul className="section-sub-nav blog">
               <li className="nav-item--title mobile">
                 <a>Blog categories</a>
               </li>
@@ -123,7 +121,7 @@ class NavRoll extends React.Component {
                   )}
                 </li>
               ))}
-              {/*<Search onSearch={this.props.onSearch} value={this.props.defaultSearch} />*/}
+              <Search onSearch={this.props.onSearch} value={this.props.defaultSearch} />
             </ul>
           </div>
         </div>

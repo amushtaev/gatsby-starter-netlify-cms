@@ -7,7 +7,6 @@ import ArrowRight from "./ArrowRight";
 import ArrowLeft from "./ArrowLeft";
 
 const SliderArticl = (props) => {
-  console.log(props, "posts")
   const [currentSlide, setCurrentSlide] = useState(0);
   const slidesPerView = 5;
   const [sliderRef, slider] = useKeenSlider({

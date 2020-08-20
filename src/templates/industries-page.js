@@ -30,8 +30,10 @@ const GetData = () => {
   const pageSize = 100;
 
   tags.map((tag, index) => {
-    searchTags.push(
-      '{name: "' + tag.tag + '", score: ' + index +'}'
+    return(
+      searchTags.push(
+        '{name: "' + tag.tag + '", score: ' + index +'}'
+      )
     )
   });
 
@@ -71,7 +73,6 @@ const GetData = () => {
       .then((response) => response.json())
       .then((responseJSON) => {
         setPostDate( responseJSON )
-        console.log(responseJSON)
       });
   }, []);
 
@@ -90,7 +91,9 @@ const IndustriesPage = (props) => {
     if (refSlug) {
       videoDataProps.data.search.map((edge) => {
         if(edge.tags[0].replace(/ /g, '-') === refSlug || edge.project.size.name === refSlug) {
-          videoData = videoData.concat(edge)
+          return videoData = videoData.concat(edge)
+        } else {
+          return null
         }
       })
     } else {

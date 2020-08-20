@@ -8,7 +8,6 @@ const SearchPage = ({pageContext, search }) => {
 
   const {
     slug,
-    title,
   } = pageContext;
 
     return (

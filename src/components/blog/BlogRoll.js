@@ -49,12 +49,9 @@ export default () => {
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
                 featuredimage {
-                  publicURL
                   childImageSharp {
-                    fluid(maxWidth: 250, quality: 100) {
-                      src
-                      srcSet
-                      base64
+                    fluid(maxWidth: 220, quality: 70) {
+                      ...GatsbyImageSharpFluid
                     }
                   }
                 }

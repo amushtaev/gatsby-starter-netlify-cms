@@ -189,7 +189,7 @@ exports.createPages = ({ actions, graphql }) => {
         circular: true,
       });
     });
-    //TODO
+
     // Create Search Pagination Pages
     createPaginationPages({
       createPage,

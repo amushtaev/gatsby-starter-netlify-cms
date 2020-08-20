@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, lazy } from 'react'
 import { Link } from 'gatsby'
 import BlogRoll from '../components/blog/BlogRoll'
 import BlogRollRelatedIndex from "../components/blog/BlogRollRelatedIndex";
@@ -23,7 +23,6 @@ import {
   AccordionWithMargin,
   QuestionPanel,
   Answer,
-  Arrow,
   SearchButton,
 } from '../components/pricing/styledComponents';
 

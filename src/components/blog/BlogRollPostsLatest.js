@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql, StaticQuery } from 'gatsby'
-import { kebabCase } from 'lodash'
 import BlogRollTamplate from "./BlogRollTamplate";
 
 class BlogRollPostsLatest extends React.Component {
@@ -48,7 +47,7 @@ export default ({search}) => (
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 120, quality: 70) {
                       ...GatsbyImageSharpFluid
                     }
                   }

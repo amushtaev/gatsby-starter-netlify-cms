@@ -814,7 +814,7 @@ export const BigSimpleTextInputStyled = styled(BigSimpleTextInput)`
     }
 `;
 
-const Input = styled.input`
+/*const Input = styled.input`
     background: #f4f4f4;
     border: none;
     font-family: Source Sans Pro, sans-serif;
@@ -825,7 +825,7 @@ const Input = styled.input`
     outline: none;
     height: 100%;
     width: 100%;
-`;
+`;*/
 
 export const BigButtonStyled = styled(BigButton)`
     flex: 1 0 auto;
