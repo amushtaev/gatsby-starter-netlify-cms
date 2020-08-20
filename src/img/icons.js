@@ -475,8 +475,7 @@ export const Compile = (props) => {
 }
 export const PlayButton = () => {
   return (
-   <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg"
-        style={{position: 'absolute', minWidth: '288px', width: '288px', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', margin: '0 auto 42px 14px'}}>
+   <svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg" >
     <g filter="url(#filter0_d)">
     <rect x="4" width="114" height="114" rx="57" fill="#FED300"/>
     </g>

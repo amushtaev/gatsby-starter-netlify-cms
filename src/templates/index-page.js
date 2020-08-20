@@ -218,7 +218,7 @@ function MarketingVideos() {
 function HowItWorks() {
   return (
     <>
-      <div className='marketing-videos' style={{marginTop: '62px'}}>
+      <div className='marketing-videos how' style={{marginTop: '62px'}}>
         <div className='marketing-videos--content'>
           <Crawl
             height={82}
@@ -246,7 +246,7 @@ function HowItWorks() {
             </span>
           </div>
         </div>
-        <div className='marketing-videos--content'>
+        <div className='marketing-videos--content last'>
           <Compile
             height={82}
             width={82}
@@ -268,7 +268,7 @@ function HowItWorks() {
 
 function VideoHowItWorks() {
   return (
-    <div className="video-banner">
+    <div className="video-banner-bottom">
       <PlayButton
         onClick={() => {
           window.location.href = 'https://app.softcube.com'
@@ -291,9 +291,9 @@ function Maximize() {
     <>
       <div className='marketing-videos' style={{marginTop: '82px'}}>
         <div className='marketing-videos--content'>
-          <div className='maximize-text--inner' style={{display: 'grid', gridTemplateRows: '303px 56px 183px 74px'}}>
+          <div className='maximize-text--inner'>
             <img src={Instagram} alt="Instagram" style={{margin: 'auto'}} />
-            <span className='marketing-videos--title'>Instagram Stories ads</span>
+            <span className='marketing-videos--title is-paddigg-5'>Instagram Stories ads</span>
             <span className='marketing-videos--text'>
               Launch an advertising campaign in Facebook Ads Manager or in Page ads
               (using the Promote button on your Instagram Page) and show your ads on Instagram
@@ -307,9 +307,9 @@ function Maximize() {
           </div>
         </div>
         <div className='marketing-videos--content'>
-          <div className='maximize-text--inner' style={{display: 'grid', gridTemplateRows: '303px 56px 183px 74px'}}>
+          <div className='maximize-text--inner'>
             <img src={YouTube} alt="YouTube" style={{margin: 'auto'}} />
-            <span className='marketing-videos--title'>YouTube ads</span>
+            <span className='marketing-videos--title is-paddigg-5'>YouTube ads</span>
             <span className='marketing-videos--text'>
               Let people find you with YouTube and Google Display Network ads
             </span>
@@ -324,9 +324,9 @@ function Maximize() {
           </div>
         </div>
         <div className='marketing-videos--content'>
-          <div className='maximize-text--inner' style={{display: 'grid', gridTemplateRows: '303px 56px 183px 74px'}}>
+          <div className='maximize-text--inner'>
             <img src={Facebook} alt="Facebook" style={{margin: 'auto'}} />
-            <span className='marketing-videos--title'>Facebook video ads</span>
+            <span className='marketing-videos--title is-paddigg-5'>Facebook video ads</span>
             <span className='marketing-videos--text'>
               Run an advertising campaign in Facebook Ads Manager and show your ads on Facebook and the Audience Network
             </span>

@@ -715,6 +715,22 @@ footer section.menu
   max-height: 420px
   overflow: hidden
 
+.video-banner-bottom
+  position: relative
+  margin: 40px 0 0
+  max-width: 1078px
+  max-height: 420px
+  overflow: hidden
+
+.video-banner-bottom svg
+  position: absolute
+  min-width: 288px
+  width: 288px
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+  margin: 0 auto 42px 14px
+
 .video-item__content_banner
   height: 420px
   width: auto
@@ -790,6 +806,8 @@ footer section.menu
   box-shadow: 10px 10px 20px rgba(8, 8, 22, 0.5), -10px -10px 20px rgba(28, 28, 72, 0.5)
   padding: 35px 14px 14px
   margin: -23px auto 0
+  display: grid
+  grid-template-rows: 303px 56px 183px 74px
 
 .is-4--latest
   width: 25%
@@ -1328,6 +1346,26 @@ footer section.menu
     grid-template-rows: 1fr 64px
     margin: 24px 0 0 0
 
+  .marketing-videos.how .marketing-videos--content.last .works-text--inner
+    margin-bottom: 0
+
+  .video-banner-bottom
+    position: relative
+    margin: 40px auto
+    max-width: calc(100% - 40px)
+    max-height: 100%
+    overflow: hidden
+    display: flex
+    margin: 52px auto 0 auto
+
+  .video-banner-bottom svg
+    position: absolute
+    min-width: 42px
+    width: 42px
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+
   .video-banner--conteiner
     margin-bottom: 24px
 
@@ -1368,9 +1406,32 @@ footer section.menu
 
   .marketing-videos--content
     width: calc(100% - 40px)
+    margin-bottom: 72px
+
+  .marketing-videos--content:last-of-type
+    margin-bottom: 0
+
+  .maximize-text--inner
+    width: 332px
+    height: fit-content
+    background: #12122F
+    box-shadow: 10px 10px 20px rgba(8, 8, 22, 0.5), -10px -10px 20px rgba(28, 28, 72, 0.5)
+    padding: 35px 14px 14px
+    margin: -23px auto 0
+    display: grid
+    grid-template-rows: 303px auto auto auto
+    grid-auto-rows: auto
+
+  .marketing-videos--title.is-paddigg-5
+    padding-bottom: 5px
+
+  .marketing-videos--content button
+    margin: 52px 0 42px 0
 
   .marketing-videos--title
     padding-bottom: 52px
+  .marketing-videos--content:last-of-type .marketing-videos--title
+    padding-bottom: 0
 
   .bottom-marketing--videos
     margin-top: 0
@@ -1380,6 +1441,14 @@ footer section.menu
     padding: 25px 10px 33px 10px
 
   .video-banner svg
+    position: absolute
+    min-width: 50px
+    width: 50px
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+
+    .video-banner-bottom svg
     position: absolute
     min-width: 50px
     width: 50px

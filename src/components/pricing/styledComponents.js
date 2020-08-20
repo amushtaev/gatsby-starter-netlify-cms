@@ -318,6 +318,17 @@ export const CreateLargeHeading = styled.span`
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    
+    @media screen and (max-width: 780px) {
+      font-family: Source Sans Pro;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 32px;
+      line-height: 40px;
+      text-align: center;
+      letter-spacing: 0.02em;
+      color: #FFFFFF;
+    }
 `;
 
 export const PricingHeading = styled(CreateLargeHeading)`
@@ -658,6 +669,10 @@ export const AllIndustriesButton = styled(BlackButton)`
     background: transparent;
     margin-top: 92px;
     cursor: pointer;
+    
+    @media screen and (max-width: 780px) {
+      margin-top: 52px;
+    }
     
     span {
       font-family: Source Sans Pro;
