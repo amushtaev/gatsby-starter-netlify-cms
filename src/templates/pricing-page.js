@@ -228,7 +228,7 @@ function AllPlansInclude() {
       <PricingLargeHeading>ALL PLANS INCLUDE</PricingLargeHeading>
       <PlansIncludeContainer>
         <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
-          <IncludeContainer>
+          <IncludeContainer paddingBottom={'82px'}>
             <div style={{ margin: '0 auto' }}>
               <VideoContentIcon
                 height={82}
@@ -243,7 +243,7 @@ function AllPlansInclude() {
           </IncludeContainer>
         </div>
         <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
-          <IncludeContainer>
+          <IncludeContainer paddingBottom={'0'}>
             <div style={{ margin: '0 auto' }}>
               <ReadyMadeTemplatesIcon
                 height={82}
@@ -258,7 +258,7 @@ function AllPlansInclude() {
           </IncludeContainer>
         </div>
         <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
-          <IncludeContainer>
+          <IncludeContainer paddingBottom={'82px'}>
             <div style={{ margin: '0 auto' }}>
               <UnlimitedProjectsIcon
                 height={82}
@@ -273,7 +273,7 @@ function AllPlansInclude() {
           </IncludeContainer>
         </div>
         <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
-          <IncludeContainer>
+          <IncludeContainer paddingBottom={'0'}>
             <div style={{ margin: '0 auto' }}>
               <SoftcubeSupportIcon
                 height={82}

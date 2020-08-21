@@ -116,10 +116,10 @@ const SliderArticl = (props) => {
                       {post.frontmatter.date}
                     </span>
                     <Link
-                      className="read-more"
+                      className="read-more-arrow"
                       to={post.fields.slug.replace("/blog", "")}
                     >
-                      →
+                      ￫
                     </Link>
                   </div>
                 </div>

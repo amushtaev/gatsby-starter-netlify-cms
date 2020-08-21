@@ -6,9 +6,9 @@ import {BigSimpleTextInput} from "../BigSimple";
 
 export const PlansIncludeContainer = styled.div`
     width: 1068px;
-    height: 621px;
     display: flex;
     flex-wrap: wrap;
+    height: 486px;
     
     @media screen and (max-width: 768px) {
       width: 100%;
@@ -19,9 +19,9 @@ export const PlansIncludeContainer = styled.div`
 export const IncludeContainer = styled.div`
     display: flex;
     width: 534px;
-    height: 240px;
     flex-direction: column;
     align-items: center;
+    padding-bottom: ${props => props. paddingBottom};
     
     @media screen and (max-width: 720px) {
       width: 320px;
@@ -168,6 +168,7 @@ export const Dot = styled.button`
     border-radius: 50%;
     margin: 0 6px;
     cursor: pointer;
+    padding: 0;
 `;
 
 const Button = styled.button`

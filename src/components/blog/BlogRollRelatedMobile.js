@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImageRelated from '../PreviewCompatibleImageRelated'
 
-class BlogRollRelated extends React.Component {
+class BlogRollRelatedMobile extends React.Component {
 
   render() {
     const { data, category, id} = this.props;
@@ -48,7 +48,7 @@ class BlogRollRelated extends React.Component {
                         <span className="date white">
                           {post.frontmatter.date}
                         </span>
-                        <Link className="read-more-arrow related" to={post.fields.slug.replace("/blog", "")}>
+                        <Link className="read-more-arrow" to={post.fields.slug.replace("/blog", "")} style={{color: `#fff`}}>
                           ￫
                         </Link>
                       </div>
@@ -63,7 +63,7 @@ class BlogRollRelated extends React.Component {
   }
 }
 
-BlogRollRelated.propTypes = {
+BlogRollRelatedMobile.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -78,7 +78,7 @@ export default ({ categories, id }) => {
   return (
   <StaticQuery
     query={graphql`
-      query BlogRollRelatedQuery {
+      query BlogRollRelatedMobileQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
@@ -112,6 +112,6 @@ export default ({ categories, id }) => {
         }
       }
     `}
-    render={(data, count) => <BlogRollRelated data={data} count={count} category={categories} id={id} />}
+    render={(data, count) => <BlogRollRelatedMobile data={data} count={count} category={categories} id={id} />}
   />
 )}

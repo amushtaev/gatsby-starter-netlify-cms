@@ -109,9 +109,9 @@ const IndustriesPage = (props) => {
             <NavIndustries />
             <IndustriesVideo videoData={videoData} />
           </div>
-          <IndexHeading>LATEST ARTICLES</IndexHeading>
+          <IndexHeading top={'138px'}>LATEST ARTICLES</IndexHeading>
           <BlogRoll />
-          <IndexHeading>RELATED ARTICLES</IndexHeading>
+          <IndexHeading top={'132px'}>RELATED ARTICLES</IndexHeading>
           <BlogRollRelatedIndex />
         </PricingPageContainer>
       </Layout>

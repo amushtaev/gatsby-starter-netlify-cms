@@ -78,7 +78,7 @@ const WhatOurClientSay = () => {
         top={'152px'}
         bottom={true}
       >
-        WHAT OUR CLIENT SAY
+        WHAT OUR CLIENTS SAY
       </IndexHeading>
       <div className='clients-say'>
         <KeenSlider

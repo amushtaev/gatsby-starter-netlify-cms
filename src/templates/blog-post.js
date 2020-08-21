@@ -3,23 +3,24 @@ import PropTypes from 'prop-types';
 import { kebabCase } from 'lodash';
 import { Helmet } from 'react-helmet';
 import { graphql, Link } from 'gatsby';
-import {
-  BrowserView,
-  MobileView,
-  isBrowser,
-  isMobile
-} from "react-device-detect";
+import { isMobile } from "react-device-detect";
 import LayoutBlog from '../components/blog/LayoutBlog';
 import Content, { HTMLContent } from '../components/Content';
 import NavRoll from '../components/NavRoll';
 import facebook from '../img/social/facebook.svg';
+import facebookm from '../img/social/facebook-m.svg';
 import twitter from '../img/social/twitter.svg';
+import twitterm from '../img/social/twitter-m.svg';
 import linkedin from '../img/social/linkedin.svg';
+import linkedinm from '../img/social/linkedin-m.svg';
 import gplus from '../img/social/gplus.svg';
+import gplusm from '../img/social/gplus-m.svg';
 import BlogRollRelated from '../components/blog/BlogRollRelated';
 import { TryAiButton } from '../components/pricing/styledComponents';
 import BlogRollPostsLatest from "../components/blog/BlogRollPostsLatest";
 import BlogRoll from "../components/blog/BlogRoll";
+import useWindowSize from '../components/Getscreen'
+import {DiscussionEmbed} from "disqus-react";
 
 export const BlogPostTemplate = ({
   content,
@@ -35,10 +36,11 @@ export const BlogPostTemplate = ({
   date,
 }) => {
   const PostContent = contentComponent || Content;
-  /*const disqusConfig = {
+  const disqusConfig = {
     shortname: process.env.GATSBY_DISQUS_NAME,
     config: { identifier: slug, title },
-  };*/
+  };
+  const windowSize = useWindowSize();
 
   return (
     <section className='section Blog-Post' id={id}>
@@ -84,7 +86,7 @@ export const BlogPostTemplate = ({
                   </ul>
                 </div>
               ) : null}
-              {/*<DiscussionEmbed {...disqusConfig} />*/}
+              <DiscussionEmbed {...disqusConfig} />
               <div className='column' style={{marginTop: `60px`}}>
                 <h3 className='post_related'>
                   you may also like
@@ -93,36 +95,73 @@ export const BlogPostTemplate = ({
               </div>
             </div>
           </div>
-          <div className='column social'>
-            <a title='facebook' href='https://facebook.com'>
-              <img
-                src={facebook}
-                alt='Facebook'
-              />
-            </a>
-            <a title='twitter' href='https://twitter.com'>
-              <img
-                className='fas fa-lg'
-                src={twitter}
-                alt='Twitter'
-              />
-            </a>
-            <a title="instagram" href='https://linkedin.com'>
-              <img
-                src={linkedin}
-                alt='linkedin'
-              />
-            </a>
-            <a title='gplus' href='https://gplus.com'>
-              <img
-                src={gplus}
-                alt='gplus'
-              />
-            </a>
-          </div>
+          {!isMobile && windowSize.width > 780 ?
+            <>
+              <div className='column back'>
+              <Link to='/blog'>
+                <span>￩</span> Back
+              </Link>
+              </div>
+            <div className='column social'>
+              <a title='facebook' href='https://facebook.com'>
+                <img
+                  src={facebook}
+                  alt='Facebook'
+                />
+              </a>
+              <a title='twitter' href='https://twitter.com'>
+                <img
+                  className='fas fa-lg'
+                  src={twitter}
+                  alt='Twitter'
+                />
+              </a>
+              <a title="instagram" href='https://linkedin.com'>
+                <img
+                  src={linkedin}
+                  alt='linkedin'
+                />
+              </a>
+              <a title='gplus' href='https://gplus.com'>
+                <img
+                  src={gplus}
+                  alt='gplus'
+                />
+              </a>
+            </div>
+            </>
+            :
+            <div className='column social__mob'>
+              <a title='facebook' href='https://facebook.com'>
+                <img
+                  src={facebookm}
+                  alt='Facebook'
+                />
+              </a>
+              <a title='twitter' href='https://twitter.com'>
+                <img
+                  className='fas fa-lg'
+                  src={twitterm}
+                  alt='Twitter'
+                />
+              </a>
+              <a title="instagram" href='https://linkedin.com'>
+                <img
+                  src={linkedinm}
+                  alt='linkedin'
+                />
+              </a>
+              <a title='gplus' href='https://gplus.com'>
+                <img
+                  src={gplusm}
+                  alt='gplus'
+                />
+              </a>
+            </div>
+          }
         </div>
       </div>
-      {!isMobile ?
+      {!isMobile && windowSize.width > 780 ?
       <div className='container' style={{textAlign: 'center', marginTop: '92px'}}>
         <h3
           className='title-try--white latest'>

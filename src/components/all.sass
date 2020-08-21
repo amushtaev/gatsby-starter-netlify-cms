@@ -195,11 +195,33 @@ ul
   position: relative
   height: 170px
 
-.read-more
+.pagination-link
+  color: $color-white
+
+.pagination-link:hover,
+.pagination-next:hover,
+.pagination-previous:hover,
+.navbar_item.footer:hover
+  color: $color-yellow !important
+
+.read-more-arrow.related
+  color: $color-white !important
+
+.content li + li
+  margin-top: 0 !important
+
+.read-more-arrow
   text-decoration: none !important
   font-size: 2em
   line-height: 0.7em
   text-align: right
+  color: rgba(33, 33, 33, 0.82) !important
+
+.read-more-arrow:hover
+  color: $color-yellow !important
+
+a.title:hover
+  text-decoration: underline
 
 .activePage
   border-bottom: 4px solid $color-white
@@ -268,6 +290,12 @@ ul
   align-items: center
   color: rgba(33, 33, 33, 0.54)
 
+.accordionPanel
+  margin-bottom: 24px
+
+.accordionPanel:last-of-type
+  margin-bottom: 0
+
 // Override for use of svg's from https://simpleicons.org/
 
 .blog-list-item.is-featured, .container.white
@@ -306,6 +334,7 @@ ul
   width: 1.5rem
   height: 1.5rem
   fill: currentColor
+
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
 footer.footer
@@ -509,14 +538,13 @@ footer.footer
   font-style: normal
   font-weight: normal
   font-size: 16px
-  line-height: 20px
+  line-height: 37px
   display: flex
   align-items: flex-end
   color: rgba(255, 255, 255, 0.62)
   opacity: 0.6
-
-footer
   margin-top: 52px
+
 .navbar_item.footer
   font-family: Source Sans Pro
   font-style: normal
@@ -556,6 +584,14 @@ footer
   position: absolute
   top: 32px
   right: 60px
+  &__mob
+    display: flex
+    flex-direction: row
+    position: absolute
+    top: -64px
+    right: 0
+  &__mob a
+    margin-left: 14px
 
 .column.social_footer
   width: 100px
@@ -954,10 +990,36 @@ footer section.menu
   margin: auto
   padding: 0 0 0 112px
 
+.column.back
+  position: absolute
+  left: 30px
+  top: 30px
+
+.column.back a
+  font-family: Source Sans Pro
+  font-style: normal
+  font-weight: bold
+  font-size: 16px
+  line-height: 20px
+  display: flex
+  align-items: center
+  color: rgba(33, 33, 33, 0.82)
+
+.column.back a:hover
+  color: $color-yellow
+
+.column.back span
+  font-size: 2em
+  padding-right: 12px
+
 @import "~bulma"
 
 // responsiveness
 +tablet-only
+
+  #navMenu
+    height: inherit
+    margin-top: inherit
 
   .blog-list-item .featured-thumbnail
     flex-basis: 50%
@@ -1023,6 +1085,10 @@ footer section.menu
 
 
 +tablet-only
+  #navMenu
+    height: inherit
+    margin-top: inherit
+
   //industries
   .grid
     -webkit-column-count: 3
@@ -1308,7 +1374,7 @@ footer section.menu
     font-size: 16px
     float: inherit
 
-  .read-more.like
+  .read-more-arrow.like
     font-family: Source Sans Pro
     font-style: normal
     font-weight: bold
@@ -1317,7 +1383,7 @@ footer section.menu
     float: right
     padding-right: 24px
     text-align: right
-    color: rgba(255, 255, 255, 0.9)
+    color: rgba(255, 255, 255, 0.9) !important
 
   .subNav
     margin-top: 0
@@ -1641,3 +1707,7 @@ footer section.menu
     text-align: center
     color: rgba(255, 255, 255, 0.7)
     text-decoration: none
+
+  #navMenu
+    height: inherit
+    margin-top: inherit

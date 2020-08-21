@@ -89,10 +89,10 @@ const AccordionPanel = (props) => {
   const { className, label, icon, children, innerItemsCount, color, activeColor } = props;
   const [hover, setHover] = useState(false);
   const buttonRef = React.createRef();
-  const { active, animate, gap, onPanelChange } = React.useContext(AccordionContext);
+  const { active, animate, onPanelChange } = React.useContext(AccordionContext);
 
   return (
-    <div style={{ marginBottom: gap }}>
+    <div className='accordionPanel'>
       <AccordionButton
         ref={buttonRef}
         className={className}

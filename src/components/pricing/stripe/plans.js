@@ -13,7 +13,7 @@ export const initialPlans = [
       },
     },
     videosCount: {
-      annual: 'Download 30 video ads a month',
+      annual: 'Download 3 video ads a month',
       monthly: 'Download 30 video ads a year',
     },
   },
