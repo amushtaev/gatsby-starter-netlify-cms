@@ -24,7 +24,8 @@ export const IncludeContainer = styled.div`
     align-items: center;
     
     @media screen and (max-width: 720px) {
-      width: 320px
+      width: 320px;
+      height: inherit
     }
 `;
 
@@ -562,10 +563,11 @@ export const DivPasteYourLink = styled.div`
     align-items: center;
     display: flex;
     flex-direction: column;
-    margin: 0 0 98px 0;
+    margin: ${props => props.margin};
     
     @media screen and (max-width: 768px) {
-      width: 100%
+      width: 100%;
+      margin: 112px 0 112px 0
     }
 `;
 
@@ -782,8 +784,8 @@ export const QuestionPanel = styled(AccordionPanel)`
     padding: 32px 24px;
     
     @media screen and (max-width: 560px) {
-      min-width: calc(100% - 20px);
-      max-width: calc(100% - 20px);
+      min-width: calc(100% - 48px);
+      max-width: calc(100% - 48px);
       margin: 0 auto;
     }
 `;
@@ -802,10 +804,19 @@ export const Answer = styled.div`
     font-size: 20px;
     line-height: 25px;
     color: #fff;
+    
+    @media screen and (max-width: 780px) {
+      min-width: 100%;
+      max-width: 100%;
+    }
 `;
 
 export const PricingLargeHeading = styled(CreateLargeHeading)`
     margin: 132px 0 82px 0;
+    
+    @media screen and (max-width: 780px){
+      margin: 112px 0 72px 0;
+    }
 `;
 
 export const InputContainer = styled.div`
@@ -860,6 +871,10 @@ export const MediumSlogan = styled.span`
     margin: 8px 0 0 0;
     color: rgba(255, 255, 255, 0.54);
     width: 320px;
+    
+    @media screen and (max-width: 780px) {
+      padding-bottom: ${props => props.paddingBottom};
+    }
 `;
 
 export const MediumSloganLeft = styled(MediumSlogan)`

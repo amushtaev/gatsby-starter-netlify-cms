@@ -237,7 +237,7 @@ function AllPlansInclude() {
               />
             </div>
             <MediumHeading>HD video content</MediumHeading>
-            <MediumSlogan>
+            <MediumSlogan paddingBottom={'62px'}>
               Get top video ads with high-quality clips from our video library
             </MediumSlogan>
           </IncludeContainer>
@@ -252,7 +252,7 @@ function AllPlansInclude() {
               />
             </div>
             <MediumHeading>Ready-made templates</MediumHeading>
-            <MediumSlogan>
+            <MediumSlogan paddingBottom={'62px'}>
               Save time on editing with professionally designed templates
             </MediumSlogan>
           </IncludeContainer>
@@ -267,7 +267,7 @@ function AllPlansInclude() {
               />
             </div>
             <MediumHeading>Unlimited projects</MediumHeading>
-            <MediumSlogan>
+            <MediumSlogan paddingBottom={'62px'}>
               Try different templates and pay only when your video is ready
             </MediumSlogan>
           </IncludeContainer>
@@ -282,7 +282,7 @@ function AllPlansInclude() {
               />
             </div>
             <MediumHeading>Softcube support</MediumHeading>
-            <MediumSlogan>
+            <MediumSlogan paddingBottom={'0'}>
               Our tech and marketing specialists are always ready to help
             </MediumSlogan>
           </IncludeContainer>
@@ -303,7 +303,7 @@ function FrequentlyAskedQuestions() {
 
   return (
     <DivAskedQuestions>
-      <PricingLargeHeading style={{ margin: '130px 0 82px 0' }}>
+      <PricingLargeHeading>
         FREQUENTLY ASKED QUESTIONS
       </PricingLargeHeading>
       <DivAccordion>
@@ -319,11 +319,12 @@ function FrequentlyAskedQuestions() {
           ))}
         </AccordionWithMargin>
         <Accordion animate={false} gap='24px' multiple>
-          {QuestionsAnswersSecond[0].map((qa) => (
+          {QuestionsAnswersSecond[0].map((qa, index) => (
             <QuestionPanel
               key={`question:${qa.question}`}
               label={<PanelLabel text={qa.question} />}
               activeColor={softcubeDark.global.colors['sc-yellow-3']}
+              bottom={index !== 3 ? '24px' : '0'}
             >
               <Answer>{qa.answer}</Answer>
             </QuestionPanel>
@@ -337,8 +338,8 @@ function FrequentlyAskedQuestions() {
 function PasteYourLink() {
   const [inputValue, setInputValue] = React.useState('');
   return (
-    <DivPasteYourLink>
-      <CreateLargeHeading style={{ margin: '130px 0 0 0' }}>
+    <DivPasteYourLink margin={'128px 0 122px 0'}>
+      <CreateLargeHeading>
         PASTE YOUR LINK
       </CreateLargeHeading>
       <SloganSmall>Get AI-generated videos that convert</SloganSmall>

@@ -80,7 +80,7 @@ const WhatOurClientSay = () => {
       >
         WHAT OUR CLIENT SAY
       </IndexHeading>
-      <div className='clients-say' style={{ position: 'relative', overflowX: 'hidden', padding: '20px 0 27px 0'}}>
+      <div className='clients-say'>
         <KeenSlider
           // @ts-ignore
           ref={sliderRef}
