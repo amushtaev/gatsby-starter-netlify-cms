@@ -3,6 +3,12 @@ import PropTypes from 'prop-types';
 import { kebabCase } from 'lodash';
 import { Helmet } from 'react-helmet';
 import { graphql, Link } from 'gatsby';
+import {
+  BrowserView,
+  MobileView,
+  isBrowser,
+  isMobile
+} from "react-device-detect";
 import LayoutBlog from '../components/blog/LayoutBlog';
 import Content, { HTMLContent } from '../components/Content';
 import NavRoll from '../components/NavRoll';
@@ -13,6 +19,7 @@ import gplus from '../img/social/gplus.svg';
 import BlogRollRelated from '../components/blog/BlogRollRelated';
 import { TryAiButton } from '../components/pricing/styledComponents';
 import BlogRollPostsLatest from "../components/blog/BlogRollPostsLatest";
+import BlogRoll from "../components/blog/BlogRoll";
 
 export const BlogPostTemplate = ({
   content,
@@ -115,6 +122,7 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </div>
+      {!isMobile ?
       <div className='container' style={{textAlign: 'center', marginTop: '92px'}}>
         <h3
           className='title-try--white latest'>
@@ -138,6 +146,33 @@ export const BlogPostTemplate = ({
           margin={'52px 0 70px 0'}
         />
       </div>
+      :
+        <div className='container' style={{textAlign: 'center', marginTop: '92px'}}>
+          <h3
+            className='title-try--white latest'
+            style={{ marginBottom: '0'}}
+          >
+            you may also like
+          </h3>
+          <BlogRoll />
+          <Link
+            className="read-more like" to={'/blog/'}
+          >
+            View all blog post  <span style={{fontSize: '24px', paddingLeft: '15px', lineHeight: '2.7rem'}}>→</span>
+          </Link>
+          <h3 className='title-try--white' style={{paddingTop: '117px'}}>
+            MAKE VIDEO ADS IN TWO CLICKS
+          </h3>
+          <TryAiButton
+            text='Try AI video ad maker'
+            onClick={() => {
+              //hist.push('/create');
+              window.location.href = 'https://app.softcube.com'
+            }}
+            margin={'52px 0 70px 0'}
+          />
+        </div>
+      }
     </section>
   )
 };
