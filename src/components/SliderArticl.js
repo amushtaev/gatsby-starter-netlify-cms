@@ -72,7 +72,7 @@ const SliderArticl = (props) => {
   };
   return (
     <>
-      <section className='section index' style={{ position: 'relative', overflowX: 'hidden', padding: '20px 0 27px 0', marginTop: '82px'}}>
+      <section className='section index'>
         <KeenSlider
           ref={sliderRef}
         >

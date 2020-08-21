@@ -48,40 +48,42 @@ export const BlogPostTemplate = ({
       <div className='container white s__width' style={{position: `relative`}}>
         <div className='columns'>
           <div className='column post_column'>
-            <img className='post_image' src={image} alt={title} />
-            <div style={{paddingTop: `8px`}}>
-              {categories && categories.length ? (
-              <>
-                {categories.map((category) => (
-                  <span className='post_category' style={{display: `inline-flex`}} key={category + `category`}>{category}</span>
-                ))}
-              </>
-            ) : null}
-              <span className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
-            </div>
-            <h1 className='title post_title'>
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem`, display: `none` }}>
-                <h4>Tags</h4>
-                <ul className='taglist'>
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
+              <img className='post_image' src={image} alt={title} />
+              <div className='is-for-mobile'>
+              <div style={{paddingTop: `8px`}}>
+                {categories && categories.length ? (
+                <>
+                  {categories.map((category) => (
+                    <span className='post_category' style={{display: `inline-flex`}} key={category + `category`}>{category}</span>
                   ))}
-                </ul>
+                </>
+              ) : null}
+                <span className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
               </div>
-            ) : null}
-            {/*<DiscussionEmbed {...disqusConfig} />*/}
-            <div className='column' style={{marginTop: `60px`}}>
-              <h3 className='post_related'>
-                you may also like
-              </h3>
-              <BlogRollRelated categories={categories} id={id}/>
+              <h1 className='title post_title'>
+                {title}
+              </h1>
+              <p>{description}</p>
+              <PostContent content={content} />
+              {tags && tags.length ? (
+                <div style={{ marginTop: `4rem`, display: `none` }}>
+                  <h4>Tags</h4>
+                  <ul className='taglist'>
+                    {tags.map((tag) => (
+                      <li key={tag + `tag`}>
+                        <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : null}
+              {/*<DiscussionEmbed {...disqusConfig} />*/}
+              <div className='column' style={{marginTop: `60px`}}>
+                <h3 className='post_related'>
+                  you may also like
+                </h3>
+                <BlogRollRelated categories={categories} id={id}/>
+              </div>
             </div>
           </div>
           <div className='column social'>
@@ -125,7 +127,7 @@ export const BlogPostTemplate = ({
         </h3>
         <BlogRollPostsLatest />
         <h3 className='title-try--white' style={{paddingTop: '44px'}}>
-          you may also like
+          MAKE VIDEO ADS IN TWO CLICKS
         </h3>
         <TryAiButton
           text='Try AI video ad maker'
@@ -133,7 +135,7 @@ export const BlogPostTemplate = ({
             //hist.push('/create');
             window.location.href = 'https://app.softcube.com'
           }}
-          margin={'52px 0 0 0'}
+          margin={'52px 0 70px 0'}
         />
       </div>
     </section>

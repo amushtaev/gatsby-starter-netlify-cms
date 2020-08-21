@@ -53,7 +53,7 @@ class NavRoll extends React.Component {
               <li className={`sub-nav--text ${!this.state.active ? "active-nav--text" : ""}`}
               >
                 <p
-                  className={`navbar_item--text ${!active ? "color--yellow" : ""}`}
+                  className={`navbar_item--text posts ${!active ? "color--yellow" : ""}`}
                 >
                   All Posts
                 </p>
@@ -64,7 +64,7 @@ class NavRoll extends React.Component {
                     index === slugindex ?
                       <p
                         key={`cat.link:${slug}`}
-                        className={`navbar_item--text ${active === slug.fieldValue ? "color--yellow" : ""}`}
+                        className={`navbar_item--text posts ${active === slug.fieldValue ? "color--yellow" : ""}`}
                       >
                         {cat.fieldValue}
                       </p > : null
