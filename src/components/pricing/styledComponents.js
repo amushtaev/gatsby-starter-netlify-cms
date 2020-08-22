@@ -8,7 +8,7 @@ export const PlansIncludeContainer = styled.div`
     width: 1068px;
     display: flex;
     flex-wrap: wrap;
-    height: 486px;
+    /*height: 486px;*/
     
     @media screen and (max-width: 768px) {
       width: 100%;
@@ -26,6 +26,7 @@ export const IncludeContainer = styled.div`
     @media screen and (max-width: 720px) {
       width: 320px;
       height: inherit
+      padding-bottom: 0
     }
 `;
 
@@ -872,10 +873,6 @@ export const MediumSlogan = styled.span`
     margin: 8px 0 0 0;
     color: rgba(255, 255, 255, 0.54);
     width: 320px;
-    
-    @media screen and (max-width: 780px) {
-      padding-bottom: ${props => props.paddingBottom};
-    }
 `;
 
 export const MediumSloganLeft = styled(MediumSlogan)`

@@ -227,8 +227,8 @@ function AllPlansInclude() {
     >
       <PricingLargeHeading>ALL PLANS INCLUDE</PricingLargeHeading>
       <PlansIncludeContainer>
-        <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
-          <IncludeContainer paddingBottom={'82px'}>
+        <div className='all-plans'>
+          <div className='IncludeContainer'>
             <div style={{ margin: '0 auto' }}>
               <VideoContentIcon
                 height={82}
@@ -237,13 +237,13 @@ function AllPlansInclude() {
               />
             </div>
             <MediumHeading>HD video content</MediumHeading>
-            <MediumSlogan paddingBottom={'62px'}>
+            <MediumSlogan paddingBottom={'0'}>
               Get top video ads with high-quality clips from our video library
             </MediumSlogan>
-          </IncludeContainer>
+          </div>
         </div>
-        <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
-          <IncludeContainer paddingBottom={'0'}>
+        <div className='all-plans'>
+          <div className='IncludeContainer'>
             <div style={{ margin: '0 auto' }}>
               <ReadyMadeTemplatesIcon
                 height={82}
@@ -252,13 +252,13 @@ function AllPlansInclude() {
               />
             </div>
             <MediumHeading>Ready-made templates</MediumHeading>
-            <MediumSlogan paddingBottom={'62px'}>
+            <MediumSlogan paddingBottom={'0'}>
               Save time on editing with professionally designed templates
             </MediumSlogan>
-          </IncludeContainer>
+          </div>
         </div>
-        <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
-          <IncludeContainer paddingBottom={'82px'}>
+        <div className='all-plans'>
+          <div className='IncludeContainer p-bottom'>
             <div style={{ margin: '0 auto' }}>
               <UnlimitedProjectsIcon
                 height={82}
@@ -267,13 +267,13 @@ function AllPlansInclude() {
               />
             </div>
             <MediumHeading>Unlimited projects</MediumHeading>
-            <MediumSlogan paddingBottom={'62px'}>
+            <MediumSlogan paddingBottom={'0'}>
               Try different templates and pay only when your video is ready
             </MediumSlogan>
-          </IncludeContainer>
+          </div>
         </div>
-        <div style={{ flex: '0 0 40%', margin: '0 auto' }}>
-          <IncludeContainer paddingBottom={'0'}>
+        <div className='all-plans'>
+          <div className='IncludeContainer p-bottom last'>
             <div style={{ margin: '0 auto' }}>
               <SoftcubeSupportIcon
                 height={82}
@@ -285,7 +285,7 @@ function AllPlansInclude() {
             <MediumSlogan paddingBottom={'0'}>
               Our tech and marketing specialists are always ready to help
             </MediumSlogan>
-          </IncludeContainer>
+          </div>
         </div>
       </PlansIncludeContainer>
     </DivAllPlansInclude>

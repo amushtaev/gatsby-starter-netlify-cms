@@ -104,6 +104,20 @@ ul
   justify-content: center
   align-items: center
 
+.all-plans
+  flex: 0 0 40%
+  margin: 0 auto
+
+.IncludeContainer
+  padding-bottom: 82px
+  display: flex
+  width: 534px
+  flex-direction: column
+  align-items: center
+
+.IncludeContainer.p-bottom
+  padding-bottom: 0
+
 .full-width-image
     width: 100vw
     height: 400px
@@ -137,6 +151,10 @@ ul
 
 .navbar-burger
  color: white !important
+
+.navbar-burger.is-active
+  color: black !important
+  z-index: 130
 
 .section.Blog-Post
   padding: 0 !important
@@ -220,8 +238,8 @@ ul
 .read-more-arrow:hover
   color: $color-yellow !important
 
-a.title:hover
-  text-decoration: underline
+a.title.has-text-primary:hover
+  text-decoration: underline !important
 
 .activePage
   border-bottom: 4px solid $color-white
@@ -464,6 +482,7 @@ footer.footer
   width: fit-content !important
   margin: auto !important
   margin-top: 164px !important
+  margin-bottom: 72px !important
 
 .pagination-link, .pagination-next, .pagination-previous
   font-family: Roboto !important
@@ -1278,6 +1297,9 @@ footer section.menu
     padding: 3rem 0
     position: absolute
     width: 100%
+    top: 0
+
+  #navIndusries.navbar-menu
     top: 49px
 
   a.navbar_item:focus, a.navbar_item:focus-within, a.navbar_item:hover, a.navbar_item.is-active
@@ -1591,7 +1613,7 @@ footer section.menu
     padding: 3rem 0
     position: absolute
     width: 100%
-    top: 49px
+    top: 0
 
   .navbar_item, .nav-item--title a
     color: #000
@@ -1711,3 +1733,24 @@ footer section.menu
   #navMenu
     height: inherit
     margin-top: inherit
+
+  .IncludeContainer
+    width: 320px
+    padding-bottom: 62px
+
+  .IncludeContainer.p-bottom
+    width: 320px
+    padding-bottom: 62px
+  .IncludeContainer.p-bottom.last
+    padding-bottom: 0
+
+  .section.index.Posts
+    margin-bottom: 112px
+
+  .pagination
+    width: fit-content !important
+    margin: auto !important
+    margin-top: 92px !important
+
+  .read-more.like
+    color: $color-white
