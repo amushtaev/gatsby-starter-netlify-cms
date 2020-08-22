@@ -519,8 +519,9 @@ footer.footer
   margin: 0 !important
 
 .searchItem
-  position: relative
-  border: none !important
+  position: absolute
+  bottom: 3px
+  right: 0
 
 .searchItem:active,
 .searchItem:hover,
@@ -1754,3 +1755,38 @@ footer section.menu
 
   .read-more.like
     color: $color-white
+
+  .searchInput
+    background: rgba(255, 255, 255, 0.12)
+    border: 1px solid rgba(255, 255, 255, 0.62)
+    box-sizing: border-box
+    border-radius: 50%
+    width: 42px
+    height: 42px
+    padding-left: 0
+    padding-right: 0
+    font-family: Source Sans Pro
+    font-style: normal
+    font-weight: 600
+    font-size: 16px
+    line-height: 20px
+    display: flex
+    align-items: flex-end
+    color: #FFFFFF
+    outline: none !important
+
+  .searchItem
+    position: absolute
+    bottom: 0
+    right: 30px
+
+  .searchItem img
+    position: absolute
+    left: 14px
+    top: 14px
+
+  .searchInput::placeholder
+    display: none
+
+  .h2-subtitle
+    padding: 0 24px

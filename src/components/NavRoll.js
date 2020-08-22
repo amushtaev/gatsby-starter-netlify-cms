@@ -121,9 +121,9 @@ class NavRoll extends React.Component {
                   )}
                 </li>
               ))}
-              <Search onSearch={this.props.onSearch} value={this.props.defaultSearch} />
             </ul>
           </div>
+          <Search onSearch={this.props.onSearch} value={this.props.defaultSearch} />
         </div>
       </nav>
     )
