@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { AccordionContext } from './AccordionContext';
 import styled, { keyframes } from 'styled-components';
 import {
-  TriangleDownIcon,
-  TriangleUpIcon,
+  Plus,
+  Minus,
 } from '../img/icons'
 
 function getAccordionPanelBackground(transparent, background) {
@@ -113,7 +113,7 @@ const AccordionPanel = (props) => {
         )}
         <div style={{ marginLeft: '5px', display: 'inline-block' }}>
           {active ? (
-            <TriangleUpIcon
+            <Minus
               fill={
                 // eslint-disable-next-line no-nested-ternary
                 active && activeColor
@@ -127,7 +127,7 @@ const AccordionPanel = (props) => {
               fillOpacity={hover || active ? '1' : '0.6'}
             />
           ) : (
-            <TriangleDownIcon
+            <Plus
               fill='#fff'
               height={12}
               width={12}

@@ -42,7 +42,7 @@ ul
   text-align: center
   letter-spacing: 0.02em
   text-transform: uppercase
-  margin-top: 128px
+  margin-top: 65px
 
 .h2-subtitle
   font-family: Source Sans Pro
@@ -609,9 +609,9 @@ footer.footer
     flex-direction: row
     position: absolute
     top: -64px
-    right: 0
+    right: 47px
   &__mob a
-    margin-left: 14px
+    margin-left: 8px
 
 .column.social_footer
   width: 100px
@@ -1777,7 +1777,7 @@ footer section.menu
 
   .searchItem
     position: absolute
-    bottom: 0
+    bottom: -3px
     right: 30px
 
   .searchItem img
@@ -1790,3 +1790,21 @@ footer section.menu
 
   .h2-subtitle
     padding: 0 24px
+
+  .PlanCard:not(:last-of-type)
+    padding-bottom: 72px
+
+  .is-close
+    display: none
+
+  .is-close span
+    left: calc(100% - 34px)
+
+  .is-close span:nth-child(1)
+    top: calc(50% + 39px)
+
+  .is-close span:nth-child(3)
+    top: calc(50% + 49px)
+
+  .is-active .is-close
+    display: block

@@ -33,6 +33,11 @@ const NavIndusties = () => {
         data-target="navIndusries"
         onClick={() => toggleHamburger()}
       >
+        <div className='is-close'>
+          <span />
+          <span />
+          <span />
+        </div>
         <ul className="templates-categories-menu" >
           <li className="nav-item--title-mobile">
             BROWSE TEMPLATES
@@ -71,7 +76,7 @@ const NavIndusties = () => {
         className={`navbar-menu ${activeClass}`}
       >
         <ul className="templates-categories-menu" >
-          <li className="nav-item--title">
+          <li className="nav-item--title" style={{paddingTop: '62px'}}>
             <Link
               className="link-menu"
               data-link="all"

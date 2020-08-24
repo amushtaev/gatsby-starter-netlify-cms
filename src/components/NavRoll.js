@@ -50,6 +50,11 @@ class NavRoll extends React.Component {
               data-target="navBlog"
               onClick={() => this.toggleHamburger()}
             >
+              <div className={`navbar-burger is-close ${this.state.navBarActiveClass}`} style={{position: 'absolute', right: '0'}}>
+                <span />
+                <span />
+                <span />
+              </div>
               <li className={`sub-nav--text ${!this.state.active ? "active-nav--text" : ""}`}
               >
                 <p

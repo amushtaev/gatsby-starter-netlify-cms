@@ -28,7 +28,7 @@ export default class Search extends Component {
           value={ this.state.searchQuery}
           onChange={(e) => {this.handleChange(e)}}
           className="searchInput"
-          placeholder={`${!isMobile && this.windowSize.width > 780 ? "Search" : ""}`}
+          placeholder={`${!isMobile ? "Search" : ""}`}
         />
         <img className="search"
           src={search}

@@ -4,7 +4,6 @@ import WhatOurClientSay from '../components/WhatOurClientSay'
 import {
   PricingLargeHeading,
   PlansIncludeContainer,
-  IncludeContainer,
   PricingPageContainer,
   PricingHeading,
   SloganSmall,
@@ -156,7 +155,7 @@ function PlanCard(props) {
   }, [plan]);
 
   return (
-    <div style={{ maxWidth: '306px', margin: '0 auto' }}>
+    <div className='PlanCard' style={{ maxWidth: '306px', margin: '0 auto' }}>
       <PlanCardContainer>
         <Tier>
           <CardHeader pro={plan.name === 'PRO'}>

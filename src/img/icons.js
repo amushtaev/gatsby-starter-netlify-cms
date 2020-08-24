@@ -502,7 +502,7 @@ export const ArrowMenuMobile = (props) => {
     </svg>
   )
 };
-export const TwitterFooter = (props) => {
+export const TwitterFooter = () => {
   return (
     <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path fill-rule="evenodd" clip-rule="evenodd" d="M17 34C26.3888 34 34 26.3888 34 17C34 7.61116 26.3888 0 17 0C7.61116 0 0 7.61116 0 17C0 26.3888 7.61116 34 17 34Z" fill="white"/>
@@ -511,3 +511,18 @@ export const TwitterFooter = (props) => {
   )
 };
 
+export const Plus = () => {
+  return (
+    <svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M14.8008 7C14.8008 7.64517 14.7448 8.16667 14.0996 8.16667H8.96745V13.2988C8.96745 13.9428 8.44595 14 7.80078 14C7.15561 14 6.63411 13.9428 6.63411 13.2988V8.16667H1.50195C0.857948 8.16667 0.800781 7.64517 0.800781 7C0.800781 6.35483 0.857948 5.83333 1.50195 5.83333H6.63411V0.701166C6.63411 0.0559998 7.15561 0 7.80078 0C8.44595 0 8.96745 0.0559998 8.96745 0.701166V5.83333H14.0996C14.7448 5.83333 14.8008 6.35483 14.8008 7Z" fill="white"/>
+    </svg>
+    )
+};
+
+export const Minus = () => {
+  return (
+    <svg width="14" height="3" viewBox="0 0 14 3" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M13 0H1C0.447812 0 0 0.447812 0 1V2C0 2.55219 0.447812 3 1 3H13C13.5522 3 14 2.55219 14 2V1C14 0.447812 13.5522 0 13 0Z" fill="white"/>
+    </svg>
+    )
+};
