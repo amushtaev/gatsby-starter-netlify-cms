@@ -23,7 +23,7 @@ const SliderArticl = (props) => {
       '(min-width: 300px)': {
         slidesPerView: 1,
         mode: 'free-snap',
-        centered: false,
+        centered: true,
         loop: true,
       },
       '(min-width: 520px)': {
@@ -102,7 +102,7 @@ const SliderArticl = (props) => {
                 <div className="short-news-container">
                   <p className="post-meta">
                     <Link
-                      className="title has-text-primary is-size-4"
+                      className="title has-text-primary"
                       to={post.fields.slug.replace("/blog", "")}
                     >
                       {post.frontmatter.title}
@@ -110,7 +110,7 @@ const SliderArticl = (props) => {
                   </p>
                   <div
                     className="articl-footer"
-                    style={{gridTemplateColumns: '194px 80px'}}
+                    style={{gridTemplateColumns: '1fr 80px'}}
                   >
                     <span className="date">
                       {post.frontmatter.date}
