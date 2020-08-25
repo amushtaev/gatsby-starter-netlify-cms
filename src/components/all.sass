@@ -777,6 +777,8 @@ footer section.menu
   position: relative
   overflow-x: hidden
   padding: 20px 0 27px
+  width: 100%
+  max-width: 1627px
 
 //industies
 .template-no--active
@@ -1032,10 +1034,27 @@ footer section.menu
   font-size: 2em
   padding-right: 12px
 
+@media (min-width: 568px) and (max-width: 780px)
+  .BlogPaginationPosts
+    width: 100%
+
+  .BlogPaginationPosts .is-parent.column.is-4
+    display: inline-block
+    width: calc(50% - 13px)
+
+  .BlogPaginationPosts .is-parent.column.is-4:nth-of-type(odd)
+    margin-right: 12px
+
+  .BlogPaginationPosts .is-parent.column.is-4:nth-of-type(even)
+    margin-left: 12px
+
 @import "~bulma"
 
 // responsiveness
 +tablet-only
+
+  .clients-say
+    width: 100%
 
   #navMenu
     height: inherit
@@ -1207,6 +1226,22 @@ footer section.menu
   .template-video-item__overlay
     //display: none
 
+  .section.index.Posts,
+  .index.Blog .container.header.nav
+    padding-left: 24px
+    padding-right: 24px
+
+  .index.Blog .navbar_item
+    margin-right: 46px
+
+  .BlogPaginationPosts
+    display: flex
+    flex-wrap: wrap
+    flex: 50%
+
+  .IncludeContainer
+    width: 334px
+
 +mobile
 
   .column.social_footer
@@ -1260,6 +1295,12 @@ footer section.menu
     text-align: center
     max-width: 100%
     margin: 0 0 1em
+
+  .columns.is-multiline.BlogRollPosts, .column.BlogRollRelated
+    margin-left: 0
+    margin-right: 0
+    padding-left: 0
+    padding-right: 0
 
   .articl-footer, .articl-footer_related
     display: grid
@@ -1825,3 +1866,19 @@ footer section.menu
   .short-news-container
     height: 120px
     padding-top: 8px
+
+  #navBlog.navbar-menu.subNav.is-active
+    padding: 127px 0
+
+  .navbar_item:hover
+    color: black
+    font-weight: bold
+
+  .image_related
+    height: 183px !important
+    overflow: hidden
+
+  .blog-list-item.with_background
+    background: #12122F !important
+    box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.25)
+    max-height: inherit

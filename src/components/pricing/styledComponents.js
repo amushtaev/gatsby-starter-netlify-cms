@@ -331,6 +331,8 @@ export const CreateLargeHeading = styled.span`
       text-align: center;
       letter-spacing: 0.02em;
       color: #FFFFFF;
+      padding-left: 24px;
+      padding-right: 24px;
     }
 `;
 
@@ -827,6 +829,15 @@ export const InputContainer = styled.div`
     margin: 20px 0 0 20px;
     padding: 0;
     width: 96%;
+    
+    @media (min-width: 561px) and (max-width: 1100px) {
+      display: inline-flex;
+      flex-direction: row;
+      margin: 20px 20px 0;
+      padding: 0;
+      width: 80%;
+      text-align: center;
+    }
     
     @media screen and (max-width: 560px) {
       display: block;

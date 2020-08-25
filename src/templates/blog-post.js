@@ -87,7 +87,7 @@ export const BlogPostTemplate = ({
                 </div>
               ) : null}
               <DiscussionEmbed {...disqusConfig} />
-              <div className='column' style={{marginTop: `60px`}}>
+              <div className='column BlogRollRelated' style={{marginTop: `60px`}}>
                 <h3 className='post_related'>
                   you may also like
                 </h3>
@@ -95,7 +95,7 @@ export const BlogPostTemplate = ({
               </div>
             </div>
           </div>
-          {!isMobile && windowSize.width > 780 ?
+          {!isMobile && windowSize.width > 780 || isMobile && windowSize.width > 780 ?
             <>
               <div className='column back'>
               <Link to='/blog'>

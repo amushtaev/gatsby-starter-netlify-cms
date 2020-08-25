@@ -41,6 +41,7 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
+        style={{zIndex: '200'}}
       >
         <div className="container header">
           <div className="navbar-brand">
