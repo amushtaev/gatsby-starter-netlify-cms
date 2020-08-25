@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Video Ads
 categories-slug:
-  - case-study
+  - video-ads
 title: 70 Video Marketing Statistics for 2020
 date: 2019-10-30
 description: Need modify desk.
