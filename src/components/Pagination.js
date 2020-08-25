@@ -4,27 +4,25 @@ import prevIco from "../img/prevIco.svg";
 import nextIco from "../img/nextIco.svg";
 
 // A sweet helper function to create pagination object
-const createPaginationObjects = (length, page, increment = 2, category) =>
+const createPaginationObjects = (link, length, page, increment = 2) =>
   Array.from({ length }, (_, i) => ({
-    link: `${category}${i + increment}/`,
+    link: `${link}${i + increment}/`,
     index: i + increment,
     current: page === i + increment,
   }));
 
-const Pagination = ({pageContext, category, link}) =>{
+const Pagination = ({pageContext, link}) =>{
   const {
-    nodes,
     page,
     prev,
     next,
     pages,
-    total,
   } = pageContext;
 
   // Create the navigation link
   let navItems = [
     {
-      link: category,
+      link: link,
       index: 1,
       current: page === 1,
     },
@@ -46,7 +44,7 @@ const Pagination = ({pageContext, category, link}) =>{
       // If the current one is closer to the start
       navItems = [
         ...navItems,
-        ...createPaginationObjects(3, page),
+        ...createPaginationObjects(link,3, page),
         {
           separator: true,
           index: 'starter-separator',
@@ -57,6 +55,7 @@ const Pagination = ({pageContext, category, link}) =>{
           current: false,
         },
       ];
+      console.log('page <= 3', navItems, link)
     } else if (page > pages - 3) {
       // If the current one is closer to the last one
       navItems = [
@@ -65,7 +64,7 @@ const Pagination = ({pageContext, category, link}) =>{
           separator: true,
           index: 'finisher-separator',
         },
-        ...createPaginationObjects(4, page, pages - 3, category),
+        ...createPaginationObjects(link,4, page, pages - 3),
       ];
     } else {
       navItems = [
@@ -74,7 +73,7 @@ const Pagination = ({pageContext, category, link}) =>{
           separator: true,
           index: 'starter-separator',
         },
-        ...createPaginationObjects(3, page, page - 1, category),
+        ...createPaginationObjects(link,3, page, page - 1),
         {
           separator: true,
           index: 'finisher-separator',

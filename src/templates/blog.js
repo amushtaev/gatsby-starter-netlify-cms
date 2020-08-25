@@ -50,7 +50,7 @@ const BlogPage = ({pageContext, stringSearch}) => {
           <div className='content'>
             <BlogPaginationPosts pageContext={ pageContext } />
           </div>
-          <Pagination pageContext={pageContext} category={`/blog/`} link={`/blog/page/`} />
+          <Pagination pageContext={pageContext} link={`/blog/page/`} />
         </div>
       </section>
     </LayoutBlog>

@@ -1,28 +1,26 @@
 ---
 templateKey: blog-post
 categories:
-  - Instagram Ads
+  - Case Study
 categories-slug:
-  - instagram-ads
-title: THE BUDGET SAVING GUIDE TO INSTAGRAM ADS COST
-date: 2020-07-05T08:46:16.134Z
-description: >-
-  How much does it cost to advertise on Instagram?
-
-
-  It depends. For instance, companies are ready to pay nearly one million dollars for Cristiano Ronaldo to publish one promotion from his official Instagram account.
-featuredimage: /img/instagram-ads-cost-featured-image.jpg
-image: /img/instagram-ads-cost-featured-image.jpg
+  - case-study
+title: The Budget Saving Guide to Instagram Ads Cost
+date: 2020-04-23
+description: Need modify desk.
+featuredpost: false
+featuredimage: /img/chemex.jpg
+image: /img/jumbotron.jpg
 tags:
-  - How much does it cost to advertise on Instagram
+  - brewing
+  - chemex
 ---
-<!--StartFragment-->
+![chemex](/img/chemex.jpg)
 
-*How much does it cost to advertise on Instagram?*
+_How much does it cost to advertise on Instagram?_
 
 It depends. For instance, companies are ready to pay nearly one million dollars for Cristiano Ronaldo to publish one promotion from his official Instagram account.
 
-![Instagram ads cost — Cristiano Ronaldo](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-chistiano-ronaldo.jpg)
+![Instagram ads cost — Cristiano Ronaldo](/img/instagram-ads-cost-chistiano-ronaldo.jpg)
 
 Surprisingly, the world-famous soccer player earned [more than $47.5 million](https://www.statista.com/chart/19728/cristiano-ronaldo-makes-more-from-instagram-than-soccer/) on Instagram in 2019, making him the platform’s highest earner. That’s more than his salary at Juventus.
 
@@ -38,7 +36,7 @@ Launching [ads on Instagram](https://softcube.com/instagram-ad-formats-basics-an
 
 ### Cost Driver #1 — Industry and Niche
 
-Say you advertise an apparel brand. Your ads will be more expensive than ads posted by brands in other industries. The reason is high competition.
+Say you advertise an apparel brand. Your ads will be more expensive than ads posted by brands in other industries. The reason is high competition. 
 
 ### Cost Driver #2 — Location
 
@@ -46,14 +44,14 @@ Economics and financial solvency also affect the Instagram promotion price. In t
 
 ### Cost Driver #3 — Audience
 
-There are two audience cost drivers you should take into account on Instagram.
+There are two audience cost drivers you should take into account on Instagram. 
 
-![Instagram ads cost — audience](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-audience.jpg)
+![Instagram ads cost — audience](/img/instagram-ads-cost-audience.jpg)
 
 The first is the type of audience you target. You have three options here:
 
 1. Target users by picking age, location, habits, interests, and other targeting details by hand in [Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/).
-2. Create a [Custom Audience](https://softcube.com/guide-to-facebook-custom-audiences/) that consists of people you already know.
+2. Create a [Custom Audience](https://softcube.com/guide-to-facebook-custom-audiences/) that consists of people you already know. 
 3. Form a [Lookalike Audience](https://softcube.com/how-to-use-facebook-lookalike-audiences/) that includes people who have the same characteristics as people from your custom audience.
 
 The second audience cost driver is the size of your target audience.
@@ -64,11 +62,11 @@ Placements are places where your Instagram ads show up.
 
 If you’re ready to launch full-fledged ad campaigns instead of promoting several posts per week, you may want to run your ads not only on Instagram placements but on [placements that belong to Facebook](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/), Messenger, and the Audience Network.
 
-![Instagram ads cost — placements](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-placements.jpg)
+![Instagram ads cost — placements](/img/instagram-ads-cost-placements.jpg)
 
 Ads Manager offers an Automatic Placements option that allows Facebook to optimize your ad budget to show your ads automatically on placements where they’ll perform best.
 
-Alternatively, you can confine yourself to Instagram placements only: Instagram Feed, Instagram Explore, and Instagram Stories.
+Alternatively, you can confine yourself to Instagram placements only: Instagram Feed, Instagram Explore, and Instagram Stories. 
 
 However, keep in mind that if you choose this option, it may cost you a pretty penny. Placements on Instagram are the most expensive due to the fierce competition.
 
@@ -82,7 +80,7 @@ You can pay for the number of clicks made on your ads with a cost-per-click (CPC
 
 ### Cost Driver #7 — Bid Amount
 
-Don’t skimp on your [Instagram ads](https://softcube.com/recommendations-for-instagram-sponsored-ads/) when you’re sure they’ll guarantee you leads and conversions. The cool thing about Instagram ads is that you won’t spend more than you allocate.
+Don’t skimp on your [Instagram ads](https://softcube.com/recommendations-for-instagram-sponsored-ads/) when you’re sure they’ll guarantee you leads and conversions. The cool thing about Instagram ads is that you won’t spend more than you allocate. 
 
 Facebook charges only the amount necessary to beat your competitors. Say you bid for [Instagram Stories](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) ads. If your competitor bids $1.73, you’ll pay $1.74 to win.
 
@@ -98,9 +96,9 @@ Now that you know the approximate Instagram promotion cost and its driving facto
 
 Ad Set is a level in the ad campaign settings inside Ads Manager. It consists of three elements: Audience, Placements, and Budget & Schedule.
 
-![Instagram ads cost — ad set](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-ad-set.jpg)
+![Instagram ads cost — ad set](/img/instagram-ads-cost-ad-set.jpg)
 
-You need to choose the right audience, the right placements, and the right budget if you want your Instagram ads to cost you less. Testing is the only way to find the right fit.
+You need to choose the right audience, the right placements, and the right budget if you want your Instagram ads to cost you less. Testing is the only way to find the right fit. 
 
 Note that if your ad set turns out to be successful, you can save it and use it for future ad campaigns.
 
@@ -112,19 +110,19 @@ Here’s how to set a spending limit in four simple steps:
 
 **Step 1**. Once you’re in Ads Manager, go to **Billing**.
 
-![Instagram ads cost — the billing button](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-billing-button.jpg)
+![Instagram ads cost — the billing button](/img/instagram-ads-cost-billing-button.jpg)
 
 **Step 2**. Click **Payment Settings** in the right corner at the top of your screen.
 
-![Instagram ads cost — payment settings](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-payment-settings.jpg)
+![Instagram ads cost — payment settings](/img/instagram-ads-cost-payment-settings.jpg)
 
 **Step 3**. Find the **Set Your Account SpendingLimit** section and click the button with the same name.
 
-![Instagram ads cost — setting a spending limit](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-account-spending-limit.jpg)
+![Instagram ads cost — setting a spending limit](/img/instagram-ads-cost-account-spending-limit.jpg)
 
 **Step 4**. Type in the maximum amount you want to spend and click **Set Limit**.
 
-![Instagram ads cost — entering a spending limit](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-setting-spending-limit.jpg)
+![Instagram ads cost — entering a spending limit](/img/instagram-ads-cost-setting-spending-limit.jpg)
 
 After you go through these four steps, your budget will be safe. Once you reach your ad spending limit, Facebook will automatically stop running your ads.
 
@@ -132,15 +130,15 @@ However, keep in mind that Facebook won’t let you set a spending limit if your
 
 ### Ask for Help in the Facebook Help Center
 
-*How much does it cost to promote on Instagram?* If you’re wondering this or have any other question or issue related to ad budgeting and payments, feel free to ask in the Ads Payment Support section of the Facebook Help Center.
+_How much does it cost to promote on Instagram?_ If you’re wondering this or have any other question or issue related to ad budgeting and payments, feel free to ask in the Ads Payment Support section of the Facebook Help Center.
 
 Click the **Contact us** button below the Billing and Receipts History section to get started.
 
-![Instagram ads cost — the contact us button](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-ads-contact-us-button.jpg)
+![Instagram ads cost — the contact us button](/img/instagram-ads-cost-ads-contact-us-button.jpg)
 
 After that, choose your ad account and complete your inquiry. If necessary, you can describe your question in more detail as well as attach screenshots and other files.
 
-![Instagram ads cost — ads payments inquiry](https://softcube.com/wp-content/uploads/2020/04/instagram-ads-cost-ads-payments-inquiry.jpg)
+![Instagram ads cost — ads payments inquiry](/img/instagram-ads-cost-ads-payments-inquiry.jpg)
 
 When you’re finished, click **Send** to contact a Facebook help center specialist.
 
@@ -154,4 +152,4 @@ We recommend not bidding too low, however, because it may limit your ad delivery
 
 Now that you know the average cost of Instagram advertising, the factors that affect it, and recommendations for reducing your expenses, we have a surprise for you that will help you save your advertising budget.
 
-<!--EndFragment-->
+Test [Softcube AI](https://softcube.com/) right now and win your first ad auction. Good luck!
