@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: How to Create a Facebook Pixel
 date: 2020-06-23
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/create-a-facebook-pixel-featured-image.jpg
+image: /img/create-a-facebook-pixel-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Ready to create a Facebook pixel?
 

@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Instagram Ads
 categories-slug:
-  - case-study
+  - instagram-ads
 title: The Complete Guide to Instagram Stories Ads
 date: 2020-01-30
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/instagram-stories-ads-featured-image.jpg
+image: /img/instagram-stories-ads-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 _Do you have an Instagram?_
 

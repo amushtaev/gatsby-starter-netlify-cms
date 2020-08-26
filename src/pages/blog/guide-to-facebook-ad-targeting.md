@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: How to Hit the Mark with Facebook Ad Targeting
 date: 2019-04-12
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-ad-targeting-featured-picture.jpg
+image: /img/facebook-ad-targeting-featured-picture.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Facebook users love two things: using mobile devices and watching videos.  
 

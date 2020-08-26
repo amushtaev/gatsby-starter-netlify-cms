@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: "Facebook Audience Network: Monetization and Advertising"
 date: 2020-04-30
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-audience-network-featured-image.jpg
+image: /img/facebook-audience-network-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Mobile is silently winning the internet. And this has big consequences.
 

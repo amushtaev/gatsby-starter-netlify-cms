@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: How to Make Carousel Ads on Facebook
 date: 2018-12-07
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-carousel-ads-featured-image.jpg
+image: /img/facebook-carousel-ads-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 <script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
 

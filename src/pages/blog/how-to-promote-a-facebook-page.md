@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: How to Promote a Facebook Page
 date: 2020-06-30
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/promote-a-facebook-page-featured-image.jpg
+image: /img/promote-a-facebook-page-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Social media is changing the way we communicate with each other. 
 

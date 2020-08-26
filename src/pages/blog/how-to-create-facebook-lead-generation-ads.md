@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: How to Create Facebook Lead Generation Ads
 date: 2019-05-02
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/create-facebook-lead-generation-ads-featured-picture.jpg
+image: /img/create-facebook-lead-generation-ads-featured-picture.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 There are nearly a [dozen ways](https://softcube.com/how-to-select-types-of-facebook-ads/) to attract new customers from Facebook to your website, landing page, and mobile app. All of them are effective for achieving different ad objectives.  
 

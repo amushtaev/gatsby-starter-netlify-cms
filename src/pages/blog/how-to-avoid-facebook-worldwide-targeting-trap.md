@@ -8,13 +8,13 @@ title: How to Avoid Facebook Worldwide Targeting Trap
 date: 2020-05-26
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-worldwide-targeting-featured-image.jpg
+image: /img/facebook-worldwide-targeting-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Getting your Facebook ads running like a well-oiled machine is harder than making your kid quiet when you work from home. Believe me, I know what I’m talking about.
 

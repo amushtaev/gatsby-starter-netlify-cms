@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Video Ads
 categories-slug:
-  - case-study
+  - video-ads
 title: How to Pick the Best Video Format for Facebook Ads
 date: 2019-12-31
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/best-video-format-for-facebook-ads-featured-picture.jpg
+image: /img/best-video-format-for-facebook-ads-featured-picture.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Even though image ads haven’t lost their charm, more and more businesses are starting to pay attention to the fuss about video advertising.
 

@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: How to Advertise on Facebook for Free and Wisely
 date: 2019-12-13
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/how-to-advertise-on-facebook-for-free-featured-image.jpg
+image: /img/how-to-advertise-on-facebook-for-free-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Want to know how to advertise on Facebook for free? Bravo! Free advertising sounds like an oxymoron, but it’s real and it’s really effective when combined with targeted ads.
 

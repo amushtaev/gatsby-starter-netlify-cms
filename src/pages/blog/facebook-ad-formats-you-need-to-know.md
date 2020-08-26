@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: 14 Facebook Ad Formats You Need to Know
 date: 2020-01-15
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-ad-formats-featured-picture.jpg
+image: /img/facebook-ad-formats-featured-picture.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Millions of businesses launch millions of Facebook ads every day. Fascinating, isn’t it?
 

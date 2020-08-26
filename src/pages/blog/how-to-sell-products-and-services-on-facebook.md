@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: How to Sell Products and Services on Facebook
 date: 2019-05-11
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/how-to-sell-products-on-facebook-featured-image.jpg
+image: /img/how-to-sell-products-on-facebook-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Facebook is an awesome advertising platform for marketplaces, medium-sized businesses, and small retailers.  
 

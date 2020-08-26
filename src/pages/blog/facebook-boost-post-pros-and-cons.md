@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: "Facebook Boost Post: Pros and Cons"
 date: 2020-07-07
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-boost-post-featured-image.jpg
+image: /img/facebook-boost-post-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 So you have a [Facebook Page](https://softcube.com/how-to-promote-a-facebook-page/) and you want to do some effective marketing using the legendary Facebook Boost Post button. Boosting posts you created for your Page’s timeline is a great starting point for advertising your business on Facebook.
 

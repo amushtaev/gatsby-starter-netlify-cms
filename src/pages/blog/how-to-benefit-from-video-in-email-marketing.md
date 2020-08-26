@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: How to Benefit From Video in Email Marketing
 date: 2019-07-19
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/video-in-email-marketing-featured-image.jpg
+image: /img/video-in-email-marketing-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 This year, embedded videos became one of the email marketing top trends. Just a fact of objective reality we live in - and where everything happens for some reasons. 
 

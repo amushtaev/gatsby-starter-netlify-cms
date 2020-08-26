@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: How to Improve Facebook Ads Relevance Score
 date: 2019-06-05
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-ads-relevance-score-featured-picture.jpg
+image: /img/facebook-ads-relevance-score-featured-picture.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 If you want to succeed with Facebook Ads, you should change your perspective on advertising.  
 

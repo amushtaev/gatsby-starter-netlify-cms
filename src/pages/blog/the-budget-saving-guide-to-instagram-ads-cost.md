@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Instagram Ads
 categories-slug:
-  - case-study
+  - instagram-ads
 title: The Budget Saving Guide to Instagram Ads Cost
 date: 2020-04-23
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/instagram-ads-cost-featured-image.jpg
+image: /img/instagram-ads-cost-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 _How much does it cost to advertise on Instagram?_
 

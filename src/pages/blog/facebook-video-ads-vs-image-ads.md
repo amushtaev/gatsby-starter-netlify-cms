@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: "Facebook Video Ads vs. Image Ads: Which to Shoot?"
 date: 2018-11-27
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-video-ads-vs-image-ads-featured-image.jpg
+image: /img/facebook-video-ads-vs-image-ads-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 You’re facing a challenge, trying to figure out what will work best for your business on Facebook: a video ad or image ad? This is one of the eternal questions of Facebook advertising.
 

@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: How to Start a Personal Chat with Messenger Ads
 date: 2020-04-16
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/messenger-ads-featured-image.jpg
+image: /img/messenger-ads-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Have you received a message from a family member, friend, colleague, or business today? I bet this message was sent via one of Facebook’s apps or services.
 

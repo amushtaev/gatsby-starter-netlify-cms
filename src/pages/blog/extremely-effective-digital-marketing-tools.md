@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: 38 Extremely Effective Digital Marketing Tools
 date: 2020-03-24
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/digital-marketing-tools-featured-image.jpg
+image: /img/digital-marketing-tools-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Humans have been using tools for as long as we’ve been humans. Every marketer has their own unique toolset that only becomes larger with time. How does this happen?
 

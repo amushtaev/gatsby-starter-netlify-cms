@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: The Beginner’s Guide to Facebook Ads Funnels
 date: 2020-07-21
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-sales-funnel-featured-image.jpg
+image: /img/facebook-sales-funnel-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 No matter where a purchase is made — online or offline — shopping has become an adventure.
 

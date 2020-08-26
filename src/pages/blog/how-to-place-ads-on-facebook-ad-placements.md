@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: How to Place Ads on Facebook Ad Placements
 date: 2020-03-12
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-ad-placements-featured-image.jpg
+image: /img/facebook-ad-placements-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Facebook is the number one social media network. We all know that. But not everyone realizes what the word _network_ really means. That’s why we have a question for you.
 

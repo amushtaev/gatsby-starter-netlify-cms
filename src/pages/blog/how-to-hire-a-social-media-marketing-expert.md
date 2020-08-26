@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: How to Hire a Social Media Marketing Expert
 date: 2019-09-04
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/social-media-marketing-expert-featured-image.jpg
+image: /img/social-media-marketing-expert-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Social media marketing has gone from being something supplementary to traditional marketing to practically being the new version of traditional marketing.
 

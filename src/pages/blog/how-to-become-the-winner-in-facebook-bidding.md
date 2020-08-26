@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: How to Become the Winner in Facebook Bidding
 date: 2020-04-09
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-bidding-featured-image.jpg
+image: /img/facebook-bidding-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Have you realized that Facebook ads are a great opportunity to grow your business but you’re counting every penny you spend on marketing? Well, you’re not the only one. 
 

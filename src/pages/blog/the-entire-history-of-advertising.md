@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: The Entire History of Advertising
 date: 2020-08-04
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/history-of-advertising-facebook-featured-pic.jpg
+image: /img/history-of-advertising-facebook-featured-pic.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 In the beginning was the word… In the meantime, people discovered fire, started gathering fruits, nuts, and grasses, learned to hunt protein-rich animals, and created settlements near water to catch fish. Soon after that, the agricultural revolution happened and settlements turned into towns and cities where technological advancements expanded commerce, promoted competition, and gave birth to advertising. That’s how the civilized world emerged.
 

@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Instagram Ads
 categories-slug:
-  - case-study
+  - instagram-ads
 title: 7 Recommendations for Instagram Sponsored Ads
 date: 2020-02-27
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/instagram-sponsored-ads-featured-image.jpg
+image: /img/instagram-sponsored-ads-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Let’s get it straight. Instagram has taken root in everything we do and love.
 

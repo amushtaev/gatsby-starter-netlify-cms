@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: What is Facebook Special Ad Category?
 date: 2020-05-19
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-special-ad-category-featured-image.jpg
+image: /img/facebook-special-ad-category-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 When it comes to advertising a business online, Facebook is one of the first platforms that comes to mind. According to an official Facebook report, [7 million businesses](https://www.statista.com/statistics/778191/active-facebook-advertisers/) launched ad campaigns on Facebook in 2017.
 

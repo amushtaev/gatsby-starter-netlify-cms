@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Instagram Ads
 categories-slug:
-  - case-study
+  - instagram-ads
 title: "Instagram Video Ads: 8 Tips and Tricks for Marketers"
 date: 2020-04-02
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/instagram-video-ads-featured-image.jpg
+image: /img/instagram-video-ads-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 _Want to know how to make Instagram ad videos hot and successful?_
 

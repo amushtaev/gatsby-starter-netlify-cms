@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: How to Get Started with Facebook Instant Experience
 date: 2020-02-13
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-instant-experience-featured-image.jpg
+image: /img/facebook-instant-experience-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 When you show ads to Facebook users, every moment counts. People consume lots of content on a daily basis using their mobile devices.
 

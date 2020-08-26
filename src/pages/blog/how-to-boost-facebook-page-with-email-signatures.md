@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: How to Boost Facebook Pages with Email Signatures
 date: 2019-09-25
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/email-signatures-featured-image.jpg
+image: /img/email-signatures-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Facebook is the [most famous social network](https://www.businessinsider.com/facebook-grew-monthly-average-users-in-q1-2019-4) that still keeps its popularity even with Instagram, Snapchat, and TikTok embracing the market.
 

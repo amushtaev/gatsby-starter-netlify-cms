@@ -8,13 +8,13 @@ title: 70 Video Marketing Statistics for 2020
 date: 2019-10-30
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/video-marketing-statistics-featured-image.jpg
+image: /img/video-marketing-statistics-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 It seems that 2020 can already be called the year of video content. Hype over video as a powerful means of advertising is spreading among businesses lightning fast. And the volume of video marketing statistics is growing as well.
 

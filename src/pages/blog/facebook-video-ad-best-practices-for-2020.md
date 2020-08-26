@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Video Ads
 categories-slug:
-  - case-study
+  - video-ads
 title: 7 Facebook Video Ad Best Practices for 2020
 date: 2019-12-24
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-video-ad-best-practices-featured-image.jpg
+image: /img/facebook-video-ad-best-practices-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 **Fact about video ads #1:** Users watch more online video than ever. 
 

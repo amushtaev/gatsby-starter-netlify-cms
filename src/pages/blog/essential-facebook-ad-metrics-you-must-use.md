@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: 11 Essential Facebook Ad Metrics You Must Use
 date: 2019-08-16
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-ad-metrics-featured-image.jpg
+image: /img/facebook-ad-metrics-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 So you’ve launched a couple of ad campaigns and now you need to know how to analyze Facebook ad performance. Way to go!
 

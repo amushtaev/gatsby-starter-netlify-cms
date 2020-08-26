@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: The Beginner’s Guide to Dark Posts on Facebook
 date: 2019-11-25
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/dark-post-on-facebook-featured-pic.jpg
+image: /img/dark-post-on-facebook-featured-pic.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Did you know that dark posts on Facebook are also light? Surprise!
 

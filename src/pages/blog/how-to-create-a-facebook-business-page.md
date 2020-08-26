@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: How to Create a Facebook Business Page in 5 Steps
 date: 2019-05-24
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/create-a-facebook-business-page-feature-image.jpg
+image: /img/create-a-facebook-business-page-feature-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 So you want to create a Business Page on Facebook. It’s about time.  
 

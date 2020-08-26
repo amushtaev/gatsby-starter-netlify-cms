@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: 8 Facebook Ad Best Practices for 2019
 date: 2019-04-16
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-ad-best-practices-featured-image.jpg
+image: /img/facebook-ad-best-practices-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 As of January 2019, Facebook was staying ahead in the social network market, with over 2.2 billion monthly active users according to [Statista](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/).
 

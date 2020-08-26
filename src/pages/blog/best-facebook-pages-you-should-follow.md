@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: 29 Best Facebook Pages You Should Follow
 date: 2019-11-07
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/best-facebook-pages-number-of-users.jpg
+featuredimage: /img/best-facebook-pages-featured-image.jpg
+image: /img/best-facebook-pages-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 There are three things you can watch forever: fire, water, and Facebook audience going up.
 

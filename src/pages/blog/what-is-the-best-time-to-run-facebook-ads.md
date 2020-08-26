@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: What is the Best Time to Run Facebook Ads?
 date: 2020-06-02
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/best-time-to-run-facebook-ads-featured-image.jpg
+image: /img/best-time-to-run-facebook-ads-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Want to know exactly when you should target users on Facebook? Here’s the thing.
 

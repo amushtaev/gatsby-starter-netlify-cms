@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: 7 Effective Facebook Ad Strategies for E-Commerce
 date: 2019-08-05
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
+image: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 There are over [90 million small businesses](https://www.facebook.com/business/news/giving-small-businesses-the-tools-to-succeed-on-facebook/) on Facebook.  
 

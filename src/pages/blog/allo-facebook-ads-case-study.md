@@ -8,13 +8,13 @@ title: "Getting Ahead with Facebook Ads: eCommerce Case Study"
 date: 2018-10-10
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-ads-case-study-featured-image.jpg
+image: /img/facebook-ads-case-study-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Today, companies have to create compelling content and promote it on digital ad channels like Facebook. Creating content is a 100% winning strategy. According to Statista, global content marketing revenue is [increasing](https://www.statista.com/chart/12144/marketing-budget-planning/) year by year.
 

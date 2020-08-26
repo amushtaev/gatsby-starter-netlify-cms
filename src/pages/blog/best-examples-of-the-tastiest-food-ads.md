@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Instagram Ads
 categories-slug:
-  - case-study
+  - instagram-ads
 title: 40 Examples of the Tastiest Food Ads
 date: 2020-05-04
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/food-ads-featured-image.jpg
+image: /img/food-ads-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 How often do you eat in front of the screen? 
 

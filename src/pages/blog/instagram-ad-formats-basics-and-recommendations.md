@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Instagram Ads
 categories-slug:
-  - case-study
+  - instagram-ads
 title: "Instagram Ad Formats: Basics and Recommendations"
 date: 2020-03-05
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/instagram-ad-formats-featured-picture.jpg
+image: /img/instagram-ad-formats-featured-picture.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Instagram isn’t just a social media platform; it’s a totally different world with its own rules, climate, currency, and inhabitants. 
 

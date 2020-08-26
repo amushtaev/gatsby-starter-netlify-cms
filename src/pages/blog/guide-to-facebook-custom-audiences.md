@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: Guide to Facebook Custom Audiences
 date: 2019-03-14
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-custom-audience-featured-pic.jpg
+image: /img/facebook-custom-audience-featured-pic.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Disclaimer: Explore Facebook Custom Audiences at your own risk.  
 

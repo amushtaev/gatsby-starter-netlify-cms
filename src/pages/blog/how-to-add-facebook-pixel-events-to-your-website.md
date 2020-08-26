@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: How to Add Facebook Pixel Events to Your Website
 date: 2020-07-09
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/facebook-pixel-events-featured-image.jpg
+image: /img/facebook-pixel-events-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 With its four products — Facebook, WhatsApp, Messenger, and Instagram — Facebook Inc. is leading the world’s social media and messaging market.
 

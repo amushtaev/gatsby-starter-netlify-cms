@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Facebook Ads
 categories-slug:
-  - case-study
+  - facebook-ads
 title: 15 Best Facebook Ad Tools You Might Not Have Heard Of
 date: 2019-04-18
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/best-facebook-ad-tools-featured-image.jpg
+image: /img/best-facebook-ad-tools-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 Facebook advertising tools are used by millions of businesses all over the world.
 

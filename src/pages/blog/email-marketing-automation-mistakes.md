@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
 categories:
-  - Case Study
+  - Tutorials
 categories-slug:
-  - case-study
+  - tutorials
 title: 5 Email Marketing Automation Mistakes
 date: 2019-09-16
 description: Need modify desk.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-image: /img/jumbotron.jpg
+featuredimage: /img/email-marketing-mistakes-featured-image.jpg
+image: /img/email-marketing-mistakes-featured-image.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
 [Email automation](https://softcube.com/how-to-boost-conversions-with-email-automation/) is a blessing to any marketer. But only when done right.
 
