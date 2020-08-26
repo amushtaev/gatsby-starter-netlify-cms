@@ -608,7 +608,7 @@ footer.footer
     display: flex
     flex-direction: row
     position: absolute
-    top: -64px
+    top: -85px
     right: 47px
   &__mob a
     margin-left: 8px
@@ -1245,6 +1245,16 @@ footer section.menu
   .IncludeContainer
     width: 334px
 
+  .sub-nav .navbar_item
+    margin-right: 24px
+
+  .container.header.nav
+    padding-right: 24px
+    padding-left: 24px
+
+  .searchItem
+    left: calc(100% - 248px)
+
 +mobile
 
   .column.social_footer
@@ -1634,7 +1644,10 @@ footer section.menu
     width: calc(100% - 48px)
     padding: 0
     margin: auto
-    margin-top: 52px
+    margin-top: 52px !important
+
+  .section.Blog-Post .column.post_column
+    margin-top: 52px !important
 
   .h1-title
     font-family: Source Sans Pro
@@ -1885,3 +1898,6 @@ footer section.menu
     background: #12122F !important
     box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.25)
     max-height: inherit
+
+  .sub-nav .navbar_item
+    margin-right: auto
