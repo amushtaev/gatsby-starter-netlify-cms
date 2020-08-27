@@ -526,3 +526,21 @@ export const Minus = () => {
     </svg>
     )
 };
+
+export const ShowMore = () => {
+  return (
+    <svg width="25" height="22" viewBox="0 0 25 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M-0.00121801 12.3327L19.4468 12.3327L12.3894 19.3901L14.2748 21.2754L24.5508 10.9994L14.2748 0.72339L12.3894 2.60873L19.4468 9.66606L-0.00121778 9.66606L-0.00121801 12.3327Z" fill="#212121" fillOpacity="0.82"/>
+    </svg>
+
+  )
+};
+
+export const ShowMoreActive = () => {
+  return (
+    <svg width="25" height="22" viewBox="0 0 25 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M-0.00121801 12.3327L19.4468 12.3327L12.3894 19.3901L14.2748 21.2754L24.5508 10.9994L14.2748 0.72339L12.3894 2.60873L19.4468 9.66606L-0.00121778 9.66606L-0.00121801 12.3327Z" fill="#fed300" fillOpacity="0.82"/>
+    </svg>
+
+  )
+};

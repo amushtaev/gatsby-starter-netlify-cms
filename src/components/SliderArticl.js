@@ -5,6 +5,7 @@ import {useKeenSlider} from "keen-slider/react";
 import { DarkRectangle, Dot, Dots, KeenSlider, Article} from "./pricing/styledComponents";
 import ArrowRight from "./ArrowRight";
 import ArrowLeft from "./ArrowLeft";
+import { ShowMore } from '../components/pricing/styledComponents';
 
 const SliderArticl = (props) => {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -110,7 +111,7 @@ const SliderArticl = (props) => {
                   </p>
                   <div
                     className="articl-footer"
-                    style={{gridTemplateColumns: '1fr 80px'}}
+                    style={{gridTemplateColumns: '1fr 80px', width: 'calc(100% - 28px)'}}
                   >
                     <span className="date">
                       {post.frontmatter.date}
@@ -119,7 +120,7 @@ const SliderArticl = (props) => {
                       className="read-more-arrow"
                       to={post.fields.slug.replace("/blog", "")}
                     >
-                      ￫
+                      <ShowMore />
                     </Link>
                   </div>
                 </div>

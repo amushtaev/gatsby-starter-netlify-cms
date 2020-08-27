@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import PreviewCompatibleImage from '../PreviewCompatibleImage'
+import { ShowMore } from '../pricing/styledComponents';
 
 export default class BlogPaginationPosts extends React.Component {
   render() {
@@ -44,7 +45,7 @@ export default class BlogPaginationPosts extends React.Component {
                       {post.frontmatter.date}
                     </span>
                     <Link className="read-more-arrow" to={post.fields.slug.replace("/blog", "")}>
-                      ￫
+                      <ShowMore />
                     </Link>
                   </div>
                 </div>

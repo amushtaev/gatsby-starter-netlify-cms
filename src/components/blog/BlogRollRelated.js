@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImageRelated from '../PreviewCompatibleImageRelated'
+import { ShowMoreWhite } from '../pricing/styledComponents';
 
 class BlogRollRelated extends React.Component {
 
@@ -49,7 +50,7 @@ class BlogRollRelated extends React.Component {
                           {post.frontmatter.date}
                         </span>
                         <Link className="read-more-arrow related" to={post.fields.slug.replace("/blog", "")}>
-                          ￫
+                          <ShowMoreWhite />
                         </Link>
                       </div>
                     </div>

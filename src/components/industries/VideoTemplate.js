@@ -19,7 +19,7 @@ const VideoTemplate = (props) => {
   const [elementWidth, setElementWidth] = useState();
   const [elementHeight, setElementHeight] = useState();
   const debounced = useDebounce(onMouseEnterHandler, 1000);
-//rufus скачать
+
   const mouseOut = () => {
     setOnMouseEnterHandler(false);
     setOnMouseLeaveHandler(true)

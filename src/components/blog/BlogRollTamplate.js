@@ -2,17 +2,18 @@ import React from 'react'
 import { Link } from 'gatsby'
 import PreviewCompatibleImage from '../PreviewCompatibleImage'
 import { kebabCase } from 'lodash'
+import { ShowMore } from '../pricing/styledComponents';
 
 const BlogRollTamplate = (props) => {
-
   const searchToLowerCase = kebabCase(props.search);
-
+  console.log(props.search, "props.search")
   return (
     <div className="columns is-multiline BlogRollPosts">
       {props.posts &&
       props.posts.map(({ node: post }, index) => (
+        <>
+        {kebabCase(post.frontmatter.title).indexOf(searchToLowerCase) > -1 ?
         <div className="is-parent column is-4" key={post.id}>
-          {kebabCase(post.frontmatter.title).indexOf(searchToLowerCase) > -1 ?
             <article
               className={`blog-list-item tile is-child box notification ${
                 post.frontmatter.featuredpost ? 'is-featured' : ''
@@ -44,7 +45,7 @@ const BlogRollTamplate = (props) => {
                       {post.frontmatter.date}
                     </span>
                   <Link className="read-more-arrow" to={post.fields.slug.replace('/blog', '')}>
-                    ￫
+                    <ShowMore />
                   </Link>
                 </div>
               </div>
@@ -56,8 +57,9 @@ const BlogRollTamplate = (props) => {
                 ) : null}
               </div>
             </article>
-            : null}
         </div>
+        : null}
+        </>
       ))}
     </div>
   )

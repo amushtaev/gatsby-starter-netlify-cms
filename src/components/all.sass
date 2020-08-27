@@ -466,7 +466,8 @@ footer.footer
   position: absolute
   bottom: 0
   display: grid
-  grid-template-columns: 115px 60px
+  grid-template-columns: 1fr 69px
+  width: calc(100% - 24px)
 
 .social a
   background: transparent !important
@@ -760,6 +761,11 @@ footer section.menu
 .template-no--active
   display: none
 
+.active-industies
+  border: none
+  font-weight: bold
+  color: $color-yellow
+
 //index
 .video-banner
   position: relative
@@ -993,6 +999,9 @@ footer section.menu
   left: 30px
   top: 30px
 
+.column.BlogRollRelated
+  padding: 0
+
 .column.back a
   font-family: Source Sans Pro
   font-style: normal
@@ -1122,8 +1131,8 @@ footer section.menu
 
   .articl-footer
     display: grid
-    grid-template-columns: 1fr 1fr
-    width: 91%
+    grid-template-columns: 1fr 69px
+    width: calc(100% - 24px)
 
   .column.post_column
     padding: 0 20px

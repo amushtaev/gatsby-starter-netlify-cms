@@ -903,6 +903,29 @@ export const MediumSloganLeft = styled(MediumSlogan)`
     }
 `;
 
+export const ShowMore = styled.div`
+    background: url("../../img/showMore.svg") no-repeat;
+    width: 24px;
+    height: 20px;
+    float: right;
+    
+    &:hover {
+      background: url("../../img/ShowMoreActive.svg") no-repeat;
+    }
+`;
+
+export const ShowMoreWhite = styled.div`
+    background: url("../../img/ShowMoreWhite.svg") no-repeat;
+    width: 18px;
+    height: 15px;
+    float: right;
+    
+    &:hover {
+      background: url("../../img/ShowMoreActive.svg") no-repeat;
+      background-size: cover;
+    }
+`;
+
 export const softcubeDark = {
   global: {
     colors: {
