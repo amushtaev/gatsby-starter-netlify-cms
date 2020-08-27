@@ -5,9 +5,9 @@ import LayoutBlog from '../components/blog/LayoutBlog';
 import Pagination from '../components/Pagination';
 import PropTypes from 'prop-types';
 import SearchPage from './search-result'
-import { Redirect, Route, Router, Switch } from "react-router";
+import { Router, Link } from "@reach/router"
 import useDebounce from '../components/DebouncedHook'
-import { createBrowserHistory } from 'history'
+/*import { createBrowserHistory } from 'history'*/
 
 const BlogPage = ({pageContext, stringSearch}) => {
   const [search, setSearch] = useState(stringSearch);
@@ -23,12 +23,7 @@ const BlogPage = ({pageContext, stringSearch}) => {
 
     return (
       <Router  /*history={history}*/>
-        <Switch>
-          <Route path='/search'>
-            <SearchPage pageContext={pageContext} search={debouncedSearchTerm} />
-          </Route>
-          <Redirect path='/blog' to='/search' />
-        </Switch>
+        <SearchPage pageContext={pageContext} search={debouncedSearchTerm} path='/blog' to='/search' />
       </Router>)
   }
 
