@@ -8,15 +8,15 @@ import LayoutBlog from '../components/blog/LayoutBlog';
 import Content, { HTMLContent } from '../components/Content';
 import NavRoll from '../components/NavRoll';
 import facebook from '../img/social/facebook.svg';
-import facebookm from '../img/social/facebook-m.svg';
+import facebookMobile from '../img/social/facebook-m.svg';
 import twitter from '../img/social/twitter.svg';
-import twitterm from '../img/social/twitter-m.svg';
+import twitterMobile from '../img/social/twitter-m.svg';
 import linkedin from '../img/social/linkedin.svg';
-import linkedinm from '../img/social/linkedin-m.svg';
+import linkedinMobile from '../img/social/linkedin-m.svg';
 import gplus from '../img/social/gplus.svg';
-import gplusm from '../img/social/gplus-m.svg';
+import gplusMobile from '../img/social/gplus-m.svg';
 import BlogRollRelated from '../components/blog/BlogRollRelated';
-import { TryAiButton } from '../components/pricing/styledComponents';
+import {ShowMore, TryAiButton} from '../components/pricing/styledComponents';
 import BlogRollPostsLatest from "../components/blog/BlogRollPostsLatest";
 import BlogRoll from "../components/blog/BlogRoll";
 import useWindowSize from '../components/Getscreen'
@@ -100,7 +100,7 @@ export const BlogPostTemplate = ({
             <>
               <div className='column back'>
               <Link to='/blog'>
-                <span>￩</span> Back
+                <span style={{transform: 'rotate(180deg)'}}><ShowMore /></span> <span style={{fontSize: '16px', lineHeight:'20px'}}>Back</span>
               </Link>
               </div>
             <div className='column social'>
@@ -150,7 +150,7 @@ export const BlogPostTemplate = ({
                 to={`https://www.facebook.com/sharer/sharer.php?u=${refSlug}&t=${title}&display=popup&src=like`}
                 target='_blank'>
                 <img
-                  src={facebookm}
+                  src={facebookMobile}
                   alt='Facebook'
                 />
               </Link>
@@ -160,7 +160,7 @@ export const BlogPostTemplate = ({
                 target='_blank'>
                 <img
                   className='fas fa-lg'
-                  src={twitterm}
+                  src={twitterMobile}
                   alt='Twitter'
                 />
               </Link>
@@ -169,7 +169,7 @@ export const BlogPostTemplate = ({
                 to={`https://www.linkedin.com/shareArticle?mini=true&url=${refSlug}&title=${title}&summary=source=`}
                 target='_blank'>
                 <img
-                  src={linkedinm}
+                  src={linkedinMobile}
                   alt='Linkedin'
                 />
               </Link>
@@ -178,7 +178,7 @@ export const BlogPostTemplate = ({
                 to={`https://plus.google.com/share?url=${refSlug}`}
                 target='_blank'>
                 <img
-                  src={gplusm}
+                  src={gplusMobile}
                   alt='gplus'
                 />
               </Link>
