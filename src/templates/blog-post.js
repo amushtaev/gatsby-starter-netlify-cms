@@ -105,7 +105,7 @@ export const BlogPostTemplate = ({
               </div>
             <div className='column social'>
               <Link
-                title='facebook'
+                title='Facebook'
                 to={`https://www.facebook.com/sharer/sharer.php?u=${refSlug}&t=${title}&display=popup&src=like`}
                 target='_blank'>
                 <img
@@ -113,20 +113,29 @@ export const BlogPostTemplate = ({
                   alt='Facebook'
                 />
               </Link>
-              <Link title='twitter' to={`https://www.twitter.com/intent/tweet?url=${refSlug}&via=${description}&text=${title}`}>
+              <Link
+                title='Twitter'
+                to={`https://www.twitter.com/intent/tweet?url=${refSlug}&via=${description}&text=${title}`}
+                target='_blank'>
                 <img
                   className='fas fa-lg'
                   src={twitter}
                   alt='Twitter'
                 />
               </Link>
-              <Link title="instagram" to={`https://www.linkedin.com/shareArticle?mini=true&url=${refSlug}&title=${title}&summary=&source=`}>
+              <Link
+                title="Linkedin"
+                to={`https://www.linkedin.com/shareArticle?mini=true&url=${refSlug}&title=${title}&summary=&source=`}
+                target='_blank'>
                 <img
                   src={linkedin}
-                  alt='linkedin'
+                  alt='Linkedin'
                 />
               </Link>
-              <Link title='gplus' to={`https://plus.google.com/share?url=${refSlug}`}>
+              <Link
+                title='gplus'
+                to={`https://plus.google.com/share?url=${refSlug}`}
+                target='_blank'>
                 <img
                   src={gplus}
                   alt='gplus'
@@ -136,31 +145,43 @@ export const BlogPostTemplate = ({
             </>
             :
             <div className='column social__mob'>
-              <a title='facebook' href='https://facebook.com'>
+              <Link
+                title='Facebook'
+                to={`https://www.facebook.com/sharer/sharer.php?u=${refSlug}&t=${title}&display=popup&src=like`}
+                target='_blank'>
                 <img
                   src={facebookm}
                   alt='Facebook'
                 />
-              </a>
-              <a title='twitter' href='https://twitter.com'>
+              </Link>
+              <Link
+                title='Twitter'
+                to={`https://www.twitter.com/intent/tweet?url=${refSlug}&via=${description}&text=${title}`}
+                target='_blank'>
                 <img
                   className='fas fa-lg'
                   src={twitterm}
                   alt='Twitter'
                 />
-              </a>
-              <a title="instagram" href='https://linkedin.com'>
+              </Link>
+              <Link
+                title="Linkedin"
+                to={`https://www.linkedin.com/shareArticle?mini=true&url=${refSlug}&title=${title}&summary=source=`}
+                target='_blank'>
                 <img
                   src={linkedinm}
-                  alt='linkedin'
+                  alt='Linkedin'
                 />
-              </a>
-              <a title='gplus' href='https://gplus.com'>
+              </Link>
+              <Link
+                title='gplus'
+                to={`https://plus.google.com/share?url=${refSlug}`}
+                target='_blank'>
                 <img
                   src={gplusm}
                   alt='gplus'
                 />
-              </a>
+              </Link>
             </div>
           }
         </div>
