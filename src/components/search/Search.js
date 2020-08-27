@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import search from "../../img/search.svg";
 import PropTypes from "prop-types";
 import {isMobile} from "react-device-detect";
-import useWindowSize from "../Getscreen";
+//import useWindowSize from "../Getscreen";
 
 // Search component
 export default class Search extends Component {
@@ -10,7 +10,7 @@ export default class Search extends Component {
     super(props);
     this.state = {
       searchQuery: props.value,
-    }
+    };
     this.windowSize = {
       width: props.value,
     }
@@ -25,7 +25,7 @@ export default class Search extends Component {
       <div className="searchItem">
         <input
           type="text"
-          value={ this.state.searchQuery}
+          value={ this.state.searchQuery }
           onChange={(e) => {this.handleChange(e)}}
           className="searchInput"
           placeholder={`${!isMobile ? "Search" : ""}`}

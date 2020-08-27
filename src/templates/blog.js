@@ -11,15 +11,15 @@ import { createBrowserHistory } from 'history'
 
 const BlogPage = ({pageContext, stringSearch}) => {
   const [search, setSearch] = useState(stringSearch);
-  const [redirctTo, setRedirctTo] = useState(false);
+  const [redirectTo, setRedirectTo] = useState(false);
   const debouncedSearchTerm = useDebounce(search, 1000);
   /*const history = createBrowserHistory();*/
 
   useEffect(() => {
-    setRedirctTo(true);
+    setRedirectTo(true);
   }, [debouncedSearchTerm]);
   //TODO
-  if(debouncedSearchTerm && redirctTo){
+  if(debouncedSearchTerm && redirectTo){
 
     return (
       <Router  /*history={history}*/>

@@ -55,7 +55,6 @@ const Pagination = ({pageContext, link}) =>{
           current: false,
         },
       ];
-      console.log('page <= 3', navItems, link)
     } else if (page > pages - 3) {
       // If the current one is closer to the last one
       navItems = [
