@@ -41,6 +41,7 @@ export const BlogPostTemplate = ({
     config: { identifier: slug, title },
   };
   const windowSize = useWindowSize();
+  const refSlug = typeof window !== 'undefined' && window.location.href;
 
   return (
     <section className='section Blog-Post' id={id}>
@@ -103,31 +104,34 @@ export const BlogPostTemplate = ({
               </Link>
               </div>
             <div className='column social'>
-              <a title='facebook' href='https://facebook.com'>
+              <Link
+                title='facebook'
+                to={`https://www.facebook.com/sharer/sharer.php?u=${refSlug}&t=${title}&display=popup&src=like`}
+                target='_blank'>
                 <img
                   src={facebook}
                   alt='Facebook'
                 />
-              </a>
-              <a title='twitter' href='https://twitter.com'>
+              </Link>
+              <Link title='twitter' to={`https://www.twitter.com/intent/tweet?url=${refSlug}&via=${description}&text=${title}`}>
                 <img
                   className='fas fa-lg'
                   src={twitter}
                   alt='Twitter'
                 />
-              </a>
-              <a title="instagram" href='https://linkedin.com'>
+              </Link>
+              <Link title="instagram" to={`https://www.linkedin.com/shareArticle?mini=true&url=${refSlug}&title=${title}&summary=&source=`}>
                 <img
                   src={linkedin}
                   alt='linkedin'
                 />
-              </a>
-              <a title='gplus' href='https://gplus.com'>
+              </Link>
+              <Link title='gplus' to={`https://plus.google.com/share?url=${refSlug}`}>
                 <img
                   src={gplus}
                   alt='gplus'
                 />
-              </a>
+              </Link>
             </div>
             </>
             :

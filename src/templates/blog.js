@@ -5,15 +5,13 @@ import LayoutBlog from '../components/blog/LayoutBlog';
 import Pagination from '../components/Pagination';
 import PropTypes from 'prop-types';
 import SearchPage from './search-result'
-import { Router, Link } from "@reach/router"
+import { Router } from "@reach/router"
 import useDebounce from '../components/DebouncedHook'
-/*import { createBrowserHistory } from 'history'*/
 
 const BlogPage = ({pageContext, stringSearch}) => {
   const [search, setSearch] = useState(stringSearch);
   const [redirectTo, setRedirectTo] = useState(false);
   const debouncedSearchTerm = useDebounce(search, 1000);
-  /*const history = createBrowserHistory();*/
 
   useEffect(() => {
     setRedirectTo(true);
@@ -22,7 +20,7 @@ const BlogPage = ({pageContext, stringSearch}) => {
   if(debouncedSearchTerm && redirectTo){
 
     return (
-      <Router  /*history={history}*/>
+      <Router>
         <SearchPage pageContext={pageContext} search={debouncedSearchTerm} path='/blog' to='/search' />
       </Router>)
   }
