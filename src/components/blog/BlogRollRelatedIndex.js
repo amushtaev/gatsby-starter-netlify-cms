@@ -20,6 +20,7 @@ BlogRollRelatedIndex.propTypes = {
     }),
   }),
   categories: PropTypes.object,
+  category_slug: PropTypes.string,
   id: PropTypes.any,
 };
 
@@ -45,6 +46,7 @@ export default () => {
               frontmatter {
                 title
                 categories
+                categories_slug
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
@@ -58,6 +60,7 @@ export default () => {
                 image {
                   publicURL
                 }
+                tags
               }
             }
           }

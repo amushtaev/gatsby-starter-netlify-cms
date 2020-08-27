@@ -55,6 +55,8 @@ export default ({search}) => (
                 image {
                   publicURL
                 }
+                categories_slug
+                tags
               }
             }
             next {

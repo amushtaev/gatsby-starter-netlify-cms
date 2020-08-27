@@ -90,13 +90,18 @@ const SliderArticl = (props) => {
                 <header className="header article BlogRoll">
                   {post.frontmatter.featuredimage ? (
                     <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                          srcSet: post.frontmatter.featuredimage.childImageSharp.fluid.srcSet,
-                        }}
-                      />
+                      <Link
+                        className="title has-text-primary"
+                        to={post.fields.slug.replace("/blog", "")}
+                      >
+                        <PreviewCompatibleImage
+                          imageInfo={{
+                            image: post.frontmatter.featuredimage,
+                            alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                            srcSet: post.frontmatter.featuredimage.childImageSharp.fluid.srcSet,
+                          }}
+                        />
+                      </Link>
                     </div>
                   ) : null}
                 </header>
@@ -126,9 +131,12 @@ const SliderArticl = (props) => {
                 </div>
                 <div className="catecory_background">
                   {post.frontmatter.categories && post.frontmatter.categories.length ? (
-                    <>
+                    <Link
+                      style={{textDecoration: 'none'}}
+                      to={`category/${post.frontmatter.categories_slug}/`}
+                    >
                       {post.frontmatter.categories.map((category) => (category))}
-                    </>
+                    </Link>
                   ) : null}
                 </div>
               </Article>

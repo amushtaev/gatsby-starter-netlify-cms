@@ -58,6 +58,8 @@ export default () => {
                 image {
                   publicURL
                 }
+                categories_slug
+                tags
               }
             }
           }

@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'gatsby'
 import PropTypes from 'prop-types';
 import WhatOurClientSay from '../components/WhatOurClientSay'
 import {
@@ -93,7 +94,13 @@ function PlansPricing( props ) {
       <PricingHeading>PRICING</PricingHeading>
       <SloganSmall>Plans that match your inventory volume</SloganSmall>
       <TumblerGrid>
-        <PlanType checked={!check}>monthly</PlanType>
+        <PlanType
+          checked={!check}
+          style={{cursor: 'pointer'}}
+          onClick={() => {
+            setCheck(!check);
+          }}
+        >monthly</PlanType>
         <TestBox
           onClick={() => {
             setCheck(!check);
@@ -101,7 +108,13 @@ function PlansPricing( props ) {
         >
           <Check checked={check} />
         </TestBox>
-        <PlanType checked={check} style={{ position: 'relative', justifySelf: 'start' }}>
+        <PlanType
+          checked={check}
+          style={{ position: 'relative', justifySelf: 'start', cursor: 'pointer' }}
+          onClick={() => {
+            setCheck(!check);
+          }}
+        >
           <Discount style={{ position: 'absolute', right: 0, top: -18 }}>- 40%</Discount>
           annual
         </PlanType>
@@ -158,12 +171,13 @@ function PlanCard(props) {
     <div className='PlanCard' style={{ maxWidth: '306px', margin: '0 auto' }}>
       <PlanCardContainer>
         <Tier>
-          <CardHeader pro={plan.name === 'PRO'}>
-            {plan.name === 'PRO' && <PopularLabel>Popular</PopularLabel>}
-            <PlanHeading>{plan.name}</PlanHeading>
-            <PlanInfo>{plan.sub}</PlanInfo>
-          </CardHeader>
-
+          <Link to={'https://app.softcube.com'} style={{display: 'contents'}}>
+            <CardHeader pro={plan.name === 'PRO'}>
+              {plan.name === 'PRO' && <PopularLabel>Popular</PopularLabel>}
+              <PlanHeading>{plan.name}</PlanHeading>
+              <PlanInfo>{plan.sub}</PlanInfo>
+            </CardHeader>
+          </Link>
           {plan.name === 'CUSTOM' && <CustomPricing>Custom pricing</CustomPricing>}
           {plan.name !== 'CUSTOM' && (
             <PriceContainer>

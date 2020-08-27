@@ -6,7 +6,6 @@ import { ShowMore } from '../pricing/styledComponents';
 
 const BlogRollTamplate = (props) => {
   const searchToLowerCase = kebabCase(props.search);
-  console.log(props.search, "props.search")
   return (
     <div className="columns is-multiline BlogRollPosts">
       {props.posts &&
@@ -22,12 +21,17 @@ const BlogRollTamplate = (props) => {
               <header className="header article BlogRoll">
                 {post.frontmatter.image ? (
                   <div className="featured-thumbnail">
-                    <PreviewCompatibleImage
-                      imageInfo={{
-                        image: post.frontmatter.featuredimage,
-                        alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                      }}
-                    />
+                    <Link
+                      className="title has-text-primary is-size-4"
+                      to={post.fields.slug.replace("/blog", "")}
+                    >
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: post.frontmatter.featuredimage,
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                        }}
+                      />
+                    </Link>
                   </div>
                 ) : null}
               </header>

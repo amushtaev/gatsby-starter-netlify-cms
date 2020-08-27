@@ -21,13 +21,18 @@ export default class BlogPaginationPosts extends React.Component {
                 <header className="header article BlogRoll">
                   {post.frontmatter.featuredimage ? (
                     <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.image.publicURL,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                          srcSet: post.frontmatter.featuredimage.childImageSharp.fluid.srcSet,
-                        }}
-                      />
+                      <Link
+                        className="title_related"
+                        to={post.fields.slug.replace("/blog", "")}
+                      >
+                        <PreviewCompatibleImage
+                          imageInfo={{
+                            image: post.frontmatter.image.publicURL,
+                            alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                            srcSet: post.frontmatter.featuredimage.childImageSharp.fluid.srcSet,
+                          }}
+                        />
+                      </Link>
                     </div>
                   ) : null}
                 </header>

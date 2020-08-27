@@ -18,7 +18,10 @@ class BlogRollRelated extends React.Component {
           posts.map(({ node: post }, index) => (
             <React.Fragment key={index}>
               {post.frontmatter.categories[0] === category[0] && post.id !== id && count++ < maxCountPosts ? (
-                <div className="is-parent column is-4" key={post.fields.slug + `related`} id={post.id}>
+                <div
+                  className="is-parent column is-4"
+                  key={post.fields.slug + `related`}
+                  id={post.id}>
                   <article
                     className={`blog-list-item tile is-child box notification with_background ${
                       post.frontmatter.featuredpost ? 'is-featured' : ''
@@ -27,12 +30,17 @@ class BlogRollRelated extends React.Component {
                     <header className="header article BlogRollRelated">
                       {post.frontmatter.featuredimage ? (
                         <div className="image_related">
-                          <PreviewCompatibleImageRelated
-                            imageInfo={{
-                              image: post.frontmatter.featuredimage,
-                              alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                            }}
-                          />
+                          <Link
+                            className="title_related"
+                            to={post.fields.slug.replace("/blog", "")}
+                          >
+                            <PreviewCompatibleImageRelated
+                              imageInfo={{
+                                image: post.frontmatter.featuredimage,
+                                alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                              }}
+                            />
+                          </Link>
                         </div>
                       ) : null}
                     </header>
