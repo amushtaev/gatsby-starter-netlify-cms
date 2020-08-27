@@ -15,43 +15,43 @@ export const Comments = [
     author: 'Hanna Schmid',
     text:
       "“Softcube video ads help me save time. I don't need to use various programs for creating ads anymore. It's amazing!”",
-    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/HannaSchmid.png',
+    photo: '../img/HannaSchmid.png',
   },
   {
     author: 'Dylan Pradas',
     text:
       '“Softcube video ads are so eye-catching! Video ads help me reach new customers with less effort”',
-    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/DylanPradas.png',
+    photo: '../img/DylanPradas.png',
   },
   {
     author: 'Elizabeth Davis',
     text:
       '“I tried video ads for the first time to promote my business and they performed better than my previous image ads. Thanks!”',
-    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/ElizabethDavis.png',
+    photo: '../img/ElizabethDavis.png',
   },
   {
     author: 'Leon Becker',
     text:
       '“The Softcube video library is the best way for me to make a lot of video ads in a few clicks!”',
-    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/LeonBecker.png',
+    photo: '../img/LeonBecker.png',
   },
   {
     author: 'Hanna Schmid',
     text:
       "“Softcube video ads help me save time. I don't need to use various programs for creating ads anymore. It's amazing!”",
-    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/HannaSchmid.png',
+    photo: '../img/HannaSchmid.png',
   },
   {
     author: 'Dylan Pradas',
     text:
       '“Softcube video ads are so eye-catching! Video ads help me reach new customers with less effort”',
-    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/DylanPradas.png',
+    photo: '../img/DylanPradas.png',
   },
   {
     author: 'Elizabeth Davis',
     text:
       '“I tried video ads for the first time to promote my business and they performed better than my previous image ads. Thanks!”',
-    photo: 'https://s-http-public.s3.eu-central-1.amazonaws.com/review/ElizabethDavis.png',
+    photo: '../img/ElizabethDavis.png',
   },
 ];
 

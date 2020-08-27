@@ -130,7 +130,7 @@ function AutomaticCreat() {
             Just paste your link and get a video ad. No editing required
           </MediumSloganLeft>
         </div>
-        <div className='automatic-creat--content'>
+        <div className='automatic-creat--content last'>
           <EffectiveIcon
             height={82}
             width={82}
