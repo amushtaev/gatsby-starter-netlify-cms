@@ -76,7 +76,7 @@ const NavIndusties = () => {
         className={`navbar-menu ${activeClass}`}
       >
         <ul className="templates-categories-menu" >
-          <li className="nav-item--title" style={{paddingTop: '62px'}}>
+          <li className="nav-item--title">
             <Link
               className="link-menu"
               data-link="all"
@@ -86,7 +86,6 @@ const NavIndusties = () => {
             </Link>
           </li>
           {browseTemplates.map((tag, index) => (
-            <>
             <li className="sub-nav-left nav-left--mobile" key={`desktop:${tag.name}`}>
               <img key={`img:${tag.image}`} src={tag.image} className='mobile' />
               <Link
@@ -100,7 +99,6 @@ const NavIndusties = () => {
               </Link >
               <ArrowMenuMobile keys={index} />
             </li>
-            </>
           ))}
         </ul>
       </div>

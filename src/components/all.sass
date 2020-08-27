@@ -743,35 +743,6 @@ footer section.menu
     order: 2
     width: 150px
 
-@media screen and (min-width: 780px) and (max-width: 1405px)
-  .columns.footer_grid
-    flex-direction: column
-    flex-basis: 100%
-    flex: 1
-    width: calc(100% - 20px)
-
-  .column.social_footer
-    margin: auto
-    text-align: center
-    padding: 0 !important
-
-@media screen and (min-width: 450px) and (max-width: 1405px)
-  .container
-    padding: inherit
-
-  ul.menu-list_footer, ul.section-sub-nav
-    flex-wrap: wrap-reverse
-
-  ul.menu-list_footer li
-    display: block
-    width: fit-content
-
-  .copyright
-    padding: 20px 162px 0 0
-
-  .column.social_footer
-    margin: auto
-    padding: inherit
 
 //Pricing
 .clients-say .arrow
@@ -1037,6 +1008,52 @@ footer section.menu
   font-size: 2em
   padding-right: 12px
 
+@media screen and (min-width: 780px) and (max-width: 1405px)
+  .columns.footer_grid
+    flex-direction: column
+    flex-basis: 100%
+    flex: 1
+    width: calc(100% - 20px)
+
+  .column.social_footer
+    margin: auto
+    text-align: center
+    padding: 0 !important
+
+@media screen and (min-width: 780px) and (max-width: 1130px)
+  .container.white.s__width
+    margin-right: 24px
+    margin-left: 24px
+
+
+@media (min-width: 1130px)
+  .container.header.nav
+    padding-left: 0 !important
+    padding-right: 0 !important
+  .searchItem
+    right: 0 !important
+    left: inherit !important
+  .sub-nav .navbar_item
+    margin-right: 35px !important
+
+@media screen and (min-width: 450px) and (max-width: 1405px)
+  .container
+    padding: inherit
+
+  ul.menu-list_footer, ul.section-sub-nav
+    flex-wrap: wrap-reverse
+
+  ul.menu-list_footer li
+    display: block
+    width: fit-content
+
+  .copyright
+    padding: 20px 162px 0 0
+
+  .column.social_footer
+    margin: auto
+    padding: inherit
+
 @media (min-width: 568px) and (max-width: 780px)
   .BlogPaginationPosts
     width: 100%
@@ -1125,8 +1142,6 @@ footer section.menu
     top: 0 !important
     right: 10px !important
 
-
-+tablet-only
   #navMenu
     height: inherit
     margin-top: inherit
@@ -1139,6 +1154,10 @@ footer section.menu
 
   .template-video-item__overlay
     //display: none
+
+  .container.header.nav
+    padding-left: 0
+    padding-right: 0
 
 +tablet
 
@@ -1230,9 +1249,13 @@ footer section.menu
     //display: none
 
   .section.index.Posts,
-  .index.Blog .container.header.nav
+  .index.Blog
     padding-left: 24px
     padding-right: 24px
+
+  .container.header.nav
+    padding-left: 0
+    padding-right: 0
 
   .index.Blog .navbar_item
     margin-right: 46px
@@ -1401,6 +1424,7 @@ footer section.menu
     font-weight: bold
     font-size: 16px
     line-height: 20px
+    padding-top: 62px
 
   .nav-item--title a
     margin: auto
@@ -1869,7 +1893,6 @@ footer section.menu
 
   .blog-list-item
     height: inherit
-
 
   .title.has-text-primary
     font-family: Source Sans Pro

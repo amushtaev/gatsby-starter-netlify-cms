@@ -40,7 +40,7 @@ exports.createPages = ({ actions, graphql }) => {
               featuredimage {
                 publicURL
                 childImageSharp {
-                  fluid(maxWidth: 250, quality: 100) {
+                  fluid(maxWidth: 250, quality: 70) {
                     src
                     srcSet
                     base64

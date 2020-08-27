@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'Softcube',
     description:
-      'This repo contains an softcube site.',
+      'CREATE VIDEO ADS IN TWO CLICKS \n ' +
+      'Paste your link and the Softcube AI will automatically create video ads that convert',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
