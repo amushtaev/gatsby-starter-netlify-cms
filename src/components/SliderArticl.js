@@ -91,7 +91,7 @@ const SliderArticl = (props) => {
                     <div className="featured-thumbnail">
                       <PreviewCompatibleImage
                         imageInfo={{
-                          image: post.frontmatter.image.publicURL,
+                          image: post.frontmatter.featuredimage,
                           alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                           srcSet: post.frontmatter.featuredimage.childImageSharp.fluid.srcSet,
                         }}
