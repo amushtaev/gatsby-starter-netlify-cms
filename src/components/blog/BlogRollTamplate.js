@@ -10,7 +10,7 @@ const BlogRollTamplate = (props) => {
     <div className="columns is-multiline BlogRollPosts">
       {props.posts &&
       props.posts.map(({ node: post }, index) => (
-        <>
+        <React.Fragment key={`fragment:${index}`}>
         {kebabCase(post.frontmatter.title).indexOf(searchToLowerCase) > -1 ?
         <div className="is-parent column is-4" key={post.id}>
             <article
@@ -63,7 +63,7 @@ const BlogRollTamplate = (props) => {
             </article>
         </div>
         : null}
-        </>
+        </React.Fragment>
       ))}
     </div>
   )
