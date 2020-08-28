@@ -9,7 +9,8 @@ const SearchPage = ({pageContext, search }) => {
   const {
     slug,
   } = pageContext;
-  const [result, setResult] = useState(0)
+  const [result, setResult] = useState(0);
+
   useEffect(() => {
     setResult(document.querySelectorAll(".is-parent.column.is-4").length)
   }, [document.querySelectorAll(".is-parent.column.is-4").length]);
