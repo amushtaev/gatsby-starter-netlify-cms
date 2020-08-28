@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql, StaticQuery } from 'gatsby'
-import SliderArticl from '../SliderArticl'
+import SliderArticl from './SliderArticl'
 
 const BlogRoll = (props) => {
   const { data} = props;

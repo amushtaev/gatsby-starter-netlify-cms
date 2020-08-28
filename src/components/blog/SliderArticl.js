@@ -1,11 +1,11 @@
 import React, {useState} from 'react'
 import { Link } from 'gatsby'
-import PreviewCompatibleImage from "./PreviewCompatibleImage";
+import PreviewCompatibleImage from "../PreviewCompatibleImage";
 import {useKeenSlider} from "keen-slider/react";
-import { DarkRectangle, Dot, Dots, KeenSlider, Article} from "./pricing/styledComponents";
-import ArrowRight from "./ArrowRight";
-import ArrowLeft from "./ArrowLeft";
-import { ShowMore } from '../components/pricing/styledComponents';
+import { DarkRectangle, Dot, Dots, KeenSlider, Article} from "../pricing/styledComponents";
+import ArrowRight from "../ArrowRight";
+import ArrowLeft from "../ArrowLeft";
+import { ShowMore } from '../pricing/styledComponents';
 
 const SliderArticl = (props) => {
   const [currentSlide, setCurrentSlide] = useState(0);

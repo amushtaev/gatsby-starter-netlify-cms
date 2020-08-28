@@ -88,9 +88,9 @@ function VideoBanner() {
           className='video-item__content_banner'
           autoPlay={true}
           preload='auto'
-          poster='https://s-http-public.s3.eu-central-1.amazonaws.com/ezgif.com-gif-maker.webp?1e26'
+          poster='../img/ezgif.com-gif-maker.webp?1e26'
           loop={true}
-          src='https://s-http-public.s3.eu-central-1.amazonaws.com/landing_7_1.mp4?1e26'
+          src='../img/landing_7_1.mp4?1e26'
         />
       </div>
       <TryButton
@@ -278,9 +278,9 @@ function VideoHowItWorks() {
         className='video-item__content_banner'
         autoPlay={true}
         preload='auto'
-        poster='https://s-http-public.s3.eu-central-1.amazonaws.com/ezgif.com-gif-maker.webp?1e26'
+        poster='../img/ezgif.com-gif-maker.webp?1e26'
         loop={true}
-        src='https://s-http-public.s3.eu-central-1.amazonaws.com/landing_7_1.mp4?1e26'
+        src='../img/landing_7_1.mp4?1e26'
       />
     </div>
   )
