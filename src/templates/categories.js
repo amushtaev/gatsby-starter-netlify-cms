@@ -25,7 +25,7 @@ const CatPage = ({pageContext, stringSearch }) => {
     console.log(redirectTo, search, "debouncedSearchTerm", pageContext)
     return (
       <Router>
-        <SearchPage pageContext={pageContext} search={debouncedSearchTerm} path='/' to='/search' />
+        <SearchPage pageContext={pageContext} search={debouncedSearchTerm} path={`/category/${slug}`} to='/search' />
       </Router>)
   }
 
