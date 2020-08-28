@@ -15,8 +15,6 @@ const SearchPage = ({pageContext, search }) => {
     setResult(document.querySelectorAll(".is-parent.column.is-4").length)
   }, [document.querySelectorAll(".is-parent.column.is-4").length]);
 
-  console.log(search, pageContext, "SearchPage")
-
   return (
     <LayoutBlog>
       <div
