@@ -12,8 +12,8 @@ const SearchPage = ({pageContext, search }) => {
   const [result, setResult] = useState(0);
 
   useEffect(() => {
-    setResult(document.querySelectorAll(".is-parent.column.is-4").length)
-  }, [document.querySelectorAll(".is-parent.column.is-4").length]);
+    setResult(typeof document !== 'undefined' && document.querySelectorAll(".is-parent.column.is-4").length)
+  }, [typeof document !== 'undefined' && document.querySelectorAll(".is-parent.column.is-4").length]);
 
   return (
     <LayoutBlog>
