@@ -4,8 +4,7 @@ import BlogPaginationPosts from "../components/blog/BlogPaginationPosts";
 import LayoutBlog from "../components/blog/LayoutBlog";
 import Pagination from "../components/Pagination";
 import useDebounce from "../components/DebouncedHook";
-import {createBrowserHistory} from "history";
-import { Redirect, Router } from "@reach/router";
+import { Router } from "@reach/router";
 import SearchPage from "./search-result";
 
 const CatPage = ({pageContext, stringSearch }) => {
@@ -14,19 +13,19 @@ const CatPage = ({pageContext, stringSearch }) => {
     slug,
   } = pageContext;
   const [search, setSearch] = useState(stringSearch);
-  const [redirctTo, setRedirctTo] = useState(false);
-  const debouncedSearchTerm = useDebounce(search, 1000);
+  const [redirectTo, setRedirectTo] = useState(false);
+  const debouncedSearchTerm = useDebounce(search, 1500);
   /*const history = window.browserHistory || createBrowserHistory();*/
 
   useEffect(() => {
-    setRedirctTo(true);
+    setRedirectTo(true);
   }, [debouncedSearchTerm]);
-  //TODO
-  if(debouncedSearchTerm && redirctTo){
+
+  if(debouncedSearchTerm && redirectTo){
+    console.log(redirectTo, search, "debouncedSearchTerm", pageContext)
     return (
-      <Router /*history={history}*/>
-        <SearchPage path="/search" pageContext={pageContext} search={debouncedSearchTerm} />
-        <Redirect from='/category/' to='/search' />
+      <Router>
+        <SearchPage pageContext={pageContext} search={debouncedSearchTerm} path='/' to='/search' />
       </Router>)
   }
 

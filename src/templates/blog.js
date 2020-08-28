@@ -11,7 +11,7 @@ import useDebounce from '../components/DebouncedHook'
 const BlogPage = ({pageContext, stringSearch}) => {
   const [search, setSearch] = useState(stringSearch);
   const [redirectTo, setRedirectTo] = useState(false);
-  const debouncedSearchTerm = useDebounce(search, 1000);
+  const debouncedSearchTerm = useDebounce(search, 1500);
 
   useEffect(() => {
     setRedirectTo(true);
