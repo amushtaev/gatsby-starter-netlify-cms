@@ -88,9 +88,9 @@ function VideoBanner() {
           className='video-item__content_banner'
           autoPlay={true}
           preload='auto'
-          poster='../img/ezgif.com-gif-maker.webp?1e26'
+          poster='../img/comp 1_4_2.webp?1e26'
           loop={true}
-          src='../img/landing_7_1.mp4?1e26'
+          src='../img/comp 1_4_2.mp4?1e26'
         />
       </div>
       <TryButton

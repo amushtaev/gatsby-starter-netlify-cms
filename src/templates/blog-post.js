@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import PropTypes from 'prop-types';
 import { kebabCase } from 'lodash';
 import { Helmet } from 'react-helmet';
@@ -21,6 +21,7 @@ import BlogRollPostsLatest from "../components/blog/BlogRollPostsLatest";
 import BlogRoll from "../components/blog/BlogRoll";
 import useWindowSize from '../components/Getscreen'
 import {DiscussionEmbed} from "disqus-react";
+import useDebounce from "../components/DebouncedHook";
 
 export const BlogPostTemplate = ({
   content,
@@ -42,6 +43,19 @@ export const BlogPostTemplate = ({
   };
   const windowSize = useWindowSize();
   const refSlug = typeof window !== 'undefined' && window.location.href;
+  const [search, setSearch] = useState('');
+  const [redirectTo, setRedirectTo] = useState(false);
+  const debouncedSearchTerm = useDebounce(search, 1500);
+
+  useEffect(() => {
+    setRedirectTo(true);
+  }, [debouncedSearchTerm]);
+  //TODO
+  if(debouncedSearchTerm && redirectTo){
+    if(typeof window !== 'undefined') {
+      window.location.href = '/blog'
+    }
+  }
 
   return (
     <section className='section Blog-Post' id={id}>
@@ -53,7 +67,7 @@ export const BlogPostTemplate = ({
         </h1>
         <h2 className='h2-subtitle'>News, guides, and updates on Google and Facebook marketing</h2>
       </div>
-      <NavRoll />
+      <NavRoll defaultSearch={''} onSearch={(value) => setSearch(value)}/>
       {helmet || ''}
       <div className='container white s__width' style={{position: `relative`}}>
         <div className='columns'>

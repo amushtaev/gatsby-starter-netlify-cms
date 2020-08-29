@@ -79,6 +79,7 @@ export const DarkRectangle = styled.div`
     opacity: ${props => props.visible ? '1' : '0'};
     transition: all 0.2s;
     position: absolute;
+    z-index: ${props => props.visible ? '100' : '0'};
     background: linear-gradient(270deg, rgba(18, 18, 47, 0.24) 0%, rgba(18, 18, 47, 0) 62.95%),
         rgba(18, 18, 47, 0.82);
         
