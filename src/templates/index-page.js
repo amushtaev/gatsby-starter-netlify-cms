@@ -88,7 +88,7 @@ function VideoBanner() {
           className='video-item__content_banner'
           autoPlay={true}
           preload='auto'
-          poster='../img/comp 1_4_2.webp?1e26'
+          poster='../img/comp 1_4_2 .webp?1e26'
           loop={true}
           src='../img/comp 1_4_2.mp4?1e26'
         />

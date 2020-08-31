@@ -67,7 +67,7 @@ export const BlogPostTemplate = ({
         </h1>
         <h2 className='h2-subtitle'>News, guides, and updates on Google and Facebook marketing</h2>
       </div>
-      <NavRoll defaultSearch={''} onSearch={(value) => setSearch(value)}/>
+      <NavRoll defaultSearch={''} onSearch={(value) => setSearch(value)} isShowSearch={false} />
       {helmet || ''}
       <div className='container white s__width' style={{position: `relative`}}>
         <div className='columns'>

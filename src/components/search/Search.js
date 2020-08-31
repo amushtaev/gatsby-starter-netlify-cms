@@ -10,31 +10,58 @@ export default class Search extends Component {
     super(props);
     this.state = {
       searchQuery: props.value,
+      activeInput: '',
     };
     this.windowSize = {
       width: props.value,
-    }
+    };
   }
 
   handleChange (e) {
     this.props.onSearch(e.target.value)
   }
 
+  MouseEnter () {
+    this.setState({
+      activeInput: 'activeInput'
+    })
+  }
+  MouseLeave () {
+    this.setState({
+      activeInput: ''
+    })
+  }
   render() {
+    const { isShowSearch } = this.props;
     return (
-      <div className="searchItem">
-        <input
-          type="text"
-          value={ this.state.searchQuery }
-          onChange={(e) => {this.handleChange(e)}}
-          className="searchInput"
-          placeholder={`${!isMobile ? "Search" : ""}`}
-        />
-        <img className="search"
-          src={search}
-          alt="Search"
-        />
-      </div>
+      <>
+      {isShowSearch ?
+        <div className="searchItem"
+             onMouseEnter={
+               () => {
+                 this.MouseEnter()
+               }
+             }
+             onMouseLeave={
+               () => {
+                 this.MouseLeave()
+               }
+             }
+        >
+          <input
+            type="text"
+            value={ this.state.searchQuery }
+            onChange={(e) => {this.handleChange(e)}}
+            className={`searchInput ${this.state.activeInput}`}
+            placeholder={`${!isMobile ? "Search" : ""}`}
+          />
+          <img className="search"
+            src={search}
+            alt="Search"
+          />
+        </div> : ''
+      }
+      </>
     )
   }
 }

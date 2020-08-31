@@ -36,7 +36,7 @@ const BlogPage = ({pageContext, stringSearch}) => {
         <h2 className='h2-subtitle'>News, guides, and updates on Google and Facebook marketing</h2>
       </div>
       <section>
-        <NavRoll defaultSearch={stringSearch} onSearch={(value) => setSearch(value)} />
+        <NavRoll defaultSearch={stringSearch} onSearch={(value) => setSearch(value)} isShowSearch={true} />
       </section>
       <section className='section index Posts'>
         <div className='container'>

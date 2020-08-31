@@ -34,7 +34,7 @@ class NavRoll extends React.Component {
   };
 
   render() {
-    const { data, active } = this.props;
+    const { data, active, isShowSearch } = this.props;
 
     return (
       <nav
@@ -128,7 +128,7 @@ class NavRoll extends React.Component {
               ))}
             </ul>
           </div>
-          <Search onSearch={this.props.onSearch} value={this.props.defaultSearch} />
+          <Search onSearch={this.props.onSearch} value={this.props.defaultSearch} isShowSearch={isShowSearch} />
         </div>
       </nav>
     )
@@ -145,7 +145,7 @@ NavRoll.propTypes = {
   onSearch: PropTypes.func,
 };
 
-export default ({active, defaultSearchValue, onSearch}) => (
+export default ({active, defaultSearchValue, onSearch, isShowSearch}) => (
   <StaticQuery
     query={graphql`
       query NavCatLink {
@@ -171,6 +171,12 @@ export default ({active, defaultSearchValue, onSearch}) => (
         }
       }
     `}
-    render={(data) => <NavRoll data={data} active={active} defaultSearch={defaultSearchValue} onSearch={(value) => onSearch(value)} />}
+    render={(data) => <NavRoll
+      data={data}
+      active={active}
+      defaultSearch={defaultSearchValue}
+      onSearch={(value) => onSearch(value)}
+      isShowSearch={isShowSearch}
+    />}
   />
 )
