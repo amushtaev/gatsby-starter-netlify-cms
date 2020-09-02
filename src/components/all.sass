@@ -91,6 +91,42 @@ ul
     margin-bottom: 1.5rem
     margin-top: 0
 
+//Blog Page
+.post_column .BlogRollPosts
+  padding-left: 12px
+.post_column .BlogRollPosts .column.is-4
+  padding: 0 28px 24px 0 !important
+
+.is-for-mobile
+  & p
+    font-family: Source Sans Pro
+    font-style: normal
+    font-weight: normal
+    font-size: 20px
+    color: #212121
+  & ul
+    display: block
+    & li
+      list-style: circle
+      margin-left: 20px
+  & h2
+    font-weight: bold
+    font-size: 24px
+    padding: 16px 0
+  & h3
+    font-weight: bold
+    font-size: 20px
+    padding: 16px 0
+  & img
+    margin: 16px 0
+  & li
+    font-family: Source Sans Pro
+    font-style: normal
+    font-weight: normal
+    font-size: 20px
+    color: #212121
+
+
 // Helper Classes
 .full-width-image-container
   width: 100vw
@@ -1364,6 +1400,7 @@ footer section.menu
     padding: 0 0
     margin-left: -10px
     margin-right: -10px
+
   .is-for-mobile
     padding: 0 20px
 
@@ -1954,3 +1991,12 @@ footer section.menu
 
   .sub-nav .navbar_item
     margin-right: auto
+
+  .mobile-all-posts
+    position: absolute
+    top: 38px
+    right: 24px
+    color: $color-white
+
+    &:hover
+      color: $color-yellow

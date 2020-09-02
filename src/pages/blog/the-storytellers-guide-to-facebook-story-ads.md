@@ -5,7 +5,7 @@ categories:
 categories-slug:
   - facebook-ads
 title: The Storyteller’s Guide to Facebook Story Ads
-date: 2020-07-02
+date: 2020-07-02T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-story-ads-featured-image.jpg
@@ -20,7 +20,7 @@ Humans love watching and listening to stories.
 
 In one of [his blog posts](https://seths.blog/2020/07/our-top-story/), author and marketing shark Seth Godin has this to say about stories:
 
-_The top story is the one that informs our narrative, and our narrative changes our future._
+*The top story is the one that informs our narrative, and our narrative changes our future.*
 
 Instagram has proved this with a vengeance. If you’re an active Instagram Stories user, you’ve noticed that [Instagram Stories ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) represent literally every second, third, or fourth post you swipe.
 
@@ -80,11 +80,15 @@ The first thing you should know about Facebook Story ad specs is that the Facebo
 
 Before creating your Facebook Story ads, check out this spreadsheet:
 
-\[table id=12 /\]
+<!--StartFragment-->
+
+\[table id=12 /]
+
+<!--EndFragment-->
 
 Along with Facebook Story ad dimensions, sizes, and other specifications, you need to know the objectives and call to action buttons that support Facebook Story ads. Here they are:
 
-\[table id=13 /\]
+\[table id=13 /]
 
 ## How to Master Facebook Storytelling with Facebook Stories Ads
 
@@ -92,11 +96,11 @@ When it comes to Facebook ads, Stories is one of the most fascinating advertisin
 
 According to [marketing data](https://softcube.com/70-video-marketing-statistics-for-2020/) collected by Facebook:
 
-- 69% of users say branded Stories are a great way to discover new products and services.
-- 44% of people want to see Stories that announce new products.
-- 51% of customers would like to see branded Stories that contain promotions.
-- 45% of people want to see Stories that offer advice.
-- 62% of users say Stories spark their interest in a product or brand.
+* 69% of users say branded Stories are a great way to discover new products and services.
+* 44% of people want to see Stories that announce new products.
+* 51% of customers would like to see branded Stories that contain promotions.
+* 45% of people want to see Stories that offer advice.
+* 62% of users say Stories spark their interest in a product or brand.
 
 Let’s go through seven best practices to create the best Facebook Story ads:
 

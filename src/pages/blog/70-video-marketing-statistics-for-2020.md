@@ -5,14 +5,14 @@ categories:
 categories-slug:
   - video-ads
 title: 70 Video Marketing Statistics for 2020
-date: 2019-10-30
+date: 2019-10-30T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/video-marketing-statistics-featured-image.jpg
 image: /img/video-marketing-statistics-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - video
+  - marketing
 ---
 <!--StartFragment-->
 
