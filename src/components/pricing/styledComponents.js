@@ -746,7 +746,11 @@ export const MediumHeading = styled.span`
     text-align: center;
     letter-spacing: 0.02em;
     color: #fff;
-    margin: 24px 0 0 0;
+    margin: 14px 0 0 0;
+    
+    @media screen and (max-width: 780px) {
+      margin: 24px 0 0 0;
+    }
 `;
 
 export const MediumHeadingLeft = styled(MediumHeading)`
@@ -889,7 +893,7 @@ export const MediumSlogan = styled.span`
 
 export const MediumSloganLeft = styled(MediumSlogan)`
     text-align: left;
-    margin: -36px 0 0 0;
+    margin: -45px 0 0 0;
     width: calc(100% - 106px);
     float: right;
     display: flex;
