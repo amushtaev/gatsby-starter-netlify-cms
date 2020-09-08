@@ -62,6 +62,8 @@ const GetData = () => {
                     fileKeyPreview 
                     fileKeyBigThumbnail
                   } 
+                  previewUrl
+                  thumbnailUrl
                 }
               }
             }

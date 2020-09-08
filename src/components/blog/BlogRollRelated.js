@@ -9,7 +9,7 @@ class BlogRollRelated extends React.Component {
   render() {
     const { data, category, id} = this.props;
     const { edges: posts } = data.allMarkdownRemark;
-    const maxCountPosts = 4;
+    const maxCountPosts = 3;
     let count = 0;
 
     return (
@@ -107,7 +107,7 @@ export default ({ categories, id }) => {
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 65) {
+                    fluid(maxWidth: 220, quality: 75) {
                       ...GatsbyImageSharpFluid
                     }
                   }

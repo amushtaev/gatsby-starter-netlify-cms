@@ -4,14 +4,8 @@ import useDebounce from "../DebouncedHook";
 
 const VideoTemplate = (props) => {
   const {video} = props;
-  const itemImgSrc = 'https://s3.eu-central-1.amazonaws.com/media.softcube.com/' +
-    video.project.video.urlInfo.storageLevel + '/' +
-    video.project.video.urlInfo.accountID + '/' +
-    video.project.video.urlInfo.fileKeyBigThumbnail;
-  const itemVideoSrc = 'https://s3.eu-central-1.amazonaws.com/media.softcube.com/' +
-    video.project.video.urlInfo.storageLevel + '/' +
-    video.project.video.urlInfo.accountID + '/' +
-    video.project.video.urlInfo.fileKeyPreview;
+  const itemImgSrc = video.project.video.thumbnailUrl;
+  const itemVideoSrc = video.project.video.previewUrl;
   const [onMouseEnterHandler, setOnMouseEnterHandler] = useState(false);
   const [onMouseLeaveHandler, setOnMouseLeaveHandler] = useState(true);
   const [isLoading, setLoading ]  = useState(true);

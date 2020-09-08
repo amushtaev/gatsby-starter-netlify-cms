@@ -20,7 +20,6 @@ import {ShowMore, TryAiButton} from '../components/pricing/styledComponents';
 import BlogRollPostsLatest from "../components/blog/BlogRollPostsLatest";
 import BlogRoll from "../components/blog/BlogRoll";
 import useWindowSize from '../components/Getscreen'
-import {DiscussionEmbed} from "disqus-react";
 import useDebounce from "../components/DebouncedHook";
 
 export const BlogPostTemplate = ({
@@ -37,10 +36,6 @@ export const BlogPostTemplate = ({
   date,
 }) => {
   const PostContent = contentComponent || Content;
-  const disqusConfig = {
-    shortname: process.env.GATSBY_DISQUS_NAME,
-    config: { identifier: slug, title },
-  };
   const windowSize = useWindowSize();
   const refSlug = typeof window !== 'undefined' && window.location.href;
   const [search, setSearch] = useState('');
@@ -101,7 +96,6 @@ export const BlogPostTemplate = ({
                   </ul>
                 </div>
               ) : null}
-              <DiscussionEmbed {...disqusConfig} />
               <div className='column BlogRollRelated' style={{marginTop: `60px`}}>
                 <h3 className='post_related'>
                   you may also like
