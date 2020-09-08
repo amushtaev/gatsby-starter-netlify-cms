@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Softcube',
+    siteUrl: 'https://localhost:8000/',
     description:
       'CREATE VIDEO ADS IN TWO CLICKS \n ' +
       'Paste your link and the Softcube AI will automatically create video ads that convert',
@@ -8,6 +9,108 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'http://localhost:8000/',
+        sitemap: 'http://localhost:8000/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
+    {
+      "resolve": "gatsby-remark-custom-blocks",
+      "options": {
+        "blocks": {
+          "snippet": {
+            "classes": "snippet"
+          },
+        },
+      },
+    },
+    {
+      "resolve": "gatsby-plugin-excerpts",
+      "options": {
+        "sources": {
+          "snippetBlocks": {
+            "type": "htmlQuery",
+            "sourceField": "html",
+            "excerptSelector": ".custom-block.snippet .custom-block-body",
+            "stripSelector": "a",
+            "elementReplacements": [
+              {
+                "selector": "h6",
+                "replaceWith": "strong"
+              },
+              {
+                "selector": "h5",
+                "replaceWith": "h6"
+              },
+              {
+                "selector": "h4",
+                "replaceWith": "h5"
+              },
+              {
+                "selector": "h3",
+                "replaceWith": "h4"
+              },
+              {
+                "selector": "h2",
+                "replaceWith": "h3"
+              },
+            ],
+          },
+          "default": {
+            "type": "htmlQuery",
+            "sourceField": "html",
+            "excerptSelector": "html > *",
+            "ignoreSelector": "img, .gatsby-highlight",
+            "stripSelector": "a",
+            "elementReplacements": [
+              {
+                "selector": "h6",
+                "replaceWith": "strong"
+              },
+              {
+                "selector": "h5",
+                "replaceWith": "h6"
+              },
+              {
+                "selector": "h4",
+                "replaceWith": "h5"
+              },
+              {
+                "selector": "h3",
+                "replaceWith": "h4"
+              },
+              {
+                "selector": "h2",
+                "replaceWith": "h3"
+              },
+            ],
+            "truncate": {
+              "length": 80,
+              "byWords": true,
+              "ellipsis": "…"
+            },
+          }
+        },
+        "sourceSets": {
+          "markdownHtml": [
+            "snippetBlocks",
+            "default"
+          ]
+        },
+        "excerpts": {
+          "snippet": {
+            "type": "html",
+            "nodeTypeSourceSet": {
+              "MarkdownRemark": "markdownHtml"
+            }
+          }
+        }
+      },
+    },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -76,4 +179,4 @@ module.exports = {
     // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
-}
+};

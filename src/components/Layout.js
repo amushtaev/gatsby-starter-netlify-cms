@@ -14,7 +14,9 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-
+        <meta name="robots" content="index, follow" />
+        <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+        <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
         <link
           href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap"
           rel="stylesheet" />
@@ -43,7 +45,7 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
-        <meta property="og:type" content="business.business" />
+        <meta property="og:type" content={description} />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
         <meta
@@ -56,6 +58,6 @@ const TemplateWrapper = ({ children }) => {
       <Footer />
     </div>
   )
-}
+};
 
 export default TemplateWrapper

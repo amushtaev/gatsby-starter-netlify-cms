@@ -260,7 +260,7 @@ function HowItWorks() {
             </span>
           </div>
         </div>
-        <VideoHowItWorks />
+        {/*<VideoHowItWorks />*/}
       </div>
     </>
   )

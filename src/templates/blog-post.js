@@ -41,6 +41,7 @@ export const BlogPostTemplate = ({
   const [search, setSearch] = useState('');
   const [redirectTo, setRedirectTo] = useState(false);
   const debouncedSearchTerm = useDebounce(search, 1500);
+  const siteName = 'Softcube Blog';
 
   useEffect(() => {
     setRedirectTo(true);
@@ -54,6 +55,20 @@ export const BlogPostTemplate = ({
 
   return (
     <section className='section Blog-Post' id={id}>
+      <link rel="canonical" href={slug} />
+      {/* Twitter */}
+      <meta name='twitter:card' content='summary' key='twcard' />
+      <meta name='twitter:creator' content={description} key='twhandle' />
+
+      {/* Open Graph */}
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="article" />
+      <meta property='og:url' content={slug} key='ogurl' />
+      <meta property='og:image' content={image} key='ogimage' />
+      <meta property='og:site_name' content={siteName} key='ogsitename' />
+      <meta property='og:title' content={title} key='ogtitle' />
+      <meta property='og:description' content={description} key='ogdesc' />
+      {/*<div className="snippet" dangerouslySetInnerHTML={{ __html: article.snippet }} />*/}
       <div
         className='index Blog'
       >
@@ -263,6 +278,7 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
+  const { allMarkdownRemark: article } = data;
 
   return (
     <LayoutBlog>
@@ -295,6 +311,7 @@ const BlogPost = ({ data }) => {
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
+    allMarkdownRemark: PropTypes.object,
   }),
 };
 
@@ -302,6 +319,21 @@ export default BlogPost
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+        edges {
+            node {
+                snippet
+                html
+                fields {
+                    slug
+                }
+                frontmatter {
+                    date(formatString: "YYYY-MM-DD")
+                    title
+                }
+            }
+        }
+    }
     markdownRemark(id: { eq: $id }) {
       id
       html
