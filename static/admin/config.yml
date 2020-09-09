@@ -29,8 +29,8 @@ collections:
       - {label: Image, name: "image", widget: image, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Seo title", name: "seo_title", widget: "string", required: false}
-      - {label: "Focus keyphrase", name: "focus_keyphrase", widget: "string", required: false}
+      - {label: "Seo title", name: "seotitle", widget: "string", required: false}
+      - {label: "Focus keyphrase", name: "focuskeyphrase", widget: "string", required: false}
 
   - name: "pages"
     label: "Pages"

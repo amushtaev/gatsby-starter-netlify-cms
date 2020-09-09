@@ -47,6 +47,7 @@ exports.createPages = ({ actions, graphql }) => {
                 }
               }
             }
+            snippet
           }
         }
       }
