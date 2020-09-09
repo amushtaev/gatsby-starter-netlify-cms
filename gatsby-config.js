@@ -13,8 +13,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'http://localhost:8000/',
-        sitemap: 'http://localhost:8000/sitemap.xml',
+        host: 'https://softcube.com/',
+        sitemap: 'https://softcube.com/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },
@@ -151,7 +151,7 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048,
+              maxWidth: 1078,
             },
           },
           {

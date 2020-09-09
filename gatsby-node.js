@@ -43,7 +43,6 @@ exports.createPages = ({ actions, graphql }) => {
                   fluid(maxWidth: 200, quality: 70) {
                     src
                     srcSet
-                    base64
                   }
                 }
               }
