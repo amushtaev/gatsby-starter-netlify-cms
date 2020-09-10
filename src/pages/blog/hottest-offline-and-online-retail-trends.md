@@ -10,6 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/retail-trends-2020-featured-image.jpg
 image: /img/retail-trends-2020-featured-image.jpg
+seotitle:
+focuskeyphrase:
 tags:
   - brewing
   - chemex

@@ -10,6 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/video-marketing-statistics-featured-image.jpg
 image: /img/video-marketing-statistics-featured-image.jpg
+seotitle:
+focuskeyphrase:
 tags:
   - video
   - marketing

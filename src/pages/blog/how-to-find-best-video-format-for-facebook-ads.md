@@ -10,6 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/best-video-format-for-facebook-ads-featured-picture.jpg
 image: /img/best-video-format-for-facebook-ads-featured-picture.jpg
+seotitle:
+focuskeyphrase:
 tags:
   - brewing
   - chemex

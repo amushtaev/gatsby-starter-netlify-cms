@@ -10,6 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/best-time-to-run-facebook-ads-featured-image.jpg
 image: /img/best-time-to-run-facebook-ads-featured-image.jpg
+seotitle:
+focuskeyphrase:
 tags:
   - brewing
   - chemex

@@ -1,7 +1,10 @@
-import React, {useState, lazy } from 'react'
+import React, {useState } from 'react'
+import loadable from '@loadable/component'
 import { Link } from 'gatsby'
 import BlogRoll from '../components/blog/BlogRoll'
-import BlogRollRelatedIndex from "../components/blog/BlogRollRelatedIndex";
+/*const BlogRoll = loadable(() => import('../components/blog/BlogRoll'));*/
+import BlogRollRelatedIndex from '../components/blog/BlogRollRelatedIndex';
+/*const BlogRollRelatedIndex = loadable(() => import('../components/blog/BlogRollRelatedIndex'));*/
 import Layout from '../components/Layout';
 import {
   BigSimpleTextInputStyled,
@@ -45,9 +48,11 @@ import {
   Compile,
   PlayButton,
 } from '../img/icons'
-import {QuestionsAnswersFirstColumn, QuestionsAnswersSecondColumn} from "../components/pricing/textContent";
-import Accordion from "../components/Accordion";
-import WhatOurClientSay from '../components/WhatOurClientSay'
+import {QuestionsAnswersFirstColumn, QuestionsAnswersSecondColumn} from '../components/pricing/textContent';
+/*import Accordion from '../components/Accordion';*/
+const Accordion = loadable(() => import('../components/Accordion'));
+/*import WhatOurClientSay from '../components/WhatOurClientSay'*/
+const WhatOurClientSay = loadable(() => import('../components/WhatOurClientSay'));
 
 const IndexPageTemplate = () => {
   return (
@@ -88,7 +93,7 @@ function VideoBanner() {
           className='video-item__content_banner'
           autoPlay={true}
           preload='auto'
-          poster='../img/comp 1_4_2 .webp?1e26'
+          poster='../img/comp 1_4_2.webp?1e26'
           loop={true}
           src='../img/comp 1_4_2.mp4?1e26'
         />

@@ -10,6 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
 image: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
+seotitle:
+focuskeyphrase:
 tags:
   - brewing
   - chemex

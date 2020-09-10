@@ -44,7 +44,8 @@
     "react-masonry-css": "^1.0.14",
     "seo": "^0.0.15",
     "styled-components": "^5.1.1",
-    "uuid": "^7.0.0"
+    "uuid": "^7.0.0",
+    "@loadable/component": "^5.13.1"
   },
   "keywords": [
     "gatsby"

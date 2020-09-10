@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'gatsby'
+import loadable from '@loadable/component';
 import PropTypes from 'prop-types';
-import WhatOurClientSay from '../components/WhatOurClientSay'
+/*import WhatOurClientSay from '../components/WhatOurClientSay'*/
+const WhatOurClientSay = loadable(() => import('../components/WhatOurClientSay'));
 import {
   PricingLargeHeading,
   PlansIncludeContainer,
@@ -58,7 +60,8 @@ import {
   SoftcubeSupportIcon,
 } from '../img/icons';
 import { initialPlans } from '../components/pricing/stripe/plans';
-import Accordion from '../components/Accordion';
+/*import Accordion from '../components/Accordion';*/
+const Accordion = loadable(() => import('../components/Accordion'));
 import Layout from '../components/Layout';
 
 const PricingPage = ({ isSubscribing, subscribe, subscribeResult }) => {
