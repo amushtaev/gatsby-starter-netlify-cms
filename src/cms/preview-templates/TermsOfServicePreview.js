@@ -14,6 +14,6 @@ TermsOfServicePreview.propTypes = {
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
-}
+};
 
 export default TermsOfServicePreview

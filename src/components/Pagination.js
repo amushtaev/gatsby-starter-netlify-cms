@@ -28,6 +28,7 @@ const Pagination = ({pageContext, link}) =>{
     },
   ];
   if (pages <= 5) {
+    console.log("pages <= 5")
     navItems = [
       ...navItems,
       ...Array.from({ length: pages - 1 }, (_, i) => ({
@@ -37,10 +38,12 @@ const Pagination = ({pageContext, link}) =>{
       })),
     ];
   } else {
+    console.log("else pages <= 5")
     // We have a situation where we have to show the first
     // item, three items around the current one
     // and also the last item
     if (page <= 3) {
+      console.log("page <= 3")
       // If the current one is closer to the start
       navItems = [
         ...navItems,
@@ -56,6 +59,7 @@ const Pagination = ({pageContext, link}) =>{
         },
       ];
     } else if (page > pages - 3) {
+      console.log("else if page > pages - 3")
       // If the current one is closer to the last one
       navItems = [
         ...navItems,
@@ -66,6 +70,7 @@ const Pagination = ({pageContext, link}) =>{
         ...createPaginationObjects(link,4, page, pages - 3),
       ];
     } else {
+      console.log("else page > pages - 3")
       navItems = [
         ...navItems,
         {
