@@ -27,6 +27,7 @@
     "gatsby-plugin-sitemap": "^2.4.12",
     "gatsby-plugin-excerpts": "^1.1.0",
     "gatsby-remark-custom-blocks": "^2.3.10",
+    "gatsby-remark-images-native-lazy-load": "^1.0.0",
     "grommet": "^2.14.0",
     "history": "^5.0.0",
     "keen-slider": "^5.2.2",

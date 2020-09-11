@@ -148,7 +148,7 @@ function AutomaticCreat() {
         </div>
       </div>
       <div className='automatic-creat-img'>
-        <img src={AutomaticImgRectangle} alt="AUTOMATICALLY CREATE & OPTIMIZE VIDEO ADS" />
+        <img src={AutomaticImgRectangle} alt="AUTOMATICALLY CREATE & OPTIMIZE VIDEO ADS" loading="lazy" />
       </div>
     </IncludeContainerIndex>
   )
@@ -162,7 +162,7 @@ function MarketingVideos() {
           <Link
             to={'/industries/#ecommerce'}
           >
-            <img src={Commerce} alt="E-commerce" />
+            <img src={Commerce} alt="E-commerce" loading="lazy" />
             <span className='marketing-videos--title'>E-commerce</span>
           </Link>
         </div>
@@ -170,7 +170,7 @@ function MarketingVideos() {
           <Link
             to={'/industries/#food-and-delivery'}
           >
-            <img src={Food} alt="Food & Delivery" />
+            <img src={Food} alt="Food & Delivery" loading="lazy" />
             <span className='marketing-videos--title'>Food & Delivery</span>
           </Link>
         </div>
@@ -178,7 +178,7 @@ function MarketingVideos() {
           <Link
             to={'/industries/#real-estate'}
           >
-            <img src={Real} alt="Real Estate" />
+            <img src={Real} alt="Real Estate" loading="lazy" />
             <span className='marketing-videos--title'>Real Estate</span>
           </Link>
         </div>
@@ -188,7 +188,7 @@ function MarketingVideos() {
           <Link
             to={'/industries/#fitness'}
           >
-            <img src={Fitness} alt="Fitness" />
+            <img src={Fitness} alt="Fitness" loading="lazy" />
             <span className='marketing-videos--title'>Fitness</span>
           </Link>
         </div>
@@ -196,7 +196,7 @@ function MarketingVideos() {
           <Link
             to={'/industries/#fitness'}
           >
-            <img src={Electronics} alt="Electronics" />
+            <img src={Electronics} alt="Electronics" loading="lazy" />
             <span className='marketing-videos--title'>Electronics</span>
           </Link>
         </div>
@@ -204,7 +204,7 @@ function MarketingVideos() {
           <Link
             to={'/industries/#travel'}
           >
-            <img src={Travel } alt="Travel " />
+            <img src={Travel } alt="Travel " loading="lazy" />
             <span className='marketing-videos--title'>Travel </span>
           </Link>
         </div>
@@ -297,7 +297,7 @@ function Maximize() {
       <div className='marketing-videos' style={{marginTop: '82px'}}>
         <div className='marketing-videos--content'>
           <div className='maximize-text--inner'>
-            <img src={Instagram} alt="Instagram" style={{margin: 'auto'}} />
+            <img src={Instagram} alt="Instagram" style={{margin: 'auto'}} loading="lazy" />
             <span className='marketing-videos--title is-paddigg-5'>Instagram Stories ads</span>
             <span className='marketing-videos--text'>
               Launch an advertising campaign in Facebook Ads Manager or in Page ads
@@ -313,7 +313,7 @@ function Maximize() {
         </div>
         <div className='marketing-videos--content'>
           <div className='maximize-text--inner'>
-            <img src={YouTube} alt="YouTube" style={{margin: 'auto'}} />
+            <img src={YouTube} alt="YouTube" style={{margin: 'auto'}} loading="lazy" />
             <span className='marketing-videos--title is-paddigg-5'>YouTube ads</span>
             <span className='marketing-videos--text'>
               Let people find you with YouTube and Google Display Network ads
@@ -330,7 +330,7 @@ function Maximize() {
         </div>
         <div className='marketing-videos--content'>
           <div className='maximize-text--inner'>
-            <img src={Facebook} alt="Facebook" style={{margin: 'auto'}} />
+            <img src={Facebook} alt="Facebook" style={{margin: 'auto'}} loading="lazy" />
             <span className='marketing-videos--title is-paddigg-5'>Facebook video ads</span>
             <span className='marketing-videos--text'>
               Run an advertising campaign in Facebook Ads Manager and show your ads on Facebook and the Audience Network

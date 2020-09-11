@@ -64,3 +64,31 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Description, name: description, widget: string, required: false}
+      - file: "src/pages/terms-of-service/index.md"
+          label: "Terms Of Service"
+          name: "terms-of-service"
+          fields:
+            - {label: "Template Key", name: "templateKey", widget: "hidden", default: "terms-of-service"}
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/privacy-policy/index.md"
+          label: "Privacy Policy"
+          name: "privacy-policy"
+          fields:
+            - {label: "Template Key", name: "templateKey", widget: "hidden", default: "privacy-policy"}
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/membership-agreement/index.md"
+          label: "Membership Agreement"
+          name: "membership-agreement"
+          fields:
+            - {label: "Template Key", name: "templateKey", widget: "hidden", default: "membership-agreement"}
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/copyright/index.md"
+          label: "Copyright"
+          name: "copyright"
+          fields:
+            - {label: "Template Key", name: "templateKey", widget: "hidden", default: "copyright"}
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Body", name: "body", widget: "markdown"}
