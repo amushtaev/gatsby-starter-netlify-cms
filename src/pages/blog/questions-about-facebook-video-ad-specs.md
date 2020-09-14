@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-video-ad-specs-featured-picture.jpg
 image: /img/facebook-video-ad-specs-featured-picture.jpg
-seotitle:
-focuskeyphrase:
+seotitle: All Facebook Video Ad Specs You Need to Create Amazing Ads
+focuskeyphrase: facebook video ad specs
 tags:
   - brewing
   - chemex

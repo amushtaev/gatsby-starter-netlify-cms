@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/email-automation-featured-image.jpg
 image: /img/email-automation-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 5 Tips to Use Email Automation to Improve Conversion Rates
+focuskeyphrase: email automation
 tags:
   - brewing
   - chemex

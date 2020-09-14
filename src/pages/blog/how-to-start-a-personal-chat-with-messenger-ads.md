@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/messenger-ads-featured-image.jpg
 image: /img/messenger-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Make Your Business Personal with Messenger Ads
+focuskeyphrase: messenger ads
 tags:
   - brewing
   - chemex

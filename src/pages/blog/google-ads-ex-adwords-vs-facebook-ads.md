@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - tutorials
 title: "Google Ads (Ex-AdWords) vs. Facebook Ads: Which to Use?"
-date: 2019-01-29
+date: 2019-01-29T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ads-vs-google-ads-featured-pic.jpg
 image: /img/facebook-ads-vs-google-ads-featured-pic.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: "Facebook Ads vs. Google Ads (Ex-AdWords): How to Reach a Better ROI"
+focuskeyphrase: Facebook Ads vs. Google Ads
 ---
 <!--StartFragment-->
 

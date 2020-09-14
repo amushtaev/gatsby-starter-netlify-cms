@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ad-placements-featured-image.jpg
 image: /img/facebook-ad-placements-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Take Advantage of Facebook Ad Placements
+focuskeyphrase: facebook ad placements
 tags:
   - brewing
   - chemex

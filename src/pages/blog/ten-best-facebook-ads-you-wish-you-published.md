@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/best-facebook-ads-featured-image-1.jpg
 image: /img/best-facebook-ads-featured-image-1.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 10 Best Facebook Ad Examples That Drive Leads
+focuskeyphrase: best facebook ad examples
 tags:
   - brewing
   - chemex

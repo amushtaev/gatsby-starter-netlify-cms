@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: "Facebook Boost Post: Pros and Cons"
-date: 2020-07-07
+date: 2020-07-07T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-boost-post-featured-image.jpg
 image: /img/facebook-boost-post-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: Is It Really Worth Clicking the Facebook Boost Post Button?
+focuskeyphrase: facebook boost post
 ---
 <!--StartFragment-->
 

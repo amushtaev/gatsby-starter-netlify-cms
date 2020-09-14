@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-mobile-ads-featured-image.jpg
 image: /img/facebook-mobile-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Boost Conversions with Facebook Mobile Ads
+focuskeyphrase: facebook mobile ads
 tags:
   - brewing
   - chemex

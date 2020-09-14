@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/how-to-advertise-on-facebook-for-free-featured-image.jpg
 image: /img/how-to-advertise-on-facebook-for-free-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: "How to Advertise on Facebook for Free: Guide for Beginners"
+focuskeyphrase: how to advertise on facebook for free
 tags:
   - brewing
   - chemex

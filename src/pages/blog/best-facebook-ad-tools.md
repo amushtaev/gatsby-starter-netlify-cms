@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: 15 Best Facebook Ad Tools You Might Not Have Heard Of
-date: 2019-04-18
+date: 2019-04-18T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/best-facebook-ad-tools-featured-image.jpg
 image: /img/best-facebook-ad-tools-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 15 Best Facebook Ad Tools You Might Not Have Heard Of
+focuskeyphrase: best facebook ad tools
 ---
 <!--StartFragment-->
 

@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: 7 Effective Facebook Ad Strategies for E-Commerce
-date: 2019-08-05
+date: 2019-08-05T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
 image: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 7 Effective Facebook Ad Strategies for E-Commerce
+focuskeyphrase: e-commerce facebook ads strategy
 ---
 <!--StartFragment-->
 

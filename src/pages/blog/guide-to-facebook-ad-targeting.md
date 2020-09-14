@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ad-targeting-featured-picture.jpg
 image: /img/facebook-ad-targeting-featured-picture.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 7 Powerful Facebook Ad Targeting Strategies That Work
+focuskeyphrase: facebook ad targeting
 tags:
   - brewing
   - chemex

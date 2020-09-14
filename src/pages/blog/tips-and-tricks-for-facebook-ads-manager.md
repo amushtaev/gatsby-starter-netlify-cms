@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ads-manager-featured-image.jpg
 image: /img/facebook-ads-manager-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 7 Facebook Ads Manager Lifehacks Every Beginner Must Know
+focuskeyphrase: facebook ads manager
 tags:
   - brewing
   - chemex

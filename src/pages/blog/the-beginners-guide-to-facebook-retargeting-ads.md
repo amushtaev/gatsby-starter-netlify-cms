@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-retargeting-ads-featured-image.jpg
 image: /img/facebook-retargeting-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Bring Customers Back with Facebook Retargeting Ads
+focuskeyphrase: facebook retargeting ads
 tags:
   - brewing
   - chemex

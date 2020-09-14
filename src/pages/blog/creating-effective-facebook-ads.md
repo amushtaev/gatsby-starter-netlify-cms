@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: 10 Tricks for Creating Effective Facebook Ads
-date: 2019-02-18
+date: 2019-02-18T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/creating-effective-facebook-ads-featured-image.jpg
 image: /img/creating-effective-facebook-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 10 Tricks for Creating Effective Facebook Ads
+focuskeyphrase: creating effective facebook ads
 ---
 <!--StartFragment-->
 

@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ads-for-real-estate-featured-image.jpg
 image: /img/facebook-ads-for-real-estate-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: "6 Tips to Create Facebook Ads for Real Estate [with Examples]"
+focuskeyphrase: facebook ads for real estate
 tags:
   - brewing
   - chemex

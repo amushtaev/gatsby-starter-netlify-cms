@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-collection-ads-featured-picture.jpg
 image: /img/facebook-collection-ads-featured-picture.jpg
-seotitle:
-focuskeyphrase:
+seotitle: Everything You Need to Know About Facebook Collection Ads
+focuskeyphrase: facebook collection ads
 tags:
   - brewing
   - chemex

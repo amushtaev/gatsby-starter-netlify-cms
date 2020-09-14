@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-bidding-featured-image.jpg
 image: /img/facebook-bidding-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
+focuskeyphrase: facebook bidding
 tags:
   - brewing
   - chemex

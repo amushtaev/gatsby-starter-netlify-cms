@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/how-to-sell-products-on-facebook-featured-image.jpg
 image: /img/how-to-sell-products-on-facebook-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: What’s the Best Way to Sell Products on Facebook?
+focuskeyphrase: how to sell on facebook
 tags:
   - brewing
   - chemex

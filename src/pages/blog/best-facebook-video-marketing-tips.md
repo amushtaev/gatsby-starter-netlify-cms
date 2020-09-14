@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: 8 Best Facebook Video Marketing Tips
-date: 2018-11-29
+date: 2018-11-29T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-video-marketing-tips-featured-image.jpg
 image: /img/facebook-video-marketing-tips-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 8 Best Facebook Video Marketing Tips
+focuskeyphrase: facebook video marketing tips
 ---
 <!--StartFragment-->
 

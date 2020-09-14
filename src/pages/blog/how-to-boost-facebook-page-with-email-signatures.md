@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/email-signatures-featured-image.jpg
 image: /img/email-signatures-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Promote Your Facebook Account with Email Signature Marketing
+focuskeyphrase: email signature
 tags:
   - brewing
   - chemex

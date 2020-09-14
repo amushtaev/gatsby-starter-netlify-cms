@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: 14 Facebook Ad Formats You Need to Know
-date: 2020-01-15
+date: 2020-01-15T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ad-formats-featured-picture.jpg
 image: /img/facebook-ad-formats-featured-picture.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: The Most Complete List of Facebook Ad Formats in 2020
+focuskeyphrase: facebook ad formats
 ---
 <!--StartFragment-->
 

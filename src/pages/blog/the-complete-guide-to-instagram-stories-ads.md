@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/instagram-stories-ads-featured-image.jpg
 image: /img/instagram-stories-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Become the Best Storyteller with Instagram Stories Ads
+focuskeyphrase: instagram stories ads
 tags:
   - brewing
   - chemex

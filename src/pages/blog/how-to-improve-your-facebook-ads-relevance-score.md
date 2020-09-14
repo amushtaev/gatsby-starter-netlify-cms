@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ads-relevance-score-featured-picture.jpg
 image: /img/facebook-ads-relevance-score-featured-picture.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 6 Tips to Improve Your Facebook Ads Relevance Score
+focuskeyphrase: facebook ads relevance score
 tags:
   - brewing
   - chemex

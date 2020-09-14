@@ -10,11 +10,11 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/video-marketing-statistics-featured-image.jpg
 image: /img/video-marketing-statistics-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - video
   - marketing
+seotitle: 70 Video Marketing Statistics for 2020
+focuskeyphrase: video marketing statistics
 ---
 <!--StartFragment-->
 

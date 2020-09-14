@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-worldwide-targeting-featured-image.jpg
 image: /img/facebook-worldwide-targeting-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle:"Facebook Worldwide Targeting Trap: A Case Study"
+focuskeyphrase: facebook worldwide targeting
 tags:
   - brewing
   - chemex

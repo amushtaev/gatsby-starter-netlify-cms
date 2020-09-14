@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - tutorials
 title: 5 Email Marketing Automation Mistakes
-date: 2019-09-16
+date: 2019-09-16T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/email-marketing-mistakes-featured-image.jpg
 image: /img/email-marketing-mistakes-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 5 Email Marketing Automation Mistakes
+focuskeyphrase: email marketing mistakes
 ---
 <!--StartFragment-->
 

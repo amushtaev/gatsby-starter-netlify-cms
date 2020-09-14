@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/video-in-email-marketing-featured-image.jpg
 image: /img/video-in-email-marketing-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: "Video in Email Marketing: Everything You Need to Know"
+focuskeyphrase: video in email marketing
 tags:
   - brewing
   - chemex

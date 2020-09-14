@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/benefits-of-facebook-video-ads-featured-image.jpg
 image: /img/benefits-of-facebook-video-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How Can Video Ads Improve Your Performance on Facebook?
+focuskeyphrase: benefits of facebook video ads
 tags:
   - brewing
   - chemex

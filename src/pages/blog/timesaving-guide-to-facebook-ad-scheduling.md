@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ad-scheduling-featured-image.jpg
 image: /img/facebook-ad-scheduling-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Save Time and Money with Facebook Ad Scheduling
+focuskeyphrase: facebook ad scheduling
 tags:
   - brewing
   - chemex

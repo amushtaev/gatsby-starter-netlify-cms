@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - tutorials
 title: 38 Extremely Effective Digital Marketing Tools
-date: 2020-03-24
+date: 2020-03-24T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/digital-marketing-tools-featured-image.jpg
 image: /img/digital-marketing-tools-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 38 Extremely Effective Digital Marketing Tools
+focuskeyphrase: digital marketing tools
 ---
 <!--StartFragment-->
 

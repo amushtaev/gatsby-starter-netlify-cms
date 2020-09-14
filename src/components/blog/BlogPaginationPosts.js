@@ -9,7 +9,7 @@ export default class BlogPaginationPosts extends React.Component {
     const posts = pageContext.nodes;
 
     return (
-      <div className="columns is-multiline BlogPaginationPosts">
+      <div className="columns is-multiline BlogPaginationPosts" itemscope itemType="http://schema.org/Blog">
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
@@ -17,6 +17,8 @@ export default class BlogPaginationPosts extends React.Component {
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''
                 }`}
+                itemscope
+                itemType="http://schema.org/BlogPosting"
               >
                 <header className="header article BlogRoll">
                   {post.frontmatter.featuredimage ? (
@@ -37,7 +39,7 @@ export default class BlogPaginationPosts extends React.Component {
                   ) : null}
                 </header>
                 <div className="short-news-container">
-                  <p className="post-meta">
+                  <p className="post-meta" itemProp="name">
                     <Link
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug.replace("/blog", "")}
@@ -46,7 +48,7 @@ export default class BlogPaginationPosts extends React.Component {
                     </Link>
                   </p>
                   <div className="articl-footer">
-                    <span className="date">
+                    <span className="date" itemProp="datePublished">
                       {post.frontmatter.date}
                     </span>
                     <Link className="read-more-arrow" to={post.fields.slug.replace("/blog", "")}>

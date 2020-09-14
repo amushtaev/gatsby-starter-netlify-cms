@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/instagram-ads-cost-featured-image.jpg
 image: /img/instagram-ads-cost-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: What Affects Instagram Ads Cost and How to Reduce It
+focuskeyphrase: instagram ads cost
 tags:
   - brewing
   - chemex

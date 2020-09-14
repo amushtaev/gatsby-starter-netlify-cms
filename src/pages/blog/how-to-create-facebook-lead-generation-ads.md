@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/create-facebook-lead-generation-ads-featured-picture.jpg
 image: /img/create-facebook-lead-generation-ads-featured-picture.jpg
-seotitle:
-focuskeyphrase:
+seotitle: "How to Create Facebook Lead Generation Ads [with Examples]"
+focuskeyphrase: create facebook lead generation ads
 tags:
   - brewing
   - chemex

@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/best-facebook-ad-types-featured-image.jpg
 image: /img/best-facebook-ad-types-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: Guide to Choosing the Best Facebook Ad Types for Your Business
+focuskeyphrase: best facebook ad types
 tags:
   - brewing
   - chemex

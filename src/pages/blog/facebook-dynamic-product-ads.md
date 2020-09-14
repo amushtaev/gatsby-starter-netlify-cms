@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - tutorials
 title: How to Set Up Facebook Dynamic Product Ads
-date: 2019-01-04
+date: 2019-01-04T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/dynamic-product-ads-on-facebook-featured-image.jpg
 image: /img/dynamic-product-ads-on-facebook-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 5 Ways to Use Dynamic Product Ads on Facebook Wisely
+focuskeyphrase: dynamic product ads on facebook
 ---
 <!--StartFragment-->
 

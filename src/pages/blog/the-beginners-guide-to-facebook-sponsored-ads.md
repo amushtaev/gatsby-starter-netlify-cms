@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-sponsored-ads-featured-image.jpg
 image: /img/facebook-sponsored-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: The Beginner's Guide to Facebook Sponsored Ads
+focuskeyphrase: facebook sponsored ads
 tags:
   - brewing
   - chemex

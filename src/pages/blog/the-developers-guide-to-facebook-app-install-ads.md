@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-app-install-ads-featured-image.jpg
 image: /img/facebook-app-install-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Promote Your Mobile App with Facebook App Install Ads
+focuskeyphrase: facebook app install ads
 tags:
   - brewing
   - chemex

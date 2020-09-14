@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/how-to-use-facebook-business-manager-featured-image.jpg
 image: /img/how-to-use-facebook-business-manager-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: "How to Use Facebook Business Manager [Guide + Best Practices]"
+focuskeyphrase: how to use facebook business manager
 tags:
   - brewing
   - chemex

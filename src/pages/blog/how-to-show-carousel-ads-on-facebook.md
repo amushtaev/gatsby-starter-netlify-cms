@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-carousel-ads-featured-image.jpg
 image: /img/facebook-carousel-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: Best Practices of Using Facebook Carousel Ads for Increasing ROI
+focuskeyphrase: facebook carousel ads
 tags:
   - brewing
   - chemex

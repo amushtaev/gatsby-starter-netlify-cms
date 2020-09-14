@@ -34,6 +34,9 @@ export const BlogPostTemplate = ({
   id,
   image,
   date,
+  focuskeyphrase,
+  categories_slug,
+  seotitle,
 }) => {
   const PostContent = contentComponent || Content;
   const windowSize = useWindowSize();
@@ -52,6 +55,7 @@ export const BlogPostTemplate = ({
       window.location.href = '/blog'
     }
   }
+  console.log(focuskeyphrase, "focuskeyphrase", seotitle)
 
   return (
     <section className='section Blog-Post' id={id}>
@@ -66,11 +70,12 @@ export const BlogPostTemplate = ({
       <meta property='og:url' content={slug} key='ogurl' />
       <meta property='og:image' content={image} key='ogimage' />
       <meta property='og:site_name' content={siteName} key='ogsitename' />
-      <meta property='og:title' content={title} key='ogtitle' />
+      <meta property='og:title' content={seotitle} key='ogtitle' />
       <meta property='og:description' content={description} key='ogdesc' />
       {/*<div className="snippet" dangerouslySetInnerHTML={{ __html: article.snippet }} />*/}
       <div
         className='index Blog'
+        itemscope itemType="http://schema.org/BlogPosting"
       >
         <h1 className='h1-title' >
           SOFTCUBE BLOG
@@ -94,10 +99,10 @@ export const BlogPostTemplate = ({
               ) : null}
                 <span className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
               </div>
-              <h1 className='title post_title'>
+              <h1 className='title post_title' itemProp="headline">
                 {title}
               </h1>
-              <p>{description}</p>
+              <p  itemProp="articleBody">{description}</p>
               <PostContent content={content} />
               {tags && tags.length ? (
                 <div style={{ marginTop: `4rem`, display: `none` }}>
@@ -274,6 +279,9 @@ BlogPostTemplate.propTypes = {
   id: PropTypes.string,
   image: PropTypes.string,
   date: PropTypes.string,
+  focuskeyphrase: PropTypes.string,
+  categories_slug: PropTypes.array,
+  seotitle: PropTypes.string,
 };
 
 const BlogPost = ({ data }) => {
@@ -301,6 +309,9 @@ const BlogPost = ({ data }) => {
         categories={post.frontmatter.categories}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        seotitle={post.frontmatter.seotitle}
+        focuskeyphrase={post.frontmatter.focuskeyphrase}
+        categories_slug={post.frontmatter.categories_slug}
         image={post.frontmatter.image ?
           post.frontmatter.image.publicURL : null
         }
@@ -348,6 +359,9 @@ export const pageQuery = graphql`
         image {
           publicURL
         }
+        categories_slug
+        seotitle
+        focuskeyphrase
       }
       snippet
       tableOfContents

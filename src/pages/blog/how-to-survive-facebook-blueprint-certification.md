@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-blueprint-certification-featured-image.jpg
 image: /img/facebook-blueprint-certification-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: "How to Pass Facebook Blueprint Certification [Complete Guide]"
+focuskeyphrase: facebook blueprint certification
 tags:
   - brewing
   - chemex

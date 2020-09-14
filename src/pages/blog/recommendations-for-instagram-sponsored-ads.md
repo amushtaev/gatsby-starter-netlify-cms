@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/instagram-sponsored-ads-featured-image.jpg
 image: /img/instagram-sponsored-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: Everything You Should Know about Instagram Sponsored Ads
+focuskeyphrase: instagram sponsored ads
 tags:
   - brewing
   - chemex

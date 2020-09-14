@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-special-ad-category-featured-image.jpg
 image: /img/facebook-special-ad-category-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: "Facebook Special Ad Category: What’s So Special About It?"
+focuskeyphrase: facebook special ad category
 tags:
   - brewing
   - chemex

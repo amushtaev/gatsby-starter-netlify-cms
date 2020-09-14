@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/promote-a-facebook-page-featured-image.jpg
 image: /img/promote-a-facebook-page-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 4 Things to Know Before You Promote a Facebook Page
+focuskeyphrase: promote a facebook page
 tags:
   - brewing
   - chemex

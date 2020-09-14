@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/bad-advertising-examples-featured-image.jpg
 image: /img/bad-advertising-examples-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 18 Bad Advertising Examples You Must See to Avoid Failure
+focuskeyphrase: bad advertising examples
 tags:
   - brewing
   - chemex

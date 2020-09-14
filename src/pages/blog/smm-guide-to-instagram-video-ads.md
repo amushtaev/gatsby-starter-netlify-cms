@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/instagram-video-ads-featured-image.jpg
 image: /img/instagram-video-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: The Social Media Marketer’s Guide to Instagram Video Ads
+focuskeyphrase: instagram video ads
 tags:
   - brewing
   - chemex

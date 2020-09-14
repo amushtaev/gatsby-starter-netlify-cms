@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-marketplace-ads-featured-image.jpg
 image: /img/facebook-marketplace-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Boost Your Sales with Facebook Marketplace Ads
+focuskeyphrase: facebook marketplace ads
 tags:
   - brewing
   - chemex

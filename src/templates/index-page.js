@@ -1,4 +1,4 @@
-import React, {useState } from 'react'
+import React, {useEffect, useState} from 'react'
 import loadable from '@loadable/component'
 import { Link } from 'gatsby'
 import BlogRoll from '../components/blog/BlogRoll'
@@ -86,6 +86,11 @@ const IndexPageTemplate = () => {
 export default IndexPageTemplate
 
 function VideoBanner() {
+  useEffect(() => {
+    console.log(document.querySelector("#mainVideo"), "#mainVideo play")
+    document.querySelector("#mainVideo").play()
+  }, [typeof document !== 'undefined' && document.querySelector("#mainVideo")]);
+
   return (
     <div className="video-banner">
       <div className="video-banner--conteiner">
@@ -93,10 +98,17 @@ function VideoBanner() {
           className='video-item__content_banner'
           autoPlay={true}
           preload='auto'
-          poster='../img/comp 1_4_2.webp?1e26'
+          poster='../img/comp 1_4_2_poster.gif?1e26'
           loop={true}
-          src='../img/comp 1_4_2.mp4?1e26'
-        />
+          playsInline
+          id='mainVideo'
+          loading="lazy"
+          muted={true}
+        >
+          <source src='../img/comp 1_4_2.webm?1e26' type='video/webm; codecs=vp9,vorbis' />
+          <source src='../img/comp 1_4_2.mp4?1e26' type='video/mp4' />
+          <img src="../img/comp 1_4_2.gif?1e26" />
+        </video>
       </div>
       <TryButton
         text='Try for free!'

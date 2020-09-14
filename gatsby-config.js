@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Softcube',
-    siteUrl: 'https://localhost:8000/',
+    siteUrl: 'https://test.softcube.com/',
     description:
       'CREATE VIDEO ADS IN TWO CLICKS \n ' +
       'Paste your link and the Softcube AI will automatically create video ads that convert',
@@ -13,8 +13,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://softcube.com/',
-        sitemap: 'https://softcube.com/sitemap.xml',
+        host: 'https://test.softcube.com/',
+        sitemap: 'https://test.softcube.com/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },

@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: 42 Best Facebook Video Ad Examples for 2020
-date: 2020-02-07
+date: 2020-02-07T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-video-ad-examples-featured-picture.jpg
 image: /img/facebook-video-ad-examples-featured-picture.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 42 Best Facebook Video Ad Examples for 2020
+focuskeyphrase: facebook video ad examples
 ---
 <!--StartFragment-->
 

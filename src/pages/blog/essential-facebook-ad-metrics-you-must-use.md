@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: 11 Essential Facebook Ad Metrics You Must Use
-date: 2019-08-16
+date: 2019-08-16T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ad-metrics-featured-image.jpg
 image: /img/facebook-ad-metrics-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 11 Essential Facebook Ad Metrics You Must Use
+focuskeyphrase: facebook ad metrics
 ---
 <!--StartFragment-->
 

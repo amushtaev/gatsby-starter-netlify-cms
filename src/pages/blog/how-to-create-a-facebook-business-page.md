@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/create-a-facebook-business-page-feature-image.jpg
 image: /img/create-a-facebook-business-page-feature-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 5 Simple Steps to Create a Facebook Business Page
+focuskeyphrase: create a facebook business page
 tags:
   - brewing
   - chemex

@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - instagram-ads
 title: 40 Examples of the Tastiest Food Ads
-date: 2020-05-04
+date: 2020-05-04T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/food-ads-featured-image.jpg
 image: /img/food-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 40 Examples of the Tastiest Food Ads
+focuskeyphrase: food ads
 ---
 <!--StartFragment-->
 

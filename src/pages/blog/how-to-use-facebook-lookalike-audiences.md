@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-lookalike-audiences-featured-image.jpg
 image: /img/facebook-lookalike-audiences-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: The Beginner’s Guide to Facebook Lookalike Audiences
+focuskeyphrase: facebook lookalike audiences
 tags:
   - brewing
   - chemex

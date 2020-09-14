@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/best-video-format-for-facebook-ads-featured-picture.jpg
 image: /img/best-video-format-for-facebook-ads-featured-picture.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Find the Best Video Format for Facebook Ads
+focuskeyphrase: best video format for facebook ads
 tags:
   - brewing
   - chemex

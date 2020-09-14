@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - video-ads
 title: 7 Facebook Video Ad Best Practices for 2020
-date: 2019-12-24
+date: 2019-12-24T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-video-ad-best-practices-featured-image.jpg
 image: /img/facebook-video-ad-best-practices-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 7 Facebook Video Ad Best Practices for Your Business in 2020
+focuskeyphrase: facebook video ad best practices
 ---
 <!--StartFragment-->
 

@@ -17,7 +17,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
   }
 
   if (!!image && typeof image === 'string')
-    return <img style={imageStyle} src={image} alt={alt} loading="lazy" />;
+    return <img style={imageStyle} src={image} alt={alt} loading="lazy" itemProp="image" />;
   return null
 };
 

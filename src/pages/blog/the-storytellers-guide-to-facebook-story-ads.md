@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-story-ads-featured-image.jpg
 image: /img/facebook-story-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Become a Powerful Storyteller with Facebook Story Ads
+focuskeyphrase: facebook story ads
 tags:
   - brewing
   - chemex

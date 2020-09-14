@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/what-is-facebook-pixel-featured-image.jpg
 image: /img/what-is-facebook-pixel-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: What Is Facebook Pixel and Why Should Your Business Use It?
+focuskeyphrase: what is facebook pixel
 tags:
   - brewing
   - chemex

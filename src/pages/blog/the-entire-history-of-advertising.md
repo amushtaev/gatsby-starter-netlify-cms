@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/history-of-advertising-facebook-featured-pic.jpg
 image: /img/history-of-advertising-facebook-featured-pic.jpg
-seotitle:
-focuskeyphrase:
+seotitle: The Crash Course on the History of Advertising You Must Read
+focuskeyphrase: history of advertising
 tags:
   - brewing
   - chemex

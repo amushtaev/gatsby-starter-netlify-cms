@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-instant-experience-featured-image.jpg
 image: /img/facebook-instant-experience-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Gain Momentum with Facebook Instant Experience
+focuskeyphrase: facebook instant experience
 tags:
   - brewing
   - chemex

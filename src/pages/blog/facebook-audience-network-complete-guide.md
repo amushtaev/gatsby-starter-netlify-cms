@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: "Facebook Audience Network: Monetization and Advertising"
-date: 2020-04-30
+date: 2020-04-30T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-audience-network-featured-image.jpg
 image: /img/facebook-audience-network-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: How to Monetize and Advertise on Facebook Audience Network
+focuskeyphrase: facebook audience network
 ---
 <!--StartFragment-->
 

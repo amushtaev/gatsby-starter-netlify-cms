@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-pixel-events-featured-image.jpg
 image: /img/facebook-pixel-events-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: Everything You Need to Know About Facebook Pixel Events
+focuskeyphrase: facebook pixel events
 tags:
   - brewing
   - chemex

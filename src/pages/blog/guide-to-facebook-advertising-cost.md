@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-advertising-cost-featured-image.jpg
 image: /img/facebook-advertising-cost-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: "How Much Do Facebook Ads Cost? [Guide to Facebook Ad Pricing]"
+focuskeyphrase: Facebook advertising cost
 tags:
   - brewing
   - chemex

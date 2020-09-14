@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: 29 Best Facebook Pages You Should Follow
-date: 2019-11-07
+date: 2019-11-07T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/best-facebook-pages-featured-image.jpg
 image: /img/best-facebook-pages-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 29 Best Facebook Pages You Should Follow
+focuskeyphrase: best facebook pages
 ---
 <!--StartFragment-->
 

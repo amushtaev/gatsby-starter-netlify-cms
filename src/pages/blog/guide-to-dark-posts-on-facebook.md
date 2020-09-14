@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/dark-post-on-facebook-featured-pic.jpg
 image: /img/dark-post-on-facebook-featured-pic.jpg
-seotitle:
-focuskeyphrase:
+seotitle: Everything You Need to Know about Dark Posts on Facebook
+focuskeyphrase: dark post facebook
 tags:
   - brewing
   - chemex

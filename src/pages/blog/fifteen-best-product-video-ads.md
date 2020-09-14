@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: 15 Best Product Video Ads You'd Love to Make Yourself
-date: 2018-10-24
+date: 2018-10-24T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/best-product-video-ads-featured-image.jpg
 image: /img/best-product-video-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: 15 Best Examples of Product Video Ads for Your Business
+focuskeyphrase: best product video ads
 ---
 <!--StartFragment-->
 

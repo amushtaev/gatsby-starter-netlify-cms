@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/create-a-facebook-pixel-featured-image.jpg
 image: /img/create-a-facebook-pixel-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 3 Tools to Create a Facebook Pixel with No Mistakes
+focuskeyphrase: create a facebook pixel
 tags:
   - brewing
   - chemex

@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - facebook-ads
 title: "Facebook Video Ads vs. Image Ads: Which to Shoot?"
-date: 2018-11-27
+date: 2018-11-27T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-video-ads-vs-image-ads-featured-image.jpg
 image: /img/facebook-video-ads-vs-image-ads-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: "Video Ads vs. Photo Ads: What Converts Better on Facebook?"
+focuskeyphrase: facebook video ads vs. photo ads
 ---
 <!--StartFragment-->
 

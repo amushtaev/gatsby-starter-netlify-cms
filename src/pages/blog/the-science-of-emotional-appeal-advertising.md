@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/emotional-appeal-advertising-featured-image.jpg
 image: /img/emotional-appeal-advertising-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: The Rational Guide to Emotional Appeal Advertising
+focuskeyphrase: emotional appeal advertising
 tags:
   - brewing
   - chemex

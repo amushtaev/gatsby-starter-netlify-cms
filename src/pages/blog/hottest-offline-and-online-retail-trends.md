@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/retail-trends-2020-featured-image.jpg
 image: /img/retail-trends-2020-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: 7 Effective In-Store and Online Retail Trends for 2020
+focuskeyphrase: retail trends 2020
 tags:
   - brewing
   - chemex

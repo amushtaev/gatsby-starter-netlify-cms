@@ -5,16 +5,16 @@ categories:
 categories-slug:
   - case-study
 title: "Getting Ahead with Facebook Ads: eCommerce Case Study"
-date: 2018-10-10
+date: 2018-10-10T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-ads-case-study-featured-image.jpg
 image: /img/facebook-ads-case-study-featured-image.jpg
-seotitle:
-focuskeyphrase:
 tags:
   - brewing
   - chemex
+seotitle: "Getting Ahead with Facebook Ads: eCommerce Case Study"
+focuskeyphrase: facebook ads case study
 ---
 <!--StartFragment-->
 
@@ -45,10 +45,10 @@ After running hundreds of image ad remarketing campaigns on Facebook, Allo decid
 Videos ads are much harder to create and launch than image-based ads. Creating and launching a video ad consists of five major steps:
 
 1. 1. Create a video template.
-    2. Source product footage.
-    3. Compile and edit footage.
-    4. Render the video.
-    5. Set up and optimize a marketing campaign on Facebook.
+   2. Source product footage.
+   3. Compile and edit footage.
+   4. Render the video.
+   5. Set up and optimize a marketing campaign on Facebook.
 
 It takes a lot of time to produce one video. The trick is that businesses have to produce thousands of engaging videos to keep up with demand, make the most of each video ad campaign, and achieve the highest possible ROI.
 
@@ -60,8 +60,8 @@ To overcome this challenge, Allo reached out to Softcube. The Softcube team has 
 
 After receiving all necessary statistics from the Allo website, Softcube specialists:
 
-- used A/B testing to determine the best targeting ad sets for future campaigns;
-- compared static carousel ads used by Allo with dynamic video ads created by Softcube over one month to receive enough data for statistically significant results.
+* used A/B testing to determine the best targeting ad sets for future campaigns;
+* compared static carousel ads used by Allo with dynamic video ads created by Softcube over one month to receive enough data for statistically significant results.
 
 Usually, the Softcube team goes through five major video production steps we’ve mentioned in the chapter of this case study for Facebook ads. Every successful Softcube video ad launch consists of two phases.
 
@@ -76,6 +76,8 @@ Most of the examples you see below are ads for smartphones, which is one of the 
 **Fact:** Every third smartphone owner in Ukraine is an Allo customer.
 
 ### Google Pixel 2 XL
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/0eed04cb6db44b4c9ca0aea418a80dc3.mp4"></video></figure>
 
 ### Apple iPhone 7
 

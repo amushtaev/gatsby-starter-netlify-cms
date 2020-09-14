@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/social-media-marketing-expert-featured-image.jpg
 image: /img/social-media-marketing-expert-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: What to Look For When Hiring a Social Media Marketing Expert
+focuskeyphrase: social media marketing expert
 tags:
   - brewing
   - chemex

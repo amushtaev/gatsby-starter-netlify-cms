@@ -10,8 +10,8 @@ description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-sales-funnel-featured-image.jpg
 image: /img/facebook-sales-funnel-featured-image.jpg
-seotitle:
-focuskeyphrase:
+seotitle: How to Develop the Most Effective Facebook Ads Funnel
+focuskeyphrase: facebook ads funnel
 tags:
   - brewing
   - chemex
