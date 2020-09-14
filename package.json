@@ -24,7 +24,7 @@
     "gatsby-transformer-remark": "^2.7.5",
     "gatsby-transformer-sharp": "^2.4.7",
     "gatsby-plugin-robots-txt": "^1.5.1",
-    "gatsby-plugin-sitemap": "^2.4.12",
+    "gatsby-plugin-advanced-sitemap": "^1.5.5",
     "gatsby-plugin-excerpts": "^1.1.0",
     "gatsby-remark-custom-blocks": "^2.3.10",
     "gatsby-remark-images-native-lazy-load": "^1.0.0",
