@@ -67,7 +67,7 @@ export const KeenSlider = styled.div`
 
 export const Slide = styled.div`
     width: 251px;
-    height: 314px;
+    height: 341px;
     align-items: center;
     justify-content: center;
     overflow: visible;
@@ -105,7 +105,7 @@ export const Article = styled.article`
 
 export const CommentContainer = styled.div`
     box-shadow: ${props => props.noShadow ? 'none' : '10px 10px 15px rgba(8, 8, 22, 0.5)'};
-    height: 214px;
+    height: 241px;
     padding: 24px;
     box-sizing: border-box;
     background: #12122f;
@@ -127,7 +127,8 @@ export const AuthorContainer = styled.div`
     padding: 24px;
     box-sizing: border-box;
     text-align: left;
-    display: flex;
+    display: grid;
+    grid-template-columns: 52px 1fr;
 `;
 
 export const AuthorPhoto = styled.div`
@@ -138,7 +139,7 @@ export const AuthorPhoto = styled.div`
     height: 52px;
     border-radius: 50%;
     border: 1px solid rgba(255, 255, 255, 0.54);
-    margin: 0 14px 0 0;
+    display: block;
 `;
 
 export const Author = styled.span`
@@ -150,6 +151,7 @@ export const Author = styled.span`
     line-height: 25px;
     text-align: center;
     color: rgba(255, 255, 255, 0.54);
+    padding-left: 14px
 `;
 
 export const Dots = styled.div`

@@ -48,7 +48,11 @@ import {
   Compile,
   PlayButton,
 } from '../img/icons'
-import {QuestionsAnswersFirstColumn, QuestionsAnswersSecondColumn} from '../components/pricing/textContent';
+import {
+  QuestionsAnswersFirstColumn,
+  QuestionsAnswersFirstColumnIndex,
+  QuestionsAnswersSecondColumn, QuestionsAnswersSecondColumnIndex
+} from '../components/pricing/textContent';
 /*import Accordion from '../components/Accordion';*/
 const Accordion = loadable(() => import('../components/Accordion'));
 /*import WhatOurClientSay from '../components/WhatOurClientSay'*/
@@ -87,7 +91,6 @@ export default IndexPageTemplate
 
 function VideoBanner() {
   useEffect(() => {
-    console.log(document.querySelector("#mainVideo"), "#mainVideo play")
     document.querySelector("#mainVideo").play()
   }, [typeof document !== 'undefined' && document.querySelector("#mainVideo")]);
 
@@ -107,7 +110,7 @@ function VideoBanner() {
         >
           <source src='../img/comp_1_4_2.webm?1e26' type='video/webm; codecs=vp9,vorbis' />
           <source src='../img/comp_1_4_2.mp4?1e26' type='video/mp4' />
-          <img src="../img/comp_1_4_2.gif?1e26" />
+          <img loading="lazy" src="../img/comp_1_4_2.gif?1e26" />
         </video>
       </div>
       <TryButton
@@ -206,7 +209,7 @@ function MarketingVideos() {
         </div>
         <div className='marketing-videos--content'>
           <Link
-            to={'/industries/#fitness'}
+            to={'/industries/#ecommerce'}
           >
             <img src={Electronics} alt="Electronics" loading="lazy" />
             <span className='marketing-videos--title'>Electronics</span>
@@ -366,8 +369,8 @@ function PanelLabel(props) {
 }
 
 function FrequentlyAskedQuestions() {
-  const [QuestionsAnswersFirst] = useState([QuestionsAnswersFirstColumn]);
-  const [QuestionsAnswersSecond] = useState([QuestionsAnswersSecondColumn]);
+  const [QuestionsAnswersFirst] = useState([QuestionsAnswersFirstColumnIndex]);
+  const [QuestionsAnswersSecond] = useState([QuestionsAnswersSecondColumnIndex]);
 
   return (
     <DivAskedQuestions>

@@ -14,6 +14,7 @@ import {
 import {Comments} from "./pricing/textContent";
 import ArrowLeft from "../components/ArrowLeft";
 import ArrowRight from "./ArrowRight";
+import {Image} from "grommet";
 
 const WhatOurClientSay = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -51,7 +52,7 @@ const WhatOurClientSay = () => {
     },
   });
 
-  const getVisibleCard = (index) => {
+  const getVisibleCard = (index, length) => {
     switch (currentSlide) {
       case 0:
         return index === 1 || index === 2 || index === 3 || index === 4;
@@ -60,12 +61,18 @@ const WhatOurClientSay = () => {
       case 2:
         return index === 3 || index === 4 || index === 5 || index === 6;
       case 3:
-        return index === 4 || index === 5 || index === 6 || index === 0;
+        return index === 4 || index === 5 || index === 6 || index === 7;
       case 4:
-        return index === 5 || index === 6 || index === 0 || index === 1;
+        return index === 5 || index === 6 || index === 7 || index === 8;
       case 5:
-        return index === 6 || index === 0 || index === 1 || index === 2;
+        return index === 6 || index === 7 || index === 8 || index === 9;
       case 6:
+        return index === 7 || index === 8 || index === 9 || index === 0;
+      case 7:
+        return index === 8 || index === 9 || index === 0 || index === 1;
+      case 8:
+        return index === 9 || index === 0 || index === 1 || index === 2;
+      case 9:
         return index === 0 || index === 1 || index === 2 || index === 3;
       default:
         return false;
@@ -87,7 +94,7 @@ const WhatOurClientSay = () => {
         >
           {Comments.map(
             (comment, index) => {
-              const isVisibleCard = getVisibleCard(index);
+              const isVisibleCard = getVisibleCard(index, Comments.length);
               return (
                 <Slide
                   key={`${comment.author}:comment:${index + 1}`}
@@ -100,11 +107,12 @@ const WhatOurClientSay = () => {
                     </CommentContainer>
                     <AuthorContainer>
                       <AuthorPhoto>
-                        <img
+                        <Image
                           style={{
                             width: '56px',
                             height: '56px',
                             margin: '-2px 0 0 -2px',
+                            maxWidth: '56px',
                           }}
                           src={comment.photo}
                           alt=''

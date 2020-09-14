@@ -45,7 +45,7 @@ const Footer = class extends React.Component {
                         alt="Facebook"
                       />
                     </a>
-                    <a title="twitter" href="https://twitter.com">
+                    <a title="twitter" href="https://twitter.com/Softcube_video">
                       <img
                         className="fas fa-lg"
                         src={twitterFooter}

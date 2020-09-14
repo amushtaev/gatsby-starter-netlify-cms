@@ -1621,7 +1621,7 @@ footer section.menu
     max-width: calc(100% - 40px)
     max-height: 100%
     overflow: visible
-    display: grid
+    display: block
     grid-template-rows: 1fr 64px
     margin: 24px 0 0 0
 
@@ -1650,11 +1650,14 @@ footer section.menu
 
   .video-banner--conteiner
     margin-bottom: 24px
+    min-width: 100%
+    width: 100%
 
   .video-item__content_banner
     height: auto
     width: 100%
     max-width: fit-content
+    margin-bottom: 24px
 
   .SearchYourLink
     width: calc(100% - 20px)

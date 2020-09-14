@@ -45,7 +45,6 @@ const SliderArticl = (props) => {
   });
 
   const getVisibleCard = (index, lengthSlide) => {
-
     switch (currentSlide) {
       case 0:
         return index === 1 || index === 2 || index === 3;
