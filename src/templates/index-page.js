@@ -1,33 +1,17 @@
-import React, {useEffect, useState} from 'react'
+import React, {useEffect} from 'react'
 import loadable from '@loadable/component'
-import { Link } from 'gatsby'
 import Layout from '../components/Layout';
 import {
   BigSimpleTextInputStyled,
-  IncludeContainerIndex,
   InputContainer,
-  MediumHeadingLeft,
-  MediumSloganLeft,
   IndexHeading,
   PricingHeading,
   PricingPageContainer,
   SloganSmall,
-  softcubeDark,
   TryButton,
-  AllIndustriesButton,
-  BigButtonStyled,
-  DivAskedQuestions,
-  PricingLargeHeading,
-  DivAccordion,
-  AccordionWithMargin,
-  QuestionPanel,
-  Answer,
   SearchButton,
 } from '../components/pricing/styledComponents';
-import {
-  QuestionsAnswersFirstColumnIndex,
-  QuestionsAnswersSecondColumnIndex
-} from '../components/pricing/textContent';
+
 const BlogRoll = loadable(() => import('../components/blog/BlogRoll'));
 const BlogRollRelatedIndex = loadable(() => import('../components/blog/BlogRollRelatedIndex'));
 const Accordion = loadable(() => import('../components/Accordion'));
@@ -36,6 +20,7 @@ const HowItWorks = loadable(() => import('../components/main/HowItWorks'));
 const AutomaticCreat = loadable(() => import('../components/main/AutomaticCreat'));
 const MarketingVideos = loadable(() => import('../components/main/MarketingVideos'));
 const Maximize = loadable(() => import('../components/main/Maximize'));
+const FrequentlyAskedQuestions = loadable(() => import('../components/main/FrequentlyAskedQuestions'));
 
 const IndexPageTemplate = () => {
   return (
@@ -122,48 +107,6 @@ function VideoBanner() {
     </div>
   )
 }*/
-
-function PanelLabel(props) {
-  const {text} = props;
-  return <span style={{ width: '440px', textAlign: 'left' }}>{text}</span>;
-}
-
-function FrequentlyAskedQuestions() {
-  const [QuestionsAnswersFirst] = useState([QuestionsAnswersFirstColumnIndex]);
-  const [QuestionsAnswersSecond] = useState([QuestionsAnswersSecondColumnIndex]);
-
-  return (
-    <DivAskedQuestions>
-      <PricingLargeHeading style={{ margin: '130px 0 82px 0' }}>
-        FREQUENTLY ASKED QUESTIONS
-      </PricingLargeHeading>
-      <DivAccordion>
-        <AccordionWithMargin animate={false} gap='24px' multiple>
-          {QuestionsAnswersFirst[0].map((qa) => (
-            <QuestionPanel
-              key={`question:${qa.question}`}
-              label={<PanelLabel text={qa.question} />}
-              activeColor={softcubeDark.global.colors['sc-yellow-3']}
-            >
-              <Answer>{qa.answer}</Answer>
-            </QuestionPanel>
-          ))}
-        </AccordionWithMargin>
-        <Accordion animate={false} gap='24px' multiple>
-          {QuestionsAnswersSecond[0].map((qa) => (
-            <QuestionPanel
-              key={`question:${qa.question}`}
-              label={<PanelLabel text={qa.question} />}
-              activeColor={softcubeDark.global.colors['sc-yellow-3']}
-            >
-              <Answer>{qa.answer}</Answer>
-            </QuestionPanel>
-          ))}
-        </Accordion>
-      </DivAccordion>
-    </DivAskedQuestions>
-  );
-}
 
 function SearchYourLink() {
   const [inputValue, setInputValue] = React.useState('');
