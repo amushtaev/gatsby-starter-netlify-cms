@@ -101,7 +101,7 @@ function VideoBanner() {
           className='video-item__content_banner'
           autoPlay={true}
           preload='auto'
-          poster='../img/comp_1_4_2_poster.gif?1e26'
+          poster='../img/comp_1_4_2.webp?1e26'
           loop={true}
           playsInline
           id='mainVideo'
@@ -110,7 +110,7 @@ function VideoBanner() {
         >
           <source src='../img/comp_1_4_2.webm?1e26' type='video/webm; codecs=vp9,vorbis' />
           <source src='../img/comp_1_4_2.mp4?1e26' type='video/mp4' />
-          <img loading="lazy" src="../img/comp_1_4_2.gif?1e26" />
+          {/*<img loading="lazy" src="../img/comp_1_4_2.gif?1e26" />*/}
         </video>
       </div>
       <TryButton

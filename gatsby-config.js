@@ -9,15 +9,6 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
-    `gatsby-plugin-advanced-sitemap`,
-    {
-      resolve: 'gatsby-plugin-robots-txt',
-      options: {
-        host: 'https://test.softcube.com/',
-        sitemap: 'https://test.softcube.com/sitemap.xml',
-        policy: [{ userAgent: '*', allow: '/', disallow: 'recom.softcube.com' }]
-      }
-    },
     {
       "resolve": "gatsby-remark-custom-blocks",
       "options": {
@@ -180,6 +171,14 @@ module.exports = {
       resolve: 'gatsby-remark-images-native-lazy-load',
       options: {
         loading: "lazy" // "lazy" | "eager" | "auto"
+      }
+    },
+    'gatsby-plugin-sitemap',
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://test.softcube.com/',
+        policy: [{ userAgent: '*', allow: '/', disallow: 'recom.softcube.com' }]
       }
     },
     // must be after other CSS plugins

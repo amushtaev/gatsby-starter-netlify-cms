@@ -32,7 +32,7 @@ AboutPageTemplate.propTypes = {
 }
 
 const AboutPage = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
@@ -60,4 +60,4 @@ export const aboutPageQuery = graphql`
       }
     }
   }
-`
+`;

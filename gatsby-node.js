@@ -12,6 +12,7 @@ exports.createPages = ({ actions, graphql }) => {
       site {
         siteMetadata {
           title
+          siteUrl
         }
       }
       allMarkdownRemark(
@@ -62,7 +63,7 @@ exports.createPages = ({ actions, graphql }) => {
       data: {
         allMarkdownRemark: { edges },
         site: {
-          siteMetadata: { title, shortTitle },
+          siteMetadata: { title, shortTitle, siteUrl },
         },
       },
     } = result;
@@ -85,6 +86,7 @@ exports.createPages = ({ actions, graphql }) => {
       context: {
         title,
         shortTitle,
+        siteUrl,
       },
     });
     // Create linked blog pages

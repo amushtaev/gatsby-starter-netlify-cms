@@ -64,6 +64,7 @@ const GetData = () => {
                   } 
                   previewUrl
                   thumbnailUrl
+                  status
                 }
               }
             }
@@ -181,9 +182,13 @@ function IndustriesVideo(videoData) {
               columnClassName="industries-grid_column"
             >
               {videoData.videoData.map((video) => (
-              <VideoTemplate
-                key={video.id}
-                video={video} />
+                video !== 'finished' ?
+              <div key={video.id}>
+                <VideoTemplate
+                  key={video.id}
+                  video={video} />
+              </div>
+                  : null
               ))}
             </Masonry>
           </ul>
