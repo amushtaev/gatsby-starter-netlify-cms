@@ -173,7 +173,12 @@ module.exports = {
         loading: "lazy" // "lazy" | "eager" | "auto"
       }
     },
-    'gatsby-plugin-sitemap',
+    {
+      resolve: 'gatsby-plugin-sitemap',
+      options: {
+        exclude: ['/blog/*', '/contact/*', '/tags/', '/about/', '/products/', '/contact/']
+      },
+    },
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
