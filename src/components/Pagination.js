@@ -11,7 +11,7 @@ const createPaginationObjects = (link, length, page, increment = 2) =>
     current: page === i + increment,
   }));
 
-const Pagination = ({pageContext, link}) =>{
+const  Pagination = ({pageContext, link}) =>{
   const {
     page,
     prev,
@@ -99,7 +99,7 @@ const Pagination = ({pageContext, link}) =>{
             {item.separator ? (
               <span className="pagination-ellipsis">&hellip;</span>
             ) : (
-              <Link to={item.link} className={`pagination-link ${ item.current ? 'is-current' : '' }`} aria-label={`Goto page ${item.index}`} >
+              <Link to={item.index === 1 ? item.link.replace('page/', '') : item.link} className={`pagination-link ${ item.current ? 'is-current' : '' }`} aria-label={`Goto page ${item.index}`} >
                 {item.index}
               </Link>
             )}

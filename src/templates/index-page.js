@@ -14,7 +14,6 @@ import {
 
 const BlogRoll = loadable(() => import('../components/blog/BlogRoll'));
 const BlogRollRelatedIndex = loadable(() => import('../components/blog/BlogRollRelatedIndex'));
-const Accordion = loadable(() => import('../components/Accordion'));
 const WhatOurClientSay = loadable(() => import('../components/WhatOurClientSay'));
 const HowItWorks = loadable(() => import('../components/main/HowItWorks'));
 const AutomaticCreat = loadable(() => import('../components/main/AutomaticCreat'));
