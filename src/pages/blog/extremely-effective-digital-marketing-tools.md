@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: digital marketing tools
 templateKey: blog-post
 categories:
   - Tutorials
@@ -6,15 +7,20 @@ categories-slug:
   - tutorials
 title: 38 Extremely Effective Digital Marketing Tools
 date: 2020-03-24T00:00:00.000Z
-description: Need modify desk.
+description: Check out this list of helpful digital marketing tools for
+  planning, tracking, analytics, SEO, design, and copywriting. Plus, get a gift
+  to grow your brand.
 featuredpost: false
 featuredimage: /img/digital-marketing-tools-featured-image.jpg
 image: /img/digital-marketing-tools-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - Google
+  - Instagram
+  - Facebook
+seo_title: 38 Digital Marketing Tools You Might Have Never Used
+metadescription: 
+focus_keyphrase: digital marketing tools
 seotitle: 38 Extremely Effective Digital Marketing Tools
-focuskeyphrase: digital marketing tools
 ---
 <!--StartFragment-->
 
@@ -22,7 +28,7 @@ Humans have been using tools for as long as we’ve been humans. Every marketer 
 
 Naturally, you were introduced to some of the best digital marketing tools in your toolset by your colleagues at the beginning of your career.
 
-https://giphy.com/gifs/season-16-the-simpsons-16x8-xT5LMwmfeY3clGXS24
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMwmfeY3clGXS24" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-16-the-simpsons-16x8-xT5LMwmfeY3clGXS24">via GIPHY</a></p>
 
 Then you probably upgraded your virtual toolkit with instruments you stumbled upon online. For example, in articles like this one.
 
@@ -34,13 +40,13 @@ In one of our [previous blog posts](https://softcube.com/best-facebook-ad-tools/
 
 In this blog post, we’re going to show you tools for:
 
-- Artificial intelligence
-- Planning
-- Tracking
-- Ad analysis
-- Search engine optimization
-- Design 
-- Copywriting
+* Artificial intelligence
+* Planning
+* Tracking
+* Ad analysis
+* Search engine optimization
+* Design 
+* Copywriting
 
 Ready to make your marketing more effective? Those of you who have enough patience to read till the end will even get a gift that will double that effectiveness. Let’s go!
 
@@ -50,10 +56,10 @@ In 2019, the global AI and machine learning market reached almost [$6.8 billion 
 
 Over the next five years, businesses plan to use artificial intelligence to:
 
-- get market and customer insights that will improve sales, customer retention, and personalization
-- automate repetitive tasks
-- increase the efficiency and compliance of financial and accounting services
-- analyze unorganized text and voice information
+* get market and customer insights that will improve sales, customer retention, and personalization
+* automate repetitive tasks
+* increase the efficiency and compliance of financial and accounting services
+* analyze unorganized text and voice information
 
 The coolest part is that AI offers many more possibilities for businesses than what’s described in the Forbes article linked to above. Here are some of the best AI tools for digital marketing that your company can take advantage of:
 
@@ -77,15 +83,15 @@ Yseop is an artificial intelligence tool that automates the creation of websites
 
 In a survey conducted by CoSchedule, over [3,200 marketers from more than 100 countries](https://coschedule.com/marketing-statistics/) were asked a question:
 
-_Is your marketing team proactively organized (planning tasks, campaigns, and projects ahead of time with clear processes built around organizational tools)?_
+*Is your marketing team proactively organized (planning tasks, campaigns, and projects ahead of time with clear processes built around organizational tools)?*
 
 Here are the answers:
 
-- Very organized — 14%
-- Somewhat organized — 51%
-- Unsure — 10%
-- Somewhat disorganized — 18%
-- Very disorganized — 7% 
+* Very organized — 14%
+* Somewhat organized — 51%
+* Unsure — 10%
+* Somewhat disorganized — 18%
+* Very disorganized — 7% 
 
 What kind of marketer are you? We hope these digital marketing strategy planning tools will make you a better specialist.
 
@@ -235,7 +241,7 @@ Dribbble is the go-to platform where designers and creative people connect by sh
 
 In a time when visual content has conquered every platform, text is in the shadows but still makes a difference. If you create ads, you need to know how to write good copy.
 
-https://giphy.com/gifs/not-my-job-vpURqIvpuDguQ
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/vpURqIvpuDguQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/not-my-job-vpURqIvpuDguQ">via GIPHY</a></p>
 
 Here are some copywriting tools required for digital marketing success:
 
@@ -263,4 +269,4 @@ RhymeZone is the best online finder of rhymes, near rhymes, synonyms, descriptiv
 
 Video ads are one of the most effective instruments for promoting any product or service online. Don't forget to test [Softube AI](http://softcube.com) that will really come in handy.
 
-Thank you for scrolling through our list of top digital marketing tools. Found something interesting? Let us know in the comments below! Good luck with building your toolset!
+Thank you for scrolling through our list of top digital marketing tools. Good luck with building your toolset!

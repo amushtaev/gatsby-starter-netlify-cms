@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: video marketing statistics
 templateKey: blog-post
 categories:
   - Video Ads
@@ -6,15 +7,22 @@ categories-slug:
   - video-ads
 title: 70 Video Marketing Statistics for 2020
 date: 2019-10-30T00:00:00.000Z
-description: Need modify desk.
+description: Discover the latest video marketing statistics to see which
+  advertising platforms you should use to promote your business with video ads.
 featuredpost: false
 featuredimage: /img/video-marketing-statistics-featured-image.jpg
 image: /img/video-marketing-statistics-featured-image.jpg
 tags:
-  - video
-  - marketing
+  - Facebook ads
+  - Instagram ads
+  - Snapchat ads
+  - video advertising
+  - YouTube ads
+  - statistics
+seo_title: 70 Surprising Video Marketing Statistics for 2020 You Must Know
+metadescription: 
+focus_keyphrase: video marketing statistics
 seotitle: 70 Video Marketing Statistics for 2020
-focuskeyphrase: video marketing statistics
 ---
 <!--StartFragment-->
 

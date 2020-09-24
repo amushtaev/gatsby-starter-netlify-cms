@@ -1,24 +1,28 @@
 ---
+focuskeyphrase: facebook carousel ads
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: How to Make Carousel Ads on Facebook
-date: 2018-12-07
-description: Need modify desk.
+date: 2018-12-07T00:00:00.000Z
+description: Learn a few simple tips about Facebook Carousel Ads and check out a
+  few great ad examples to make engaging video and image carousels for your
+  audience.
 featuredpost: false
 featuredimage: /img/facebook-carousel-ads-featured-image.jpg
 image: /img/facebook-carousel-ads-featured-image.jpg
-seotitle: Best Practices of Using Facebook Carousel Ads for Increasing ROI
-focuskeyphrase: facebook carousel ads
 tags:
-  - brewing
-  - chemex
+  - Facebook ads
+  - image ads
+  - video ads
+seo_title: Best Practices of Using Facebook Carousel Ads for Increasing ROI
+metadescription: 
+focus_keyphrase: facebook carousel ads
+seotitle: Best Practices of Using Facebook Carousel Ads for Increasing ROI
 ---
 <!--StartFragment-->
-
-<script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
 
 Carousel Ads on Facebook are like merry-go-rounds at amusement parks. Visitors have fun while the owner gets their profit. Everyone’s satisfied. Naturally, managing in an amusement park is a far cry from [Facebook marketing](https://softcube.com/).
 
@@ -30,25 +34,37 @@ That’s right. Ten separate ads for the [cost of one](https://softcube.com/guid
 
 Why use Facebook Carousel Ads? There are a few reasons. With Carousel Ads, you can:
 
-- **Demonstrate different products.** Drive leads to separate product pages using separate carousel cards.
-- **Highlight the features of one product.** Showcase a product from every angle.
-- **Engage users with a story.** Add images and videos in a row to come up with an interesting narration.
-- **Give a step-by-step tour. Guide users through any process concerning your product or service.**
-- **Exhibit a large canvas.** Divide one wide image (like a panoramic photo) into several scenes.
+* **Demonstrate different products.** Drive leads to separate product pages using separate carousel cards.
+* **Highlight the features of one product.** Showcase a product from every angle.
+* **Engage users with a story.** Add images and videos in a row to come up with an interesting narration.
+* **Give a step-by-step tour.** Guide users through any process concerning your product or service.
+* **Exhibit a large canvas.** Divide one wide image (like a panoramic photo) into several scenes.
     
-- **Display the advantages.** Show why it’s worth it to become your customer.
+* **Display the advantages.** Show why it’s worth it to become your customer.
 
 It’s not hard to find a use for Carousel Ads. Just think why your business, project, or company is unique and stress this uniqueness using a Carousel.
 
-**Note:** Carousel Ads support the following ad objectives: _Brand Awareness, Reach, Traffic, App Installs, Lead Generation, Messages, Conversions, Catalog Sales, and Store Visits._
+**Note:** Carousel Ads support the following ad objectives: *Brand Awareness, Reach, Traffic, App Installs, Lead Generation, Messages, Conversions, Catalog Sales, and Store Visits.*
 
 ## Facebook Carousel Ad Sizing and Specs
 
 We’ve created a chart of design specifications and sizing that compares the main differences between Facebook photo Carousel and video Carousel Ads.
 
-\[table id=1 /\]
+|                          | Video                                                                                                                                                    | Image                                                                                |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| File types               | 3G2, 3GP, 3GPP, ASF, AVI  DAT, DIVX, DV, F4V, FLV, GIF  M2TS, M4V, MKV, MOD, MOV, MP4  MPE, MPEG, MPEG4, MPG, MTS  NSV, OGM, OGV, QT,  TOD, TS, VOB, WMV | JPG or PNG                                                                           |
+| Minimum file size        | 4GB                                                                                                                                                      | 30MB                                                                                 |
+| Text                     | 125 characters  Up to 2200 characters for Instagram  Up to 30 hashtags for Instagram                                                                     | 125 characters  Up to 2200 characters for Instagram  Up to 30 hashtags for Instagram |
+| Headline                 | 40 characters                                                                                                                                            | 25 characters                                                                        |
+| Link description         | 25 characters                                                                                                                                            | 25 characters                                                                        |
+| Recommended resolution   | At least 1080x1080 pixels  1080x1920 pixels for Stories                                                                                                  | At least 1080x1080 pixels  1080x1920 pixels for Stories                              |
+| Recommended aspect ratio | 1:1  9:16 for Stories                                                                                                                                    | 1:1  9:16 for Stories                                                                |
+| Aspect ratio tolerance   | 3% for Facebook  1% for Instagram                                                                                                                        | 3% for Facebook  1% for Instagram                                                    |
+| Length                   | Up to 240 minutes  Up to 60 seconds for Instagram Feed  Up to 15 seconds for Stories                                                                     | —                                                                                    |
 
-**Note:** The Carousel format supports the following ad placements: _Facebook Feed, Facebook Right Column, Facebook Instant Articles, Facebook Marketplace, Instagram Stories, Instagram Feed, Audience Network Native, Banner and Interstitial, and Messenger Box._
+
+
+**Note:** The Carousel format supports the following ad placements: *Facebook Feed, Facebook Right Column, Facebook Instant Articles, Facebook Marketplace, Instagram Stories, Instagram Feed, Audience Network Native, Banner and Interstitial, and Messenger Box.*
 
 ## Guide to Creating Carousel Ads on Facebook
 
@@ -64,35 +80,35 @@ Already have the knack for creating Carousel Ads? There are two ways you can lau
 
 Follow these twelve steps to create Carousel Ads from your Facebook Page:
 
-1. 1. Click **Promote** on your Page.
-    2. Select **Get More Website Visitors**.
-    3. Click **Edit** in the top right corner of Ad Creative.
-    4. Type in your ad **URL**.
-    5. Enter your ad **text**.
-    6. Click the **+** button to add carousel cards.
-    7. Choose how many cards you want to add.
-    8. If you want to add images from your computer, click **Upload**. If you want to choose from uploaded images, click **Select Image**.
-    9. Enter **headlines** for your cards.
-    10. Click **Save**.
-    11. Enter information about your **audience**, **budget and duration**, and **payment** to complete the ad.
-    12. Click **Promote**.
+1. Click **Promote** on your Page.
+2. Select **Get More Website Visitors**.
+3. Click **Edit** in the top right corner of Ad Creative.
+4. Type in your ad **URL**.
+5. Enter your ad **text**.
+6. Click the **+** button to add carousel cards.
+7. Choose how many cards you want to add.
+8. If you want to add images from your computer, click **Upload**. If you want to choose from uploaded images, click **Select Image**.
+9. Enter **headlines** for your cards.
+10. Click **Save**.
+11. Enter information about your **audience**, **budget and duration**, and **payment** to complete the ad.
+12. Click **Promote**.
 
 ### From Your Ads Manager
 
 Here’s the same process but through Ads Manager:
 
-1. 1. Open [**Ads Manager**](https://www.facebook.com/ads/create/).
-    2. Click **\+ Create**.
-    3. Choose your ad objective. (We’ve already mentioned the objectives that Carousel Ads support.)
-    4. Select **Carousel** at the ad level.
-    5. Click on a card number to upload it and enter all details for your card.
-    6. Repeat the previous step to add as many cards as you need.
+1. Open **[Ads Manager](https://www.facebook.com/ads/create/)**.
+2. Click **+ Create**.
+3. Choose your ad objective. (We’ve already mentioned the objectives that Carousel Ads support.)
+4. Select **Carousel** at the ad level.
+5. Click on a card number to upload it and enter all details for your card.
+6. Repeat the previous step to add as many cards as you need.
 
 ## Facebook Carousel Ads Best Practices
 
 Here are some tips and tricks that will help you to convert leads into customers and increase your ROI using Carousel Ads on Facebook.
 
-![](/img/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/3oz8xUoZC8D0J2Grss" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tom-hanks-youve-got-mail-merry-go-round-3oz8xUoZC8D0J2Grss">via GIPHY</a></p>
 
 ### Take Advantage of All Ad Elements
 

@@ -1,20 +1,28 @@
 ---
+focuskeyphrase: video in email marketing
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: How to Benefit From Video in Email Marketing
-date: 2019-07-19
-description: Need modify desk.
+date: 2019-07-19T00:00:00.000Z
+description: Read why you should use video in email marketing campaigns and
+  learn how to embed video content to your emails from scratch without a hitch.
 featuredpost: false
 featuredimage: /img/video-in-email-marketing-featured-image.jpg
 image: /img/video-in-email-marketing-featured-image.jpg
-seotitle: "Video in Email Marketing: Everything You Need to Know"
-focuskeyphrase: video in email marketing
 tags:
-  - brewing
-  - chemex
+  - email advertising
+  - cinemagraph
+  - email
+  - GIF
+  - vimeo
+  - YouTube
+seo_title: "Video in Email Marketing: Everything You Need to Know"
+metadescription: 
+focus_keyphrase: video in email marketing
+seotitle: "Video in Email Marketing: Everything You Need to Know"
 ---
 <!--StartFragment-->
 

@@ -1,28 +1,36 @@
 ---
+focuskeyphrase: how to sell on facebook
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: How to Sell Products and Services on Facebook
-date: 2019-05-11
-description: Need modify desk.
+date: 2019-05-11T00:00:00.000Z
+description: Want to promote your products and services on the world’s number
+  one social network? Learn how to sell on Facebook using ten simple
+  recommendations.
 featuredpost: false
 featuredimage: /img/how-to-sell-products-on-facebook-featured-image.jpg
 image: /img/how-to-sell-products-on-facebook-featured-image.jpg
-seotitle: What’s the Best Way to Sell Products on Facebook?
-focuskeyphrase: how to sell on facebook
 tags:
-  - brewing
-  - chemex
+  - Dynamic ads
+  - Facebook Pixel
+  - Custom Audiences
+  - Lookalike Audiences
+  - Messenger
+seo_title: What’s the Best Way to Sell Products on Facebook?
+metadescription: 
+focus_keyphrase: how to sell on facebook
+seotitle: What’s the Best Way to Sell Products on Facebook?
 ---
 <!--StartFragment-->
 
 Facebook is an awesome advertising platform for marketplaces, medium-sized businesses, and small retailers.  
 
-Whatever your place in the market, there’s no _best way_ to sell products on Facebook.  
+Whatever your place in the market, there’s no *best way* to sell products on Facebook.  
 
-Of course, in our humble opinion, you should consider [**AI-powered video advertising**](https://softcube.com/), but it’s worth nothing without an excellent strategy. Which means you should find the best way yourself.
+Of course, in our humble opinion, you should consider **[AI-powered video advertising](https://softcube.com/)**, but it’s worth nothing without an excellent strategy. Which means you should find the best way yourself.
 
 Searching for the best strategy will give you lots of experience that will help you in the future, especially if you’re considering advertising on Facebook as a long-term journey.
 
@@ -30,19 +38,19 @@ Searching for the best strategy will give you lots of experience that will help 
 
 A Facebook ad campaign is like a journey to Mars. We know how it works in theory, don’t we?
 
-![](/img/giphy.gif)
+https://imgur.com/ARxWY48
 
 Once launched, an ad campaign can’t be canceled. Well, it can be canceled, but it’d be a waste of time and effort in that case.  
 
 To avoid surprises, you should prepare for your campaign by:  
 
-- choosing the right ad objective
-- setting the right ad placements
-- target the right audience
-- allocate the right budget and schedule it
-- select the right bidding strategy to spend your budget wisely
-- pick the right ad format
-- come up with the right text and visuals for the ads
+* choosing the right ad objective
+* setting the right ad placements
+* target the right audience
+* allocate the right budget and schedule it
+* select the right bidding strategy to spend your budget wisely
+* pick the right ad format
+* come up with the right text and visuals for the ads
 
 The best method is to combine the right components into an ad set that works.  
 
@@ -60,7 +68,7 @@ It would be great to have a developer nearby to set up the code without mistakes
 
 ![How to sell products on Facebook —  Pixel](/img/how-to-sell-products-on-facebook-pixel.jpg)
 
-Every action tracked by the Pixel on your website is called an _event_. After you add the Pixel code, you need to select the events you want to track.
+Every action tracked by the Pixel on your website is called an *event*. After you add the Pixel code, you need to select the events you want to track.
 
 ![How to sell products on Facebook — Pixel events](/img/how-to-sell-products-on-facebook-pixel-events.jpg)
 
@@ -107,15 +115,15 @@ Custom Audiences is a feature that allows you to [target any possible group](htt
 
 You can create a Custom Audience from:  
 
-- **customer lists** that contain customers’ names, emails, and other personal data
-- **your website or app users** tracked by your Pixel
-- **users who’ve already engaged with your business on Facebook** through videos, lead forms, your business Page, events, and your Instagram business profile
+* **customer lists** that contain customers’ names, emails, and other personal data
+* **your website or app users** tracked by your Pixel
+* **users who’ve already engaged with your business on Facebook** through videos, lead forms, your business Page, events, and your Instagram business profile
 
-There are also Lookalike Audiences, which allow you to find new customers who look like those from any Custom Audience you choose. This is a perfect tool to find people who are more likely to buy your products or services.
+There are also [Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/), which allow you to find new customers who look like those from any Custom Audience you choose. This is a perfect tool to find people who are more likely to buy your products or services.
 
 ### Boost Your Sales Automatically with Dynamic Ads
 
-Dynamic Ads is the only Facebook ad format that allows you to generate ads automatically.
+[Dynamic Ads](https://softcube.com/facebook-dynamic-product-ads/) is the only Facebook ad format that allows you to generate ads automatically.
 
 ![How to sell products on Facebook — Dynamic Ads](/img/facebook-ad-targeting-dynamic-ads.jpg)
 
@@ -123,11 +131,11 @@ Say you have hundreds of items in your product catalog and you want to promote t
 
 In this case, Dynamic Ads will come in handy. To set up Dynamic Ads, you need to:  
 
-- Add Facebook Pixel to the header of every website page
-- add a product catalog and upload your products
-- create a template for Facebook to generate your ads automatically
+* [Add Facebook Pixel](https://softcube.com/how-to-create-a-facebook-pixel/) to the header of every website page
+* add a product catalog and upload your products
+* create a template for Facebook to generate your ads automatically
 
-After you launch [Dynamic Ads](https://softcube.com/facebook-dynamic-product-ads/), you’re free to continue growing your business — a Dynamic Ad campaign only needs to be launched once.
+After you launch Dynamic Ads, you’re free to continue growing your business — a Dynamic Ad campaign only needs to be launched once.
 
 ### Offer Discounts and Special Deals with Offer Ads
 
@@ -137,12 +145,12 @@ If you don’t know how to sell something on Facebook, make a special offer with
 
 Offer Ads are made for e-commerce. You can promote any deal with one of six offer types:  
 
-- Discount percent
-- Discount amount
-- Buy X get Y discount
-- Spend X get Y off
-- Free shipping
-- Customized
+* Discount percent
+* Discount amount
+* Buy X get Y discount
+* Spend X get Y off
+* Free shipping
+* Customized
 
 If you have a promo code, you can add it too. If you choose Conversions or Store Traffic ad objectives, you’ll be able to find out how many users view, click on, and use your offer.  
 
@@ -215,7 +223,7 @@ And don’t forget that you can use Instagram together with Facebook: link your 
 
 ### Increase Your Customer Experience via Messenger
 
-When selling products on Facebook and Instagram, you can build strong personal relationships with the same (or new) customers using Messenger.  
+When selling products on Facebook and Instagram, you can build strong personal relationships with the same (or new) customers using [Messenger](https://softcube.com/how-to-start-a-personal-chat-with-messenger-ads/).  
 
 First of all, you’ll need a chatbot. Chatbots are gaining popularity among businesses. They can help you not only improve the customer experience but collect crucial data for boosting sales in the future.  
 
@@ -271,16 +279,10 @@ Find solutions that work for you, combine them, and use them as you wish!
 
 Let’s recap.  
 
-- When starting your journey, install official software such as Pixel, Offline Conversions, and Chatbot for Messenger.
-
-- Segment your customers and create Custom and Lookalike Audiences.
-
-- Test special ad formats for e-commerce such as Offer Ads to promote discounts, Lead Ads to find new leads, and Post Engagement Ads to highlight releases and updates.
-
-- Take advantage of the Facebook ad network. Try ad placements such as Instagram and Messenger.
-
-- Post videos and images on Instagram using the Boomerang, Layout, and Hyperlapse mobile apps. Use the IGTV mobile app as an alternative Instagram posting channel.
-
-- Create a chatbot and launch ads in Messenger to establish a stronger connection with your target audience.
-
-- Use Softcube artificial intelligence
+* When starting your journey, install official software such as Pixel, Offline Conversions, and Chatbot for Messenger.
+* Segment your customers and create Custom and Lookalike Audiences.
+* Test special ad formats for e-commerce such as Offer Ads to promote discounts, Lead Ads to find new leads, and Post Engagement Ads to highlight releases and updates.
+* Take advantage of the Facebook ad network. Try ad placements such as Instagram and Messenger.
+* Post videos and images on Instagram using the Boomerang, Layout, and Hyperlapse mobile apps. Use the IGTV mobile app as an alternative Instagram posting channel.
+* Create a chatbot and launch ads in Messenger to establish a stronger connection with your target audience.
+* Use Softcube artificial intelligence

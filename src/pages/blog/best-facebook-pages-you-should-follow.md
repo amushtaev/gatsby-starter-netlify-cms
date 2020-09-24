@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: best facebook pages
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -6,15 +7,20 @@ categories-slug:
   - facebook-ads
 title: 29 Best Facebook Pages You Should Follow
 date: 2019-11-07T00:00:00.000Z
-description: Need modify desk.
+description: Want to look at some of the best Facebook Pages? Scroll through
+  this post, find the Pages you like, and learn how to grow your community.
 featuredpost: false
 featuredimage: /img/best-facebook-pages-featured-image.jpg
 image: /img/best-facebook-pages-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - chatbots
+  - Messenger
+  - video ads
+  - video marketing
+seo_title: 29 Best Facebook Pages That Will Help Your Business Grow
+metadescription: 
+focus_keyphrase: best facebook pages
 seotitle: 29 Best Facebook Pages You Should Follow
-focuskeyphrase: best facebook pages
 ---
 <!--StartFragment-->
 
@@ -209,7 +215,7 @@ Post video content on the News Feed and launch video ad campaigns. 
 
 Also, don’t forget to add a cover video for your page. A cover video will make your page more vivid and alive than a cover image.
 
-https://gph.is/g/aeBAJNW
+<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/YLsNzJxDs3dMy9rhbg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/YLsNzJxDs3dMy9rhbg">via GIPHY</a></p>
 
 Note that your video should be at least 820x312 pixels. For the best results, Facebook recommends picking an 820x462 video. The recommended length for your cover video is 20 to 90 seconds.
 

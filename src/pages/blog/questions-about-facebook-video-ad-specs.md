@@ -1,20 +1,26 @@
 ---
+focuskeyphrase: facebook video ad specs
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: 5 Major Questions about Facebook Video Ad Specs
-date: 2019-11-14
-description: Need modify desk.
+date: 2019-11-14T00:00:00.000Z
+description: Read this post to find answers to five major questions about
+  Facebook video ad specs and learn how to make flawless high-quality video ads.
 featuredpost: false
 featuredimage: /img/facebook-video-ad-specs-featured-picture.jpg
 image: /img/facebook-video-ad-specs-featured-picture.jpg
-seotitle: All Facebook Video Ad Specs You Need to Create Amazing Ads
-focuskeyphrase: facebook video ad specs
 tags:
-  - brewing
-  - chemex
+  - video
+  - video ads
+  - video advertising
+  - video marketing
+seo_title: All Facebook Video Ad Specs You Need to Create Amazing Ads
+metadescription: 
+focus_keyphrase: facebook video ad specs
+seotitle: All Facebook Video Ad Specs You Need to Create Amazing Ads
 ---
 <!--StartFragment-->
 
@@ -40,102 +46,102 @@ Each of these Placements has its own video ad specifications. Let’s take a loo
 
 #### Facebook Feed
 
-- Supported objectives: All
-- Video length: Up to 240 minutes
-- Source ratio: 16:9 to 9:16
-- Video file size: Up to 4GB
-- Captions required: Yes
-- Sound required: No
+* Supported objectives: All
+* Video length: Up to 240 minutes
+* Source ratio: 16:9 to 9:16
+* Video file size: Up to 4GB
+* Captions required: Yes
+* Sound required: No
 
 #### Facebook Instant Articles
 
-- Supported objectives: All except store visits and messages
-- Video length: Up to 240 minutes
-- Source ratio: 16:9 to 9:16
-- Video file size: Up to 4GB
-- Captions required: No
-- Sound required: No
+* Supported objectives: All except store visits and messages
+* Video length: Up to 240 minutes
+* Source ratio: 16:9 to 9:16
+* Video file size: Up to 4GB
+* Captions required: No
+* Sound required: No
 
 #### Facebook In-Stream Video
 
-- Supported objectives: Engagement, reach, video views, brand awareness
-- Video length: 5–15 seconds
-- Source ratio: 16:9 to 9:16
-- Video file size: Up to 4GB
-- Captions required: Yes
-- Sound required: Yes
+* Supported objectives: Engagement, reach, video views, brand awareness
+* Video length: 5–15 seconds
+* Source ratio: 16:9 to 9:16
+* Video file size: Up to 4GB
+* Captions required: Yes
+* Sound required: Yes
 
 #### Facebook Marketplace
 
-- Supported objectives: All except app installs and engagement
-- Video length: Up to 240 minutes
-- Source ratio: 16:9 to 9:16
-- Video file size: Up to 4GB
-- Captions required: No
-- Sound required: No
+* Supported objectives: All except app installs and engagement
+* Video length: Up to 240 minutes
+* Source ratio: 16:9 to 9:16
+* Video file size: Up to 4GB
+* Captions required: No
+* Sound required: No
 
 #### Facebook Stories
 
-- Supported objectives: All except catalogue sales, store visits, and messages
-- Video length: 1–120 seconds
-- Source ratio: 16:9 to 9:16
-- Video file size: Up to 4GB
-- Captions required: No
-- Sound required: No
+* Supported objectives: All except catalogue sales, store visits, and messages
+* Video length: 1–120 seconds
+* Source ratio: 16:9 to 9:16
+* Video file size: Up to 4GB
+* Captions required: No
+* Sound required: No
 
 #### Facebook Search Results
 
-- Supported objectives: Conversions, catalog sales, traffic
-- Video length: Up to 240 minutes
-- Source ratio: 16:9 to 9:16
-- Video file size: Up to 4GB
-- Captions required: No
-- Sound required: No
+* Supported objectives: Conversions, catalog sales, traffic
+* Video length: Up to 240 minutes
+* Source ratio: 16:9 to 9:16
+* Video file size: Up to 4GB
+* Captions required: No
+* Sound required: No
 
 #### Facebook Video Feeds
 
-- Supported objectives: Brand awareness, engagement, app installs, video views, reach, conversions
-- Video length: Up to 240 minutes
-- Source ratio: 16:9 to 9:16
-- Video file size: Up to 4GB
-- Captions required: Optional
-- Sound required: No
+* Supported objectives: Brand awareness, engagement, app installs, video views, reach, conversions
+* Video length: Up to 240 minutes
+* Source ratio: 16:9 to 9:16
+* Video file size: Up to 4GB
+* Captions required: Optional
+* Sound required: No
 
 #### Instagram Stories
 
-- Supported objectives: All except catalogue sales, store visits, and messages
-- Video length: 1–120 seconds
-- Source ratio: 16:9 to 4:5 and 9:16
-- Video file size: Up to 30MB
-- Captions required: No
-- Sound required: No
+* Supported objectives: All except catalogue sales, store visits, and messages
+* Video length: 1–120 seconds
+* Source ratio: 16:9 to 4:5 and 9:16
+* Video file size: Up to 30MB
+* Captions required: No
+* Sound required: No
 
 #### Instagram Feed
 
-- Supported objectives: All
-- Video length: 1–120 seconds
-- Source ratio: 1.91:1 to 4:5
-- Video file size: Up to 30MB
-- Captions required: Yes
-- Sound required: No
+* Supported objectives: All
+* Video length: 1–120 seconds
+* Source ratio: 1.91:1 to 4:5
+* Video file size: Up to 30MB
+* Captions required: Yes
+* Sound required: No
 
 #### Audience Network Native, Banner, and Interstitial
 
-- Supported objectives: Reach, traffic, app installs, video views, conversions
-- Video length: 1–120 seconds
-- Source ratio: 16:9 to 9:16
-- Video file size: Up to 4GB
-- Captions required: No
-- Sound required: No
+* Supported objectives: Reach, traffic, app installs, video views, conversions
+* Video length: 1–120 seconds
+* Source ratio: 16:9 to 9:16
+* Video file size: Up to 4GB
+* Captions required: No
+* Sound required: No
 
 #### Audience Network In-Stream Video
 
-- Supported objectives: Reach, brand awareness, engagement, video views, conversions
-- Video length: 10–120 seconds
-- Source ratio: 16:9, 1:1
-- Video file size: Up to 4GB
-- Captions required: No
-- Sound required: Yes
+* Supported objectives: Reach, brand awareness, engagement, video views, conversions
+* Video length: 10–120 seconds
+* Source ratio: 16:9, 1:1
+* Video file size: Up to 4GB
+* Captions required: No
+* Sound required: Yes
 
 ### Question 2. What are the specifications for Facebook video ad formats?
 
@@ -143,36 +149,36 @@ There are lots of supported video formats for Facebook ads. Basically, they can 
 
 Facebook video ads can be uploaded in the following technical formats:
 
-- 3G2 
-- 3GP 
-- 3GPP
-- ASF
-- AVI
-- DAT
-- DIVX
-- DV
-- F4V
-- FLV
-- GIF
-- M2TS
-- M4V
-- MKV
-- MOD
-- MOV
-- MPE
-- MPEG
-- MPEG4
-- MP4
-- MPG
-- MTS
-- NSV
-- OGM
-- OGV
-- QT
-- TOD
-- TS
-- VOB
-- WMV
+* 3G2 
+* 3GP 
+* 3GPP
+* ASF
+* AVI
+* DAT
+* DIVX
+* DV
+* F4V
+* FLV
+* GIF
+* M2TS
+* M4V
+* MKV
+* MOD
+* MOV
+* MPE
+* MPEG
+* MPEG4
+* MP4
+* MPG
+* MTS
+* NSV
+* OGM
+* OGV
+* QT
+* TOD
+* TS
+* VOB
+* WMV
 
 Facebook recommends video content creators focus on MP4, GIF, and MOV. 
 
@@ -186,50 +192,50 @@ Here are the Facebook video carousel ad specs for every placement.
 
 **Facebook Feed**
 
-- Video file size: Up to 4GB
-- Video length: Up to 240 minutes
-- Recommended ratio: 1:1
+* Video file size: Up to 4GB
+* Video length: Up to 240 minutes
+* Recommended ratio: 1:1
 
 **Facebook Right Column**
 
-- Video file size: Up to 4GB
-- Video length: Up to 240 minutes
-- Recommended ratio: 1:1
+* Video file size: Up to 4GB
+* Video length: Up to 240 minutes
+* Recommended ratio: 1:1
 
 **Facebook Instant Articles**
 
-- Video file size: Up to 4GB
-- Video length: Up to 240 minutes
-- Recommended ratio: 1:1
+* Video file size: Up to 4GB
+* Video length: Up to 240 minutes
+* Recommended ratio: 1:1
 
 **Facebook Marketplace**
 
-- Video file size: Up to 4GB
-- Video length: Up to 240 minutes
-- Recommended ratio: 1:1
+* Video file size: Up to 4GB
+* Video length: Up to 240 minutes
+* Recommended ratio: 1:1
 
 **Facebook Search Results**
 
-- Video file size: Up to 4GB
-- Video length: Up to 240 minutes
-- Recommended ratio: 1:1
+* Video file size: Up to 4GB
+* Video length: Up to 240 minutes
+* Recommended ratio: 1:1
 
 **Audience Network Native, Banner, and Interstitial**
 
-- Video file size: Up to 4GB
-- Video length: Up to 240 minutes
-- Recommended ratio: 1:1
+* Video file size: Up to 4GB
+* Video length: Up to 240 minutes
+* Recommended ratio: 1:1
 
 **Instagram Stories**
 
-- Video length: Up to 15 seconds
-- Video length for prompted videos: Up to 60 seconds
+* Video length: Up to 15 seconds
+* Video length for prompted videos: Up to 60 seconds
 
 **Instagram Feed**
 
-- Video file size: Up to 4GB
-- Video length: Up to 60 minutes
-- Recommended ratio: 1:1
+* Video file size: Up to 4GB
+* Video length: Up to 60 minutes
+* Recommended ratio: 1:1
 
 #### Collection Ads
 
@@ -237,13 +243,13 @@ Collections are ad posts that have the form of a grid headed by a video or image
 
 **Facebook Feed**
 
-- Video file size: Up to 4GB
-- Aspect ratio: 16:9 or 1:1
+* Video file size: Up to 4GB
+* Aspect ratio: 16:9 or 1:1
 
 **Instagram Feed**
 
-- Video file size: Up to 4GB
-- Aspect ratio: 16:9 or 1:1
+* Video file size: Up to 4GB
+* Aspect ratio: 16:9 or 1:1
 
 #### Lead Ads
 
@@ -251,16 +257,16 @@ Lead Ads are [ready-made forms](https://softcube.com/how-to-create-facebook-lead
 
 **Facebook**
 
-- Video length: Up to 15 seconds
-- Source ratio: 4:5 (vertical)
-- Video: H.264, high profile preferred, square pixels, fixed frame rate, progressive scan
-- Format: MP4 container, ideally with leading moov atom, no edit lists
+* Video length: Up to 15 seconds
+* Source ratio: 4:5 (vertical)
+* Video: H.264, high profile preferred, square pixels, fixed frame rate, progressive scan
+* Format: MP4 container, ideally with leading moov atom, no edit lists
 
 **Instagram**
 
-- Aspect ratio: 4:5 (vertical)
-- Video: H.264, high profile preferred, square pixels, fixed frame rate, progressive scan
-- File type: MP4 container, ideally with leading moov atom, no edit lists
+* Aspect ratio: 4:5 (vertical)
+* Video: H.264, high profile preferred, square pixels, fixed frame rate, progressive scan
+* File type: MP4 container, ideally with leading moov atom, no edit lists
 
 ### Question 3. What length should my Facebook videos be?
 
@@ -274,7 +280,21 @@ One of the advantages of showing short video content on Facebook is looping. All
 
 For example, a 15-second video ad will have nearly six loops. After looping, the thumbnail of your video appears.
 
-\[table id=8 /\]
+| Placement                                             | Video Length      |
+| ----------------------------------------------------- | ----------------- |
+| Facebook Feed                                         | Up to 240 minutes |
+| Facebook Stories                                      | 1–15 seconds      |
+| Facebook In-Stream Video                              | Up to 240 minutes |
+| Facebook Instant Articles                             | Up to 240 minutes |
+| Facebook Marketplace                                  | Up to 240 minutes |
+| Instagram Feed                                        | 1–120 seconds     |
+| Instagram Stories                                     | 1–120 seconds     |
+| Instagram Explore                                     | 1–120 seconds     |
+| Audience Network In-Stream                            | 5–30 seconds      |
+| Audience Network Rewarded Video                       | 3–60 seconds      |
+| Audience Network Native, Banner, and Interstitial Ads | 1–120 seconds     |
+
+
 
 Although short video ads are effective in most cases, don’t forget that long video content can also work great for some Facebook Placements.
 

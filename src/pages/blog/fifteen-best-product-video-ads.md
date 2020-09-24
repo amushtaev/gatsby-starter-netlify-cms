@@ -18,6 +18,7 @@ tags:
   - video footage
   - brands
 seo_title: 15 Best Examples of Product Video Ads for Your Business
+metadescription: 
 focus_keyphrase: best product video ads
 seotitle: 15 Best Examples of Product Video Ads for Your Business
 ---
@@ -183,7 +184,7 @@ Drones have brought about a revolution in video production. No more shots taken 
 
 DJI is a technology company that offers unmanned aerial vehicles, cameras, stabilizers, accessories, and software for consumers and enterprises.
 
-Creating amazing video ads for this company isn’t a problem at all. DJI’s both target audiences can enjoy videos directly captured by their products. For example, the footage of Spencer Seabrooke’s world record.
+Creating amazing [video ads](https://softcube.com/category/video-ads/) for this company isn’t a problem at all. DJI’s both target audiences can enjoy videos directly captured by their products. For example, the footage of Spencer Seabrooke’s world record.
 
 ## How to Launch Best Product Ads Fast and at Scale
 

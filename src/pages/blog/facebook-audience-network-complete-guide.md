@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: facebook audience network
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -6,15 +7,25 @@ categories-slug:
   - facebook-ads
 title: "Facebook Audience Network: Monetization and Advertising"
 date: 2020-04-30T00:00:00.000Z
-description: Need modify desk.
+description: "Read a two-part guide to the Facebook Audience Network: for
+  developers and for advertisers. Learn how to succeed by running and monetizing
+  ads."
 featuredpost: false
 featuredimage: /img/facebook-audience-network-featured-image.jpg
 image: /img/facebook-audience-network-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - Ads Manager
+  - Audience Network SDK
+  - display ads
+  - Business Manager
+  - interstitial ads
+  - Monetization Manager
+  - Native ads
+  - Playable ads
+seo_title: How to Monetize and Advertise on Facebook Audience Network
+metadescription: 
+focus_keyphrase: facebook audience network
 seotitle: How to Monetize and Advertise on Facebook Audience Network
-focuskeyphrase: facebook audience network
 ---
 <!--StartFragment-->
 
@@ -22,7 +33,7 @@ Mobile is silently winning the internet. And this has big consequences.
 
 As of the fourth quarter of 2019, mobile devices (not counting tablets) amounted to nearly [53% of global internet traffic](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/) according to Statista.
 
-https://giphy.com/gifs/mobile-donkey-carrying-E8B7aweTkhfqw
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/E8B7aweTkhfqw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mobile-donkey-carrying-E8B7aweTkhfqw">via GIPHY</a></p>
 
 Interestingly, one of the reasons for the skyrocketing growth of mobile traffic is the rising digital markets in India and most African countries that skipped the desktop internet era due to financial restraints and lack of infrastructure.
 
@@ -60,7 +71,7 @@ According to internal data, in 2018 Facebook paid out [over $1.5 billion](https:
 
 In this part, you’ll discover the major elements you need to get started with monetizing your app and find out how to set up monetization step by step.
 
-https://giphy.com/gifs/13HgwGsXF0aiGY
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
 
 Additionally, we’ll mention a few tips on how to effectively monetize your app with the Audience Network and how to handle possible challenges. 
 
@@ -104,35 +115,35 @@ Before you create your property, read the [Facebook Audience Network Policy](htt
 
 Note that it will take nearly 72 hours for Facebook to review and approve your mobile app.
 
-**Step 4** — Pick your ad placements. When it comes to choosing Facebook placements, the Audience Network offers the following options: 
+**Step 4** — Pick your [ad placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/). When it comes to choosing Facebook placements, the Audience Network offers the following options: 
 
-- **Rewarded video ads** is a placement you can choose to monetize a gaming app and reward people who have watched your ad. 
+* **Rewarded video ads** is a placement you can choose to monetize a gaming app and reward people who have watched your ad. 
 
-https://giphy.com/gifs/cJBIT8kiM3hb3z5yrn
+<div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/cJBIT8kiM3hb3z5yrn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cJBIT8kiM3hb3z5yrn">via GIPHY</a></p>
 
 For instance, Pretty Simple achieved a [20% higher CPM](https://www.facebook.com/audiencenetwork/success-stories/pretty-simple-rewarded-video) using rewarded videos on the Audience Network.
 
 **NOTE**: In the Facebook Audience Network, CPC (cost per click) is unavailable.
 
-- **Playable ads** are one more [Facebook ad format](https://www.facebook.com/business/success/2-oneplus) available on the Audience Network for mobile gaming apps.
+* **Playable ads** are one more [Facebook ad format](https://www.facebook.com/business/success/2-oneplus) available on the Audience Network for mobile gaming apps.
 
-https://giphy.com/gifs/ZClQyZaslepWOPV6Bi
+<div style="width:100%;height:0;padding-bottom:204%;position:relative;"><iframe src="https://giphy.com/embed/ZClQyZaslepWOPV6Bi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ZClQyZaslepWOPV6Bi">via GIPHY</a></p>
 
 A playable ad consists of three parts: a video intro, a game demo, and a call-to-action screen.
 
-- **Interstitial ads** are full-screen video ads that appear soon after a mobile app user takes an action and before they’re about to take the next.
+* **Interstitial ads** are full-screen video ads that appear soon after a mobile app user takes an action and before they’re about to take the next.
 
-https://giphy.com/gifs/JrYP2N7RDvAcOUKszs
+<div style="width:100%;height:0;padding-bottom:190%;position:relative;"><iframe src="https://giphy.com/embed/JrYP2N7RDvAcOUKszs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/JrYP2N7RDvAcOUKszs">via GIPHY</a></p>
 
 Interstitial videos can be launched in two formats: autoplay and click-to-play.
 
-- **Native ads** are image ads that you can customize in any way you like to organically fit your mobile app design.
+* **Native ads** are image ads that you can customize in any way you like to organically fit your mobile app design.
 
 ![Facebook Audience Network — Native Ads](/img/facebook-audience-network-native-ads.jpg)
 
 These ads provide a native user experience by receiving data from the Native Ad API.
 
-- **Display ads** are traditional banner ads that show up at the top or bottom of the screen.
+* **Display ads** are traditional banner ads that show up at the top or bottom of the screen.
 
 ![Facebook Audience Network — Display Ads](/img/facebook-audience-network-display-ads.jpg)
 
@@ -142,10 +153,10 @@ Facebook claims this ad placement performs the worst because people are used to 
 
 Here’s a list of guides on how to integrate with the Audience Network if you’re using multiple platforms to monetize your app:
 
-- [MoPub](https://developers.mopub.com/publishers/mediation/networks/facebook/) — [iOS](https://developers.mopub.com/publishers/ios/integrate-networks/), [Android](https://developers.mopub.com/publishers/android/integrate-networks/)
-- [AdMob](https://admob.google.com/home/) — [iOS](https://developers.mopub.com/publishers/ios/integrate-networks/), [Android](https://developers.google.com/admob/android/mediation/facebook)
-- [ironSource](https://developers.ironsrc.com/) — [iOS](https://developers.ironsrc.com/ironsource-mobile/ios/facebook-mediation-guide/#step-1), [Android](https://developers.ironsrc.com/ironsource-mobile/android/facebook-mediation-guide/)
-- [AdManager](https://admanager.google.com/home/) — [iOS](https://developers.google.com/ad-manager/mobile-ads-sdk/ios/mediation/facebook), [Android](https://developers.google.com/ad-manager/mobile-ads-sdk/android/mediation/facebook)
+* [MoPub](https://developers.mopub.com/publishers/mediation/networks/facebook/) — [iOS](https://developers.mopub.com/publishers/ios/integrate-networks/), [Android](https://developers.mopub.com/publishers/android/integrate-networks/)
+* [AdMob](https://admob.google.com/home/) — [iOS](https://developers.mopub.com/publishers/ios/integrate-networks/), [Android](https://developers.google.com/admob/android/mediation/facebook)
+* [ironSource](https://developers.ironsrc.com/) — [iOS](https://developers.ironsrc.com/ironsource-mobile/ios/facebook-mediation-guide/#step-1), [Android](https://developers.ironsrc.com/ironsource-mobile/android/facebook-mediation-guide/)
+* [AdManager](https://admanager.google.com/home/) — [iOS](https://developers.google.com/ad-manager/mobile-ads-sdk/ios/mediation/facebook), [Android](https://developers.google.com/ad-manager/mobile-ads-sdk/android/mediation/facebook)
 
 If the Audience Network is the first platform you’re monetizing your mobile app with, here are guidelines for [iOS](https://developers.facebook.com/docs/audience-network/get-started/ios) and [Android](https://developers.facebook.com/docs/audience-network/get-started/android) developers.
 
@@ -181,32 +192,32 @@ You never know which ad placements will work best for your app until you try the
 
 ### Prevent Ad Blindness
 
-Accidental clicks are one of the most challenging issues you have to deal with when preparing your ad placements in order to walk users to the end of the sales funnel and get them to finish conversions.
+Accidental clicks are one of the most challenging issues you have to deal with when preparing your [ad placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/) in order to walk users to the end of the sales funnel and get them to finish conversions.
 
 **Best Practices for Rewarded Video Ads**:
 
-- Write a clear call to action
-- Don't devalue your reward by showing too many videos
-- Provide users with informative messaging
-- Don’t show your videos too early
+* Write a clear call to action
+* Don't devalue your reward by showing too many videos
+* Provide users with informative messaging
+* Don’t show your videos too early
 
 **Best Practices for Interstitial Ads**:
 
-- Place blank space to tell people they’re about to see an ad if your ad shows up too slowly.
-- Don’t show interstitial ads to users who have declined to watch your rewarded video ads so as not to lower the quality of clicks.
-- Know where to show your interstitial ads: don’t show ads when users leave an app but rather after users have completed an action.
-- Avoid showing your ads too frequently.
+* Place blank space to tell people they’re about to see an ad if your ad shows up too slowly.
+* Don’t show interstitial ads to users who have declined to watch your rewarded video ads so as not to lower the quality of clicks.
+* Know where to show your interstitial ads: don’t show ads when users leave an app but rather after users have completed an action.
+* Avoid showing your ads too frequently.
 
 **Best Practices for Native Ads**:
 
-- Draw borders for blocks where you show your native ads and leave enough space between blocks so as not to confuse users.
-- Stress _Sponsored Ad_ labels to make sure users see them clearly.
-- Test your native ads to find the best way to show them.
+* Draw borders for blocks where you show your native ads and leave enough space between blocks so as not to confuse users.
+* Stress *Sponsored Ad* labels to make sure users see them clearly.
+* Test your native ads to find the best way to show them.
 
 **Best Practices for Display Ads**:
 
-- Show your display ads only at the top or bottom of the screen.
-- Don’t place banners on clickable areas of your app.
+* Show your display ads only at the top or bottom of the screen.
+* Don’t place banners on clickable areas of your app.
 
 ### Ask a Question
 
@@ -218,22 +229,22 @@ Your team will definitely experience some underwater rocks when optimizing your 
 
 If you run into any challenges, go to the [Audience Network Developer Support](https://developers.facebook.com/support/) page and:
 
-- Use the community forum to find answers to your questions
-- Report bugs
-- Ask about payments
-- Appeal decisions about your mobile app
+* Use the community forum to find answers to your questions
+* Report bugs
+* Ask about payments
+* Appeal decisions about your mobile app
 
 ### Spend Payouts on Facebook Ads
 
 Last but not least, spend your monetization earnings on boosting your own mobile app by launching ad campaigns in Facebook Ads Manager. 
 
-This is a wonderful idea, especially since we’re now going to answer the question, _What is the Facebook Audience Network_ _for advertisers?_
+This is a wonderful idea, especially since we’re now going to answer the question, *What is the Facebook Audience Network* *for advertisers?*
 
 ## Part 2. Facebook Audience Network for Advertisers
 
 Facebook claims that [over 1 billion people](https://www.facebook.com/audiencenetwork/) see an ad from the Audience Network every month.
 
-https://giphy.com/gifs/season-16-the-simpsons-16x20-3o6Mbmg6AchRmB4ylO
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3o6Mbmg6AchRmB4ylO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-16-the-simpsons-16x20-3o6Mbmg6AchRmB4ylO">via GIPHY</a></p>
 
 One [case study](https://www.facebook.com/business/news/insights/optimizing-direct-response-campaigns-across-facebook-instagram-and-audience-network) revealed ad campaigns that run on Facebook, Instagram, and the Audience Network achieve eight times higher conversion rates than ad campaigns launched solely on Facebook.
 
@@ -253,14 +264,14 @@ Not all marketing objectives in Ads Manager support the Audience Network.
 
 Here are the Facebook Audience Network marketing objectives you can use for your ad campaigns:
 
-- Brand awareness (video only)
-- Traffic
-- Reach (video only)
-- App installs
-- Engagement (video only)
-- Conversions
-- Video views (video only)
-- Catalog sales
+* Brand awareness (video only)
+* Traffic
+* Reach (video only)
+* App installs
+* Engagement (video only)
+* Conversions
+* Video views (video only)
+* Catalog sales
 
 ### Add a Facebook Pixel to Your Website
 
@@ -276,15 +287,15 @@ Not to mention that you can launch [Facebook Dynamic Ads](https://softcube.com/f
 
 Advertisers on the Audience Network can use three placements:
 
-- Audience Network Native, Banner and Interstitial
-- Audience Network Rewarded Videos
-- Audience In-Stream Videos
+* Audience Network Native, Banner and Interstitial
+* Audience Network Rewarded Videos
+* Audience In-Stream Videos
 
 You should test them all.
 
 ![Facebook Audience Network — placements error](/img/facebook-audience-network-facebook-feeds-error.jpg)
 
-**_To be able to run ads on Audience Network placements, you need to pick at least one of the Facebook Feed placements._**
+***To be able to run ads on Audience Network placements, you need to pick at least one of the Facebook Feed placements.***
 
 ### Download Facebook Audience Network Publisher Lists
 
@@ -307,15 +318,15 @@ You’ll get three CSV files at once. In the **Brand Safety** tool, you can also
 
 Here are Facebook Audience Network ad specs for native, display, and interstitial images:
 
-- File format — JPG or PNG (if you want to use GIF, you should upload it as video)
-- Resolution — 398 × 208px up to the resolution that meets ratio requirements
-- Headline — up to 25 characters 
-- Text — up to 125 characters
-- Link description — up to 30 characters
+* File format — JPG or PNG (if you want to use GIF, you should upload it as video)
+* Resolution — 398 × 208px up to the resolution that meets ratio requirements
+* Headline — up to 25 characters 
+* Text — up to 125 characters
+* Link description — up to 30 characters
 
 Also, take a look at these Facebook Audience Network video specifications:
 
-\[table id=11 /\]
+\[table id=11 /]
 
 If you need some video ad examples, we have more than [40 best Facebook video ads](https://softcube.com/best-facebook-video-ad-examples-2019/) that may inspire you to create engaging video ads for the Audience Network. 
 
@@ -323,7 +334,7 @@ If you need some video ad examples, we have more than [40 best Facebook video ad
 
 ### Launch Retargeting Audience Network Campaigns
 
-Retargeting campaigns in the Audience Network are an effective way to achieve good results when you haven’t managed to reach consumers.
+[Retargeting campaigns](https://softcube.com/the-beginners-guide-to-facebook-retargeting-ads/) in the Audience Network are an effective way to achieve good results when you haven’t managed to reach consumers.
 
 SpearmintLOVE used Facebook Audience Network ads to retarget people who showed an interest in their products for children and achieved a spectacular [38x return](https://www.facebook.com/business/success/spearmintlove) on ad spend.
 
@@ -354,5 +365,7 @@ You can take these courses free of charge and discover more insights on how to p
 Facebook controls [nearly 9% of all mobile video](https://softcube.com/70-video-marketing-statistics-for-2020/) traffic.
 
 A few-second video is the best way to gain attention and achieve any marketing objective with Audience Network ads. Test a strategy that includes launching video ads at scale.
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/
 
 Keep in mind that you can use [Softcube Artificial Intelligence](https://softcube.com/) to create high-quality video ads for your Audience Network at the cost of image ads

@@ -1,20 +1,27 @@
 ---
+focuskeyphrase: facebook ads relevance score
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: How to Improve Facebook Ads Relevance Score
-date: 2019-06-05
-description: Need modify desk.
+date: 2019-06-05T00:00:00.000Z
+description: View where to find Facebook ad relevance score, learn why it's
+  important, and read the tips to improve the relevance score for your
+  advertising on Facebook.
 featuredpost: false
 featuredimage: /img/facebook-ads-relevance-score-featured-picture.jpg
 image: /img/facebook-ads-relevance-score-featured-picture.jpg
-seotitle: 6 Tips to Improve Your Facebook Ads Relevance Score
-focuskeyphrase: facebook ads relevance score
 tags:
-  - brewing
-  - chemex
+  - metric
+  - ad relevance diagnostics
+  - video ads
+  - video marketing
+seo_title: facebook ads relevance score
+metadescription: 
+focus_keyphrase: 6 Tips to Improve Your Facebook Ads Relevance Score
+seotitle: 6 Tips to Improve Your Facebook Ads Relevance Score
 ---
 <!--StartFragment-->
 
@@ -66,7 +73,16 @@ All three metrics can have one of three values:
 
 Let’s analyze possible ranking scenarios:  
 
-\[table id=7 /\]
+| Quality Ranking          | Engagement Rate Ranking  | Conversion Rate Ranking  | Reason                                                          | Recommendation                                                                                                                                                                                     |
+|--------------------------|--------------------------|--------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Above average or average | Above average or average | Above average or average | Everything’s perfect!                                           | Choose your ad objective.                                                                                                                                                                          |
+| Below average            | —                        | —                        | Your ad is of low quality.                                      | Come up with higher quality content for your ad or change the audience for it.                                                                                                                     |
+| Above average or average | Above average or average | Below average            | Your ad doesn’t convert.                                        | Some products and services have a lower conversion rate than others. Come up with better copy for your ad. Provide users with a better post-click experience. Pick an audience with higher intent. |
+| Above average or average | Below average            | Above average or average | People aren’t interested in your ad.                            | Make an ad that’s more relevant to your audience by changing its appearance. Pick an audience with higher intent.                                                                                  |
+| Below average            | Above average or average | Above average or average | Your ad is of low quality.                                      | Come up with higher quality content for your ad or change the audience for it.                                                                                                                     |
+| Above average or average | Below average            | Below average            | People aren’t interested in your ad or your ad doesn’t convert. | Make an ad that’s more relevant to your audience by changing its appearance. Pick an audience with higher intent. Provide users with a better post-click experience.                               |
+| Below average            | Above average or average | Below average            | Your ad contains clickbait content.                             | Some products and services have a lower conversion rate than others. Promote your products and services more clearly.                                                                              |
+| Below average            | Below average            | Below average            | Everything’s bad!                                               | Change your current strategy and build a new one from scratch. Test different strategies, compare results, and pick the one that works best.                                                       |
 
 Facebook underscores that you should optimize your ads for achieving your ad objectives, not for improving ad relevance diagnostics. Sometimes, even high-performing ads have below-average values.  
 
@@ -168,7 +184,7 @@ Facebook marketing isn’t rocket science. And launching an ad campaign is much 
 
 Still, both rocket scientists and advertising specialists learn a lot when they practice a lot.  
 
-![](/img/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/mwwEcxbodLHIk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/marketing-mwwEcxbodLHIk">via GIPHY</a></p>
 
 You can run various types of tests. Display different ads to the same audience, pick different audiences to show the same ad to, or use any other narrow strategy.
 

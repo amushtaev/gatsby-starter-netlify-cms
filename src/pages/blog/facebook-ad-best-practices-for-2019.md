@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: facebook ad best practices
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -6,15 +7,26 @@ categories-slug:
   - facebook-ads
 title: 8 Facebook Ad Best Practices for 2019
 date: 2019-04-16T00:00:00.000Z
-description: Need modify desk.
+description: Want to know how to lure Facebook users in 2019? Learn Facebook ad
+  best practices for video, Messenger, and other Facebook marketing channels.
 featuredpost: false
 featuredimage: /img/facebook-ad-best-practices-featured-image.jpg
 image: /img/facebook-ad-best-practices-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - Dynamic ads
+  - Carousel ads
+  - Collection ads
+  - Ad Library
+  - Chatbots
+  - Custom Audiences
+  - Instagram
+  - Messenger
+  - Stories
+  - video ads
+seo_title: 8 Facebook Ad Best Practices You Should Know in 2019
+metadescription: 
+focus_keyphrase: facebook ad best practices
 seotitle: 8 Facebook Ad Best Practices for 2019
-focuskeyphrase: facebook ad best practices
 ---
 <!--StartFragment-->
 
@@ -42,9 +54,9 @@ And when advertising on Facebook, you get access to the world’s second largest
 
 You can launch ads in a [variety of formats](https://softcube.com/how-to-select-types-of-facebook-ads/) such as Collection, Offer Ads, Lead Ads, Slideshow Ads, Post Engagement Ads, and Event Response Ads. We’ll highlight the importance of some of them below.  
 
-Aside from how you display your ads, it’s important where you display them. When you run ads on Facebook, you can also show them on other _placements_.  
+Aside from how you display your ads, it’s important where you display them. When you run ads on Facebook, you can also show them on other *placements*.  
 
-_Placements_ is the official nickname for the Facebook family of apps and services: Instagram, Messenger, and Audience Network.  
+*[Placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/)* is the official nickname for the Facebook family of apps and services: Instagram, Messenger, and Audience Network.  
 
 By the way, in January 2019, Mark Zuckerberg announced plans to combine Messenger, Instagram, and WhatsApp into [one messaging platform](https://www.nytimes.com/2019/01/25/technology/facebook-instagram-whatsapp-messenger.html) based on end-to-end encryption.
 
@@ -54,7 +66,7 @@ We’ll see what the future holds. As for today, let’s see some of the best pr
 
 With today’s massive glut of content, users are trapped in a chase for their emotions.
 
-![Social Media Facebook GIF by Scorpion Dagger](/img/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Xickl5YZKUx68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scorpiondagger-scorpion-dagger-Xickl5YZKUx68">via GIPHY</a></p>
 
 Naturally, your duty is to wake users up and generate good emotions toward your company. This isn’t the only way to convert users into customers, but beyond doubt it’s the most effective.
 
@@ -82,7 +94,7 @@ Here are other Facebook video ad best practices:
 
 To increase your conversions even more, you can use [automated Facebook video ads](http://softcube.com/) created with artificial intelligence.
 
-The Softcube neural network cuts original footage, chooses the best scenes from it, and compiles the final video ad with a packshot:
+Softcube artificial intelligence cuts original footage, chooses the best scenes from it, and compiles the final video ad with a packshot:
 
 Thanks to the swiftness of this process, the Softcube AI can produce video ads at scale within a short time and for the cost of traditional image ads.
 
@@ -129,7 +141,7 @@ There’s a big chance that you’re reading this article via a mobile device to
 
 One of the Facebook ads best practices for 2019 is providing customers with the best mobile experience. When creating ads, you should always think about what they look like on a user’s smartphone and tablet.  
 
-But don’t go to extremes. Remember that producing mobile-first ads doesn’t mean delivering them _only_ on mobile devices.  
+But don’t go to extremes. Remember that producing mobile-first ads doesn’t mean delivering them *only* on mobile devices.  
 
 Aside from making ads for mobile, you can be mobile yourself when managing your business thanks to Facebook Ads Manager for [iPhone](https://itunes.apple.com/us/app/facebook-ads-manager/id964397083) and [Android](https://play.google.com/store/apps/details?id=com.facebook.adsmanager).  
 
@@ -196,21 +208,18 @@ The first one is Collection — a grid that contains a cover image or video foll
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fconverse%2Fposts%2F10156534686309580&amp;width=500" width="500" height="688" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-There are four types of Collection ads, also called templates:  
+There are four types of [Collection ads](https://softcube.com/guide-to-facebook-collection-ads/), also called templates:  
 
-1\. **Instant Storefront** for letting people browse several products in one place
-
-2\. **Instant Lookbook** for showcasing your products in action
-
-3\. **Instant Custom Acquisition** for increasing conversions and driving people to your website or app
-
-4\. **Instant Storytelling** for promoting your brand, website, or app  
+1. **Instant Storefront** for letting people browse several products in one place
+2. **Instant Lookbook** for showcasing your products in action
+3. **Instant Custom Acquisition** for increasing conversions and driving people to your website or app
+4. **Instant Storytelling** for promoting your brand, website, or app  
 
 The second ad format you can use to highlight a few items simultaneously is Carousel.  
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBMW%2Fposts%2F10157233085797269&amp;width=500" width="500" height="570" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Carousels can contain up to 10 image and video cards displayed one after another.  
+[Carousel ads](https://softcube.com/how-to-show-carousel-ads-on-facebook/) can contain up to 10 image and video cards displayed one after another.  
 
 Just like Collections, Carousels work great for engaging people by showing different features of a single product, for showcasing products from a new collection, for demonstrating different products with a special discount, etc. The options for these ad formats are endless.  
 
@@ -222,8 +231,7 @@ Instagram is the mecca of visual content, with the largest Stories fan base acro
 
 ![Facebook ad best practices — Stories](/img/facebook-ad-best-practices-stories.jpg)
 
-The Instagram audience is growing at a tremendous pace.  
-The [release of Instagram checkout](https://instagram-press.com/blog/2019/03/19/instagram-checkout/) has only added more fuel to the fire.
+The Instagram audience is growing at a tremendous pace. The [release of Instagram checkout](https://instagram-press.com/blog/2019/03/19/instagram-checkout/) has only added more fuel to the fire.
 
 Now, anyone can buy products they like directly from brands without leaving Instagram.
 
@@ -233,13 +241,13 @@ This is a game changer, which you should perceive as a call to action.
 
 Now that you can sell on Instagram, you can increase your sales using every possible opportunity. Broadly speaking, what works on Facebook will work on Instagram.  
 
-Aside from Stories, you should give Carousels and Collections a try — for instance, for retargeting! The lion’s share of Instagram users have an account on Facebook. That’s why you can retarget them in both directions.  
+Aside from [Stories ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/), you should give Carousels and Collections a try — for instance, for retargeting! The lion’s share of Instagram users have an account on Facebook. That’s why you can retarget them in both directions.  
 
 There are also three extra mobile apps that will help you diversify your content:  
 
-- **Layout** ([iPhone](https://itunes.apple.com/us/app/layout-from-instagram/id967351793) and [Android](https://play.google.com/store/apps/details?id=com.instagram.layout)) can make attractive image collages by combining, mirroring, and flipping different photos from your gallery or Photo Booth.
-- **Hyperlapse** ([iPhone](https://itunes.apple.com/us/app/hyperlapse-from-instagram/id740146917)) can record stabilized time-lapse videos without a tripod or other equipment.
-- **Boomerang** [(iPhone](https://itunes.apple.com/us/app/boomerang-from-instagram/id1041596399) and [Android](https://play.google.com/store/apps/details?id=com.instagram.boomerang)) can create videos from images and loop them. According to Instagram’s internal data, more than 25% of shared Stories are Boomerangs.
+* **Layout** ([iPhone](https://itunes.apple.com/us/app/layout-from-instagram/id967351793) and [Android](https://play.google.com/store/apps/details?id=com.instagram.layout)) can make attractive image collages by combining, mirroring, and flipping different photos from your gallery or Photo Booth.
+* **Hyperlapse** ([iPhone](https://itunes.apple.com/us/app/hyperlapse-from-instagram/id740146917)) can record stabilized time-lapse videos without a tripod or other equipment.
+* **Boomerang** [(iPhone](https://itunes.apple.com/us/app/boomerang-from-instagram/id1041596399) and [Android](https://play.google.com/store/apps/details?id=com.instagram.boomerang)) can create videos from images and loop them. According to Instagram’s internal data, more than 25% of shared Stories are Boomerangs.
 
 On Instagram, appearance plays a major role. Naturally, you’ll need some sources of inspiration to find approaches that will continue to intrigue your audience.  
 
@@ -257,10 +265,10 @@ To get the most out of selling something online and promoting it on Facebook, yo
 
 They allow you to connect data on every existing [digital and offline marketing channel](https://softcube.com/guide-to-facebook-custom-audiences/) to Facebook:  
 
-- Spreadsheets with customer contacts
-- Data from your website or mobile app
-- Data on offline conversions via phone calls or sales in local stores
-- Data on Facebook channels such as video views, lead forms, Instagram, and events
+* Spreadsheets with customer contacts
+* Data from your website or mobile app
+* Data on offline conversions via phone calls or sales in local stores
+* Data on Facebook channels such as video views, lead forms, Instagram, and events
 
 Keep in mind that you need to install Facebook Pixel if you want to receive data from your website or Facebook SDK if you want to receive data from your mobile app.  
 

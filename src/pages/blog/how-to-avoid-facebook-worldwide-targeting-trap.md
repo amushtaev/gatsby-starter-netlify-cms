@@ -1,20 +1,26 @@
 ---
+focuskeyphrase: facebook worldwide targeting
 templateKey: blog-post
 categories:
   - Case Study
 categories-slug:
   - case-study
-title: How to Avoid Facebook Worldwide Targeting Trap
-date: 2020-05-26
-description: Need modify desk.
-featuredpost: false
+date: 2020-05-26T00:00:00.000Z
 featuredimage: /img/facebook-worldwide-targeting-featured-image.jpg
-image: /img/facebook-worldwide-targeting-featured-image.jpg
 seotitle:"Facebook Worldwide Targeting Trap: A Case Study"
-focuskeyphrase: facebook worldwide targeting
+title: How to Avoid Facebook Worldwide Targeting Trap
+description: Learn how you can avoid losing your money, read a few useful
+  recommendations, and see real numbers in a Facebook worldwide targeting case
+  study.
+featuredpost: false
+image: /img/facebook-worldwide-targeting-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - CPM
+  - facebook ads
+  - target cost
+seo_title: "Facebook Worldwide Targeting Trap: A Case Study"
+metadescription: 
+focus_keyphrase: facebook worldwide targeting
 ---
 <!--StartFragment-->
 

@@ -1,20 +1,29 @@
 ---
+focuskeyphrase: instagram sponsored ads
 templateKey: blog-post
 categories:
   - Instagram Ads
 categories-slug:
   - instagram-ads
 title: 7 Recommendations for Instagram Sponsored Ads
-date: 2020-02-27
-description: Need modify desk.
+date: 2020-02-27T00:00:00.000Z
+description: Want to find new customers on Instagram with advertising? These
+  short tips will help you make a good start and create the best Instagram
+  sponsored ads.
 featuredpost: false
 featuredimage: /img/instagram-sponsored-ads-featured-image.jpg
 image: /img/instagram-sponsored-ads-featured-image.jpg
-seotitle: Everything You Should Know about Instagram Sponsored Ads
-focuskeyphrase: instagram sponsored ads
 tags:
-  - brewing
-  - chemex
+  - Ads Manager
+  - Carousel
+  - Collection
+  - Custom Audiences
+  - Lookalike Audiences
+  - video ads
+seo_title: Everything You Should Know about Instagram Sponsored Ads
+metadescription: 
+focus_keyphrase: instagram sponsored ads
+seotitle: Everything You Should Know about Instagram Sponsored Ads
 ---
 <!--StartFragment-->
 
@@ -24,7 +33,7 @@ Many online users can’t imagine their lives without making a daily post about 
 
 It’s come to the point where Spongebob Squarepants even has an “Instaclam” profile in his own universe:
 
-https://giphy.com/gifs/nickelodeon-funny-lol-VtAK1TEI8aTF6
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/VtAK1TEI8aTF6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nickelodeon-funny-lol-VtAK1TEI8aTF6">via GIPHY</a></p>
 
 How often do you take out your phone to check your Instagram Feed in your own universe?
 
@@ -77,7 +86,7 @@ Note that you must be an admin of a Facebook Page to be able to link it to your 
 
 ### Method 3. Ads Manager 
 
-Facebook Ads Manager allows you to take full advantage of Instagram advertising by creating and launching full-scale ad campaigns that you can optimize at any time.
+[Facebook Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) allows you to take full advantage of Instagram advertising by creating and launching full-scale ad campaigns that you can optimize at any time.
 
 You can also use Facebook Ads Manager for iOS and Android. This great [Facebook tool](https://softcube.com/best-facebook-ad-tools/) will help you monitor your Instagram sponsored ad campaigns and optimize their performance when you aren’t near your laptop or desktop.
 
@@ -87,9 +96,9 @@ Now that you know how to add a sponsored ad to the Instagram feed of your target
 
 ### Stories Ads
 
-With Stories Ads, you can combine video, images, and text into a captivating story.
+With [Stories Ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/), you can combine video, images, and text into a captivating story.
 
-https://giphy.com/gifs/j78YjyHfA087XV1Oux
+<div style="width:100%;height:0;padding-bottom:204%;position:relative;"><iframe src="https://giphy.com/embed/j78YjyHfA087XV1Oux" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/j78YjyHfA087XV1Oux">via GIPHY</a></p>
 
 ### Photo Ads
 
@@ -103,12 +112,12 @@ There are three types of Instagram photo ads: square, landscape, and portrait.
 
 Video ads have an amazing potential for your company, especially on Instagram.
 
-https://giphy.com/gifs/Rl6KH5X1SrlYFBU2ip
+<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Rl6KH5X1SrlYFBU2ip">via GIPHY</a></p>
 
 If you view Instagram [video marketing statistics](https://softcube.com/70-video-marketing-statistics-for-2020/), you’ll see that:
 
-- 45% of Instagram users think they’ll watch more mobile video content in the future
-- 88% of marketers say Instagram video ads have been successful for them
+* 45% of Instagram users think they’ll watch more mobile video content in the future
+* 88% of marketers say Instagram video ads have been successful for them
 
 You can post Instagram video ads in two formats: square and landscape. The maximum length for videos on Instagram is 60 seconds.
 
@@ -120,10 +129,10 @@ https://giphy.com/gifs/jTAZDxvrW8ddcO60nY
 
 Thanks to Instagram Carousel ads, you can:
 
-- show a few products at the same time
-- focus users’ attention on a single product and its features
-- separate one photo into a few pictures
-- tell a story
+* show a few products at the same time
+* focus users’ attention on a single product and its features
+* separate one photo into a few pictures
+* tell a story
 
 If you decide to test this ad format, it makes sense to place the most engaging photos first to intrigue viewers in the first seconds.
 
@@ -143,12 +152,12 @@ Thanks to [Instant Experience](https://softcube.com/how-to-get-started-with-face
 
 Explore is an Instagram page where users are shown content based on their personal interests.
 
-https://giphy.com/gifs/egAb7wA5y9gyI5XKgr
+<div style="width:100%;height:0;padding-bottom:202%;position:relative;"><iframe src="https://giphy.com/embed/egAb7wA5y9gyI5XKgr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/egAb7wA5y9gyI5XKgr">via GIPHY</a></p>
 
 According to [Instagram’s internal data](https://business.instagram.com/igb/a/ads-in-explore/):
 
-- there are over 200 million daily active Instagram users that view their Explore pages
-- 50% of Instagram profiles go to Explore every month
+* there are over 200 million daily active Instagram users that view their Explore pages
+* 50% of Instagram profiles go to Explore every month
 
 Ads in Explore are perfect for any business because they’re targeted at people who are looking for something new.
 
@@ -156,14 +165,14 @@ Ads in Explore are perfect for any business because they’re targeted at people
 
 ### Recommendation 1. Connect Instagram to Facebook
 
-Linking your Instagram profile to your Facebook Page gives a few benefits. It allows you to:
+Linking your Instagram profile to your [Facebook Page](https://softcube.com/best-facebook-pages-you-should-follow/) gives a few benefits. It allows you to:
 
-- reach more people
-- set up shopping on Instagram
-- pay more conveniently for the cost for sponsored ads on Instagram
-- launch Instagram and Facebook ads from your Facebook Page
-- manage Instagram and Messenger messages in one place
-- use camera effects, appointment booking buttons, and donation stickers
+* reach more people
+* set up shopping on Instagram
+* pay more conveniently for the cost for sponsored ads on Instagram
+* launch Instagram and Facebook ads from your Facebook Page
+* manage Instagram and [Messenger messages](https://softcube.com/how-to-start-a-personal-chat-with-messenger-ads/) in one place
+* use camera effects, appointment booking buttons, and donation stickers
 
 ### Recommendation 2. Run Ads in Ads Manager
 
@@ -173,16 +182,16 @@ You can use Ads Manager to show your ads to any audience you like, choose placem
 
 Instagram sponsored ads support the following marketing objectives:
 
-- Reach
-- Reach & Frequency
-- Brand Awareness
-- Local Awareness
-- Website Clicks
-- Video Views
-- Website Conversions
-- Dynamic Ads on Instagram
-- Mobile App Installs
-- Mobile App Engagement
+* Reach
+* Reach & Frequency
+* Brand Awareness
+* Local Awareness
+* Website Clicks
+* Video Views
+* Website Conversions
+* Dynamic Ads on Instagram
+* [Mobile App Installs](https://softcube.com/the-developers-guide-to-facebook-app-install-ads/)
+* Mobile App Engagement
 
 ### Recommendation 3. Target Custom and Lookalike Audiences
 
@@ -227,5 +236,7 @@ Layout, Hyperlapse, and Boomerang make it easy to create mobile ads using differ
 Now that you know how to create sponsored ads on Instagram, you have a lot of opportunities to catch the attention of potential customers.
 
 Here’s one of them:
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure>
 
 Like it? Test [Softcube artificial intelligence](http://softcube.com) and create yours!

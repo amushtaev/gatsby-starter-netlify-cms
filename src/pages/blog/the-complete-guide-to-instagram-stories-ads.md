@@ -1,28 +1,35 @@
 ---
+focuskeyphrase: instagram stories ads
 templateKey: blog-post
 categories:
   - Instagram Ads
 categories-slug:
   - instagram-ads
 title: The Complete Guide to Instagram Stories Ads
-date: 2020-01-30
-description: Need modify desk.
+date: 2020-01-30T00:00:00.000Z
+description: Learn everything you need to know about Instagram Stories Ads,
+  including best practices and ad specifications, plus get post ideas, examples,
+  and freebies.
 featuredpost: false
 featuredimage: /img/instagram-stories-ads-featured-image.jpg
 image: /img/instagram-stories-ads-featured-image.jpg
-seotitle: How to Become the Best Storyteller with Instagram Stories Ads
-focuskeyphrase: instagram stories ads
 tags:
-  - brewing
-  - chemex
+  - Ads Manager
+  - ad format
+  - storytelling
+  - ad type
+seo_title: How to Become the Best Storyteller with Instagram Stories Ads
+metadescription: 
+focus_keyphrase: instagram stories ads
+seotitle: How to Become the Best Storyteller with Instagram Stories Ads
 ---
 <!--StartFragment-->
 
-_Do you have an Instagram?_
+*Do you have an Instagram?*
 
 That’s perhaps one of the most common questions today and might be throughout the decade.
 
-https://giphy.com/gifs/classic-film-oWi1ED7Sw22PK
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/oWi1ED7Sw22PK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/classic-film-oWi1ED7Sw22PK">via GIPHY</a></p>
 
 Instagram is all about getting attention. As of June 2018, this social networking service had more than [one billion monthly active users](https://www.statista.com/statistics/253577/number-of-monthly-active-instagram-users/) worldwide.
 
@@ -36,11 +43,11 @@ Statista reports that people created [500 million Instagram Stories](https://www
 
 ## The Heyday of Instagram Stories Ads
 
-According to [Instagram Business](https://business.instagram.com/), _stories are growing like crazy_:
+According to [Instagram Business](https://business.instagram.com/), *stories are growing like crazy*:
 
-- Businesses publish one-third of the most-watched Instagram Stories.
-- Nearly 50% of businesses on Instagram post at least one Story a month.
-- Over 96% of marketers in the United States use Stories ads.
+* Businesses publish one-third of the most-watched Instagram Stories.
+* Nearly 50% of businesses on Instagram post at least one Story a month.
+* Over 96% of marketers in the United States use Stories ads.
 
 You should definitely join these businesses if you want to get your company noticed online.
 
@@ -52,7 +59,7 @@ Read this article till the end to receive a little bonus for your Stories ads. L
 
 First, let’s learn how to run Instagram Story ads:
 
-**Step 1**. Go to Facebook Ads Manager to get started.
+**Step 1**. Go to [Facebook Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) to get started.
 
 ![Instagram Stories ads — Facebook Ads Manager](/img/instagram-stories-ads-manager.jpg)
 
@@ -68,7 +75,7 @@ First, let’s learn how to run Instagram Story ads:
 
 ![Instagram Stories ads — audiences](/img/instagram-stories-ads-audiences.jpg)
 
-**Step 5**. Choose your placements through one of two options: Automatic Placements or Edit Placements.
+**Step 5**. Choose your [placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/) through one of two options: Automatic Placements or Edit Placements.
 
 ![Instagram Stories ads — placements](/img/instagram-stories-ads-placements.jpg)
 
@@ -78,13 +85,22 @@ After that, set your Instagram Story ads cost by setting your budget, create you
 
 Here are all the Instagram Story ad specs you need to create amazing visual narratives:
 
-\[table id=9 /\]
+| Specification                 | Video                                       | Photo                                   |
+| ----------------------------- | ------------------------------------------- | --------------------------------------- |
+| Instagram Story ad dimensions | 1:91 to 4:5                                 | 1:91 to 4:5                             |
+| Instagram Story ad resolution | minimum 600×1067  recommended 1080×1920     | minimum 600×1067  recommended 1080×1920 |
+| Instagram Story ad size       | up to 4 GB                                  | up to 30 MB                             |
+| Instagram Story ad format     | MP4 or MOV                                  | JPG or PNG                              |
+| Instagram Story ad length     | up to 120 seconds                           | show for 5 seconds                      |
+| Instagram Story ad codecs     | H.264, VP8 for video  AAC, Vorbis for audio | —                                       |
+
+
 
 **Note**: Be sure you know [design specifications](https://softcube.com/questions-about-facebook-video-ad-specs/) for other Instagram and Facebook ad types.
 
 ## Best Practices for Instagram Story Creatives and Text
 
-To figure out how to get the most out of storytelling on Instagram, we should ask one simple question: _How do Instagram Story ads work?_
+To figure out how to get the most out of storytelling on Instagram, we should ask one simple question: *How do Instagram Story ads work?*
 
 The purpose of Instagram Story ads is to inspire action in order to sell.
 
@@ -142,10 +158,10 @@ Facebook claims that [31% of users](https://softcube.com/70-video-marketing-stat
 
 For example, you can create a series of Stories that include a few episodes:
 
-- **Episode 1**: Why and how you started your business
-- **Episode 2**: Difficulties you faced and how they inspired you to grow
-- **Episode 3**: Your experience, philosophy, etc.
-- ... and so on
+* **Episode 1**: Why and how you started your business
+* **Episode 2**: Difficulties you faced and how they inspired you to grow
+* **Episode 3**: Your experience, philosophy, etc.
+* ... and so on
 
 To get people more interested in your business, you can start another series about news and updates. Doing this will not only uncover your business identity but make your Stories more personal.
 
@@ -157,9 +173,9 @@ People love when they’re invited to the inner sanctum of a business.
 
 According to [Entrepreneur](https://www.entrepreneur.com/article/280371), the best way to do that is to have employees post Stories. Stories posted by employees achieve:
 
-- 561% more reach than the same messages posted by a brand’s social media channels
-- 24 times the shares compared to posts on official channels
-- 8 times more engagement than posts shared by official channels
+* 561% more reach than the same messages posted by a brand’s social media channels
+* 24 times the shares compared to posts on official channels
+* 8 times more engagement than posts shared by official channels
 
 Show some truth about your business. Be unfiltered. If you offer a product, show how you make it. If you offer a service, give some insights on how you offer it.
 
@@ -181,9 +197,9 @@ The best Instagram Story ads are about selling a product or service.
 
 Here are some [video marketing statistics](https://softcube.com/70-video-marketing-statistics-for-2020/) to prove that:
 
-- 69% of customers say Stories posted by brands are a great way to discover new products and services.
-- 51% of customers want businesses to post Stories about their sales and discounts.
-- 44% of customers want businesses to post Stories about new products.
+* 69% of customers say Stories posted by brands are a great way to discover new products and services.
+* 51% of customers want businesses to post Stories about their sales and discounts.
+* 44% of customers want businesses to post Stories about new products.
 
 Highlight the features of your products and services in full-screen using the full Story ad arsenal: video, photos, images, text, stickers, hashtags, and more.
 
@@ -203,22 +219,21 @@ Instead of just showing you spectacular Stories that will astonish you and inspi
 
 We highly recommend you visit [this case study library](https://business.instagram.com/success/) to invest in yourself as a marketer. Click on any case study you like for details.
 
-### [**DFS UK**](https://business.instagram.com/success/dfs-uk/)
+### **[DFS UK](https://business.instagram.com/success/dfs-uk/)**
 
-https://giphy.com/gifs/W6cbxb3NuePgvoeEYW
+<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/W6cbxb3NuePgvoeEYW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/W6cbxb3NuePgvoeEYW">via GIPHY</a></p>
 
-###   
-[**Yoga International**](https://business.instagram.com/success/yoga-international/)
+**[Yoga International](https://business.instagram.com/success/yoga-international/)**
 
-https://giphy.com/gifs/igV317AUzip8oNRork
+<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/igV317AUzip8oNRork" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/igV317AUzip8oNRork">via GIPHY</a></p>
 
 ### [The Walt Disney Company France](https://business.instagram.com/success/disney-france/)
 
-https://giphy.com/gifs/m93R2sZTshqOOwzXYf
+<div style="width:100%;height:0;padding-bottom:204%;position:relative;"><iframe src="https://giphy.com/embed/m93R2sZTshqOOwzXYf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/m93R2sZTshqOOwzXYf">via GIPHY</a></p>
 
 ### [Chantelle Lingerie](https://business.instagram.com/success/chantelle-lingerie/)
 
-https://giphy.com/gifs/gKZVgHr1IeZ4WdpHkv
+<div style="width:100%;height:0;padding-bottom:190%;position:relative;"><iframe src="https://giphy.com/embed/gKZVgHr1IeZ4WdpHkv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gKZVgHr1IeZ4WdpHkv">via GIPHY</a></p>
 
 ## Create Instagram Stories Ads Using AI
 

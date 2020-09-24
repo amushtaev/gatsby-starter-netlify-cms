@@ -1,20 +1,27 @@
 ---
+focuskeyphrase: create a facebook business page
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: How to Create a Facebook Business Page in 5 Steps
-date: 2019-05-24
-description: Need modify desk.
+date: 2019-05-24T00:00:00.000Z
+description: Learn how to create a Facebook Business Page and start using your
+  account to launch effective ad campaigns with no mistakes.
 featuredpost: false
 featuredimage: /img/create-a-facebook-business-page-feature-image.jpg
 image: /img/create-a-facebook-business-page-feature-image.jpg
-seotitle: 5 Simple Steps to Create a Facebook Business Page
-focuskeyphrase: create a facebook business page
 tags:
-  - brewing
-  - chemex
+  - Custom Audiences
+  - Lookalike Audiences
+  - Messenger
+  - boosted posts
+  - video ads
+seo_title: 5 Simple Steps to Create a Facebook Business Page
+metadescription: 
+focus_keyphrase: create a facebook business page
+seotitle: 5 Simple Steps to Create a Facebook Business Page
 ---
 <!--StartFragment-->
 
@@ -88,9 +95,9 @@ You can also add co-hosts for your event, who can be any existing Facebook frien
 
 Do you support customers on your website by live chat or only by phone or email?  
 
-If the answer is _yes_, you can take doubly good care of your customers on Facebook.  
+If the answer is *yes*, you can take doubly good care of your customers on Facebook.  
 
-If the answer is _no_, Messenger will help you make your Facebook Business Page customer-friendly.
+If the answer is *no*, Messenger will help you make your Facebook Business Page customer-friendly.
 
 ![How to create a Facebook Business Page — Messenger chat](/img/create-a-facebook-business-page-softcube-chat.jpg)
 
@@ -211,7 +218,7 @@ In addition, there are four extra [Instagram mobile apps](https://softcube.com/b
 
 ### Add a Personal Touch with Messenger
 
-While Instagram attracts customers with visuals, Messenger does the same with words.  
+While Instagram attracts customers with visuals, [Messenger](https://softcube.com/how-to-start-a-personal-chat-with-messenger-ads/) does the same with words.  
 
 ![How to create a Facebook Business Page — Messenger](/img/create-a-facebook-business-page-messenger.jpg)
 
@@ -231,18 +238,18 @@ After you set up a Business Facebook Page, you can use it together with your web
 
 Custom Audiences allow you to find your current customers on Facebook and show them your ads. You can create a Custom Audience with contacts from:  
 
-- **Offline** conversions or Offline Events (in a local store, by phone). You need to create Offline Events in Ads Manager.
-- **Data files** in .csv or .txt format that include names, emails, phone numbers, and other personal data of your customers.
-- **Website conversions** tracked by Facebook Pixel — code that helps Facebook see who takes what actions on your website.
-- **Video views**, i.e. users who’ve seen your Facebook videos and video ads.
-- **Lead Ads**, a [Facebook ad format](https://softcube.com/how-to-create-facebook-lead-generation-ads/) that allows you to collect users’ personal data without driving them to your website.
-- **Page fans**, i.e. people who like your Page.
-- Your **Instagram Business Profile**, which is absolutely free. You can upgrade your personal Instagram profile to a business profile in a few steps.
-- **Facebook events**, which are calendar-based posts that encourage users to take part in special occasions.
+* **Offline** conversions or Offline Events (in a local store, by phone). You need to create Offline Events in Ads Manager.
+* **Data files** in .csv or .txt format that include names, emails, phone numbers, and other personal data of your customers.
+* **Website conversions** tracked by Facebook Pixel — code that helps Facebook see who takes what actions on your website.
+* **Video views**, i.e. users who’ve seen your Facebook videos and video ads.
+* **Lead Ads**, a [Facebook ad format](https://softcube.com/how-to-create-facebook-lead-generation-ads/) that allows you to collect users’ personal data without driving them to your website.
+* **Page fans**, i.e. people who like your Page.
+* Your **Instagram Business Profile**, which is absolutely free. You can upgrade your personal Instagram profile to a business profile in a few steps.
+* **Facebook events**, which are calendar-based posts that encourage users to take part in special occasions.
 
 In addition, you can find leads that are more likely to become your customers by creating Lookalike Audiences.  
 
-Lookalike Audiences are another type of Custom Audience that helps you engage with users who have the same characteristics as people from your existing Custom Audiences.
+[Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/) are another type of Custom Audience that helps you engage with users who have the same characteristics as people from your existing Custom Audiences.
 
 ### Request a Blue Verification Badge
 

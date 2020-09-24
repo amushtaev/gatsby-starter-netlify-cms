@@ -1,30 +1,50 @@
 ---
+focuskeyphrase: best facebook ad types
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: How to Select Types of Facebook Ads Wisely
-date: 2019-01-17
-description: Need modify desk.
+date: 2019-01-17T00:00:00.000Z
+description: Don’t know how to pick the best Facebook ad types? Read this guide
+  to learn everything about the major advertising formats on the largest social
+  network.
 featuredpost: false
 featuredimage: /img/best-facebook-ad-types-featured-image.jpg
 image: /img/best-facebook-ad-types-featured-image.jpg
-seotitle: Guide to Choosing the Best Facebook Ad Types for Your Business
-focuskeyphrase: best facebook ad types
 tags:
-  - brewing
-  - chemex
+  - Lead ads
+  - 360 videos
+  - Carousel ads
+  - Collection ads
+  - Dynamic ads
+  - Event Response ads
+  - Facebook ad formats
+  - Facebook ad types
+  - Image ads
+  - Instagram
+  - Messenger
+  - Offer ads
+  - Page Like ads
+  - Playable ads
+  - Post Engagement ads
+  - Slideshow ads
+  - Video ads
+seo_title: Guide to Choosing the Best Facebook Ad Types for Your Business
+metadescription: 
+focus_keyphrase: best facebook ad types
+seotitle: Guide to Choosing the Best Facebook Ad Types for Your Business
 ---
 <!--StartFragment-->
-
-<script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
 
 Stories have been lifting people’s minds to the celestial level throughout human history. And beyond a shadow of a doubt, ads are stories. They began alongside civilization itself. The first ads can be observed in ancient Egypt, Rome, and Greece.
 
 Storytelling on Facebook has a history as well. Did you know that the first type of Facebook ad was mostly used by college students for advertising parties? Called Flyers, these ads were launched in 2004 and cost $10 to $40. That year, Facebook also launched its first cost-per-click (CPC) platform, called Flyers Pro. The next two events determined Facebook’s fate as a marketing platform:
 
-**2005:** Apple and Victoria’s Secret give a significant revenue boost to Facebook. These corporate giants become the two biggest revenue generating advertisers. **2007:** Facebook partners with Microsoft, which becomes the exclusive provider of banner advertising on the social network.
+**2005:** Apple and Victoria’s Secret give a significant revenue boost to Facebook. These corporate giants become the two biggest revenue generating advertisers.
+
+**2007:** Facebook partners with Microsoft, which becomes the exclusive provider of banner advertising on the social network.
 
 After that, the company launched Facebook Ads and Marketplace. They also started diversifying the methods of ad storytelling.
 
@@ -46,18 +66,18 @@ The most significant advantage of photo ads lies in their simplicity. They’re 
 
 ### Video Ads
 
-Launched in 2014, Facebook video ads have gained popularity among both users and businesses. No wonder, we love watching videos.
+Launched in 2014, [Facebook video ads](https://softcube.com/best-facebook-video-marketing-tips/) have gained popularity among both users and businesses. No wonder, we love watching videos.
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAirAsia%2Fvideos%2F2223733517869393%2F&amp;show_text=1&amp;width=476" width="476" height="631" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
 Today, advertisers can upload videos in various forms:
 
-- **Short video.** Ads created with GIFs.
-- **Vertical video.** Full-screen video ads for mobile.
-- **Stories.** Videos that vanish after 24 hours.
-- **In-stream video.** Sponsored ads running before, during, or after a video on Facebook and Audience Network.
-- **Live streams.** Real-time video broadcasts.
-- **360 video.** Head-spinning experiences, especially for owners of VR headsets.
+* **Short video.** Ads created with GIFs.
+* **Vertical video.** Full-screen video ads for mobile.
+* **Stories.** Videos that vanish after 24 hours.
+* **In-stream video.** Sponsored ads running before, during, or after a video on Facebook and Audience Network.
+* **Live streams.** Real-time video broadcasts.
+* **360 video.** Head-spinning experiences, especially for owners of VR headsets.
 
 Aside from these types of video ads, there are two more ad formats that allow you to publish videos on Facebook: Carousel and Collection.
 
@@ -71,7 +91,7 @@ If you want to know everything about this ad format, read our guide to [Carousel
 
 ### Collection Ads
 
-Collections are similar to Carousels. You can use a Collection Ad to publish up to four video and image cards in one ad. The only difference between Collections and Carousels is in their layout.
+Collections are similar to Carousels. You can use a [Collection Ad](https://softcube.com/guide-to-facebook-collection-ads/) to publish up to four video and image cards in one ad. The only difference between Collections and Carousels is in their layout.
 
 <iframe class="giphy-embed" src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -84,15 +104,15 @@ While Carousel Ads look like merry-go-rounds, Collection Ads have the form of a 
 
 ### Stories
 
-Stories are customizable photos, GIFs, or videos that disappear in 24 hours. This is one of the most engaging types of Facebook advertising, helping you establish a personal connection with the viewer.
+[Stories](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) are customizable photos, GIFs, or videos that disappear in 24 hours. This is one of the most engaging types of Facebook advertising, helping you establish a personal connection with the viewer.
 
 ![Best Facebook ad types - stories ad](/img/best-facebook-ad-types-stories.jpg)
 
 According to Facebook:
 
-- 58% of users have become more interested in a product or brand after watching Stories.
-- One-third of the most popular Stories on Instagram are posted by businesses.
-- Sharing in Stories will likely surpass sharing in feeds in 2019.
+* 58% of users have become more interested in a product or brand after watching Stories.
+* One-third of the most popular Stories on Instagram are posted by businesses.
+* Sharing in Stories will likely surpass sharing in feeds in 2019.
 
 Stories can be posted on Facebook, Instagram, and Messenger.
 
@@ -106,7 +126,7 @@ They allow users to experience an interactive preview:
 
 1. Users watch an opening video that showcases your app in the News Feed.
 2. After watching the video, users experience the game by testing a demo version.
-3. Users can then click a call-to-action button to install the app from the App Store or Google Play Store.
+3. Users can then click a call-to-action button to [install the app](https://softcube.com/the-developers-guide-to-facebook-app-install-ads/) from the App Store or Google Play Store.
 
 Facebook recommends creating a few variants of a Playable Ad to find out which one works best for your app.
 
@@ -120,24 +140,24 @@ Lead Ads are the best type of Facebook ad for lead generation. After tapping on 
 
 Forms are fully customizable and can include different options:
 
-- **Short Answer.** Let users give an open response.
-- **Multiple Choice.** Let users choose different answers to your question.
-- **Conditional.** Add extra questions based on a user’s previous answers.
-- **Store Locator.** Help users find a local store.
-- **Appointment Scheduling.** Lets users schedule a visit to your store.
+* **Short Answer.** Let users give an open response.
+* **Multiple Choice.** Let users choose different answers to your question.
+* **Conditional.** Add extra questions based on a user’s previous answers.
+* **Store Locator.** Help users find a local store.
+* **Appointment Scheduling.** Lets users schedule a visit to your store.
 
 You can add up to 15 questions to your lead generation form.
 
 ### Messenger Ads
 
-Messenger Ads are shown in Messenger. According to Messenger data collected by Facebook, customers and businesses send each other over 10 billion messages every month.
+[Messenger Ads](https://softcube.com/how-to-start-a-personal-chat-with-messenger-ads/) are shown in Messenger. According to Messenger data collected by Facebook, customers and businesses send each other over 10 billion messages every month.
 
 ![Best Facebook ad types - Messenger ad](/img/best-facebook-ad-types-messenger-ad.jpg)
 
 The good thing is that creating these ads is easy — you can use an ad you’ve already made for Facebook or Instagram. There are several types of Messenger Ads:
 
-- **Click-to-Messenger Ads.** Start a personal conversation by sending Facebook, Instagram, and Messenger ads to a user’s inbox.
-- **Sponsored Messages.** Retarget users you’ve already talked to by sending ads they may be interested in.
+* **Click-to-Messenger Ads.** Start a personal conversation by sending Facebook, Instagram, and Messenger ads to a user’s inbox.
+* **Sponsored Messages.** Retarget users you’ve already talked to by sending ads they may be interested in.
 
 If you want to interact with your customers on a more personal level, Messenger is the perfect tool.
 
@@ -157,8 +177,8 @@ Are you selling products and making regular sales to the same customers? There�
 
 Once someone saves your Offer, Facebook will remind them about it up to three times. There are two kinds of Offer Ads:
 
-- **Online Offer Ads.** Customers are notified when they switch devices — for example, when they log in from a smartphone first and then continue their session on a computer.
-- **In-Store Offer Ads. Customers receive an email with details about the offer. They also get notified if they walk near your store and their smartphone has location sharing turned on.**
+* **Online Offer Ads.** Customers are notified when they switch devices — for example, when they log in from a smartphone first and then continue their session on a computer.
+* **In-Store Offer Ads.** Customers receive an email with details about the offer. They also get notified if they walk near your store and their smartphone has location sharing turned on.
 
 To monitor statistics about Offer Ads, look at **Offer Saved** in your ads reporting.
 
@@ -174,7 +194,7 @@ The trick with this ad type is that Facebook itself picks an ad from your catalo
 
 ### Post Engagement Ads
 
-Post Engagement Ads are boosted Facebook posts. To boost your post, you don’t have to go to Ads Manager.
+Post Engagement Ads are [boosted Facebook posts](https://softcube.com/facebook-boost-post-pros-and-cons/). To boost your post, you don’t have to go to Ads Manager.
 
 ![Best Facebook ad types - post engagement ad](/img/best-facebook-ad-types-post-engagement-ads.jpg)
 
@@ -194,8 +214,8 @@ Event Response Ads are used to promote events. Keep in mind that you have to cre
 
 To promote an event, click the **Boost Event** button on your Event page. Then select one of two options:
 
-- **Reach More People.** Choose this option if you want to attract people to your event on Facebook.
-- **Increase Ticket Sales.** Choose this option if you want to drive people to the website where you sell tickets to your event.
+* **Reach More People.** Choose this option if you want to attract people to your event on Facebook.
+* **Increase Ticket Sales.** Choose this option if you want to drive people to the website where you sell tickets to your event.
 
 Then choose your audience, budget, and schedule and click **Boost**. After you create the Event Response Ad, you’ll need to wait a bit for it to be approved.
 
@@ -203,7 +223,9 @@ Then choose your audience, budget, and schedule and click **Boost**. After you c
 
 Page Like Ads are used to promote your business Page on Facebook. They consist of a video or image that has an 8:3 aspect ratio and text. Once you create a Page Like Ad, Facebook will optimize the rest of your ads to reach users who are likely to Like your Page.
 
- ![Best Facebook ad types - Post Like ads](/img/best-facebook-ad-types-post-like-ads.jpg) To create a Page ad, click the **Promote** button on the bottom left-hand side of your Page and follow the instructions.
+ ![Best Facebook ad types - Post Like ads](/img/best-facebook-ad-types-post-like-ads.jpg) 
+
+To create a Page ad, click the **Promote** button on the bottom left-hand side of your Page and follow the instructions.
 
 ## How to Choose the Best Facebook Ad Types
 
@@ -217,19 +239,19 @@ You can launch a few ad campaigns based on different ad types, receive the resul
 
 ### Ask The Right Question Before Testing
 
-Before trying the ad formats you’re interested in, you should learn more about two important aspects of Facebook advertising: objectives and placements. First, instead of asking _What ad formats should I choose?_ ask yourself the following question: _What are my goals?_
+Before trying the ad formats you’re interested in, you should learn more about two important aspects of Facebook advertising: objectives and placements. First, instead of asking *What ad formats should I choose?* ask yourself the following question: *What are my goals?*
 
 You see, different types of Facebook ads match different advertising objectives and placements: brand awareness, lead generation, conversions, etc. Choosing formats is about choosing your goals. Once you define them, you’ll immediately understand what ad formats to use.
 
-Second, learn more about where you can display your ads using these formats. There are four placements you can advantage of: Facebook, Instagram, Messenger, and Audience Network. Keep in mind that not all placements support all formats. For example, if you want to try Stories, you won’t be able to use Audience Network.
+Second, learn more about where you can display your ads using these formats. There are [four placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/) you can advantage of: Facebook, Instagram, Messenger, and Audience Network. Keep in mind that not all placements support all formats. For example, if you want to try Stories, you won’t be able to use Audience Network.
 
 ### Take a Peek at Existing Examples
 
-We bet you follow your competitors’ Pages and companies in other industries with similar business goals. Don’t be shy to check out ads published by these businesses and analyze the results: the types of reactions people leave, the number of reactions, the types of comments, the number of comments, and the time passed since publication.
+We bet you follow your [competitors’ Pages](https://softcube.com/best-facebook-pages-you-should-follow/) and companies in other industries with similar business goals. Don’t be shy to check out ads published by these businesses and analyze the results: the types of reactions people leave, the number of reactions, the types of comments, the number of comments, and the time passed since publication.
 
 ![Best Facebook ad types - take a peek](/img/best-facebook-ad-types-take-a-peek.jpg)
 
-Yes, we know. Likes and comments don’t reflect the results in the Ads Manager account. As a detective would say, this is only circumstantial evidence.
+Yes, we know. Likes and comments don’t reflect the results in the [Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) account. As a detective would say, this is only circumstantial evidence.
 
 However, along with running test ad campaigns, this data paints a more detailed picture, which may lead to pretty unexpected and positive results.
 
@@ -243,7 +265,7 @@ In this context, launching video ads within different Facebook ad formats may be
 
 Not to mention that modern technologies have already dropped the cost of video advertising. For instance, today you can produce awesome video ads without a video-sized budget using artificial intelligence.
 
-The Softcube neural network has already created thousands of Facebook video ads for dozens of companies worldwide. You can try the [platform](http://softcube.com) for your business right now
+Softcube artificial intelligence has already created thousands of Facebook video ads for dozens of companies worldwide. You can try the [platform](http://softcube.com) for your business right now
 
 ## Your Marketing Success Lies in The Variety
 

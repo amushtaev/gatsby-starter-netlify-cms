@@ -1,20 +1,29 @@
 ---
+focuskeyphrase: facebook instant experience
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: How to Get Started with Facebook Instant Experience
-date: 2020-02-13
-description: Need modify desk.
+date: 2020-02-13T00:00:00.000Z
+description: Read everything about Facebook Instant Experience. Learn design
+  specifications, get recommendations, look at ad examples, and receive a free
+  gift.
 featuredpost: false
 featuredimage: /img/facebook-instant-experience-featured-image.jpg
 image: /img/facebook-instant-experience-featured-image.jpg
-seotitle: How to Gain Momentum with Facebook Instant Experience
-focuskeyphrase: facebook instant experience
 tags:
-  - brewing
-  - chemex
+  - mobile ads
+  - Carousel
+  - Collection
+  - image ads
+  - video ads
+  - Facebook Pixel
+seo_title: How to Gain Momentum with Facebook Instant Experience
+metadescription: 
+focus_keyphrase: facebook instant experience
+seotitle: How to Gain Momentum with Facebook Instant Experience
 ---
 <!--StartFragment-->
 
@@ -28,7 +37,7 @@ Obviously, providing the best possible mobile experience is a major task for bus
 
 ## What is a Facebook Instant Experience?
 
-Formerly known as Facebook Canvas Ads, Instant Experience is an ad format that allows you to launch full-screen mobile ads. These ads are easy to make, load instantly, and are suitable for any business goal.
+Formerly known as Facebook Canvas Ads, Instant Experience is an ad format that allows you to launch full-screen [mobile ads](https://softcube.com/profitable-recommendations-for-facebook-mobile-ads/). These ads are easy to make, load instantly, and are suitable for any business goal.
 
 When users tap on an ad powered by Instant Experience, they’re directed to a screen you can build from scratch using media-rich components or build using one of the Instant Experience templates.
 
@@ -90,7 +99,7 @@ Customize your budget, audience, and other components of your ad set.
 
 ### Step 5. Find Your Ad Format
 
-There are three formats available to you: **Carousel**, **Single Image or Video**, and **Collection**.
+There are three formats available to you: **[Carousel](https://softcube.com/how-to-show-carousel-ads-on-facebook/)**, **Single Image or Video**, and **[Collection](https://softcube.com/guide-to-facebook-collection-ads/)**.
 
 ![Facebook Instant Experience — ad formats](/img/facebook-instant-experience-ad-formats.jpg)
 
@@ -118,52 +127,52 @@ Let’s look at the specifications for every Instant Experience ad component.
 
 Facebook turns off sound for Instant Experience videos by default. Keep in mind that videos play automatically.
 
-- You can add as many videos as you want to one Instant Experience. However, their combined duration can’t exceed two minutes.
-- The thumbnail for an Instant Experience video is generated from the first frame.
-- Videos in Instant Experiences are created for portrait orientation, but you can resize them for landscape view with pillar box.
-- The quality of your videos should be at least 720p.
-- The recommended video formats are MP4 and MOV.
-- Facebook doesn’t recommend adding captions to Instant Experience videos.
+* You can add as many videos as you want to one Instant Experience. However, their combined duration can’t exceed two minutes.
+* The thumbnail for an Instant Experience video is generated from the first frame.
+* Videos in Instant Experiences are created for portrait orientation, but you can resize them for landscape view with pillar box.
+* The quality of your videos should be at least 720p.
+* The recommended video formats are MP4 and MOV.
+* Facebook doesn’t recommend adding captions to Instant Experience videos.
 
 ### Images
 
 Instant Experience images always match the full width of the mobile screen.
 
-- You can add up to 20 images.
-- The full height for your images is 1920px @3x.
-- The full width for your images is 1080px @3x.
-- Images support two sizing formats. The **fit-to-width format** provides full width and customizable height. The **fit-to-height format** makes your image fit the mobile screen from top to bottom. For images with horizontal overflow, Facebook will apply the tilt-to-pan feature.
-- Instant Experiences support **PNG** and **JPG** files.
+* You can add up to 20 images.
+* The full height for your images is 1920px @3x.
+* The full width for your images is 1080px @3x.
+* Images support two sizing formats. The **fit-to-width format** provides full width and customizable height. The **fit-to-height format** makes your image fit the mobile screen from top to bottom. For images with horizontal overflow, Facebook will apply the tilt-to-pan feature.
+* Instant Experiences support **PNG** and **JPG** files.
 
 ### Tilt-to-Pan
 
 With tilt-to-pan, users can tilt their smartphones to the right or left to see more of a video or image. If you want to use this feature, choose the fit-to-height format when creating your Instant Experience.
 
-- You can use up to five times the screen width, which is 5400px. To get your Instant Experience ads to perform well, Facebook recommends using three times the screen width, or 3250px.
-- If you want to add a call-to-action to your tilt-to-pan video or image, you’ll need to do this manually.
-- Facebook compresses tilt-to-pan images to achieve better performance for your Instant Experiences. If you want to add text, keep in mind that it may appear blurry because of compression artifacts.
+* You can use up to five times the screen width, which is 5400px. To get your Instant Experience ads to perform well, Facebook recommends using three times the screen width, or 3250px.
+* If you want to add a call-to-action to your tilt-to-pan video or image, you’ll need to do this manually.
+* Facebook compresses tilt-to-pan images to achieve better performance for your Instant Experiences. If you want to add text, keep in mind that it may appear blurry because of compression artifacts.
 
 ### Text
 
 Instant Experience copy is shown against a background color set by one of two themes: White or Dark Grey.
 
-- Instant Experience ads can have multiple text blocks, each of which can contain up to 500 words.
-- There are two fonts available for Instant Experience text: Serif or Sans Serif.
-- The size of your font must be 6pt to 72pt. 
-- The font color is #rrggbb.
-- Your copy can be bold, italic, and/or underlined. However, you can only style the entire block, not single words.
-- You can align your text left, center, or right.
+* Instant Experience ads can have multiple text blocks, each of which can contain up to 500 words.
+* There are two fonts available for Instant Experience text: Serif or Sans Serif.
+* The size of your font must be 6pt to 72pt. 
+* The font color is #rrggbb.
+* Your copy can be bold, italic, and/or underlined. However, you can only style the entire block, not single words.
+* You can align your text left, center, or right.
 
 ### Buttons
 
 You must add at least one button to your Instant Experience. You can fill your buttons or outline their backgrounds. Facebook recommends filling your primary button and outlining your secondary buttons.
 
-- The maximum length of your button text is 30 characters.
-- The top and bottom padding of buttons should be 48px.
-- The height of your buttons must be 48px.
-- There are two available fonts for your buttons: Serif and Sans Serif.
-- The font, button fill, and button outline colors are optional.
-- You must have a back button and swipe/scroll arrow within your Instant Experience.
+* The maximum length of your button text is 30 characters.
+* The top and bottom padding of buttons should be 48px.
+* The height of your buttons must be 48px.
+* There are two available fonts for your buttons: Serif and Sans Serif.
+* The font, button fill, and button outline colors are optional.
+* You must have a back button and swipe/scroll arrow within your Instant Experience.
 
 ## 5 Tips and Tricks for Instant Experiences on Facebook 
 
@@ -201,11 +210,11 @@ Keep in mind that if you choose the Collection ad format when creating your ad c
 
 ### Integrate Facebook Pixel into Your Instant Experience
 
-Facebook Pixel is a tracking tool that allows you to see the performance of your Instant Experience ad campaign in detail and analyze your campaign to improve your results.
+[Facebook Pixel](https://softcube.com/what-is-facebook-pixel-and-why-use-it/) is a tracking tool that allows you to see the performance of your Instant Experience ad campaign in detail and analyze your campaign to improve your results.
 
 With a pixel, you can see the entire path of your customers from their encounter with an Instant Experience to the moment they complete a conversion on your website.
 
-You need to install Facebook Pixel in two stages. The first stage is adding pixel code to your website. The second stage is activating your pixel in Ads Manager.
+You need to [install Facebook Pixel](https://softcube.com/how-to-create-a-facebook-pixel/) in two stages. The first stage is adding pixel code to your website. The second stage is activating your pixel in Ads Manager.
 
 ### Learn How to Measure Instant Experience Performance
 
@@ -213,15 +222,15 @@ Here’s one more piece of advice on measuring your Instant Experience results.
 
 If you’re ready to add an Instant Experience to Facebook ads, make sure you know the necessary ad metrics:
 
-- Instant Experience Clicks to Start
-- Instant Experience Clicks to Open
-- Link Clicks
-- Instant Experience Outbound Clicks
-- Outbound Clicks
-- Instant Experience View Percentage
-- Instant Experience View Time
-- Landing Page Views
-- Instant Experience Component
+* Instant Experience Clicks to Start
+* Instant Experience Clicks to Open
+* Link Clicks
+* Instant Experience Outbound Clicks
+* Outbound Clicks
+* Instant Experience View Percentage
+* Instant Experience View Time
+* Landing Page Views
+* Instant Experience Component
 
 Read this [Facebook ad metrics guide](https://softcube.com/essential-facebook-ad-metrics-you-must-use/) to learn how to get more detailed reports about your ad campaigns.
 

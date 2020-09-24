@@ -1,26 +1,34 @@
 ---
+focuskeyphrase: facebook ad placements
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: How to Place Ads on Facebook Ad Placements
-date: 2020-03-12
-description: Need modify desk.
+date: 2020-03-12T00:00:00.000Z
+description: Want to know how to place your ads on Facebook? Check out this
+  tutorial to see the full list of Facebook ad placements and learn best
+  practices.
 featuredpost: false
 featuredimage: /img/facebook-ad-placements-featured-image.jpg
 image: /img/facebook-ad-placements-featured-image.jpg
-seotitle: How to Take Advantage of Facebook Ad Placements
-focuskeyphrase: facebook ad placements
 tags:
-  - brewing
-  - chemex
+  - Facebook
+  - Instagram
+  - Messenger
+  - Audience Network
+  - Facebook Blueprint
+seo_title: How to Take Advantage of Facebook Ad Placements
+metadescription: 
+focus_keyphrase: facebook ad placements
+seotitle: How to Take Advantage of Facebook Ad Placements
 ---
 <!--StartFragment-->
 
-Facebook is the number one social media network. We all know that. But not everyone realizes what the word _network_ really means. That’s why we have a question for you.
+Facebook is the number one social media network. We all know that. But not everyone realizes what the word *network* really means. That’s why we have a question for you.
 
-https://giphy.com/gifs/Squideo-UqB9KRApovhliUMnSu
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/UqB9KRApovhliUMnSu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Squideo-UqB9KRApovhliUMnSu">via GIPHY</a></p>
 
 Have you ever wondered how Facebook managed to become the world’s top advertising platform after Google?
 
@@ -34,7 +42,7 @@ Facebook ad placements are available across the Facebook family of apps and serv
 
 ![Facebook ad placements — ad set](/img/facebook-ad-placements-ad-set.jpg)
 
-Facebook’s ad delivery system consists of Facebook, Instagram, Messenger, and the Audience Network.
+Facebook’s ad delivery system consists of Facebook, Instagram, [Messenger](https://softcube.com/how-to-start-a-personal-chat-with-messenger-ads/), and the [Audience Network](https://softcube.com/facebook-audience-network-complete-guide/).
 
 ![Facebook ad placements — menu in Ads Manager](/img/facebook-ad-placements-menu.jpg)
 
@@ -46,41 +54,41 @@ Now it’s time to see Facebook ad placement examples. In total, there are seven
 
 ### Feeds
 
-- Facebook News Feed ad placement
-- Instagram Feed ad placement
-- Facebook Marketplace ad placement
-- Facebook Video Feed ad placement
-- Facebook Right Column ad placement
-- Instagram Explore ad placement
-- Facebook Messenger ad placement (Inbox)
+* Facebook News Feed ad placement
+* Instagram Feed ad placement
+* Facebook Marketplace ad placement
+* Facebook Video Feed ad placement
+* Facebook Right Column ad placement
+* Instagram Explore ad placement
+* Facebook Messenger ad placement (Inbox)
 
 ### Stories
 
-- Facebook Stories ad placement
-- [Instagram Stories](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) ad placement
-- Messenger Stories ad placement
+* Facebook Stories ad placement
+* [Instagram Stories](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) ad placement
+* Messenger Stories ad placement
 
 ### In-Stream
 
-- Facebook Videos ad placement (In-Stream)
+* Facebook Videos ad placement (In-Stream)
 
 ### Search
 
-- Facebook Search Results ad placement
+* Facebook Search Results ad placement
 
 ### Messages
 
-- Messenger Sponsored Messages ad placement
+* Messenger Sponsored Messages ad placement
 
 ### In-Article
 
-- Facebook Instant Articles ad placement
+* Facebook Instant Articles ad placement
 
 ### Apps and Sites
 
-- Audience Network Native, Banner, and Interstitial ad placement
-- Audience Network Rewarded Videos ad placement
-- Audience Network In-Stream Videos ad placement
+* Audience Network Native, Banner, and Interstitial ad placement
+* Audience Network Rewarded Videos ad placement
+* Audience Network In-Stream Videos ad placement
 
 ## How to Select Ad Placements in Facebook Ads Manager
 
@@ -122,7 +130,7 @@ Which ad placement mode should you choose?
 
 Probably that’s the first question you want to ask yourself when picking placements for your Facebook advertising campaign for the first time.
 
-To get started, you should let Ads Manager choose placements for you.
+To get started, you should let [Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) choose placements for you.
 
 That way Facebook will deliver your ads in the best possible way, taking into consideration your ad campaign settings. Plus, automatic placements for Facebook ads will save your money at the beginning.
 

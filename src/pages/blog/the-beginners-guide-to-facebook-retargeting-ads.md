@@ -1,20 +1,25 @@
 ---
+focuskeyphrase: facebook retargeting ads
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: The Beginner’s Guide to Facebook Retargeting Ads
-date: 2019-08-28
+date: 2019-08-28T00:00:00.000Z
 description: Need modify desk.
 featuredpost: false
 featuredimage: /img/facebook-retargeting-ads-featured-image.jpg
 image: /img/facebook-retargeting-ads-featured-image.jpg
-seotitle: How to Bring Customers Back with Facebook Retargeting Ads
-focuskeyphrase: facebook retargeting ads
 tags:
-  - brewing
-  - chemex
+  - Dynamic ads
+  - Lookalike Audiences
+  - Custom Audiences
+  - Facebook Pixel
+seo_title: How to Bring Customers Back with Facebook Retargeting Ads
+metadescription: 
+focus_keyphrase: facebook retargeting ads
+seotitle: How to Bring Customers Back with Facebook Retargeting Ads
 ---
 <!--StartFragment-->
 
@@ -22,7 +27,7 @@ Retargeting (or remarketing) is essential for every business.
 
 We bet the majority of your website visitors look like this:
 
-![](/img/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/fDO2Nk0ImzvvW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fDO2Nk0ImzvvW">via GIPHY</a></p>
 
 That’s okay. When it comes to Google advertising, the [majority of websites](https://www.gorocketfuel.com/the-rocket-blog/whats-the-average-bounce-rate-in-google-analytics/) have a bounce rate between 26% and 70%.
 
@@ -30,15 +35,7 @@ That’s okay. When it comes to Google advertising, the [majority of websites](h
 
 The only way to achieve an average bounce rate and then get conversions is to advertise products or services to customers who click on your ads and/or take some actions on your website.
 
-But it’s not that simple. Current customers buy [67% more on average](https://www.business.com/articles/returning-customers-spend-67-more-than-new-customers-keep-your-customers-coming-back-with-a-recurring-revenue-sales-model/) than new customers. In addition, finding new buyers costs 5 to 10 times more than retargeting current customers.
-
-## Table of Contents
-
-- [What is Facebook Retargeting?](#retargeting)
-- [How Does Retargeting Work?](#retargetingwork)
-- [3 Ways to Use Facebook Retargeting Like a Pro](#retargetingpro)
-- [How to Create Effective Retargeting Ads on Facebook](#effectiveretargeting)
-- [5 Retargeting Facebook Ads Examples You Should See](#retargetingexamples)
+But it’s not that simple. Current customers buy [67% more on average](https://www.business.com/articles/returning-customers-spend-67-more-than-new-customers-keep-your-customers-coming-back-with-a-recurring-revenue-sales-model/) than new customers. In addition, finding new buyers costs 5 to 10 times more than retargeting current customers.f
 
 ## **What is Facebook Retargeting?**
 
@@ -58,7 +55,7 @@ The question is how to do that in practice. Let’s find out.
 
 ### **Everything Depends on Facebook Pixel**
 
-Wondering how to create retargeting ads on Facebook? You need to start with setting up a Facebook pixel.  
+Wondering how to create retargeting ads on Facebook? You need to start with [setting up a Facebook pixel](https://softcube.com/how-to-create-a-facebook-pixel/).  
 
 A pixel is a customer behavior tracker in the form of JavaScript code powered by a small library of functions. It gives businesses insights into user activities on their websites.   
 
@@ -104,22 +101,22 @@ To retarget users on Facebook, you have to create a Custom Audience.
 
 Thanks to [Custom Audiences](https://softcube.com/guide-to-facebook-custom-audiences/), you can use any possible marketing source to reach people through:  
 
-- A list or spreadsheet with emails and other information about customers
-- Data on website or mobile app traffic, i.e. visitors tracked by a pixel
-- Offline channels, i.e. customers who visited a store, interacted with a business over the phone, etc.
+* A list or spreadsheet with emails and other information about customers
+* Data on website or mobile app traffic, i.e. visitors tracked by a pixel
+* Offline channels, i.e. customers who visited a store, interacted with a business over the phone, etc.
 
 You can also create a Custom Audience that includes people from Facebook sources:  
 
-- Page visitors
-- Video viewers
-- Event participants
-- People who filled in lead forms
-- Users who opened instant experience ads
-- People who visited your Instagram profile or saw Instagram ads
+* Page visitors
+* Video viewers
+* Event participants
+* People who filled in lead forms
+* Users who opened instant experience ads
+* People who visited your Instagram profile or saw Instagram ads
 
 ### **Lookalike Audiences for Prospecting Customers**
 
-Lookalike Audiences include people who _look like_ people from any of your Custom Audiences.
+[Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/) include people who *look like* people from any of your Custom Audiences.
 
 ![Facebook retargeting ads — Lookalike Audience](/img/facebook-retargeting-ads-lookalike-audiences.jpg)
 
@@ -139,11 +136,11 @@ All you need to do is set up a pixel, create a catalog, upload some products, an
 
 If you plan to retarget people with Facebook Ads, Dynamic Ads is the first ad format you should try due to five retargeting options it offers:  
 
-- **Viewed or added to cart but not purchased**. Advertise specific items to people who have seen these items or added them to the shopping cart.
-- **Added to cart but not purchased**. Advertise items to people who’ve added them to the shopping cart.
-- **Upsell products**. Motivate people who’ve seen products from your catalog to buy more expensive items.
-- **Cross-sell products**. Motivate people who’ve seen products from your catalog to buy complementary products.
-- **Custom combination**. Advertise products based on how people have interacted with them.
+* **Viewed or added to cart but not purchased**. Advertise specific items to people who have seen these items or added them to the shopping cart.
+* **Added to cart but not purchased**. Advertise items to people who’ve added them to the shopping cart.
+* **Upsell products**. Motivate people who’ve seen products from your catalog to buy more expensive items.
+* **Cross-sell products**. Motivate people who’ve seen products from your catalog to buy complementary products.
+* **Custom combination**. Advertise products based on how people have interacted with them.
 
 One more important thing: When launching a Dynamic Ads campaign, there are two formats you can pick for your ads: Carousel and Simple Image.
 
@@ -177,7 +174,7 @@ Obviously, don’t wait until warm customers get cold.
 
 ### **Automatic Placements vs Edit Placements**
 
-When creating an ad campaign, you have to choose between two options for ad placements: pick placements for your ads by hand or let Facebook decide for you based on your ad set.
+When creating an ad campaign, you have to choose between two options for [ad placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/): pick placements for your ads by hand or let Facebook decide for you based on your ad set.
 
 ![Facebook retargeting ads — placements](/img/facebook-retargeting-ads-placements.jpg)
 
@@ -185,7 +182,7 @@ As a starting point for Facebook retargeting ads, we recommend choosing automati
 
 Yes, you may know where your target audience hangs out and which placements may match your ads. But why not prove your hypothesis and see what Facebook thinks?  
 
-Its algorithms will not only find the best possible opportunities across the Facebook family of apps but will optimize your budget by calculating the average cost of _all_ placements.
+Its algorithms will not only find the best possible opportunities across the Facebook family of apps but will optimize your budget by calculating the average cost of *all* placements.
 
 ![Facebook retargeting ads — list of ad placements](/img/facebook-retargeting-ads-list-of-placements.jpg)
 
@@ -197,7 +194,7 @@ In the beginning, you should bid automatically with a 7-day click conversion win
 
 ![Facebook retargeting ads — ad placements](/img/facebook-retargeting-ads-conversion-window.jpg)
 
-After you get more experience, you can experiment with different bidding strategies. A perfect idea for the first experiment is to use **highest value or lower cost** bidding.
+After you get more experience, you can experiment with different [bidding strategies](https://softcube.com/how-to-become-the-winner-in-facebook-bidding/). A perfect idea for the first experiment is to use **highest value or lower cost** bidding.
 
 ![](/img/facebook-retargeting-ads-bid-strategy.jpg)
 
@@ -209,7 +206,7 @@ Over time, you can experiment more and change over to cost cap and big cap biddi
 
 Facebook offers lots of different options for targeting an audience of almost any size and kind.  
 
-Ads Manager allows you to segment people by how they’ve interacted with your Page, the type of device they use, their habits and preferences, and many other options.   
+[Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) allows you to segment people by how they’ve interacted with your Page, the type of device they use, their habits and preferences, and many other options.   
 
 This gives you limitless possibilities for retargeting a narrow audience. However, should you segment your audience so much?  
 

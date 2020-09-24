@@ -1,20 +1,27 @@
 ---
+focuskeyphrase: facebook special ad category
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: What is Facebook Special Ad Category?
-date: 2020-05-19
-description: Need modify desk.
+date: 2020-05-19T00:00:00.000Z
+description: Learn what a Facebook special ad category is and how it has changed
+  the opportunities of advertisers in the areas of housing, employment, and
+  credit.
 featuredpost: false
 featuredimage: /img/facebook-special-ad-category-featured-image.jpg
 image: /img/facebook-special-ad-category-featured-image.jpg
-seotitle: "Facebook Special Ad Category: What’s So Special About It?"
-focuskeyphrase: facebook special ad category
 tags:
-  - brewing
-  - chemex
+  - credit ads
+  - employment ads
+  - targeting
+  - housing ads
+seo_title: "Facebook Special Ad Category: What’s So Special About It?"
+metadescription: 
+focus_keyphrase: facebook special ad category
+seotitle: "Facebook Special Ad Category: What’s So Special About It?"
 ---
 <!--StartFragment-->
 
@@ -38,12 +45,12 @@ In other words, if you plan to run employment, credit, or housing ads, you’ll 
 
 After you choose your Facebook special ad category and proceed to creating an audience for your ad campaign in Ads Manager, you’ll face the following limitations:
 
-- **Locations**. ZIP code selection is unavailable. You must include areas within a 15-mile radius of any selected location.
-- **Age**. This option is fixed to everyone 18 years and older.
-- **Gender**. You’ll have to show your ads to users of all genders.
-- **Detailed targeting**. Demographics and behaviors are unavailable. You can target people only based on their interests.
+* **Locations**. ZIP code selection is unavailable. You must include areas within a 15-mile radius of any selected location.
+* **Age**. This option is fixed to everyone 18 years and older.
+* **Gender**. You’ll have to show your ads to users of all genders.
+* **Detailed targeting**. Demographics and behaviors are unavailable. You can [target people](https://softcube.com/how-to-find-a-perfect-facebook-target-audience/) only based on their interests.
 
-Keep in mind that audience sources such as Custom Audiences, Lookalike Audiences, and Saved Audiences have undergone some changes as well.
+Keep in mind that audience sources such as [Custom Audiences](https://softcube.com/guide-to-facebook-custom-audiences/), [Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/), and Saved Audiences have undergone some changes as well.
 
 ![Facebook special ad category audiences](/img/facebook-special-ad-category-audiences.jpg)
 
@@ -67,18 +74,18 @@ If you want to hire someone using Facebook, you can post a job free of charge di
 
 ![Facebook special ad category — posting a job](/img/facebook-special-ad-category-posting-jobs-1024x512.jpg)
 
-If you want to launch Facebook employment ads, you need to go to Ads Manager and choose the Employment special ad category.
+If you want to launch Facebook employment ads, you need to go to [Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) and choose the Employment special ad category.
 
 ![Facebook special ad category — employment](/img/facebook-special-ad-category-employment-1024x232.jpg)
 
 It allows you to promote the following opportunities:
 
-- Full-time job offers
-- Part-time job offers
-- Job aggregators
-- Professional certification programs
-- Internships
-- Job board promotions
+* Full-time job offers
+* Part-time job offers
+* Job aggregators
+* Professional certification programs
+* Internships
+* Job board promotions
 
 ### Credit Special Ad Category
 
@@ -88,12 +95,12 @@ If you want to show Facebook ads that will help people get access to credit, you
 
 Here’s what you can promote within the Credit special ad category:
 
-- Offers by credit card brands
-- Auto loans
-- Personal loan services
-- Business loan services
-- Mortgage loan services
-- Long-term financing services
+* Offers by credit card brands
+* Auto loans
+* Personal loan services
+* Business loan services
+* Mortgage loan services
+* Long-term financing services
 
 ### Housing Special Ad Category 
 
@@ -101,14 +108,14 @@ The third Facebook special ad category is housing. According to the National Ass
 
 With the Housing special ad category, you can promote:
 
-- Home sale listings
-- Home rental listings
-- Homeowners’ insurance
-- Mortgage insurance
-- Mortgage loans
-- Housing repair services
-- Home equity services
-- Home appraisal services
+* Home sale listings
+* Home rental listings
+* Homeowners’ insurance
+* Mortgage insurance
+* Mortgage loans
+* Housing repair services
+* Home equity services
+* Home appraisal services
 
 Note that Facebook housing ads created to inform real estate providers and their clients about their rights and responsibilities under fair housing laws don’t fall under this category.
 
@@ -121,5 +128,7 @@ If you’re going to use the Facebook special ad category for real estate, don�
 When it comes to Facebook ads, housing, credit, and employment have a long history.
 
 With the advent of Facebook special ad categories, we’ve entered a new era in the fight against unlawful treatment of people based on race, sex, and age and have realized more transparency in advertising.
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/237908189eb65a642869912b3f318742.mp4"></video></figure>
 
 Planning to run ads within a special category on Facebook? Keep in mind that you can take advantage of [Softcube artificial intelligence](https://softcube.com/) to create high-quality (and very special) video ads for the cost of producing photo ads. Good luck!

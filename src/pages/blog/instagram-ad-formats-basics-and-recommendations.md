@@ -1,28 +1,36 @@
 ---
+focuskeyphrase: instagram ad formats
 templateKey: blog-post
 categories:
   - Instagram Ads
 categories-slug:
   - instagram-ads
 title: "Instagram Ad Formats: Basics and Recommendations"
-date: 2020-03-05
-description: Need modify desk.
+date: 2020-03-05T00:00:00.000Z
+description: Learn everything about Instagram ad formats and read a few tips and
+  tricks to use them effectively for any of your Instagram advertising
+  campaigns.
 featuredpost: false
 featuredimage: /img/instagram-ad-formats-featured-picture.jpg
 image: /img/instagram-ad-formats-featured-picture.jpg
-seotitle: How to Leverage Instagram Ad Formats for Business
-focuskeyphrase: instagram ad formats
 tags:
-  - brewing
-  - chemex
+  - Explore ads
+  - Stories
+  - Image ads
+  - Photo ads
+  - Facebook Blueprint
+seo_title: How to Leverage Instagram Ad Formats for Business
+metadescription: 
+focus_keyphrase: instagram ad formats
+seotitle: How to Leverage Instagram Ad Formats for Business
 ---
 <!--StartFragment-->
 
 Instagram isn’t just a social media platform; it’s a totally different world with its own rules, climate, currency, and inhabitants. 
 
-The Cambridge dictionary defines an Instagrammer as _someone who regularly shares images, or other things such as video or text, on the social media service Instagram_.
+The Cambridge dictionary defines an Instagrammer as *someone who regularly shares images, or other things such as video or text, on the social media service Instagram*.
 
-https://giphy.com/gifs/coqueta-coqueto-amoroso-ZeWv3gAKW3FgVC8XSC
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ZeWv3gAKW3FgVC8XSC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coqueta-coqueto-amoroso-ZeWv3gAKW3FgVC8XSC">via GIPHY</a></p>
 
 The coolest part is that the world of Instagram is growing by leaps and bounds.
 
@@ -50,8 +58,8 @@ The first is a traditional feed where users share their own content and view con
 
 Instagram [reports](https://business.instagram.com/igb/a/ads-in-explore/) that:
 
-- 200 million Instagram users visit their Explore page every day
-- 50% of Instagram users search for new content in the Explore feed every month
+* 200 million Instagram users visit their Explore page every day
+* 50% of Instagram users search for new content in the Explore feed every month
 
 Also called ads in Explore, Explore feed ads were introduced in 2019 as an ad placement for attracting audiences that include people who are searching for something new.
 
@@ -90,7 +98,7 @@ Third, frame your photos properly to complete the scene without losing anything 
 
 Video advertising is today’s brightest star in the online marketing universe. And Instagram is where it shines.
 
-https://giphy.com/gifs/Rl6KH5X1SrlYFBU2ip
+<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Rl6KH5X1SrlYFBU2ip">via GIPHY</a></p>
 
 Did you know that [88% of Instagram marketers](https://softcube.com/70-video-marketing-statistics-for-2020/) consider video ads effective for their business?
 
@@ -100,11 +108,11 @@ That’s the primary reason why you should try the Instagram video ad format for
 
 The Instagram Story ad format as we know it appeared in 2017. Back then, more than [150 million people](https://business.instagram.com/blog/bringing-insights-and-ads-to-stories/) watched Instagram Stories every day. 
 
-https://giphy.com/gifs/hricQNvtZOVnzt94Uc
+<div style="width:100%;height:0;padding-bottom:194%;position:relative;"><iframe src="https://giphy.com/embed/hricQNvtZOVnzt94Uc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hricQNvtZOVnzt94Uc">via GIPHY</a></p>
 
 It took just two years for this number to reach over [500 million users](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) every day. 
 
-Want to know which ad format is recommended for driving action_?_
+Want to know which ad format is recommended for driving action*?*
 
 In the first place, you should test Stories ads!
 
@@ -114,7 +122,7 @@ Mobile users are the major target audience you’ll work with on Instagram. Than
 
 The carousel ad is an all-purpose ad format that allows you to show much more than a traditional image or video ad does. Thanks to carousel ads, you can demonstrate up to 10 images or videos in a single post.
 
-https://giphy.com/gifs/XeGkFG1NgTaSPQPFxz
+<div style="width:100%;height:0;padding-bottom:198%;position:relative;"><iframe src="https://giphy.com/embed/XeGkFG1NgTaSPQPFxz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/XeGkFG1NgTaSPQPFxz">via GIPHY</a></p>
 
 Instagram carousels are a great way to showcase a few products or services simultaneously, highlight the features of one product or service, create a step-by-step tutorial, and do many other amazing things to boost your business.
 
@@ -124,19 +132,19 @@ And if you already know [how to create carousel ads on Facebook](https://softcub
 
 Here are seven recommendations to achieve the best possible results using different forms of Instagram advertising.
 
-### 1\. Experiment, Experiment, Experiment
+### 1. Experiment, Experiment, Experiment
 
 Testing is the only way to find the right ad format on Instagram. Start an A/B test to compare the performance of two or three formats and learn what people like to tap on most. 
 
 This technique is also extremely helpful when you don’t know which ad format is recommended for building awareness, driving sales, or reaching any other business goal.
 
-### 2\. Define Your Goal
+### 2. Define Your Goal
 
 Choosing the right format for your Instagram ads depends on choosing the right marketing objective.
 
 For instance, video ads are perfect for giving a sneak preview of your product or service, carousel ads are a good choice for stimulating people to buy more, and Stories ads work great for reaching multiple goals at once.
 
-### 3\. Plan in Advance
+### 3. Plan in Advance
 
 It takes different amounts of time to produce ads using different ad formats. 
 
@@ -144,7 +152,7 @@ For example, the Instagram Stories ad format allows you to become a [storytellin
 
 You never know how much time you’ll need to create and launch a truly attractive ad. And this is only when it comes to one format. We bet you’ll be using at least two.
 
-### 4\. Take a Blueprint Course
+### 4. Take a Blueprint Course
 
 Practice makes perfect. However, you should always remember the theory. Check yourself and learn more about Instagram advertising formats by taking one of Facebook’s free online courses.
 
@@ -152,22 +160,22 @@ Practice makes perfect. However, you should always remember the theory. Check yo
 
 [Facebook Blueprint](https://softcube.com/how-to-survive-facebook-blueprint-certification/) is useful for marketers of all levels.
 
-### 5\. Adapt Existing Facebook Ads for Instagram
+### 5. Adapt Existing Facebook Ads for Instagram
 
 You probably know that Facebook and Instagram ad formats are pretty much the same.
 
 Chances are high that you’ve already used [Facebook Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) to launch full-scale ad campaigns on Facebook. So why not duplicate them and reach more people on Instagram?
 
-### 6\. Use Instagram Mobile Apps
+### 6. Use Instagram Mobile Apps
 
 Along with Ads Manager, you can take advantage of the Instagram mobile app to boost your posts. We also recommend checking out four extra [mobile apps](https://softcube.com/best-facebook-ad-tools/) that will make your Instagram marketing more effective:
 
-- **IGTV**. Broadcast your content and [cooperate](https://techcrunch.com/2020/02/06/igtv-ads/) with Instagram creators.
-- **Layout**. Create native advertising to find more customers.
-- **Hyperlapse**. Make stunning timelapse content.
-- **Boomerang**. Produce powerful ads immediately. More than [25% of all videos](https://softcube.com/70-video-marketing-statistics-for-2020/) on Instagram are created with this app.
+* **IGTV**. Broadcast your content and [cooperate](https://techcrunch.com/2020/02/06/igtv-ads/) with Instagram creators.
+* **Layout**. Create native advertising to find more customers.
+* **Hyperlapse**. Make stunning timelapse content.
+* **Boomerang**. Produce powerful ads immediately. More than [25% of all videos](https://softcube.com/70-video-marketing-statistics-for-2020/) on Instagram are created with this app.
 
-### 7\. Leaf Through Instagram Ad Specifications
+### 7. Leaf Through Instagram Ad Specifications
 
 Make sure you know how to make your ads correctly. Learn all the Instagram ad format specs before using any of the formats. You can find design specifications for your sponsored posts on Instagram in [this guide](https://softcube.com/questions-about-facebook-video-ad-specs/).
 

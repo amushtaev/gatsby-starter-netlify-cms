@@ -1,24 +1,30 @@
 ---
+focuskeyphrase: facebook mobile ads
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: 8 Profitable Recommendations for Facebook Mobile Ads
-date: 2020-05-07
-description: Need modify desk.
+date: 2020-05-07T00:00:00.000Z
+description: Discover everything you need to know about Facebook mobile ads and
+  get tips and tricks for launching them quickly and effectively.
 featuredpost: false
 featuredimage: /img/facebook-mobile-ads-featured-image.jpg
 image: /img/facebook-mobile-ads-featured-image.jpg
-seotitle: How to Boost Conversions with Facebook Mobile Ads
-focuskeyphrase: facebook mobile ads
 tags:
-  - brewing
-  - chemex
+  - Ads Manager app
+  - Audience Network
+  - Messenger
+  - Mobile Studio
+seo_title: How to Boost Conversions with Facebook Mobile Ads
+metadescription: 
+focus_keyphrase: facebook mobile ads
+seotitle: How to Boost Conversions with Facebook Mobile Ads
 ---
 <!--StartFragment-->
 
-_What is mobile advertising?_
+*What is mobile advertising?*
 
 The smartphone multiplier market is estimated to be worth [$944 billion](https://www.statista.com/chart/20258/estimated-sales-of-smartphones-and-related-products-and-services/) in 2020. The multiplier market consists of all the hardware, software, products, services, and content that depend on smartphone ownership.
 
@@ -66,7 +72,7 @@ Here’s how to create Facebook mobile ads in eight steps:
 
 ![Facebook mobile ads — audience](/img/facebook-mobile-ads-audience.jpg)
 
-**Step 5**. Choose your placements. Here you can specify an operating system for target devices.
+**Step 5**. Choose your [placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/). Here you can specify an operating system for target devices.
 
 ![Facebook mobile ads — placements](/img/facebook-mobile-ads-placements.jpg)
 
@@ -74,7 +80,7 @@ Here’s how to create Facebook mobile ads in eight steps:
 
 ![Facebook mobile ads — budget and schedule](/img/facebook-mobile-ads-budget-and-schedule.jpg)
 
-**Step 7**. Choose an ad format and customize your ad media and ad copy.
+**Step 7**. Choose an [ad format](https://softcube.com/facebook-ad-formats-you-need-to-know/) and customize your ad media and ad copy.
 
 ![Facebook mobile ads — ad format and copy](/img/facebook-mobile-ads-format-1024x730.jpg)
 
@@ -137,9 +143,9 @@ Additionally, Mobile Studio offers a list of mobile editing apps to help you mak
 
 If you need some Facebook mobile ad examples, you’re welcome to check out these posts:
 
-- [10 Best Facebook Ads You Wish You Published](https://softcube.com/ten-best-facebook-ads-you-wish-you-published/)
-- [15 Best Product Video Ads You’d Love to Make Yourself](https://softcube.com/fifteen-best-product-video-ads/)
-- [42 Best Facebook Video Ad Examples](https://softcube.com/best-facebook-video-ad-examples-2019/)
+* [10 Best Facebook Ads You Wish You Published](https://softcube.com/ten-best-facebook-ads-you-wish-you-published/)
+* [15 Best Product Video Ads You’d Love to Make Yourself](https://softcube.com/fifteen-best-product-video-ads/)
+* [42 Best Facebook Video Ad Examples](https://softcube.com/best-facebook-video-ad-examples-2019/)
 
 ### Recommendation 6. Always Experiment
 

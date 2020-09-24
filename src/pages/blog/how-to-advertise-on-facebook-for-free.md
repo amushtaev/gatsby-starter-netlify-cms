@@ -1,20 +1,26 @@
 ---
+focuskeyphrase: how to advertise on facebook for free
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: How to Advertise on Facebook for Free and Wisely
-date: 2019-12-13
-description: Need modify desk.
+date: 2019-12-13T00:00:00.000Z
+description: Learn how to advertise on Facebook for free after reading the
+  tutorial that includes eight priceless tips you can use to grow your business
+  wisely.
 featuredpost: false
 featuredimage: /img/how-to-advertise-on-facebook-for-free-featured-image.jpg
 image: /img/how-to-advertise-on-facebook-for-free-featured-image.jpg
-seotitle: "How to Advertise on Facebook for Free: Guide for Beginners"
-focuskeyphrase: how to advertise on facebook for free
 tags:
-  - brewing
-  - chemex
+  - Facebook Business Page
+  - targeting
+  - free ads
+seo_title: "How to Advertise on Facebook for Free: Guide for Beginners"
+metadescription: 
+focus_keyphrase: how to advertise on facebook for free
+seotitle: "How to Advertise on Facebook for Free: Guide for Beginners"
 ---
 <!--StartFragment-->
 

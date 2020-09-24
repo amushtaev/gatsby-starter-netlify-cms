@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: best facebook ad tools
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -6,15 +7,31 @@ categories-slug:
   - facebook-ads
 title: 15 Best Facebook Ad Tools You Might Not Have Heard Of
 date: 2019-04-18T00:00:00.000Z
-description: Need modify desk.
+description: Looking for advertising software to boost your conversions? Check
+  out the best Facebook ad tools that you might not have even heard of.
 featuredpost: false
 featuredimage: /img/best-facebook-ad-tools-featured-image.jpg
 image: /img/best-facebook-ad-tools-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - Ad Library
+  - Ads Manager app
+  - Analytics app
+  - Audience Insights
+  - Boomerang
+  - Creative Hub
+  - Cross Border Insights Finder
+  - Facebook Pixel
+  - Hyperlapse
+  - Insights to Go
+  - Instagram
+  - Layout
+  - Mobile Studio
+  - Pages Manager App
+  - Success Stories
+seo_title: 15 Best Facebook Ad Tools That Every Marketer Should Use
+metadescription: 
+focus_keyphrase: best facebook ad tools
 seotitle: 15 Best Facebook Ad Tools You Might Not Have Heard Of
-focuskeyphrase: best facebook ad tools
 ---
 <!--StartFragment-->
 
@@ -48,7 +65,7 @@ Any way you slice it, you’ll need to cooperate with developers to get the most
 
 ### Tool 1. Facebook Pixel
 
-Facebook Pixel is a must-install Facebook ad management software component for any online business.  
+[Facebook Pixel](https://softcube.com/what-is-facebook-pixel-and-why-use-it/) is a must-install Facebook ad management software component for any online business.  
 
 ![Best Facebook ad tools — Facebook Pixel](/img/best-facebook-ad-tools-facebook-pixel.jpg)
 
@@ -62,8 +79,8 @@ Now let’s recall a few Facebook marketing tools that don’t require coding kn
 
 ### Tool 2. The Facebook Analytics App
 
-- [iOS](https://itunes.apple.com/us/app/facebook/id1266461465)
-- [Android](https://play.google.com/store/apps/details?id=com.facebook.analytics)
+* [iOS](https://itunes.apple.com/us/app/facebook/id1266461465)
+* [Android](https://play.google.com/store/apps/details?id=com.facebook.analytics)
 
 Facebook Analytics is a handy mobile assistant to the desktop version of Facebook Analytics.  
 
@@ -73,8 +90,8 @@ The app provides notifications so you can handle unexpected anomalies, read and 
 
 ### Tool 3. The Facebook Ads Manager App
 
-- [iOS](https://itunes.apple.com/us/app/facebook-ads-manager/id964397083?mt=8)
-- [Android](https://play.google.com/store/apps/details?id=com.facebook.adsmanager&hl=en)
+* [iOS](https://itunes.apple.com/us/app/facebook-ads-manager/id964397083?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.facebook.adsmanager&hl=en)
 
 The Facebook Ads Manager app is a mobile version of the standard Ads Manager.  
 
@@ -84,8 +101,8 @@ This app allows you to check in-depth analytics and monitor your ad performance 
 
 ### Tool 4. The Facebook Pages Manager App
 
-- [iOS](https://itunes.apple.com/us/app/facebook-pages-manager/id514643583?mt=8)
-- [Android](https://play.google.com/store/apps/details?id=com.facebook.pages.app&hl=en)
+* [iOS](https://itunes.apple.com/us/app/facebook-pages-manager/id514643583?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.facebook.pages.app&hl=en)
 
 Facebook Pages Manager is a mobile app that allows you to control up to 50 Pages with the help of a smartphone or tablet.  
 
@@ -101,8 +118,8 @@ First of all, the tool contains ad specifications.
 
 You can create mockups of ad formats for the following placements:  
 
-- **Facebook**. Carousel, Collection, Slideshow, 360 Video, Instant Experience, Single Video, Single Image
-- **Instagram**. Stories, Stories Carousel, Carousel, Single Video, Single Image
+* **Facebook**. Carousel, Collection, Slideshow, 360 Video, Instant Experience, Single Video, Single Image
+* **Instagram**. Stories, Stories Carousel, Carousel, Single Video, Single Image
 
 The process of creating an ad is reminiscent of a game. Creative Hub lets you play with every aspect of an ad:  
 
@@ -134,7 +151,7 @@ Use your smartphone to add logos, animate text, create animations, and do other 
 
 ### Tool 7. Audience Insights
 
-Audience Insights is the major Facebook manager tool for creating ready-made audiences and using them for future ad campaigns in Ads Manager.
+[Audience Insights](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) is the major Facebook manager tool for creating ready-made audiences and using them for future ad campaigns in Ads Manager.
 
 ![Best Facebook ad tools — Audience Insights](/img/best-facebook-ad-tools-audience-insights.jpg)
 
@@ -150,12 +167,12 @@ Insights to Go visualizes major Facebook statistical data, giving free access to
 
 To start working with Insights to Go, choose your filters:  
 
-- **Region**. Global, North America, Europe, Middle East & Africa, Latin America, Asia Pacific
-- **Industry**. Automotive, B2B, beauty & health, beverage, consumer packaged goods, e-commerce, education, entertainment & media, financial services, food, gaming, luxury, restaurants, retail, tech & connectivity, travel
-- **People**. Community, audiences, lifestyle, milestones
-- **Moments**. Seasons & holidays, entertainment, sports
-- **Campaigns**. Creative, measurement, data types
-- **Platforms**. Facebook, Instagram, Messenger, Audience Network, channels (mobile, in-store, apps, messaging, television, video)
+* **Region**. Global, North America, Europe, Middle East & Africa, Latin America, Asia Pacific
+* **Industry**. Automotive, B2B, beauty & health, beverage, consumer packaged goods, e-commerce, education, entertainment & media, financial services, food, gaming, luxury, restaurants, retail, tech & connectivity, travel
+* **People**. Community, audiences, lifestyle, milestones
+* **Moments**. Seasons & holidays, entertainment, sports
+* **Campaigns**. Creative, measurement, data types
+* **Platforms**. Facebook, Instagram, Messenger, Audience Network, channels (mobile, in-store, apps, messaging, television, video)
 
 Once you’ve picked your criteria, click on any insight for more details:  
 
@@ -175,17 +192,17 @@ Talking of success stories, there’s one more way to review the experience of c
 
 ![Best Facebook ad tools — Success Stories](/img/best-facebook-ad-tools-success-stories.jpg)
 
-But this resource is essential for learning exactly _how_ these statistics were achieved. You can find Success Stories that are relevant whether you’re working at a small company or a big marketplace.
+But this resource is essential for learning exactly *how* these statistics were achieved. You can find Success Stories that are relevant whether you’re working at a small company or a big marketplace.
 
 There are case studies for any taste, including stories of businesses similar to yours.  
 
 To find a story, pick your filters:  
 
-- **Business size**. Agency, large enterprise, small and medium-sized enterprise
-- **Objective**. Awareness (brand awareness, reach, video views), consideration (app installs, website clicks, app engagement, lead generation, post engagement), conversion (event responses, website conversions, product sales, store visits)
-- **Industry**. Automotive, consumer goods, e-commerce, education, entertainment and media, financial services, gaming, health and pharmaceuticals, charities and organizations, professional services, restaurants, retail, sports, technology, telecommunications, travel
-- **Product**. Pages (Page posts & publishing, Page shops, appointments, events, jobs), ad formats ([Carousel](https://softcube.com/how-to-show-carousel-ads-on-facebook/), Collection, [Dynamic Ads](https://softcube.com/facebook-dynamic-product-ads/), Instant Experience, Lead Ads, Link Ads, Offer Ads, Photo Ads, Slideshow, [Video Ads](https://softcube.com/fifteen-best-product-video-ads/)), ad placements (Facebook News Feed, Facebook Live, Facebook Marketplace, Instagram Feed, Ads in Stories, Audience Network, Messenger, WhatsApp), targeting (Custom Audiences, Lookalike Audiences, Facebook Pixel, international targeting), measurement and reporting (brand lift, conversion lift, split testing, offline conversions, sales lift, reach, attribution), bidding and buying types (reach and frequency, TRP buying, value-optimised bidding), programmes and services (Facebook Marketing Partners)
-- **Region**. Asia Pacific, Europe, Middle East, Africa, Latin America, North America
+* **Business size**. Agency, large enterprise, small and medium-sized enterprise
+* **Objective**. Awareness (brand awareness, reach, video views), consideration (app installs, website clicks, app engagement, lead generation, post engagement), conversion (event responses, website conversions, product sales, store visits)
+* **Industry**. Automotive, consumer goods, e-commerce, education, entertainment and media, financial services, gaming, health and pharmaceuticals, charities and organizations, professional services, restaurants, retail, sports, technology, telecommunications, travel
+* **Product**. Pages (Page posts & publishing, Page shops, appointments, events, jobs), ad formats ([Carousel](https://softcube.com/how-to-show-carousel-ads-on-facebook/), Collection, [Dynamic Ads](https://softcube.com/facebook-dynamic-product-ads/), Instant Experience, Lead Ads, Link Ads, Offer Ads, Photo Ads, Slideshow, [Video Ads](https://softcube.com/fifteen-best-product-video-ads/)), ad placements (Facebook News Feed, Facebook Live, Facebook Marketplace, Instagram Feed, Ads in Stories, Audience Network, Messenger, WhatsApp), targeting (Custom Audiences, Lookalike Audiences, Facebook Pixel, international targeting), measurement and reporting (brand lift, conversion lift, split testing, offline conversions, sales lift, reach, attribution), bidding and buying types (reach and frequency, TRP buying, value-optimised bidding), programmes and services (Facebook Marketing Partners)
+* **Region**. Asia Pacific, Europe, Middle East, Africa, Latin America, North America
 
 Every success story tells about the positive results and what it took to achieve these results.  
 
@@ -213,9 +230,9 @@ This analytics tool justifies its name. It lets you compare ad campaign insights
 
 After you pick a country, the tool shows three positions of this country in the global ratings:  
 
-- How easily users convert in this country.
-- How expensive it is to advertise in this country.
-- How frequently people see ads in this country.
+* How easily users convert in this country.
+* How expensive it is to advertise in this country.
+* How frequently people see ads in this country.
 
 Then choose your industry:  
 
@@ -233,8 +250,8 @@ The analysis is based on highest reach, highest conversion, lowest cost, and low
 
 You can also take advantage of two options to get different results for different regions:  
 
-- **Geographical**. Africa, Asia, Carribean, Central America, Europe, Mercosur, North America, Oceania, South America
-- **Economic**. Android free store countries, Android paid store countries, ASEAN Free Trade Area, Asia Pacific Economic Cooporation, Commonwealth of Independent States Free Trade Area, emerging markets, Euro zone, European Economic Area
+* **Geographical**. Africa, Asia, Carribean, Central America, Europe, Mercosur, North America, Oceania, South America
+* **Economic**. Android free store countries, Android paid store countries, ASEAN Free Trade Area, Asia Pacific Economic Cooporation, Commonwealth of Independent States Free Trade Area, emerging markets, Euro zone, European Economic Area
 
 After you’ve analyzed your data, you have two choices. The first is to go to Ads Manager and start an ad campaign based on the advertising objective you’ve picked.  
 
@@ -272,7 +289,7 @@ If a company run a few Pages for different countries, you can see ads for any Pa
 
 People are obsessed with making Stories and posting photos online that portray their everyday lives. Sometimes, too much so.
 
-![i made this for this](/img/tumblr_muscssmAdD1rt28efo1_500.gif)
+<div style="width:100%;height:0;padding-bottom:103%;position:relative;"><iframe src="https://giphy.com/embed/6LzPPnutAquju" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scorpiondagger-scorpiondagger-instagram-6LzPPnutAquju">via GIPHY</a></p>
 
 This makes Instagram one of today’s most popular digital marketing channels. Also, it’s one of the best Facebook marketing tools that allows agencies and businesses to attract customers that are distinct from their Facebook audiences.  
 
@@ -280,28 +297,28 @@ Aside from the original Instagram mobile app, there are also a few extra mobile 
 
 #### Boomerang
 
-- [iOS](https://itunes.apple.com/ua/app/boomerang-from-instagram/id1041596399?mt=8)
-- [Android](https://play.google.com/store/apps/details?id=com.instagram.boomerang&hl=en)
+* [iOS](https://itunes.apple.com/ua/app/boomerang-from-instagram/id1041596399?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.instagram.boomerang&hl=en)
 
 This app takes photos, speeds them up, and uses them to create a looping video by moving photos forward and backward. You can take up to 20 photos for one Boomerang. As of January 2017, 25% of shared Instagram Stories were Boomerangs.  
 
 #### Hyperlapse
 
-- [iOS](https://itunes.apple.com/us/app/hyperlapse-from-instagram/id740146917)
+* [iOS](https://itunes.apple.com/us/app/hyperlapse-from-instagram/id740146917)
 
 Hyperlapse creates spectacular [time-lapse videos](https://hyperlapse.instagram.com/), which are stabilized without professional equipment. The app can increase the speed of your video up to 12 times and share it instantly on Facebook and Instagram.
 
 #### Layout
 
-- [iOS](https://itunes.apple.com/us/app/layout-from-instagram/id967351793)
-- [Android](https://play.google.com/store/apps/details?id=com.instagram.layout)
+* [iOS](https://itunes.apple.com/us/app/layout-from-instagram/id967351793)
+* [Android](https://play.google.com/store/apps/details?id=com.instagram.layout)
 
 This app creates only photo (no video) layouts, but they look really awesome. You can mix up to nine images, adding filters and using other tools to beautify your photos.  
 
 #### IGTV
 
-- [iOS](https://itunes.apple.com/us/app/igtv/id1394351700)
-- [Android](https://play.google.com/store/apps/details?id=com.instagram.igtv)
+* [iOS](https://itunes.apple.com/us/app/igtv/id1394351700)
+* [Android](https://play.google.com/store/apps/details?id=com.instagram.igtv)
 
 Since television isn’t as popular as it used to be, Instagram has brought its own [TV](https://business.instagram.com/a/igtv) to the internet. You can use IGTV to display longer videos and create a stronger connection with your audience.
 

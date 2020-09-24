@@ -1,30 +1,36 @@
 ---
+focuskeyphrase: dark post facebook
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: The Beginner’s Guide to Dark Posts on Facebook
-date: 2019-11-25
-description: Need modify desk.
+date: 2019-11-25T00:00:00.000Z
+description: Discover the secret of dark posts on Facebook and read about what
+  you need to create effective Facebook dark posts from scratch.
 featuredpost: false
 featuredimage: /img/dark-post-on-facebook-featured-pic.jpg
 image: /img/dark-post-on-facebook-featured-pic.jpg
-seotitle: Everything You Need to Know about Dark Posts on Facebook
-focuskeyphrase: dark post facebook
 tags:
-  - brewing
-  - chemex
+  - ad formats
+  - targeting
+  - custom audiences
+  - lookalike audiences
+seo_title: Everything You Need to Know about Dark Posts on Facebook
+metadescription: 
+focus_keyphrase: dark post facebook
+seotitle: Everything You Need to Know about Dark Posts on Facebook
 ---
 <!--StartFragment-->
 
 Did you know that dark posts on Facebook are also light? Surprise!
 
-<iframe src="https://giphy.com/embed/j4kdx6uRLeA3maAp53" width="480" height="240" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/j4kdx6uRLeA3maAp53" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/j4kdx6uRLeA3maAp53">via GIPHY</a></p>
 
 On March 28, 2019, Facebook announced a [new ad library](https://www.facebook.com/ads/library/) that makes Facebook ads transparent.
 
-This Facebook library allows any user or marketer to monitor so-called _dark posts_ made by any business or non-profit. Now that you know how to find dark posts on Facebook, let’s define what they are.
+This Facebook library allows any user or marketer to monitor so-called *dark posts* made by any business or non-profit. Now that you know how to find dark posts on Facebook, let’s define what they are.
 
 ## **What is a Dark Post** **on Facebook?**
 
@@ -32,7 +38,7 @@ First of all, you shouldn’t compare Facebook dark posts vs ads because they’
 
 ![Dark post on Facebook — National Georgraphic](/img/dark-post-on-facebook-national-geographic.jpg)
 
-Unlike publications on [Facebook Pages](https://softcube.com/best-facebook-pages-you-should-follow/), dark posts are hidden from the public eye. Only ad recipients chosen by businesses see them. That’s why these posts are called _dark_.
+Unlike publications on [Facebook Pages](https://softcube.com/best-facebook-pages-you-should-follow/), dark posts are hidden from the public eye. Only ad recipients chosen by businesses see them. That’s why these posts are called *dark*.
 
 ## **Why Publish Dark Posts on Facebook?**
 
@@ -87,9 +93,9 @@ On Facebook, you can boost website traffic, increase sales, generate leads, and 
 
 All Facebook marketing objectives are divided into three categories:
 
-- The **Awareness** category includes objectives that spark interest in your company, brand, product, and service.
-- The **Consideration** category contains objectives that get people to remember your business and search for more information about it.
-- The **Conversions** category comprises objectives that stimulate people to buy and take advantage of your products or services. 
+* The **Awareness** category includes objectives that spark interest in your company, brand, product, and service.
+* The **Consideration** category contains objectives that get people to remember your business and search for more information about it.
+* The **Conversions** category comprises objectives that stimulate people to buy and take advantage of your products or services. 
 
 Choosing the right advertising objective for your dark post ad campaign is very important because different objectives require you to run your campaign in different ways.
 
@@ -103,7 +109,7 @@ With a few exceptions, the majority of objectives support three major formats: 
 
 1. The [**Carousel** **format**](https://softcube.com/how-to-show-carousel-ads-on-facebook/) allows you to add up to ten images or videos in one dark post in the form of a merry-go-round.
 2. The **[Single Image or Video format](https://softcube.com/facebook-video-ads-vs-image-ads/)** allows you to highlight one image, video, or slideshow.
-3. The [**Collection format**](https://softcube.com/guide-to-facebook-collection-ads/) allows you to showcase a cover video or image and several images in a dark post that has a grid form.
+3. The **[Collection format](https://softcube.com/guide-to-facebook-collection-ads/)** allows you to showcase a cover video or image and several images in a dark post that has a grid form.
 
 ### Diversify Your Targeting
 
@@ -111,9 +117,9 @@ While creating attractive dark post content requires passion, successfully [targ
 
 Here’s how you can target Facebook audiences with dark posts:
 
-1. **Custom Audience targeting**. Custom Audiences are lists of leads whose contact information you can add to Facebook from any marketing channel.
-2. **Lookalike Audience** **targeting**. Lookalike Audiences are lists of leads who _look like_ leads from your Custom Audiences.
-3. **Targeting by interests**. Detailed Targeting in Ads Manager allows you to add demographics, interests, or behaviors of your audience to help Facebook better recognize it.
+1. **Custom Audience targeting**. [Custom Audiences](https://softcube.com/guide-to-facebook-custom-audiences/) are lists of leads whose contact information you can add to Facebook from any marketing channel.
+2. **Lookalike Audience** **targeting**. [Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/) are lists of leads who *look like* leads from your Custom Audiences.
+3. **Targeting by interests**. [Detailed Targeting](https://softcube.com/how-to-find-a-perfect-facebook-target-audience/) in Ads Manager allows you to add demographics, interests, or behaviors of your audience to help Facebook better recognize it.
 4. **Automated prospecting on Instagram**. Create dark posts in the Instagram mobile app and check their performance in Ads Manager.
 5. **Retargeting of narrow audiences**. Create small groups of people who have interacted with your business and show them dark posts to remind them about your company.
 
@@ -124,7 +130,7 @@ Note that to choose the right audience, you should create the right [Custom Audi
 There are several things you should keep in mind when creating a budget for dark posts:
 
 1. **Metrics**. Take advantage of [Facebook ad metrics](https://softcube.com/essential-facebook-ad-metrics-you-must-use/) to monitor how you spend your money.
-2. **Bidding types**. Figure out the difference between the major types of Facebook bidding. Depending on the bidding type you pick, your results may vary by 10–30%.
+2. **Bidding types**. Figure out the difference between the major types of [Facebook bidding](https://softcube.com/how-to-become-the-winner-in-facebook-bidding/). Depending on the bidding type you pick, your results may vary by 10–30%.
 3. **Marketing objectives**. From the perspective of allocating a budget, choosing an objective is important because ads created for different goals have a different cost.
 
 If you want to learn more about controlling your budget for dark posts, read the [detailed guide](https://softcube.com/guide-to-facebook-advertising-cost) on our blog.
@@ -135,7 +141,7 @@ There are a few more places where you can show your ads aside from Facebook: Ins
 
 ![Dark post on Facebook — placements](/img/dark-post-on-facebook-placements.jpg)
 
-You can run different dark post campaigns on different placements or create a few dark posts for a single placement at the same time. 
+You can run different dark post campaigns on [different placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/) or create a few dark posts for a single placement at the same time. 
 
 For those of you who are taking the first steps, we recommend you choose placements automatically and do this manually only after you find which placements work best for your business.
 

@@ -1,20 +1,27 @@
 ---
+focuskeyphrase: social media marketing expert
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: How to Hire a Social Media Marketing Expert
-date: 2019-09-04
-description: Need modify desk.
+date: 2019-09-04T00:00:00.000Z
+description: Are you ready to give a boost to your social media marketing
+  strategy? Hire a social media marketing expert with insightful tips and get
+  set to succeed.
 featuredpost: false
 featuredimage: /img/social-media-marketing-expert-featured-image.jpg
 image: /img/social-media-marketing-expert-featured-image.jpg
-seotitle: What to Look For When Hiring a Social Media Marketing Expert
-focuskeyphrase: social media marketing expert
 tags:
-  - brewing
-  - chemex
+  - SMM
+  - social media marketing
+  - social media
+  - social media advertising
+seo_title: What to Look For When Hiring a Social Media Marketing Expert
+metadescription: 
+focus_keyphrase: social media marketing expert
+seotitle: What to Look For When Hiring a Social Media Marketing Expert
 ---
 <!--StartFragment-->
 

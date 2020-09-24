@@ -1,24 +1,29 @@
 ---
+focuskeyphrase: facebook blueprint certification
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: How to Survive Facebook Blueprint Certification
-date: 2018-11-14
-description: Need modify desk.
+date: 2018-11-14T00:00:00.000Z
+description: Read about the Facebook Blueprint learning platform, which offers
+  Facebook Blueprint Certification, and get tips for passing certification
+  exams.
 featuredpost: false
 featuredimage: /img/facebook-blueprint-certification-featured-image.jpg
 image: /img/facebook-blueprint-certification-featured-image.jpg
-seotitle: "How to Pass Facebook Blueprint Certification [Complete Guide]"
-focuskeyphrase: facebook blueprint certification
 tags:
-  - brewing
-  - chemex
+  - ads certification
+  - Blueprint eLearning
+  - Facebook ads
+  - Facebook Blueprint Certification
+seo_title: How to Pass Facebook Blueprint Certification [Complete Guide]
+metadescription: 
+focus_keyphrase: facebook blueprint certification
+seotitle: How to Pass Facebook Blueprint Certification [Complete Guide]
 ---
 <!--StartFragment-->
-
-<script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
 
 It takes great effort to climb a mountain, but it’s worth it. You need to find a route, gear up, and plan your trip.
 
@@ -47,27 +52,27 @@ After getting access to Facebook Blueprint, choose one of the three methods of l
 
 ### Blueprint eLearning
 
-Blueprint eLearning is a selection of free online courses for small companies and ad agencies that want to improve their Facebook ad performance. You can choose from 17 different categories that include over 90 free courses. Check out the full list of categories:
+Blueprint eLearning is a selection of free online courses for small companies and ad agencies that want to improve their [Facebook ad performance](https://softcube.com/guide-to-the-facebook-learning-phase/). You can choose from 17 different categories that include over 90 free courses. Check out the full list of categories:
 
-- Get started with Facebook
-- Get started with advertising
-- Learn advanced buying options
-- Target the right audience
-- Build awareness
-- Drive consideration
-- Generate leads
-- Promote my app
-- Increase online sales
-- Increase in-store sales
-- Choose ad formats
-- Get creative inspiration
-- Manage ads
-- Measure ad performance
-- Learn about Messenger
-- Learn about Instagram
-- Distribute and monetize content
+* Get started with Facebook
+* Get started with advertising
+* Learn advanced buying options
+* Target the right audience
+* Build awareness
+* Drive consideration
+* Generate leads
+* Promote my app
+* Increase online sales
+* Increase in-store sales
+* Choose ad formats
+* Get creative inspiration
+* Manage ads
+* Measure ad performance
+* Learn about Messenger
+* Learn about Instagram
+* Distribute and monetize content
 
-To enroll in Blueprint eLearning courses, go to the [Facebook Blueprint home page](https://www.facebook.com/blueprint) and click **Start Courses**. After this, choose a method of study by clicking [**Home**](https://www.facebookblueprint.com/student/catalog) or [**Browse**](https://www.facebookblueprint.com/student/catalog/browse) in the left side menu.
+To enroll in Blueprint eLearning courses, go to the [Facebook Blueprint home page](https://www.facebook.com/blueprint) and click **Start Courses**. After this, choose a method of study by clicking **[Home](https://www.facebookblueprint.com/student/catalog)** or **[Browse](https://www.facebookblueprint.com/student/catalog/browse)** in the left side menu.
 
 If you click **Home,** you’ll see all courses sorted by category. Also, there are three helpful links at the top of the home page: **Course Updates**, **FAQ**, and **Support & Feedback**.
 
@@ -144,47 +149,47 @@ Not sure how to study for these exams? You won’t have to search for materials 
 
 Here’s a list of courses to prepare for the Facebook Advertising Core Competencies exam:
 
-- [Targeting: Lookalike Audiences](https://fb.me/lookalike-audiences-course)
-- [Facebook and TV](https://fb.me/fb-and-tv-course)
-- [Ad Auction and Delivery Overview](https://fb.me/ad-auction-delivery-course)
-- [Facebook and Instagram](https://fb.me/fb-ig-course)
-- [Extend Your Campaign’s Reach with Audience Network](https://fb.me/audience-network-course)
-- [Introduction to Facebook Pages](https://fb.me/intro-fb-pages-course)
-- [Instagram Buying Objectives](https://fb.me/ig-buying-objectives-course)
-- [Extend Your Campaign’s Reach with Audience Network](https://fb.me/audience-network-course)
-- [Brand Best Practices](https://fb.me/brand-best-practices-course)
-- [Video Views/Video Ads](https://fb.me/video-ad-course)
-- [Targeting: Core Audiences](https://fb.me/core-audiences-course)
-- [How to Drive Actions Online, in Stores, and in Mobile Apps](https://fb.me/drive-actions-course)
-- [Using Facebook Pixel to Measure, Optimize, and Build Audiences for Campaigns](https://fb.me/fb-pixel-course)
-- [Business Manager](https://fb.me/business-manager-course)
-- [Audience Insights](https://fb.me/audience-insights-course)
-- [Create Facebook Ads](https://fb.me/create-ads-course)
-- [Edit and Manage Facebook Ads](https://fb.me/edit-manage-ads-course)
-- [Creating a Facebook Page](https://fb.me/create-fb-page-course)
-- [Targeting: Custom Audiences](https://fb.me/custom-audiences-course)
-- [Getting Started With Facebook and Partner Measurement Solutions](https://fb.me/measurement-course)
-- [Measure Campaign Performance With Ads Reporting](https://fb.me/ads-reporting-course)
+* [Targeting: Lookalike Audiences](https://fb.me/lookalike-audiences-course)
+* [Facebook and TV](https://fb.me/fb-and-tv-course)
+* [Ad Auction and Delivery Overview](https://fb.me/ad-auction-delivery-course)
+* [Facebook and Instagram](https://fb.me/fb-ig-course)
+* [Extend Your Campaign’s Reach with Audience Network](https://fb.me/audience-network-course)
+* [Introduction to Facebook Pages](https://fb.me/intro-fb-pages-course)
+* [Instagram Buying Objectives](https://fb.me/ig-buying-objectives-course)
+* [Extend Your Campaign’s Reach with Audience Network](https://fb.me/audience-network-course)
+* [Brand Best Practices](https://fb.me/brand-best-practices-course)
+* [Video Views/Video Ads](https://fb.me/video-ad-course)
+* [Targeting: Core Audiences](https://fb.me/core-audiences-course)
+* [How to Drive Actions Online, in Stores, and in Mobile Apps](https://fb.me/drive-actions-course)
+* [Using Facebook Pixel to Measure, Optimize, and Build Audiences for Campaigns](https://fb.me/fb-pixel-course)
+* [Business Manager](https://fb.me/business-manager-course)
+* [Audience Insights](https://fb.me/audience-insights-course)
+* [Create Facebook Ads](https://fb.me/create-ads-course)
+* [Edit and Manage Facebook Ads](https://fb.me/edit-manage-ads-course)
+* [Creating a Facebook Page](https://fb.me/create-fb-page-course)
+* [Targeting: Custom Audiences](https://fb.me/custom-audiences-course)
+* [Getting Started With Facebook and Partner Measurement Solutions](https://fb.me/measurement-course)
+* [Measure Campaign Performance With Ads Reporting](https://fb.me/ads-reporting-course)
 
 Check out these courses to prepare for the Facebook Certified Planning Professional exam:
 
-- [Brand Awareness: Earning Reach and Attention](https://fb.me/brand-awareness-course)
-- [Achieving Scale with the Reach Objective](https://fb.me/reach-objective-course)
-- [Moving Hearts and Minds with the Traffic Objective](https://fb.me/traffic-course)
-- [App Installs](https://l.facebook.com/l.php?u=https%3A%2F%2Ffb.me%2Fapp-installs-course&h=AT0ZVkdbskRGmFgHtGVAw2yoQkMLWfrV_PbLINRv6_dvofywFAEp5agh9OuyIn-JYqf1vDKKlMLtV4yUC1UqcZfy0EQv5oZLM6d0HfahjCjMzuFgofyTXIAn-924Qjae_IqS)
-- [Facebook Events: Create, Promote, and Drive Ticket Sales](https://fb.me/fb-events-course)
-- [Offers: Attract, Convert, and Reward Customers](https://fb.me/offers-course)
-- [Boost Your Posts](https://fb.me/boost-your-post-course)
-- [Simplifying Lead Generation in a Cross-Device World](https://fb.me/lead-ads-course)
-- [Turn Shoppers into Buyers with Dynamic Ads](https://fb.me/dynamic-ads-course)
-- [Drive Store Visits and In-Store Sales with the Store Visits Objective](https://fb.me/store-visits-course)
-- [Engage Your Audience with Fullscreen Canvas Experience](https://fb.me/fullscreen-canvas-course)
-- [Driving Inspiration and Product Discovery with the Collection Ad Format](https://fb.me/collection-course)
-- [Storytelling with the Carousel Format](https://fb.me/carousel-course)
-- [Reach and Frequency Buying on Facebook](https://fb.me/rf-buying-course)
-- [Optimizing Video Content for Mobile](https://fb.me/pocket-vc-course)
-- [Winning with Video on Mobile](https://fb.me/mobile-video-creative-considerations-course)
-- [Creative Inspirations for Businesses](https://fb.me/creative-inspirations-course)
+* [Brand Awareness: Earning Reach and Attention](https://fb.me/brand-awareness-course)
+* [Achieving Scale with the Reach Objective](https://fb.me/reach-objective-course)
+* [Moving Hearts and Minds with the Traffic Objective](https://fb.me/traffic-course)
+* [App Installs](https://l.facebook.com/l.php?u=https%3A%2F%2Ffb.me%2Fapp-installs-course&h=AT0ZVkdbskRGmFgHtGVAw2yoQkMLWfrV_PbLINRv6_dvofywFAEp5agh9OuyIn-JYqf1vDKKlMLtV4yUC1UqcZfy0EQv5oZLM6d0HfahjCjMzuFgofyTXIAn-924Qjae_IqS)
+* [Facebook Events: Create, Promote, and Drive Ticket Sales](https://fb.me/fb-events-course)
+* [Offers: Attract, Convert, and Reward Customers](https://fb.me/offers-course)
+* [Boost Your Posts](https://fb.me/boost-your-post-course)
+* [Simplifying Lead Generation in a Cross-Device World](https://fb.me/lead-ads-course)
+* [Turn Shoppers into Buyers with Dynamic Ads](https://fb.me/dynamic-ads-course)
+* [Drive Store Visits and In-Store Sales with the Store Visits Objective](https://fb.me/store-visits-course)
+* [Engage Your Audience with Fullscreen Canvas Experience](https://fb.me/fullscreen-canvas-course)
+* [Driving Inspiration and Product Discovery with the Collection Ad Format](https://fb.me/collection-course)
+* [Storytelling with the Carousel Format](https://fb.me/carousel-course)
+* [Reach and Frequency Buying on Facebook](https://fb.me/rf-buying-course)
+* [Optimizing Video Content for Mobile](https://fb.me/pocket-vc-course)
+* [Winning with Video on Mobile](https://fb.me/mobile-video-creative-considerations-course)
+* [Creative Inspirations for Businesses](https://fb.me/creative-inspirations-course)
 
 #### Facebook Certified Buying Professional
 
@@ -195,13 +200,13 @@ Do you want to confirm your knowledge in creating and buying advertising? If so,
 
 We’ve already listed Blueprint eLearning courses for the Facebook Certified Planning Professional exams. The list for Facebook Advertising Core Competencies is the same, but the list for the Facebook Certified Buying Professional exam is unique:
 
-- [Reach and Frequency Buying on Facebook](https://l.facebook.com/l.php?u=https%3A%2F%2Ffb.me%2Frf-buying-course&h=AT1JqClV4FSNSw9ql56ms3Cno4iZyyHMpW3ru5slk2jaaYKbqO5HqnfWxnGMiUbwTP45syMHua4Q6p5gkEp8xm4_LSFXhWCrQew6KyzAwObuRBXQmSjR8vGzikj_0RNGPICQ)
-- [Guide: Troubleshooting Ad Performance](https://www.facebook.com/business/help/945693298836131?helpref=uf_permalink)
-- [Ad Policies for Content, Creative, and Targeting](https://fb.me/ad-policies-course)
-- [Engage Your Audience with a Fullscreen Canvas Experience](https://fb.me/fullscreen-canvas-course)
-- [Driving Inspiration and Product Discovery with the Collection Ad Format](https://fb.me/collection-course)
-- [Storytelling with the Carousel Format](https://fb.me/carousel-course)
-- [Ads Troubleshooting](https://www.facebook.com/business/help/223107361182010)
+* [Reach and Frequency Buying on Facebook](https://l.facebook.com/l.php?u=https%3A%2F%2Ffb.me%2Frf-buying-course&h=AT1JqClV4FSNSw9ql56ms3Cno4iZyyHMpW3ru5slk2jaaYKbqO5HqnfWxnGMiUbwTP45syMHua4Q6p5gkEp8xm4_LSFXhWCrQew6KyzAwObuRBXQmSjR8vGzikj_0RNGPICQ)
+* [Guide: Troubleshooting Ad Performance](https://www.facebook.com/business/help/945693298836131?helpref=uf_permalink)
+* [Ad Policies for Content, Creative, and Targeting](https://fb.me/ad-policies-course)
+* [Engage Your Audience with a Fullscreen Canvas Experience](https://fb.me/fullscreen-canvas-course)
+* [Driving Inspiration and Product Discovery with the Collection Ad Format](https://fb.me/collection-course)
+* [Storytelling with the Carousel Format](https://fb.me/carousel-course)
+* [Ads Troubleshooting](https://www.facebook.com/business/help/223107361182010)
 
 To start the certification process, open the Facebook Blueprint home page by clicking **Certification** in the top horizontal menu. You’ll see two blue buttons: **Schedule/Take Exam** and **Take Systems Check Test**.
 
@@ -219,9 +224,9 @@ When you’ve successfully finished the Systems Check Test, go back to the [Face
 
 After getting certified, you’ll get your personal badge of achievement. You can share it on any social network, on your blog, in emails, and on your CV. Furthermore, every badge is unique and anyone can check its authenticity.
 
-![](/img/facebook-blueprint-certification-badges-3.jpg)
+![facebook blueprint certification - badges](/img/facebook-blueprint-certification-badges-3.jpg)
 
-Keep in mind that you can get a certificate only if you have at least six months of experience in Facebook marketing. Don’t have enough practice? Study with eLearning and gain some experience.
+Keep in mind that you can get a certificate only if you have at least six months of experience in [Facebook marketing](https://softcube.com/category/facebook-ads/). Don’t have enough practice? Study with eLearning and gain some experience.
 
 ## Cost of Facebook Advertising Certification
 

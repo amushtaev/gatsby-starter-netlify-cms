@@ -21,12 +21,11 @@ tags:
   - text ads
   - video ads
 seo_title: 10 Best Facebook Ad Examples That Drive and Convert Leads
+metadescription: 
 focus_keyphrase: best facebook ad examples
 seotitle: 10 Best Facebook Ad Examples That Drive Leads
 ---
 <!--StartFragment-->
-
-<script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
 
 There are two building blocks for any **[successful Facebook advertising](https://softcube.com/)** campaign:
 
@@ -37,7 +36,7 @@ While setting up a Facebook campaign lies in following precise recommendations, 
 
 ## The Story Behind Facebook Ads: Best Practices Reviewed
 
-How can you create the most effective Facebook ads? Keep in mind two things.
+How can you create the most effective [Facebook ads](https://softcube.com/category/facebook-ads/)? Keep in mind two things.
 
 First, remember that you shouldn’t reinvent the wheel. Get inspired by ideas that have already been implemented by advertisers, your competitors, and other companies.
 
@@ -61,7 +60,7 @@ There are three ways to create great videos and images.
 
 Naturally, you can [take pictures and record videos](https://softcube.com/facebook-video-ads-vs-image-ads/) by yourself. The latest smartphones have cameras of very decent quality. But will you be able to direct, retouсh, and edit this content at the same level as big companies? That’s the real question.
 
-![Best Facebook ads - smartphone image](/img/best-facebook-ads-smartphone-image-1.jpg "best-facebook-ads-smartphone-image")
+![Best Facebook ads - smartphone image](/img/best-facebook-ads-smartphone-image-1.jpg)
 
 If you have doubts about producing your own videos, contacting professionals makes sense. You can share how you see your ads, an expert can advise you on how they see them, and together you can come up with something great. In this case, however, be ready to allocate a large budget.
 

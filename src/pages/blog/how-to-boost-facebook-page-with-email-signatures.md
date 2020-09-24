@@ -1,20 +1,25 @@
 ---
+focuskeyphrase: email signature
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: How to Boost Facebook Pages with Email Signatures
-date: 2019-09-25
-description: Need modify desk.
+date: 2019-09-25T00:00:00.000Z
+description: How can you promote a Facebook business profile with professional
+  email signatures? Learn the most powerful ways to boost email and social media
+  marketing.
 featuredpost: false
 featuredimage: /img/email-signatures-featured-image.jpg
 image: /img/email-signatures-featured-image.jpg
-seotitle: How to Promote Your Facebook Account with Email Signature Marketing
-focuskeyphrase: email signature
 tags:
   - brewing
   - chemex
+seo_title: How to Promote Your Facebook Account with Email Signature Marketing
+metadescription: 
+focus_keyphrase: email signature
+seotitle: How to Promote Your Facebook Account with Email Signature Marketing
 ---
 <!--StartFragment-->
 

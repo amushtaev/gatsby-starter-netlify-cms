@@ -1,20 +1,26 @@
 ---
+focuskeyphrase: facebook custom audiences
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: Guide to Facebook Custom Audiences
-date: 2019-03-14
-description: Need modify desk.
+date: 2019-03-14T00:00:00.000Z
+description: Want to create lists of customers from any possible marketing
+  channel? Learn everything about Facebook Custom Audiences targeting in this
+  article.
 featuredpost: false
 featuredimage: /img/facebook-custom-audience-featured-pic.jpg
 image: /img/facebook-custom-audience-featured-pic.jpg
-seotitle: "What Are Facebook Custom Audiences? [Complete Guide]"
-focuskeyphrase: facebook custom audiences
 tags:
-  - brewing
-  - chemex
+  - Facebook Lookalike Audiences
+  - Facebook Pixel
+  - Facebook Dynamic Ads
+seo_title: What Are Facebook Custom Audiences? [Complete Guide]
+metadescription: 
+focus_keyphrase: facebook custom audiences
+seotitle: What Are Facebook Custom Audiences? [Complete Guide]
 ---
 <!--StartFragment-->
 
@@ -36,11 +42,11 @@ This feature lets any business or agency upload or import lists of contacts to F
 
 The cool thing about this feature is that you can use data from any source available to you:  
 
-- Email lists
-- Your website or app
-- Spreadsheets
-- Offline activity data
-- Facebook
+* Email lists
+* Your website or app
+* Spreadsheets
+* Offline activity data
+* Facebook
 
 After you create a list of customers, Facebook looks for their profiles and shows these users your ads. Note that users may see which [company is using their personal information](https://marketingland.com/facebook-will-show-users-the-agencies-partners-involved-in-custom-audience-targeting-256682).  
 
@@ -54,10 +60,10 @@ In the good old days, Facebook advertisers could add their current customers’ 
 
 You can upload users’ personal data in these ways:  
 
-- **TXT or CSV file**. Once you upload a file, the system hashes the information and matches it with its own data.
-- **Copy and paste data**. Add the information by hand.
-- **MailChimp**. Just as Facebook is king in the social search world, MailChimp rules in the kingdom of email marketing.
-- **Customer file with lifetime value (LTV)**. Lifetime value measures the net profit projected from a customer for the entire period of your engagement with this customer. Learn more about this option [here](https://www.facebook.com/business/help/1730784113851988?helpref=faq_content#).
+* **TXT or CSV file**. Once you upload a file, the system hashes the information and matches it with its own data.
+* **Copy and paste data**. Add the information by hand.
+* **MailChimp**. Just as Facebook is king in the social search world, MailChimp rules in the kingdom of email marketing.
+* **Customer file with lifetime value (LTV)**. Lifetime value measures the net profit projected from a customer for the entire period of your engagement with this customer. Learn more about this option [here](https://www.facebook.com/business/help/1730784113851988?helpref=faq_content#).
 
 Remember that you have to constantly update your customer data to truly benefit from this method of forming a new group of customers on Facebook.
 
@@ -88,22 +94,22 @@ Every day, you engage with new users on Facebook and Instagram. You can create a
 
 There are a few types of engagement lists:  
 
-- Video
-- Lead Form
-- Fullscreen Experience
-- Facebook Page
-- Instagram Business Profile
-- Event
+* Video
+* Lead Form
+* Fullscreen Experience
+* Facebook Page
+* Instagram Business Profile
+* Event
 
 The system periodically refreshes your engagement lists for you, but you can also do it yourself.
 
 ### Lookalike Audiences
 
-Lookalike Audiences are an upgraded version of Custom Audiences.  
+[Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/) are an upgraded version of Custom Audiences.  
 
 First, pick a source for your customer group. It can be a Custom Audience made with your Pixel or your app SDK or a list of your Page followers.  
 
-Then Facebook searches for people who _look like_ your customers and creates a similar but larger customer group based on user behavior, location, interests, and other characteristics of the original Custom Audience.  
+Then Facebook searches for people who *look like* your customers and creates a similar but larger customer group based on user behavior, location, interests, and other characteristics of the original Custom Audience.  
 
 The minimum size of a Lookalike Audience is 100 users.
 
@@ -217,13 +223,13 @@ We recommend using a group of up to 50,000 of your best customers. It may take 6
 
 Note that you have to be an admin of the Page or the Pixel you use. To create a list:  
 
-- Go to [Audiences](https://www.facebook.com/ads/manager/audiences/).
-- Click **Create a Lookalike Audience**.
-- Choose the source of your customer group: a Pixel-based list, an SDK-based list, your .csv or .txt file, or people who like your Page.
-- Browse and select **Location**, which is available only if you have data of at least 100 people from a single country.
-- Choose the number of lists you’d like to create.
-- Choose **Audience Size**.
-- Click **Create Audience**.
+* Go to [Audiences](https://www.facebook.com/ads/manager/audiences/).
+* Click **Create a Lookalike Audience**.
+* Choose the source of your customer group: a Pixel-based list, an SDK-based list, your .csv or .txt file, or people who like your Page.
+* Browse and select **Location**, which is available only if you have data of at least 100 people from a single country.
+* Choose the number of lists you’d like to create.
+* Choose **Audience Size**.
+* Click **Create Audience**.
 
 ## How to Benefit from Custom Audiences
 

@@ -1,20 +1,29 @@
 ---
+focuskeyphrase: facebook ads for real estate
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: 6 Tips to Create Successful Facebook Ads for Real Estate
-date: 2019-05-20
-description: Need modify desk.
+date: 2019-05-20T00:00:00.000Z
+description: Learn how to launch Facebook ads for real estate wisely. Read
+  recommendations and get advertising inspiration from ten great examples.
 featuredpost: false
 featuredimage: /img/facebook-ads-for-real-estate-featured-image.jpg
 image: /img/facebook-ads-for-real-estate-featured-image.jpg
-seotitle: "6 Tips to Create Facebook Ads for Real Estate [with Examples]"
-focuskeyphrase: facebook ads for real estate
 tags:
-  - brewing
-  - chemex
+  - Zillow
+  - Trulia
+  - Custom Audiences
+  - Lookalike Audiences
+  - Facebook Pixel
+  - Dynamic Ads
+  - Realtors
+seo_title: 6 Tips to Create Facebook Ads for Real Estate [with Examples]
+metadescription: 
+focus_keyphrase: facebook ads for real estate
+seotitle: 6 Tips to Create Facebook Ads for Real Estate [with Examples]
 ---
 <!--StartFragment-->
 
@@ -52,10 +61,10 @@ Thanks to your Page, you can inform your clients of everything they need to know
 
 Posts from your News Feed can take various forms:
 
-- Short publications to share news and updates
-- Live streaming videos from your office or properties you’re offering
-- Event invites
-- Special offers
+* Short publications to share news and updates
+* Live streaming videos from your office or properties you’re offering
+* Event invites
+* Special offers
 
 You can share news and updates, encourage people to call you or start a chat in Messenger, tag other companies in your posts, and even offer a job.
 
@@ -105,7 +114,7 @@ All you need to do is upload a list with names, emails, phone numbers, etc. Afte
 
 There are [lots of official tools](https://softcube.com/best-facebook-ad-tools/) to help you get the most out of Facebook ads for real estate.  
 
-For example, **Facebook Pixel** allows you to track conversions from your website and create different audiences from existing clients.  
+For example, **[Facebook Pixel](https://softcube.com/how-to-create-a-facebook-pixel/)** allows you to track conversions from your website and create different audiences from existing clients.  
 
 **Audience Insights**, **Insights to Go**, and **Cross Border Insights Finder** are three different platforms for monitoring the interests and behavior of Facebook users. These platforms allow any real estate specialist to create an audience template and use it for future ad campaigns.  
 
@@ -117,7 +126,7 @@ Your developers can go to [Facebook for Developers](https://developers.facebook.
 
 Facebook advertising for realtors, brokers, and agents isn’t all about Facebook.  
 
-Facebook offers _placements_ on Instagram, Messenger, and the Audience Network.
+Facebook offers *[placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/)* on Instagram, Messenger, and the Audience Network.
 
 ![Facebook ads for real estate — Facebook placements](/img/facebook-ads-for-real-estate-placements.jpg)
 
@@ -143,10 +152,10 @@ Aside from getting contact information from leads, you can also ask custom quest
 
 There are four types of custom questions:  
 
-- **Short answer** – A perfect option for asking simple questions and getting free-form answers
-- **Conditional answers** – A set of questions in which each question depends on the previous answer
-- **Appointment scheduling** – Allows you to arrange meetings with your potential clients
-- **Multiple choice** – Lets leads choose from a set of possible answers
+* **Short answer** – A perfect option for asking simple questions and getting free-form answers
+* **Conditional answers** – A set of questions in which each question depends on the previous answer
+* **Appointment scheduling** – Allows you to arrange meetings with your potential clients
+* **Multiple choice** – Lets leads choose from a set of possible answers
 
 When it comes to real estate and Facebook ads for lead generation, there are lots of ways for a broker or sales agent to get new leads.  
 
@@ -154,7 +163,7 @@ Homesnap, a mobile app for real estate agents, ran a [year-long ad campaign](htt
 
 ![Facebook ads for real estate — Homesnap ad](/img/facebook-ads-for-real-estate-homesnap-ad.jpg)
 
-Throughout 2017, their Lead Ads helped Homesnap attract 184 leads, get over $31,000 in commission, and achieve a sevenfold increase in ROI.
+Throughout 2017, their [Lead Ads](https://softcube.com/how-to-create-facebook-lead-generation-ads/) helped Homesnap attract 184 leads, get over $31,000 in commission, and achieve a sevenfold increase in ROI.
 
 You can invite leads to take a home tour, offer them a property brochure, and ask about their needs and requirements.
 
@@ -164,7 +173,7 @@ If searching for new leads on Facebook is one of your major priorities, you shou
 
 Remember the Custom Audiences we mentioned above?  
 
-Lookalike Audiences are a type of Custom Audience that allows you to find leads who are similar to the people in any Custom Audience you’ve created.  
+[Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/) are a type of Custom Audience that allows you to find leads who are similar to the people in any Custom Audience you’ve created.  
 
 ![Facebook ads for real estate — Lookalike Audience](/img/facebook-ads-for-real-estate-lookalike-audiences.jpg)
 
@@ -190,19 +199,18 @@ There are millions of users on Facebook who have liked Pages related to these tw
 
 ### Launch Dynamic Ads for Real Estate
 
-Dynamic Ads are Image, [Carousel](https://softcube.com/how-to-show-carousel-ads-on-facebook/), and Collection Ads generated automatically from an ad template to promote hundreds of items from a real estate inventory at the same time.  
+Dynamic Ads are Image, [Carousel](https://softcube.com/how-to-show-carousel-ads-on-facebook/), and [Collection](https://softcube.com/guide-to-facebook-collection-ads/) Ads generated automatically from an ad template to promote hundreds of items from a real estate inventory at the same time.  
 
 Facebook delivers Dynamic Ads to users who have visited your website, used your app, or engaged with your business elsewhere on the internet, as well as to potential clients from a broad audience who may have an interest in the properties you offer.  
 
 To set up Dynamic Ads, all you need to do is:  
 
-- install the Facebook Pixel or SDK on your website
-- upload home listings to Facebook
-- create an ad template to generate your ads
-- launch an ad campaign in Ads Manager.
+* install the Facebook Pixel or SDK on your website
+* upload home listings to Facebook
+* create an ad template to generate your ads
+* launch an ad campaign in Ads Manager.
 
-You should launch [Dynamic Ads for Real Estate](https://softcube.com/facebook-dynamic-product-ads/), which is one of three special types of Dynamic Ads along with Travel and Automotive.  
-Automated Facebook ads for real estate agents are optimized for the industry.
+You should launch [Dynamic Ads for Real Estate](https://softcube.com/facebook-dynamic-product-ads/), which is one of three special types of Dynamic Ads along with Travel and Automotive. Automated Facebook ads for real estate agents are optimized for the industry.
 
 ![Facebook ads for real estate — Dynamic Ads](/img/facebook-ads-for-real-estate-dynamic-ads.jpg)
 
@@ -216,8 +224,8 @@ Carousel Ads is an ad format that allows you to [display up to 10 images or vide
 
 Every card in a Carousel ad has its own image, headline, link, and button. This gives you great options for demonstrating:  
 
-- **One property**. Show the benefits of one property by adding images of all rooms.
-- **A few properties**. Showcase different properties from the same area.
+* **One property**. Show the benefits of one property by adding images of all rooms.
+* **A few properties**. Showcase different properties from the same area.
 
 In fact, these are only two examples of what you can do with Carousel Ads. We bet you’ll find more ways of using them.
 

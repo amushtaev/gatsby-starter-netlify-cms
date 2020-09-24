@@ -1,20 +1,28 @@
 ---
+focuskeyphrase: facebook sponsored ads
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: The Beginner's Guide to Facebook Sponsored Ads
-date: 2019-12-19
-description: Need modify desk.
+date: 2019-12-19T00:00:00.000Z
+description: Discover what Facebook sponsored ads are and read a few
+  recommendations on how to launch them in order to make your ad campaign truly
+  successful.
 featuredpost: false
 featuredimage: /img/facebook-sponsored-ads-featured-image.jpg
 image: /img/facebook-sponsored-ads-featured-image.jpg
-seotitle: The Beginner's Guide to Facebook Sponsored Ads
-focuskeyphrase: facebook sponsored ads
 tags:
-  - brewing
-  - chemex
+  - Ad Library
+  - Business Page
+  - Custom Audiences
+  - Facebook Pixel
+  - ""
+seo_title: The Beginner's Guide to Facebook Sponsored Ads
+metadescription: 
+focus_keyphrase: facebook sponsored ads
+seotitle: The Beginner's Guide to Facebook Sponsored Ads
 ---
 <!--StartFragment-->
 
@@ -42,15 +50,15 @@ How do sponsored ads on Facebook work? To create a sponsored ad, you don’t nee
 
 Sponsored ads on Facebook can help you reach the following business goals:
 
-- **Get more website purchases** (as tracked by your Facebook Pixel)
-- **Boost a post** from your News Feed
-- **Get more leads** by [collecting people’s contact](https://softcube.com/how-to-create-facebook-lead-generation-ads/) info in a customized form
-- **Promote your app** and increase app downloads in Google Play or the App Store
-- **Promote your Send Message button** to encourage users to contact your business
-- **Promote your Page** to boost the number of likes
-- **Promote your business locally** to show online users the location of your brick-and-mortar store 
-- **Promote your Learn More button** to get people interested in your online business
-- **Get more website visitors** and boost your traffic
+* **Get more website purchases** (as tracked by your [Facebook Pixel](https://softcube.com/what-is-facebook-pixel-and-why-use-it/))
+* **Boost a post** from your News Feed
+* **Get more leads** by [collecting people’s contact](https://softcube.com/how-to-create-facebook-lead-generation-ads/) info in a customized form
+* **Promote your app** and increase app downloads in Google Play or the App Store
+* **Promote your Send Message button** to encourage users to contact your business
+* **Promote your Page** to boost the number of likes
+* **Promote your business locally** to show online users the location of your brick-and-mortar store 
+* **Promote your Learn More button** to get people interested in your online business
+* **Get more website visitors** and boost your traffic
 
 Additionally, you can **launch automated ads** to let Facebook find the right sponsored ads for the right audience automatically.
 
@@ -76,9 +84,9 @@ Describe your offer with **text** using a call to action, emoji, and less than 9
 
 Use **visuals** to demonstrate your offer. Also:
 
-- Don’t add text on images
-- Stick to [ad specifications](https://softcube.com/questions-about-facebook-video-ad-specs/)
-- Avoid using stock content
+* Don’t add text on images
+* Stick to [ad specifications](https://softcube.com/questions-about-facebook-video-ad-specs/)
+* Avoid using stock content
 
 Attract attention with a catchy and relevant **headline** based on a call to action that’s different from the call-to-action button below.
 
@@ -86,10 +94,10 @@ Attract attention with a catchy and relevant **headline** based on a call to act
 
 When you launch your sponsored ad on Facebook, you have several options to find new customers for your business:
 
-- Customize an audience based on age, location, interests, etc.
-- Target people who like your Page
-- Contact people (and friends of people) who like your Page
-- Reach people in your local area
+* Customize an audience based on age, location, interests, etc.
+* Target people who like your Page
+* Contact people (and friends of people) who like your Page
+* Reach people in your local area
 
 Also, you can create a [Custom Audience](https://softcube.com/guide-to-facebook-custom-audiences/) and use Facebook to target current customers. 
 
@@ -141,11 +149,11 @@ In one survey, more than [87% of advertising professionals](https://softcube.com
 
 Launching Facebook sponsored video ads has a lot of advantages. Video content allows you to:
 
-- Showcase your offer in action
-- Provide more details about the offer than static ads can
-- Have a more powerful effect on customers’ buying decisions
+* Showcase your offer in action
+* Provide more details about the offer than static ads can
+* Have a more powerful effect on customers’ buying decisions
 
-Want to get [**10 FREE video ads**](https://softcube.com/get-ten-ads/) made by artificial intelligence now?
+Want to get **[10 FREE video ads](https://softcube.com/get-ten-ads/)** made by artificial intelligence now?
 
 ## Launch Sponsored Ads on Facebook Now
 

@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: facebook video ad best practices
 templateKey: blog-post
 categories:
   - Video Ads
@@ -6,15 +7,19 @@ categories-slug:
   - video-ads
 title: 7 Facebook Video Ad Best Practices for 2020
 date: 2019-12-24T00:00:00.000Z
-description: Need modify desk.
+description: Want to produce high-quality and captivating Facebook video ads?
+  Learn the most important Facebook video ad best practices for 2020 in this
+  guide.
 featuredpost: false
 featuredimage: /img/facebook-video-ad-best-practices-featured-image.jpg
 image: /img/facebook-video-ad-best-practices-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - mobile ads
+  - video ads
+seo_title: 7 Facebook Video Ad Best Practices for Your Business in 2020
+metadescription: 
+focus_keyphrase: facebook video ad best practices
 seotitle: 7 Facebook Video Ad Best Practices for Your Business in 2020
-focuskeyphrase: facebook video ad best practices
 ---
 <!--StartFragment-->
 

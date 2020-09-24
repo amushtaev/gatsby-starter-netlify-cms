@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: facebook ad formats
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -6,15 +7,31 @@ categories-slug:
   - facebook-ads
 title: 14 Facebook Ad Formats You Need to Know
 date: 2020-01-15T00:00:00.000Z
-description: Need modify desk.
+description: Check out all the Facebook ad formats that exist today, find the
+  best way to visualize your Facebook advertising, and get high-quality video
+  ads for free.
 featuredpost: false
 featuredimage: /img/facebook-ad-formats-featured-picture.jpg
 image: /img/facebook-ad-formats-featured-picture.jpg
 tags:
-  - brewing
-  - chemex
+  - Automated ads
+  - Carousel ads
+  - Collection ads
+  - Dynamic ads
+  - Event Response ads
+  - Image ads
+  - Lead ads
+  - Messenger ads
+  - Offer ads
+  - Page Like ads
+  - Post Engagement ads
+  - Slideshow ads
+  - Stories
+  - video ads
+seo_title: The Most Complete List of Facebook Ad Formats in 2020
+metadescription: 
+focus_keyphrase: facebook ad formats
 seotitle: The Most Complete List of Facebook Ad Formats in 2020
-focuskeyphrase: facebook ad formats
 ---
 <!--StartFragment-->
 
@@ -22,7 +39,7 @@ Millions of businesses launch millions of Facebook ads every day. Fascinating, i
 
 One study claims that [85% of Facebook advertisers](https://softcube.com/70-video-marketing-statistics-for-2020/) consider their ads successful.
 
-So here’s the question: _How do they do that?_ The answer is, no one knows.
+So here’s the question: *How do they do that?* The answer is, no one knows.
 
 What we know for sure is that every business has a special strategy when it comes to Facebook advertising.
 
@@ -46,12 +63,12 @@ Today, brands publish an average of nearly [seven video posts](https://softcube.
 
 There are a lot of video formats for Facebook ads:
 
-- Stories
-- Vertical video
-- Short video
-- In-stream video
-- Live streaming video
-- 360-degree video
+* Stories
+* Vertical video
+* Short video
+* In-stream video
+* Live streaming video
+* 360-degree video
 
 If you want to know how to pick the best Facebook video ad format, read the [beginner’s guide](https://softcube.com/how-to-find-best-video-format-for-facebook-ads/) on our blog. 
 
@@ -69,7 +86,7 @@ If you compare [video ads versus image ads](https://softcube.com/facebook-video-
 
 ### Stories
 
-Stories ads are one of the best video formats for Facebook ads. They allow advertisers to provide users with fast, immersive, authentic, and entertaining shopping experiences.
+[Stories ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) are one of the best video formats for Facebook ads. They allow advertisers to provide users with fast, immersive, authentic, and entertaining shopping experiences.
 
 <iframe src="https://giphy.com/embed/jpVobagjy1StnS2FQY" width="236" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
 
@@ -77,10 +94,10 @@ The cool thing about Stories ads is that you can buy and run them not only on In
 
 According to Facebook:
 
-- over 4 million advertisers use Stories every month
-- people create over 500 million Stories every day
-- businesses post 1 in 3 of the most viewed Instagram Stories
-- there are over 1 billion Stories posted across all Facebook platforms every day
+* over 4 million advertisers use Stories every month
+* people create over 500 million Stories every day
+* businesses post 1 in 3 of the most viewed Instagram Stories
+* there are over 1 billion Stories posted across all Facebook platforms every day
 
 Stories have tremendous potential for your business, especially when posted on different Facebook placements at the same time.
 
@@ -92,7 +109,7 @@ More than 1.3 billion users send over 20 billion messages on Messenger every mon
 
 <iframe src="https://giphy.com/embed/UTYtawNwSTtt4vwG0p" width="250" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
 
-Messenger ads are divided into four major types:
+[Messenger ads](https://softcube.com/how-to-start-a-personal-chat-with-messenger-ads/) are divided into four major types:
 
 1. **Messenger inbox ads** are displayed in the Chats tab. After people click on this type of Messenger ad, the platform drives them to one of three places: a website, mobile app, or Messenger conversation.
 2. **Messenger Stories ads** are a great way to quickly get people interested in your products or services.
@@ -103,7 +120,7 @@ To launch any of these Messenger ad types, go to Ads Manager and pick the Messag
 
 ### Collection
 
-Collection ads are grid-like posts where you can add one major video or image plus up to four images above it. If you advertise an online store, hotel, or airline, you should give Collection ads a try.
+[Collection ads](https://softcube.com/guide-to-facebook-collection-ads/) are grid-like posts where you can add one major video or image plus up to four images above it. If you advertise an online store, hotel, or airline, you should give Collection ads a try.
 
 <iframe src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
 
@@ -118,17 +135,17 @@ Powered by Instant Experience, [Facebook Collection ads](https://softcube.com/gu
 
 ### Carousel
 
-Carousel ads are posts that have the form of a merry-go-round.
+[Carousel ads](https://softcube.com/how-to-show-carousel-ads-on-facebook/) are posts that have the form of a merry-go-round.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftommyhilfiger%2Fposts%2F10156999283175686&amp;width=500" width="500" height="532" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Every Carousel ad includes up to ten videos or images.
 
-The Facebook Carousel ad format is a [great option](https://softcube.com/how-to-show-carousel-ads-on-facebook/) if you want to:
+The Facebook Carousel ad format is a great option if you want to:
 
-- show multiple products
-- highlight features of one product or service
-- create a step-by-step story about your business
+* show multiple products
+* highlight features of one product or service
+* create a step-by-step story about your business
 
 Run an e-commerce business? You should definitely launch some Carousel ads.
 
@@ -158,9 +175,9 @@ These are prebuilt forms that allow businesses to get users’ contact informati
 
 Depending on your needs, you can use prefilled fields to ask for:
 
-- **Contact information**: email, first and last name, phone number, etc.
-- **Demographics**: date of birth, gender, relationship status, etc.
-- **Work information**: job title, work email, company name, work phone number
+* **Contact information**: email, first and last name, phone number, etc.
+* **Demographics**: date of birth, gender, relationship status, etc.
+* **Work information**: job title, work email, company name, work phone number
 
 Additionally, you can ask custom short-form and multiple-choice questions or even schedule an appointment. Before launching [Lead Generation ads](https://softcube.com/how-to-create-facebook-lead-generation-ads/), make sure you ask questions that don’t violate Facebook policies.
 
@@ -172,10 +189,10 @@ Automated ads are personalized ads created by Facebook based on information abou
 
 To get started with Automated ads, go to your Facebook Page and choose:
 
-- your business category
-- the ways you do business
-- the methods you use to communicate with your customers
-- common interests shared by your customers
+* your business category
+* the ways you do business
+* the methods you use to communicate with your customers
+* common interests shared by your customers
 
 After you do that, Facebook will offer you a marketing objective that suits your business best, suggest content for your ads (you can create up to six versions for a single Automated ad), and recommend the right audience and budget.
 
@@ -201,10 +218,10 @@ Offer ads allow your business to make special offers to your Facebook audience d
 
 There are four types of offers you can use:
 
-- Discount percentage
-- Discount amount
-- Buy X get Y discount
-- Spend X get Y off
+* Discount percentage
+* Discount amount
+* Buy X get Y discount
+* Spend X get Y off
 
 Additionally, you can add promo codes and privacy policies if necessary.
 
@@ -223,7 +240,7 @@ Alternatively, you can launch Event ads directly from your Page without going to
 
 ### Post Engagement Ads
 
-Post Engagement ads allow you to promote any of your News Feed posts and get more impressions, likes, and shares for them. This ad format is the simplest way to get people to notice your business on Facebook.
+[Post Engagement ads](https://softcube.com/facebook-boost-post-pros-and-cons/) allow you to promote any of your News Feed posts and get more impressions, likes, and shares for them. This ad format is the simplest way to get people to notice your business on Facebook.
 
 ![Facebook ad formats — Post Engagement ad](/img/facebook-ad-formats-post-engagement-ads.jpg)
 

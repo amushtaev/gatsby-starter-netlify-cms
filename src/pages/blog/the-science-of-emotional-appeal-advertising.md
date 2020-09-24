@@ -1,20 +1,31 @@
 ---
+focuskeyphrase: emotional appeal advertising
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: The Science of Emotional Appeal Advertising
-date: 2020-04-21
-description: Need modify desk.
+date: 2020-04-21T00:00:00.000Z
+description: Learn how you can use your ads to stir emotions with this guide to
+  emotional appeal advertising, try three original best practices, and get a
+  free gift.
 featuredpost: false
 featuredimage: /img/emotional-appeal-advertising-featured-image.jpg
 image: /img/emotional-appeal-advertising-featured-image.jpg
-seotitle: The Rational Guide to Emotional Appeal Advertising
-focuskeyphrase: emotional appeal advertising
 tags:
-  - brewing
-  - chemex
+  - EKG
+  - emotional advertising
+  - emotions
+  - Fender
+  - MRI
+  - neuromarketing
+  - New Balance
+  - video ads
+seo_title: The Rational Guide to Emotional Appeal Advertising
+metadescription: 
+focus_keyphrase: emotional appeal advertising
+seotitle: The Rational Guide to Emotional Appeal Advertising
 ---
 <!--StartFragment-->
 
@@ -40,7 +51,7 @@ Emotional appeal advertising urges customers to buy products and services by tri
 
 In fact, it’s more than a technique. It’s a real science pushed by big corporations in order to understand the inner world of the average consumer. 
 
-https://giphy.com/gifs/mrw-odds-drinkers-Lx9GSD2b5M1PO
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Lx9GSD2b5M1PO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mrw-odds-drinkers-Lx9GSD2b5M1PO">via GIPHY</a></p>
 
 For years, [Coca-Cola, AT&T, Dove](https://www.researchgate.net/publication/235270965_Understanding_and_using_emotions_in_advertising), and many other world-known brands have launched successful advertising campaigns based on data gained by professional diagnostic departments that are similar to those found in medical clinics.
 

@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: e-commerce facebook ads strategy
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -6,15 +7,24 @@ categories-slug:
   - facebook-ads
 title: 7 Effective Facebook Ad Strategies for E-Commerce
 date: 2019-08-05T00:00:00.000Z
-description: Need modify desk.
+description: Want to sell more with Facebook advertising? Learn how to boost
+  sales using automated video ads and choose your e-commerce Facebook ads
+  strategy.
 featuredpost: false
 featuredimage: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
 image: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - automated ads
+  - dynamic ads
+  - facebook attribution
+  - sales funnel
+  - lead ads
+  - Messenger
+  - video ads
+seo_title: How to Choose the Right E-Commerce Facebook Ads Strategy
+metadescription: 
+focus_keyphrase: e-commerce facebook ads strategy
 seotitle: 7 Effective Facebook Ad Strategies for E-Commerce
-focuskeyphrase: e-commerce facebook ads strategy
 ---
 <!--StartFragment-->
 
@@ -64,7 +74,7 @@ More than 1 billion [Instagram users can buy products](https://business.instagra
 
 Messenger is a perfect place to significantly [boost your conversion rate](https://www.facebook.com/business/news/f8-2019-making-it-easier-for-businesses-to-connect-with-customers-on-messenger) by finding new leads.   
 
-Messenger allows you to build a personal connection with your customers, learn more about their habits and interests, and satisfy their requirements.  
+Messenger allows you to [build a personal connection](https://softcube.com/how-to-start-a-personal-chat-with-messenger-ads/) with your customers, learn more about their habits and interests, and satisfy their requirements.  
 
 ![E-commerce Facebook ads stragegy — Messenger chat](/img/e-commerce-facebook-ads-strategy-messenger-chat.jpg)
 
@@ -78,9 +88,9 @@ Long story short, more and more great features are coming. If you’re looking f
 
 When it comes to e-commerce, Facebook advertising strategies are necessary for promoting any business.
 
-![](/img/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dUJxUPSkmZBqE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/idea-epiphany-dUJxUPSkmZBqE">via GIPHY</a></p>
 
-Remember that you need to set up a Facebook Pixel on your website to track conversions and do lots of other marketing things.
+Remember that you need to [set up a Facebook Pixel](https://softcube.com/how-to-create-a-facebook-pixel/) on your website to track conversions and do lots of other marketing things.
 
 ### Strategy 1. Make Ads Automatically to Save Your Resources
 
@@ -92,21 +102,21 @@ Facebook Automated Ads provide you with ad recommendations based on information 
 
 ![E-commerce Facebook ads stragegy — Automated Ads post](/img/e-commerce-facebook-ads-strategy-automated-ads-post.jpg)
 
-Facebook _takes the guesswork_ out of the process:  
+Facebook *takes the guesswork* out of the process:  
 
-- Choose your business category.
+* Choose your business category.
 
 ![E-commerce Facebook ads stragegy — business category](/img/e-commerce-facebook-ads-strategy-business-category.jpg)
 
-- Select the ways you do business.
+* Select the ways you do business.
 
 ![E-commerce Facebook ads stragegy — types of business](/img/e-commerce-facebook-ads-strategy-automated-ads-customization.jpg)
 
-- Choose how you prefer to communicate with your customers.
+* Choose how you prefer to communicate with your customers.
 
 ![E-commerce Facebook ads stragegy — communication with customers](/img/e-commerce-facebook-ads-strategy-communication.jpg)
 
-- Specify the interests, hobbies, and activities of your target audience.
+* Specify the interests, hobbies, and activities of your target audience.
 
 ![E-commerce Facebook ads stragegy — common interests](/img/e-commerce-facebook-ads-strategy-common-interests.jpg)
 
@@ -156,8 +166,8 @@ Video is the best way to demonstrate your products in action from every angle, a
 
 According to [Business2Community](https://www.business2community.com/social-media/social-media-video-marketing-trends-in-2019-02204247):  
 
-- 39% of business owners name Facebook the number one social media website for generating more interactions with video content.
-- 34% of businesses pick Instagram as the best social media website for generating a return on investment.
+* 39% of business owners name Facebook the number one social media website for generating more interactions with video content.
+* 34% of businesses pick Instagram as the best social media website for generating a return on investment.
 
 Today, only automated video production systems are able to help businesses save their resources.  
 
@@ -179,9 +189,9 @@ For instance, you can set up a Pixel for your website or SDK for your app to for
 
 You can also:  
 
-- Upload a list of customers as a file or add this data manually
-- Add offline activity data like sales or phone calls 
-- Form a list from new Instagram and Facebook users
+* Upload a list of customers as a file or add this data manually
+* Add offline activity data like sales or phone calls 
+* Form a list from new Instagram and Facebook users
 
 Keep in mind that the Custom Audiences feature has a little cousin called Lookalike Audiences. A Lookalike Audience list is based on any Custom Audience you specify.   
 
@@ -193,10 +203,10 @@ Aside from using Facebook for e-commerce advertising, businesses can use it to o
 
 For instance, there are four ad objectives you can use to find new customers:  
 
-- Lead generation
-- Brand awareness
-- Reach
-- Traffic
+* Lead generation
+* Brand awareness
+* Reach
+* Traffic
 
 Obviously, lead generation is the most powerful ad objective for collecting customers’ data.  
 

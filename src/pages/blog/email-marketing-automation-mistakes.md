@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: email marketing mistakes
 templateKey: blog-post
 categories:
   - Tutorials
@@ -6,15 +7,19 @@ categories-slug:
   - tutorials
 title: 5 Email Marketing Automation Mistakes
 date: 2019-09-16T00:00:00.000Z
-description: Need modify desk.
+description: Email marketing automation requires attention to detail. Want to
+  make sure you nail it every time? Avoid these five email marketing automation
+  mistakes.
 featuredpost: false
 featuredimage: /img/email-marketing-mistakes-featured-image.jpg
 image: /img/email-marketing-mistakes-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - email advertising
+  - email marketing
+seo_title: 5 Email Marketing Automation Mistakes You Need Avoid
+metadescription: 
+focus_keyphrase: email marketing mistakes
 seotitle: 5 Email Marketing Automation Mistakes
-focuskeyphrase: email marketing mistakes
 ---
 <!--StartFragment-->
 

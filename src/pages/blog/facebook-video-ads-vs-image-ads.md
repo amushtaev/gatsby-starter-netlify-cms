@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: facebook video ads vs. photo ads
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -6,21 +7,29 @@ categories-slug:
   - facebook-ads
 title: "Facebook Video Ads vs. Image Ads: Which to Shoot?"
 date: 2018-11-27T00:00:00.000Z
-description: Need modify desk.
+description: This article compares Facebook video ads vs. photo ads. Learn the
+  costs and advantages of video and image advertising on the world's top social
+  media.
 featuredpost: false
 featuredimage: /img/facebook-video-ads-vs-image-ads-featured-image.jpg
 image: /img/facebook-video-ads-vs-image-ads-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - Facebook ads
+  - product ads
+  - video advertising
+  - image advertising
+  - video marketing
+  - image marketing
+seo_title: "Video Ads vs. Photo Ads: What Converts Better on Facebook?"
+metadescription: 
+focus_keyphrase: facebook video ads vs. image ads
 seotitle: "Video Ads vs. Photo Ads: What Converts Better on Facebook?"
-focuskeyphrase: facebook video ads vs. photo ads
 ---
 <!--StartFragment-->
 
 You’re facing a challenge, trying to figure out what will work best for your business on Facebook: a video ad or image ad? This is one of the eternal questions of Facebook advertising.
 
-Video ads are conquering the world of marketing. We at Softcube know this like nobody else. Our artificial intelligence is working hard to produce [**hundreds of product videos**](https://softcube.com/) every day.
+Video ads are conquering the world of marketing. We at Softcube know this like nobody else. Our artificial intelligence is working hard to produce **[hundreds of product videos](https://softcube.com/)** every day.
 
 But does this mean that image ads are doomed to disappear? Let’s find out.
 
@@ -40,7 +49,7 @@ In 2017, Facebook earned almost $40 billion in total according to Statista. Reve
 
 Quentin Tarantino once said, “Novelists have always had complete freedom to pretty much tell their story any way they saw fit. And that’s what I’m trying to do.”
 
-Today, anyone with an idea in their head and a smartphone in their hands can direct their own ad. But most importantly, video is a format that gives a marketer carte blanche to tell a story.
+Today, anyone with an idea in their head and a [smartphone in their hands](https://softcube.com/profitable-recommendations-for-facebook-mobile-ads/) can direct their own ad. But most importantly, video is a format that gives a marketer carte blanche to tell a story.
 
 ### Diverse Content in One Piece
 
@@ -52,21 +61,21 @@ For example, you can paste and [combine different visuals](https://softcube.com/
 
 ### Moving Images in a Moving World
 
-We live in a world of rapid consumption. People have gotten used to living fast, moving and traveling fast, eating fast food, and watching hours of dynamic visual content every day. Dozens of scientific studies have proven a positive correlation between consumerism and the production of dopamine.
+We live in a world of rapid consumption. People have gotten used to living fast, moving and traveling fast, [eating fast food](https://softcube.com/best-examples-of-the-tastiest-food-ads/), and watching hours of dynamic visual content every day. Dozens of scientific studies have proven a positive correlation between consumerism and the production of dopamine.
 
 Once released in the brain in large amounts, this neurotransmitter lets humans experience feelings of happiness and reward. That’s why every time you buy a product, use a service or watch a video, you want to repeat this action.
 
 To sum up, dynamic videos make people happy. The formula for [creating videos for Facebook ads](https://softcube.com/powerful-benefits-of-facebook-video-ads/) that bring joy to viewers includes a few important ingredients.
 
-1. 1. Make your footage understandable without sound. The lion’s share of viewers has their smartphones on silent.
-    2. Use catchy transitions and fast cuts to capture the viewer’s attention. Facebook recommends that videos last less than 15 seconds.
-    3. Experiment with different types of visual content.
+1. Make your footage understandable without sound. The lion’s share of viewers has their smartphones on silent.
+2. Use catchy transitions and fast cuts to capture the viewer’s attention. Facebook recommends that videos last less than 15 seconds.
+3. Experiment with different types of visual content.
 
 ### The Most Attention-Grabbing Online Showcase
 
 Imagine you produce and sell clothing. One day you release a new summer collection that consists of pants, shirts, and accessories. In this case, short clips would be an effective way to show many of these items to your potential customers all at once.
 
-Retailers and other companies actively use vids to boost sales and ROI because there’s no better way of demonstrating their products and services in action. Shopping is gradually shifting to the internet, where videos play the role of an online showcase.
+Retailers and other companies actively use vids to [boost sales](https://softcube.com/hottest-offline-and-online-retail-trends/) and ROI because there’s no better way of demonstrating their products and services in action. Shopping is gradually shifting to the internet, where videos play the role of an online showcase.
 
 ## Major Benefits of Image Ads Compared to Video Ads
 
@@ -86,8 +95,8 @@ To make an image, all you need is a camera to take a shot and a few minutes in P
 
 We’ve already told you how videos can help demonstrate several products at once. The thing is, Facebook offers two amazing formats to showcase a few product images in one ad.
 
-- **Carousel.** This format allows you to show up to 10 images, each with its own link. The Carousel format is a great tool because [you can show many different items separately](https://softcube.com/how-to-show-carousel-ads-on-facebook/) or upload pictures one by one to display them in the form of a single story.
-- **Collection. There are four Collection ad templates: Instant Storefront, Instant Lookbook, Instant Customer Acquisition, and Instant Storytelling. As their names suggest, you can choose these templates depending on your goal.**
+* **Carousel.** This format allows you to show up to 10 images, each with its own link. The Carousel format is a great tool because [you can show many different items separately](https://softcube.com/how-to-show-carousel-ads-on-facebook/) or upload pictures one by one to display them in the form of a single story.
+* **Collection.** There are four Collection ad templates: Instant Storefront, Instant Lookbook, Instant Customer Acquisition, and Instant Storytelling. As their names suggest, you can choose these templates depending on your goal.
 
 The Carousel and Collection ad formats let you structure images in an unusual and attractive way so customers can appreciate each important detail in the items you advertise.
 
@@ -95,8 +104,8 @@ The Carousel and Collection ad formats let you structure images in an unusual an
 
 When we compare video vs image, Facebook ads can be expressed in different ways. But each way [has its own cost](https://softcube.com/guide-to-facebook-advertising-cost/). If you want to know the cost of Facebook ads, you won’t find any specific answer. To discover the cost, you need to calculate:
 
-- how much you’ll spend producing your ad before launching it on Facebook;
-- how much it costs to run this ad in an ad campaign on Facebook.
+* how much you’ll spend producing your ad before launching it on Facebook;
+* how much it costs to run this ad in an ad campaign on Facebook.
 
 The cost of an ad campaign depends on five main factors: your ad objective, ad buying type, target audience, ad quality, and industry.
 

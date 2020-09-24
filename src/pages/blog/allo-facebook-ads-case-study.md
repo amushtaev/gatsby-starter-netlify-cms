@@ -18,6 +18,7 @@ tags:
   - video ads
   - artificial intelligence
 seo_title: "Facebook Ads Case Study: 62% Better Performance of Dynamic Ads"
+metadescription: Today, companies have to create compelling content and promote it on digital ad channels like Facebook. Creating content is a 100% winning strategy.
 focus_keyphrase: facebook ads case study
 seotitle: "Getting Ahead with Facebook Ads: eCommerce Case Study"
 ---
@@ -35,7 +36,7 @@ eCommerce Facebook ads help retailers to grow, but not all retailers run their a
 
 Allo is the [second largest online marketplace](https://allo.ua/) in Ukraine, with over 11 million monthly visitors. The company offers over 120,000 products in 1,400 categories including phones, headphones, mobile devices, electronics, products for kids, perfumes and cosmetics, automobile accessories, home decor, and sporting goods.
 
-![Facebook Ads Case Study - Allo store](/img/facebook-ads-case-study-allo-store.jpg "facebook-case-study-allo-store")
+![Facebook Ads Case Study - Allo store](/img/facebook-ads-case-study-allo-store.jpg)
 
 However, Allo isn’t just an online store. Originally established as a cell phone retailer in 1998, today this brand has over 1,000 physical stores in 130 locations around Ukraine. Nearly 18% of Allo customers order items online to collect them from a local store.
 
@@ -68,7 +69,7 @@ After receiving all necessary statistics from the Allo website, Softcube special
 * used A/B testing to determine the best targeting ad sets for future campaigns;
 * compared static carousel ads used by Allo with dynamic video ads created by Softcube over one month to receive enough data for statistically significant results.
 
-Usually, the Softcube team goes through five major video production steps we’ve mentioned in the chapter of this case study for Facebook ads. Every successful Softcube video ad launch consists of two phases.
+Usually, the Softcube team goes through five major video production steps we’ve mentioned in the chapter of this [case study](https://softcube.com/category/case-study/) for Facebook ads. Every successful Softcube video ad launch consists of two phases.
 
 First, the artificial intelligence engine produces video content. Second, a Softcube specialist adds this content to Facebook, setting up parameters for the ad campaign. All that remains is waiting for the results.
 

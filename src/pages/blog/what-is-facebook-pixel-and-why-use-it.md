@@ -1,20 +1,26 @@
 ---
+focuskeyphrase: what is facebook pixel
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: What is Facebook Pixel and Why Use It?
-date: 2020-06-09
-description: Need modify desk.
+date: 2020-06-09T00:00:00.000Z
+description: What is Facebook pixel? Discover the advantages of using Facebook
+  pixel to learn more about your conversions and boost your sales.
 featuredpost: false
 featuredimage: /img/what-is-facebook-pixel-featured-image.jpg
 image: /img/what-is-facebook-pixel-featured-image.jpg
-seotitle: What Is Facebook Pixel and Why Should Your Business Use It?
-focuskeyphrase: what is facebook pixel
 tags:
-  - brewing
-  - chemex
+  - dynamic ads
+  - custom audiences
+  - lookalike audiences
+  - ad tracking
+seo_title: What Is Facebook Pixel and Why Should Your Business Use It?
+metadescription: 
+focus_keyphrase: what is facebook pixel
+seotitle: What Is Facebook Pixel and Why Should Your Business Use It?
 ---
 <!--StartFragment-->
 
@@ -145,7 +151,7 @@ After you gain insights on Facebook pixel and how it works, you’ll be able to 
 
 Say you have an online store where customers can choose among hundreds or even thousands of products. Along with launching ad campaigns to promote seasonal sales or special offers, you can use Facebook to promote your entire inventory of products. That’s where Dynamic Ads come in handy. 
 
-https://giphy.com/gifs/QXDi9OAXTngvzfcfRa
+<iframe src="https://giphy.com/embed/QXDi9OAXTngvzfcfRa" width="243" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 All you need to do is create a product catalog, fill it with items, create a Dynamic Ad template, and launch your ad campaign. Based on your items and your pixel, Facebook will automatically generate Dynamic Ads and decide who sees them and when.
 
@@ -156,5 +162,7 @@ If you operate in the real estate, automotive, or travel industries, note that y
 Let’s conclude by asking one final question: What does Facebook pixel do for your marketing?
 
 This amazing tool will provide you with analytics that are vital to your success. With the help of free software, you can discover new things about your customers, optimize your budget, improve your targeting, and make your Facebook marketing strategy more professional.
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/785427d5979c09f5e35f9a2717d95ecc.mp4"></video></figure>
 
 To get more conversions and then track them with your pixel, don’t hesitate to test [Softcube artificial intelligence](http://softcube.com/) to produce video ads. Created in just a few clicks, AI-generated video ads look spectacular and cost the same amount as image ads.

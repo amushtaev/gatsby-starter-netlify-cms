@@ -124,3 +124,27 @@ This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gats
 
 Contributions are always welcome, no matter how large or small. Before contributing,
 please read the [code of conduct](CODE_OF_CONDUCT.md).
+
+# HTML
+
+```html
+<iframe src="https://giphy.com/embed/3KVcFEmdDl9NYaFTtx" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p>
+    <a href="https://giphy.com/gifs/reaction-3KVcFEmdDl9NYaFTtx">via GIPHY</a>
+</p>
+```
+
+
+```html
+<figure class="wp-block-video aligncenter">
+    <video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/34154ba43ddb4022974393fb22bf1636.mp4"></video>
+</figure>
+```
+
+```html
+<img src="/img/facebook-ads-case-study-allo-store.jpg" alt="Facebook Ads Case Study - Allo store" title="facebook-case-study-allo-store">
+-----
+![Facebook Ads Case Study - Allo store](/img/facebook-ads-case-study-allo-store.jpg "facebook-case-study-allo-store")
+```
+
+

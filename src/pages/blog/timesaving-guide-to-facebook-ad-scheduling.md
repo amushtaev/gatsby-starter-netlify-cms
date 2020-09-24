@@ -1,20 +1,27 @@
 ---
+focuskeyphrase: facebook ad scheduling
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: A Timesaving Guide to Facebook Ad Scheduling
-date: 2020-05-12
-description: Need modify desk.
+date: 2020-05-12T00:00:00.000Z
+description: Read how to get started with Facebook ad scheduling. Discover three
+  methods that will help you find the perfect moment to show your Facebook ads.
 featuredpost: false
 featuredimage: /img/facebook-ad-scheduling-featured-image.jpg
 image: /img/facebook-ad-scheduling-featured-image.jpg
-seotitle: How to Save Time and Money with Facebook Ad Scheduling
-focuskeyphrase: facebook ad scheduling
 tags:
-  - brewing
-  - chemex
+  - Ads Manager
+  - dayparting
+  - automated rules
+  - Facebook Analytics
+  - Page Insights
+seo_title: How to Save Time and Money with Facebook Ad Scheduling
+metadescription: 
+focus_keyphrase: facebook ad scheduling
+seotitle: How to Save Time and Money with Facebook Ad Scheduling
 ---
 <!--StartFragment-->
 
@@ -38,7 +45,7 @@ There are two ways you can plan your ad schedule: Facebook runs ads on schedule 
 
 When you're just getting started, we recommend automatic scheduling. One of the cool things about advertising with Facebook is that the system adapts to your actions to better understand your needs and provide you with a higher return on investment.
 
-https://giphy.com/gifs/time-alice-in-wonderland-clock-OBnwDJW77acLK
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/OBnwDJW77acLK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/time-alice-in-wonderland-clock-OBnwDJW77acLK">via GIPHY</a></p>
 
 After testing ad scheduling automation, you can schedule your ads manually and use Facebook _dayparting_. When it comes to Facebook ads, dayparting is a synonym for scheduling.
 

@@ -1,28 +1,34 @@
 ---
+focuskeyphrase: facebook lookalike audiences
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: How to Use Facebook Lookalike Audiences
-date: 2020-02-19
-description: Need modify desk.
+date: 2020-02-19T00:00:00.000Z
+description: Read this beginner’s guide to Facebook Lookalike Audiences and
+  discover how to find the most valuable customers on Facebook without a hitch.
 featuredpost: false
 featuredimage: /img/facebook-lookalike-audiences-featured-image.jpg
 image: /img/facebook-lookalike-audiences-featured-image.jpg
-seotitle: The Beginner’s Guide to Facebook Lookalike Audiences
-focuskeyphrase: facebook lookalike audiences
 tags:
-  - brewing
-  - chemex
+  - Custom Audiences
+  - Facebook Pixel
+  - Facebook SDK
+  - targeting
+seo_title: The Beginner’s Guide to Facebook Lookalike Audiences
+metadescription: 
+focus_keyphrase: facebook lookalike audiences
+seotitle: The Beginner’s Guide to Facebook Lookalike Audiences
 ---
 <!--StartFragment-->
 
 If you decide to generate leads on Facebook, you’ll face a challenge:
 
-_How can you find the most valuable customers?_
+*How can you find the most valuable customers?*
 
-https://giphy.com/gifs/high-quality-highqualitygifs-g01ZnwAUvutuK8GIQn
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/g01ZnwAUvutuK8GIQn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/high-quality-highqualitygifs-g01ZnwAUvutuK8GIQn">via GIPHY</a></p>
 
 Let’s not go around in circles talking about all the possible places.
 
@@ -32,11 +38,11 @@ First, you can show ads to people you don’t know by manually choosing demograp
 
 Second, you can target people from any source: website, mobile app, email, and Facebook. If you aren’t familiar with this method, it’s called [Custom Audiences](https://softcube.com/guide-to-facebook-custom-audiences/), and you’ll need to learn about it to fully understand the third method.
 
-Third, you can target Facebook users who _look like_ your current and potential customers. You’ve already guessed what this method is called, haven’t you?So what is a Lookalike Audience?
+Third, you can target Facebook users who *look like* your current and potential customers. You’ve already guessed what this method is called, haven’t you?So what is a Lookalike Audience?
 
 ## What are Facebook Lookalike Audiences?
 
-Facebook Lookalike Audiences are composed of Facebook users who have the same qualities as your best customers. Now you may have a reasonable question: _How does Facebook create Lookalike Audiences for businesses?_
+Facebook Lookalike Audiences are composed of Facebook users who have the same qualities as your best customers. Now you may have a reasonable question: *How does Facebook create Lookalike Audiences for businesses?*
 
 Facebook generates Lookalike Audiences based on any Custom Audiences you’ve created. These audiences might include your best customers or fans of your Facebook Page.
 
@@ -52,22 +58,22 @@ To find the most valuable customers on Facebook, you need to do two things: have
 
 We’ve already mentioned this, but it’s worth repeating:
 
-_You must create at least one_ [_Custom Audience_](https://softcube.com/guide-to-facebook-custom-audiences/) _before launching your first Lookalike Audience._
+*You must create at least one* *[Custom Audience](https://softcube.com/guide-to-facebook-custom-audiences/)* *before launching your first Lookalike Audience.*
 
 ### Install the Facebook Pixel or Facebook SDK
 
-The Facebook Pixel (for websites) and Facebook SDK (for mobile apps) are tracking tools that allow you to:
+The [Facebook Pixel](https://softcube.com/how-to-create-a-facebook-pixel/) (for websites) and Facebook SDK (for mobile apps) are tracking tools that allow you to:
 
-- target Custom and Lookalike Audiences
-- get cross-device reports on your ad performance
-- generate [Dynamic Ads](https://softcube.com/facebook-dynamic-product-ads/) for e-commerce, travel, automotive, and hotel businesses
-- track the behavior of your customers on your website
-- make sure you target the right audience with the right ads
+* target Custom and Lookalike Audiences
+* get cross-device reports on your ad performance
+* generate [Dynamic Ads](https://softcube.com/facebook-dynamic-product-ads/) for e-commerce, travel, automotive, and hotel businesses
+* track the behavior of your customers on your website
+* make sure you target the right audience with the right ads
 
 ### Make Sure You’re in Charge of Everything
 
-- To create a Lookalike Audience from a Facebook Pixel or Page, you must be the admin of this Pixel or Page. 
-- To create a Lookalike Audience from a Custom Audience, you must have one of three ad account roles: Admin, Advertiser, or Analyst.
+* To create a Lookalike Audience from a Facebook Pixel or Page, you must be the admin of this Pixel or Page. 
+* To create a Lookalike Audience from a Custom Audience, you must have one of three ad account roles: Admin, Advertiser, or Analyst.
 
 ## 6 Simple Steps to Generate a Lookalike Audience
 
@@ -75,7 +81,7 @@ Here’s how to create a Lookalike Audience for your Facebook ad campaign in a f
 
 ### Step 1
 
-Go to Ads Manager, choose your marketing objective, and click **Audience**.
+Go to [Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/), choose your marketing objective, and click **Audience**.
 
 ![Facebook Lookalike Audiences — audience in ad set](/img/facebook-lookalike-audiences-ad-set.jpg)
 
@@ -127,8 +133,8 @@ Facebook Lookalike marketing largely depends on the source of your Custom Audien
 
 When it comes to creating Custom Audiences, you can choose from two major groups of sources:
 
-- **Your own sources**: your website, customer list, app activity, and online activity
-- **Facebook sources**: videos, lead forms, Instant Experiences, Instagram business profiles, events, and Facebook Pages
+* **Your own sources**: your website, customer list, app activity, and online activity
+* **Facebook sources**: videos, lead forms, Instant Experiences, Instagram business profiles, events, and Facebook Pages
 
 You should start by focusing on the sources that matter the most, then test other channels to see how effective they are for your business.
 

@@ -1,20 +1,27 @@
 ---
+focuskeyphrase: facebook ad targeting
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: How to Hit the Mark with Facebook Ad Targeting
-date: 2019-04-12
-description: Need modify desk.
+date: 2019-04-12T00:00:00.000Z
+description: If you run or promote an online business, you already know
+  effective Facebook ad targeting strategies. You just don’t think you do.
 featuredpost: false
 featuredimage: /img/facebook-ad-targeting-featured-picture.jpg
 image: /img/facebook-ad-targeting-featured-picture.jpg
-seotitle: 7 Powerful Facebook Ad Targeting Strategies That Work
-focuskeyphrase: facebook ad targeting
 tags:
-  - brewing
-  - chemex
+  - Audience Insights
+  - Facebook Blueprint
+  - Custom Audiences
+  - Google Ads
+  - Lookalike Audience
+seo_title: 7 Powerful Facebook Ad Targeting Strategies That Work
+metadescription: 
+focus_keyphrase: facebook ad targeting
+seotitle: 7 Powerful Facebook Ad Targeting Strategies That Work
 ---
 <!--StartFragment-->
 
@@ -30,9 +37,9 @@ The cool thing is that there are not only lots of ways to promote your products 
 
 ## How to Hit the Mark with Facebook Ad Targeting
 
-You know your audience pretty well, don’t you?  
+You know your audience pretty well, don’t you?
 
-![](/img/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dSdvPrKU0w8WGo4c9L" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/someone-facebook-data-dSdvPrKU0w8WGo4c9L">via GIPHY</a></p>
 
 Then you already know how to use Facebook ad targeting.  
 

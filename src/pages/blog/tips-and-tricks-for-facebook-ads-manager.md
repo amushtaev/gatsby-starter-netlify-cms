@@ -1,20 +1,29 @@
 ---
+focuskeyphrase: facebook ads manager
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: 7 Tips and Tricks for Facebook Ads Manager
-date: 2020-01-23
-description: Need modify desk.
+date: 2020-01-23T00:00:00.000Z
+description: Are you going to use Facebook Ads Manager for your marketing? Take
+  advantage of seven useful recommendations to become a true professional.
 featuredpost: false
 featuredimage: /img/facebook-ads-manager-featured-image.jpg
 image: /img/facebook-ads-manager-featured-image.jpg
-seotitle: 7 Facebook Ads Manager Lifehacks Every Beginner Must Know
-focuskeyphrase: facebook ads manager
 tags:
-  - brewing
-  - chemex
+  - metrics
+  - Facebook app
+  - Facebook Blueprint
+  - Custom Audiences
+  - Facebook Pixel
+  - Lookalike Audiences
+  - Instagram ads
+seo_title: 7 Facebook Ads Manager Lifehacks Every Beginner Must Know
+metadescription: 
+focus_keyphrase: facebook ads manager
+seotitle: 7 Facebook Ads Manager Lifehacks Every Beginner Must Know
 ---
 <!--StartFragment-->
 
@@ -53,11 +62,11 @@ Note that you need a personal Facebook profile to create a Facebook Business acc
 
 With Facebook Ads Manager, the creation of advertising takes on a new dimension. Businesses can use Ads Manager to:
 
-- Create and run ad campaigns on Facebook, Instagram, Messenger, and the Audience Network from one platform.
-- Modify everything about ad campaigns: placements, targeting, budgets, and creatives.
-- Copy ad campaigns, ad sets, and ads to save time.
-- Monitor ad campaign performance using a rich set of metrics.
-- Analyze the outcomes of ad campaigns to improve their performance.
+* Create and run ad campaigns on Facebook, Instagram, Messenger, and the Audience Network from one platform.
+* Modify everything about ad campaigns: placements, targeting, budgets, and creatives.
+* Copy ad campaigns, ad sets, and ads to save time.
+* Monitor ad campaign performance using a rich set of metrics.
+* Analyze the outcomes of ad campaigns to improve their performance.
 
 ## 7 Lifehacks to Have a Good Start with Facebook Ads Manager
 
@@ -77,17 +86,17 @@ Make sure you learn [Facebook ad metrics](https://softcube.com/essential-faceboo
 
 Along with metrics, there’s one more thing you need to check how well your ads perform.
 
-Facebook pixel is an instrument that allows you to see what actions Facebook users make on your website after they click on your ads.
+[Facebook pixel](https://softcube.com/what-is-facebook-pixel-and-why-use-it/) is an instrument that allows you to see what actions Facebook users make on your website after they click on your ads.
 
 For example, do they click on a conversion button or add a product to the shopping cart?
 
 Monitoring the behavior of your website audience with Facebook pixel gives several benefits:
 
-- You’ll know whether you’re targeting the right users with the right ads.
-- You’ll drive sales and boost conversions on your website.
-- You’ll get a better understanding of what people do after they see your ads.
+* You’ll know whether you’re targeting the right users with the right ads.
+* You’ll drive sales and boost conversions on your website.
+* You’ll get a better understanding of what people do after they see your ads.
 
-To set up Facebook pixel, you need to do two things.
+To [set up Facebook pixel](https://softcube.com/how-to-create-a-facebook-pixel/), you need to do two things.
 
 ![Facebook ad manager — Facebook pixel](/img/facebook-ads-manager-pixel.jpg)
 
@@ -111,12 +120,12 @@ After you set up Facebook pixel, you’ll be able to create [Custom Audiences](h
 
 You can form Custom Audiences from the following sources:
 
-- **Website**. Based on your Facebook pixel, you can create a list of your website visitors.
-- **Mobile app**. Based on the [Facebook SDK](https://developers.facebook.com/docs/app-ads), you can target people who have installed your mobile app.
-- **Customer list**. You can upload a CSV or TXT file with users’ contact information and Facebook will match this data with profiles. 
-- **Facebook**. The Engagement Custom Audiences targeting option allows you to show ads to Facebook users who have watched your videos, filled out a [Lead ad form](https://softcube.com/how-to-create-facebook-lead-generation-ads/), clicked on your [Collection ads](https://softcube.com/guide-to-facebook-collection-ads/) powered by Instant Experience, or engaged with Event ads and your Instagram Business profile.
+* **Website**. Based on your Facebook pixel, you can create a list of your website visitors.
+* **Mobile app**. Based on the [Facebook SDK](https://developers.facebook.com/docs/app-ads), you can target people who have installed your mobile app.
+* **Customer list**. You can upload a CSV or TXT file with users’ contact information and Facebook will match this data with profiles. 
+* **Facebook**. The Engagement Custom Audiences targeting option allows you to show ads to Facebook users who have watched your videos, filled out a [Lead ad form](https://softcube.com/how-to-create-facebook-lead-generation-ads/), clicked on your [Collection ads](https://softcube.com/guide-to-facebook-collection-ads/) powered by Instant Experience, or engaged with Event ads and your Instagram Business profile.
 
-Additionally, you can create Lookalike Audiences, which are lists of Facebook users who are similar to people from your Custom Audiences.
+Additionally, you can create [Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/), which are lists of Facebook users who are similar to people from your Custom Audiences.
 
 ### Lifehack 4. Link Your Facebook and Instagram Accounts
 
@@ -126,10 +135,10 @@ Instagram is also the second most important placement in the Facebook family of 
 
 ![Facebook ads manager — Instagram placements ](/img/facebook-ads-manager-instagram-placements.jpg)
 
-To do that, create a new ad campaign, find the Placements section, and pick one of two options:
+To do that, create a new ad campaign, find the [Placements section](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/), and pick one of two options:
 
-- **Edit placements**. Choose Instagram as the placement manually and target users across Instagram Feed, Instagram Stories, and Instagram Explore.
-- **Automatic placements**. Let the platform show your ads automatically to maximize their value across all placements, including Instagram.
+* **Edit placements**. Choose Instagram as the placement manually and target users across Instagram Feed, Instagram Stories, and Instagram Explore.
+* **Automatic placements**. Let the platform show your ads automatically to maximize their value across all placements, including Instagram.
 
 Additionally, you can link your Instagram Business account with your Facebook Business account to get more management opportunities like adding people and assigning partners.
 
@@ -137,7 +146,7 @@ Here’s how to link Instagram to Facebook Ads Manager (Business Manager, actual
 
 1. Go to [Business Settings](https://business.facebook.com/settings/).
 2. Click **Instagram Accounts** on the left.
-3. Click the **\+ Add** button.
+3. Click the **+ Add** button.
 
 After that, enter your Instagram account username and password and confirm the changes.
 
@@ -165,7 +174,7 @@ To add a user to Facebook Ads Manager, follow these steps:
 5. Choose their role.
 6. Click **Confirm**.
 
-By the way, if you need to add a Facebook Page to Ads Manager, go to [Business Settings](https://business.facebook.com/settings), select **Pages**, and add your Page by clicking the **\+ Add** button.
+By the way, if you need to add a Facebook Page to Ads Manager, go to [Business Settings](https://business.facebook.com/settings), select **Pages**, and add your Page by clicking the **+ Add** button.
 
 ### Lifehack 6. Enroll in Facebook Blueprint Courses
 
@@ -175,22 +184,22 @@ If you’re only taking your first steps and don’t know how to use Facebook Ad
 
 Facebook Blueprint is an online training program that includes more than 70 courses in 16 categories:
 
-- Get started with advertising
-- Learn advanced buying options
-- Target the right audience
-- Build awareness
-- Drive consideration
-- Generate leads
-- Promote my app
-- Increase online sales
-- Increase in-store sales
-- Choose ad formats
-- Get creative inspiration
-- Manage ads
-- Measure ad performance
-- Learn about Messenger
-- Learn about Instagram
-- Distribute and monetize content
+* Get started with advertising
+* Learn advanced buying options
+* Target the right audience
+* Build awareness
+* Drive consideration
+* Generate leads
+* Promote my app
+* Increase online sales
+* Increase in-store sales
+* Choose ad formats
+* Get creative inspiration
+* Manage ads
+* Measure ad performance
+* Learn about Messenger
+* Learn about Instagram
+* Distribute and monetize content
 
 Every course is absolutely free. All you need to do is log in with your Facebook account and find a topic you want to know more about.
 
@@ -204,10 +213,10 @@ There are lots of useful [Facebook ad tools](https://softcube.com/best-facebook-
 
 One of them is the Ads Manager mobile app, which allows any Facebook advertiser to:
 
-- Monitor analytics to get a full understanding of ad performance
-- Make use of ad campaign results in real time to modify and turn off ads
-- Figure out how to make better ads by means of weekly summaries, testing, and push notifications
-- Create and post ad images with logos, stickers, text, and more
+* Monitor analytics to get a full understanding of ad performance
+* Make use of ad campaign results in real time to modify and turn off ads
+* Figure out how to make better ads by means of weekly summaries, testing, and push notifications
+* Create and post ad images with logos, stickers, text, and more
 
 Mobile Ads Manager is available for [iOS](https://apps.apple.com/us/app/facebook-ads-manager/id964397083) and [Android](https://play.google.com/store/apps/details?id=com.facebook.adsmanager&hl=en) devices.
 

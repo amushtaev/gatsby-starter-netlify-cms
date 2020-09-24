@@ -1,20 +1,32 @@
 ---
+focuskeyphrase: facebook bidding
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: How to Become the Winner in Facebook Bidding
-date: 2020-04-09
-description: Need modify desk.
+date: 2020-04-09T00:00:00.000Z
+description: Read about Facebook bidding fundamentals including strategies,
+  bidding types, and bidding recommendations. Plus get a free gift to help you
+  win an auction.
 featuredpost: false
 featuredimage: /img/facebook-bidding-featured-image.jpg
 image: /img/facebook-bidding-featured-image.jpg
-seotitle: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
-focuskeyphrase: facebook bidding
 tags:
-  - brewing
-  - chemex
+  - Ad relevance diagnostics
+  - bid cap
+  - cost cap
+  - CPC
+  - CPM
+  - highest value
+  - lowest cost
+  - target cost
+  - value optimization with minimum return on ad spend
+seo_title: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
+metadescription: 
+focus_keyphrase: facebook bidding
+seotitle: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
 ---
 <!--StartFragment-->
 
@@ -22,7 +34,7 @@ Have you realized that Facebook ads are a great opportunity to grow your busines
 
 Businesses spend more than ever on advertising with Facebook and its family of services. According to [Statista](https://www.statista.com/statistics/506867/facebook-marketing-spending/), companies spent nearly $9.9 billion dollars globally on Facebook ads in 2019. That’s almost $2 billion more than in 2018.
 
-Good budgeting is one of the pillars of successful advertising on Facebook. The first question you should ask yourself to understand how your budget will affect your ad performance is _What is bidding on Facebook ads?_ 
+Good budgeting is one of the pillars of successful advertising on Facebook. The first question you should ask yourself to understand how your budget will affect your ad performance is *What is bidding on Facebook ads?* 
 
 Let’s give an answer.
 
@@ -30,15 +42,15 @@ Let’s give an answer.
 
 Facebook bidding is an auction-based ad delivery system designed to find the best ad to show to a certain user at a certain moment.
 
-https://giphy.com/gifs/season-16-the-simpsons-16x8-xT5LMESHbV1KLGMsq4
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMESHbV1KLGMsq4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-16-the-simpsons-16x8-xT5LMESHbV1KLGMsq4">via GIPHY</a></p>
 
 Billions of ad auctions are launched by millions of advertisers every day. Multiple businesses can simultaneously compete for the attention of people from the same target audience. How does Facebook determine the winner?
 
 There are three major components that affect Facebook ad delivery:
 
-- **Bid and bid strategy** — The amount of money you pay for your ads and the bid type you choose
-- **Estimated action rates** — The likelihood of achieving a marketing objective with targeted ads
-- **Ad quality** — Measured by factors that tell whether your target audience values your ads (For example, Facebook measures the number of times people like or hide your ad.)
+* **Bid and bid strategy** — The amount of money you pay for your ads and the bid type you choose
+* **Estimated action rates** — The likelihood of achieving a marketing objective with targeted ads
+* **Ad quality** — Measured by factors that tell whether your target audience values your ads (For example, Facebook measures the number of times people like or hide your ad.)
 
 In a Facebook ad auction, a bid is the amount of money you’re ready to pay to reach your target audience and accomplish your marketing objective. 
 
@@ -60,16 +72,16 @@ Lowest cost is a bid strategy that allows you to delegate Facebook bid control f
 
 Supported marketing objectives:
 
-- Brand Awareness
-- Reach
-- Traffic
-- Engagement (Post Engagement, Page Likes, Event Response)
-- App Installs
-- Video Views
-- Lead Generation
-- Messages (excludes Sponsored Messages)
-- Conversions
-- Product Catalogue Sales
+* Brand Awareness
+* Reach
+* Traffic
+* Engagement (Post Engagement, Page Likes, Event Response)
+* App Installs
+* Video Views
+* Lead Generation
+* Messages (excludes Sponsored Messages)
+* Conversions
+* Product Catalogue Sales
 
 ### Bid Cap
 
@@ -77,16 +89,16 @@ Setting a Facebook bid cap is a good way to win in a competition with Facebook a
 
 Supported marketing objectives:
 
-- Brand Awareness
-- Reach
-- Traffic
-- Engagement (Post Engagement, Page Likes, Event Response)
-- App Installs
-- Video Views
-- Lead Generation
-- Messages (excludes Sponsored Messages)
-- Conversions
-- Product Catalogue Sales
+* Brand Awareness
+* Reach
+* Traffic
+* Engagement (Post Engagement, Page Likes, Event Response)
+* App Installs
+* Video Views
+* Lead Generation
+* Messages (excludes Sponsored Messages)
+* Conversions
+* Product Catalogue Sales
 
 ### Cost Cap
 
@@ -94,23 +106,23 @@ A cost cap allows you to moderate the cost of your ads by keeping it within limi
 
 Supported marketing objectives:
 
-- Traffic
-- App Installs
-- Event Responses
-- Lead Generation
-- Offsite Conversions and Catalogue Sales with the following ad delivery optimizations: Landing Page View, Link Clicks, Page Likes, Post Engagement, Replies, Video Views, Product Catalogue Sales W/ Link Click, Offsite Conversions
+* Traffic
+* App Installs
+* Event Responses
+* Lead Generation
+* Offsite Conversions and Catalogue Sales with the following ad delivery optimizations: Landing Page View, Link Clicks, Page Likes, Post Engagement, Replies, Video Views, Product Catalogue Sales W/ Link Click, Offsite Conversions
 
 ### Target Cost
 
-Advertisers use the target cost bigging strategy to make the most of conversions by restraining ad costs. In other words, if you use this option, you’ll be able to know exactly how much you’re going to pay for your ads. However, note that you’re more likely to lose your money in cheaper auctions.
+Advertisers use the target cost bidding strategy to make the most of conversions by restraining ad costs. In other words, if you use this option, you’ll be able to know exactly how much you’re going to pay for your ads. However, note that you’re more likely to lose your money in cheaper auctions.
 
 Supported marketing objectives:
 
-- Traffic
-- App Installs (Installs, App Events, Video Views)
-- Lead Generation
-- Conversions
-- Product Catalogue Sales
+* Traffic
+* App Installs (Installs, App Events, Video Views)
+* Lead Generation
+* Conversions
+* Product Catalogue Sales
 
 ### Value Optimization with Minimum Return on Ad Spend
 
@@ -118,9 +130,9 @@ Obviously, Facebook recommends this bidding strategy to marketers who want to op
 
 Supported marketing objectives:
 
-- App Installs
-- Conversions
-- Catalogue Sales
+* App Installs
+* Conversions
+* Catalogue Sales
 
 ### Highest Value
 
@@ -128,9 +140,9 @@ When using the highest value bidding strategy, you let Facebook spend the full b
 
 Supported marketing objectives:
 
-- App Installs
-- Conversions
-- Catalogue Sales
+* App Installs
+* Conversions
+* Catalogue Sales
 
 ## Major Ad Bidding Types on Facebook
 
@@ -158,9 +170,9 @@ However, Facebook CPA bidding is no longer available. If you try to add CPA as a
 
 Launching an ad campaign in [Facebook Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) is intuitive. Before you set your budget and schedule your ads, you need to choose three things that determine your bidding: 
 
-- Marketing objective
-- Target audience
-- [Ad placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/) 
+* Marketing objective
+* [Target audience](https://softcube.com/how-to-find-a-perfect-facebook-target-audience/)
+* [Ad placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/) 
 
 After that, you’re free to get started with optimizing your ad spending. Here are some tips and tricks to help your business bid wisely.
 

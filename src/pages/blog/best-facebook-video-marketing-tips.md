@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: facebook video marketing tips
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -6,24 +7,30 @@ categories-slug:
   - facebook-ads
 title: 8 Best Facebook Video Marketing Tips
 date: 2018-11-29T00:00:00.000Z
-description: Need modify desk.
+description: Check out top Facebook video marketing tips, see attractive ad
+  examples, and learn how to make high-quality video ads in this special guide.
 featuredpost: false
 featuredimage: /img/facebook-video-marketing-tips-featured-image.jpg
 image: /img/facebook-video-marketing-tips-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - 360 videos
+  - Collection ads
+  - Carousel ads
+  - live streaming
+  - video ads
+  - video advertising
+seo_title: 8 Best Facebook Video Marketing Tips to Boost Your Sales
+metadescription: 
+focus_keyphrase: facebook video marketing tips
 seotitle: 8 Best Facebook Video Marketing Tips
-focuskeyphrase: facebook video marketing tips
 ---
 <!--StartFragment-->
 
 <script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
 
-  
 **[Video marketing for Facebook](https://softcube.com/)** is like Cinématographe for the Lumière brothers — it’s a new opportunity for business expansion.
 
-At the first screening of _The Arrival of a Train at La Ciotat Station_ in 1895, it’s said that someone even ran away from the theater because they thought the train would run them down. Some doubt the veracity of the story.
+At the first screening of *The Arrival of a Train at La Ciotat Station* in 1895, it’s said that someone even ran away from the theater because they thought the train would run them down. Some doubt the veracity of the story.
 
 <iframe src="https://www.youtube.com/embed/MT-70ni4Ddo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -35,8 +42,8 @@ Videos are meant for advertising. They take on the salesperson’s job. Now smal
 
 For online advertising for eCommerce, Facebook may work better than YouTube. According to [Forbes](https://www.forbes.com/sites/andrewarnold/2018/09/26/facebook-now-dominates-youtube-for-video-content-heres-how-brands-should-respond/), each year people watch:
 
-- Over 500 million hours of video on YouTube
-- Over 1.5 billion hours of video on Facebook
+* Over 500 million hours of video on YouTube
+* Over 1.5 billion hours of video on Facebook
 
 Last but not least, Facebook video ads have no disadvantages, even when it comes to their price. The average cost of a Facebook video marketing campaign is quite reasonable compared to [prices of other advertising campaigns](https://softcube.com/guide-to-facebook-advertising-cost/) on the platform.
 
@@ -47,7 +54,7 @@ If you need a few Facebook video marketing ideas, read the recommendations below
 ### Tip 1. Make Your Video Content Short to Catch Attention Quickly
 
 The perfect length for a Facebook video ad is 15 seconds. Note that you should fit an intriguing visual story in this time. What do people do on Facebook most of the time? Of course, they scroll their news feeds. The less time they spend on scrolling, the faster they end up browsing all posts published recently.  
-  
+
 Only big companies can upload minutes-long commercials to promote well-known products like iPhone or GoPro. Why? Such companies have large audiences and the budgets to bring their big ideas to reality. If you’re [only starting your project](https://softcube.com/creating-effective-facebook-ads/) and want people to know about it, you should make your videos as short as possible.
 
 ### Tip 2. Design an Eye-Catching Thumbnail to Spark an Interest
@@ -65,7 +72,7 @@ And don’t upload thumbnails that have nothing to do with the topic of your vid
 ### Tip 3. Publish Video Ads at Scale to Expand Your Online Presence
 
 Large-scale content production is the cornerstone of Facebook video promotion. Sometimes, retailers sell hundreds and even thousands of products. In the context of video production, these are huge numbers. But even if your business doesn’t offer such a big catalog, you still have to make video ads at scale to drive leads and boost sales.  
-  
+
 Naturally, you may start comparing image ads and video ads in your head. It seems that videos are hard to produce. But we’re successfully busting this myth at Softcube. Our neural network can create [hundreds of product video ads](https://softcube.com/#how-it-works/) in the shortest possible time, significantly lowering their cost.
 
 ### Tip 4. Record Facebook 360 Videos
@@ -74,9 +81,8 @@ Diversity is the key to successful video marketing on Facebook. The social media
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDior%2Fvideos%2F946924365362229%2F&amp;show_text=1&amp;width=560" width="560" height="410" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-  
 It creates a totally new watching experience, especially with VR glasses. Customers will be able to see your products from any side they want. In combination with an engaging cinematic background, 360-degree videos let viewers evoke the feeling of personal presence.  
-  
+
 In a 360 sales video for Facebook marketing, customers will be able to fully view a promoted item in action. All you need to do is showcase your product from any convenient angle to provide viewers with a lifelike experience.
 
 ### Tip 5. Take Advantage of Live Video Streaming
@@ -85,11 +91,11 @@ Live streaming has one unique advantage among [other video formats](https://soft
 
 This format is perfect for highlighting different sales and special events. Keep in mind that you can also stream 360-degree videos. Before you start broadcasting, Facebook recommends that you:
 
-1. 1. Make sure you have a reliable internet connection to support your stream;
-    2. Don’t forget to host the entire broadcast to guide your audience;
-    3. Consider adding text and graphics to enhance the stream appearance;
-    4. Think about adding spatial audio for a greater experience;
-    5. Place your camera no further than 20 to 30 feet away to provide viewers with a clear view.
+1. Make sure you have a reliable internet connection to support your stream;
+2. Don’t forget to host the entire broadcast to guide your audience;
+3. Consider adding text and graphics to enhance the stream appearance;
+4. Think about adding spatial audio for a greater experience;
+5. Place your camera no further than 20 to 30 feet away to provide viewers with a clear view.
 
 ### Tip 6. Showcase Your Products With Carousel and Collection
 
@@ -111,8 +117,8 @@ Today, users buy mostly from their smartphones. Collection is a [Facebook ad for
 
 Along with Facebook, Instagram is a perfect extra source for boosting your sales with video ads. This is the case first of all because the platform has over 1 billion active monthly users. Here are two other interesting statistics for you:
 
-- Time spent [watching video on Instagram](https://www.facebook.com/business/news/insights/sight-sound-and-mobilization) has increased by 80% in 2017
-- [60% of Instagram users](https://www.falcon.io/insights-hub/topics/social-media-strategy/5-tips-instagram-advertising-campaigns/) find new products on the platform
+* Time spent [watching video on Instagram](https://www.facebook.com/business/news/insights/sight-sound-and-mobilization) has increased by 80% in 2017
+* [60% of Instagram users](https://www.falcon.io/insights-hub/topics/social-media-strategy/5-tips-instagram-advertising-campaigns/) find new products on the platform
 
 Instagram Stories let advertisers create unique content, and all recorded videos or images disappear in 24 hours. You can intrigue your audience with a special Stories video and promote a limited-time offer, for example a 50% discount promo code.
 
@@ -120,7 +126,7 @@ Instagram Stories let advertisers create unique content, and all recorded videos
 
 Tags are a powerful weapon in Facebook video ads marketing. Adding tags to your Facebook videos makes sense because tags help users find the content they want faster. The question is, which tags should you use?
 
-First, enter tags that describe your video. For example, _shoes, clothing, sale, special offer_. Put yourself in your customer’s shoes and imagine what they could type in to stumble upon your video.
+First, enter tags that describe your video. For example, *shoes, clothing, sale, special offer*. Put yourself in your customer’s shoes and imagine what they could type in to stumble upon your video.
 
 Second, tag Facebook pages your business can relate to. For example, tag your partner, the company that helped to create this video, and globally recognized brands that you like or follow online.
 

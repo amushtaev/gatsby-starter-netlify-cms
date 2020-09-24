@@ -1,20 +1,23 @@
 ---
+focuskeyphrase: create facebook lead generation ads
 templateKey: blog-post
 categories:
   - Tutorials
 categories-slug:
   - tutorials
 title: How to Create Facebook Lead Generation Ads
-date: 2019-05-02
-description: Need modify desk.
+date: 2019-05-02T00:00:00.000Z
+description: Learn how to create Facebook lead generation ads, get inspired by a
+  few great ad examples, and discover effective practices for your business.
 featuredpost: false
 featuredimage: /img/create-facebook-lead-generation-ads-featured-picture.jpg
 image: /img/create-facebook-lead-generation-ads-featured-picture.jpg
-seotitle: "How to Create Facebook Lead Generation Ads [with Examples]"
-focuskeyphrase: create facebook lead generation ads
 tags:
-  - brewing
-  - chemex
+  - lead generation
+seo_title: How to Create Facebook Lead Generation Ads [with Examples]
+metadescription: 
+focus_keyphrase: create facebook lead generation adds
+seotitle: How to Create Facebook Lead Generation Ads [with Examples]
 ---
 <!--StartFragment-->
 
@@ -34,23 +37,23 @@ The form can include both prefilled and custom questions to collect customer dat
 
 You should try Facebook lead generation ads if you want to:  
 
-- search for new customers
-- inform current customers about upcoming sales and special discounts
-- increase registrations for your service or event
-- learn the habits and interests of your target audience
-- offer users free content such as brochures and e-books
+* search for new customers
+* inform current customers about upcoming sales and special discounts
+* increase registrations for your service or event
+* learn the habits and interests of your target audience
+* offer users free content such as brochures and e-books
 
 You can use lead generation ads to ask any question you want except for ones that request the following information (without Facebook’s written permission):  
 
-- Frequent flyer, telephone, cable, or loyalty card account numbers
-- Criminal and arrest history
-- Financial information such as credit card, debit card, and bank account numbers, credit history, and income
-- Social security, passport, and driver’s license numbers
-- Health information
-- Insurance policy numbers
-- Information about religion or philosophical beliefs, race, ethnicity, sexual life, and sexual orientation
-- Trade union membership
-- Usernames and passwords
+* Frequent flyer, telephone, cable, or loyalty card account numbers
+* Criminal and arrest history
+* Financial information such as credit card, debit card, and bank account numbers, credit history, and income
+* Social security, passport, and driver’s license numbers
+* Health information
+* Insurance policy numbers
+* Information about religion or philosophical beliefs, race, ethnicity, sexual life, and sexual orientation
+* Trade union membership
+* Usernames and passwords
 
 Let’s find out how to create a Facebook Lead Ad.
 
@@ -60,16 +63,16 @@ There are several methods of creating Facebook lead ads.
 
 ### From Your Facebook Page
 
-- Go to your Page.
-- Click **Publishing Tools** at the top of the page.
+* Go to your Page.
+* Click **Publishing Tools** at the top of the page.
 
 ![How to create Facebook lead generation ads — published tools](/img/create-facebook-lead-generation-ads-published-tools.jpg)
 
-- Click **Forms Library** on the left side panel.
+* Click **Forms Library** on the left side panel.
 
 ![How to create Facebook lead generation ads — Forms Library](/img/create-facebook-lead-generation-ads-forms-library.jpg)
 
-- Pick one of two options: **New Form** or **Duplicate an Existing Form**. Click **Next**.
+* Pick one of two options: **New Form** or **Duplicate an Existing Form**. Click **Next**.
 
 ![How to create Facebook lead generation ads — new form](/img/create-facebook-lead-generation-ads-new-form.jpg)
 
@@ -77,21 +80,21 @@ That’s it. You’re inside your form. Fill in all the necessary fields and **S
 
 ![How to create Facebook lead generation ads — untitled form](/img/create-facebook-lead-generation-ads-untitled-form.jpg)
 
-Note that there’s an _alternative way_ to create a form from a Page. It’s handier for those who’ve already launched lead ads and want to launch one more ad from a saved form.  
+Note that there’s an *alternative way* to create a form from a Page. It’s handier for those who’ve already launched lead ads and want to launch one more ad from a saved form.  
 
-- Go to your Page and click **Promote** on the left side menu.
+* Go to your Page and click **Promote** on the left side menu.
 
 ![How to create Facebook lead generation ads — promote button](/img/create-facebook-lead-generation-ads-from-page.jpg)
 
-- Choose the **Get More Leads** option.
+* Choose the **Get More Leads** option.
 
 ![How to create Facebook lead generation ads — get more leads](/img/create-facebook-lead-generation-ads-get-more-leads.jpg)
 
-- Use an existing form or create a new one and click **Next**.
+* Use an existing form or create a new one and click **Next**.
 
 ![How to create Facebook lead generation ads — create a form](/img/create-facebook-lead-generation-ads-create-form.jpg)
 
-- Customize your ad creative and click **Promote** once it’s ready.
+* Customize your ad creative and click **Promote** once it’s ready.
 
 ![How to create Facebook lead generation ads — get contacts](/img/create-facebook-lead-generation-ads-form.jpg)
 
@@ -99,27 +102,27 @@ Wait for Facebook to approve your ad campaign and enjoy!
 
 ### From Ads Manager
 
-- Go to [Ads Manager](https://www.facebook.com/ads/manage/) and click **+**.
+* Go to [Ads Manager](https://www.facebook.com/ads/manage/) and click **+**.
 
 ![How to create Facebook lead generation ads — Create button](/img/create-facebook-lead-generation-ads-create-button.jpg)
 
-- Choose the **Lead Generation** ad objective.
+* Choose the **Lead Generation** ad objective.
 
 ![How to create Facebook lead generation ads — ad objective](/img/create-facebook-lead-generation-ads-objective.jpg)
 
-- Choose a **Page** from which you’ll create your lead ad. Read and accept **Facebook’s Lead Terms** (if you haven’t done this yet).
+* Choose a **Page** from which you’ll create your lead ad. Read and accept **Facebook’s Lead Terms** (if you haven’t done this yet).
 
 ![How to create Facebook lead generation ads — ad terms](/img/create-facebook-lead-generation-ads-terms.jpg)
 
-- Set up your **Audience**, **Placements**, and **Budget & Schedule**.
+* Set up your **Audience**, **Placements**, and **Budget & Schedule**.
 
 ![How to create Facebook lead generation ads — audience, budget, and schedule](/img/create-facebook-lead-generation-ads-ad-set.jpg)
 
-- Choose your ad **Format**, **Media**, and **Text** and proceed to **Instant Form**.
+* Choose your ad **Format**, **Media**, and **Text** and proceed to **Instant Form**.
 
 ![How to create Facebook lead generation ads — instant form](/img/create-facebook-lead-generation-ads-instant-form.jpg)
 
-- Use an existing form in the list or click **\+ New Form** to go through the process we’ve described above.
+* Use an existing form in the list or click **+ New Form** to go through the process we’ve described above.
 
 ![How to create Facebook lead generation ads — instant form for Softcube](/img/create-facebook-lead-generation-ads-softcube-form.jpg)
 
@@ -129,9 +132,9 @@ Once your form is ready, confirm your ad campaign, wait for Facebook to approve 
 
 When creating Facebook lead ads, remember three important benchmarks:  
 
-- **Short**. Ask simple questions without overwhelming your audience.
-- **Clear**. Make your questions easy to answer.
-- **Valuable**. Make a good offer in your ad.
+* **Short**. Ask simple questions without overwhelming your audience.
+* **Clear**. Make your questions easy to answer.
+* **Valuable**. Make a good offer in your ad.
 
 #### **Add a Privacy Policy Link**
 
@@ -141,7 +144,11 @@ This is a requirement for creating lead ads. You need to [add a link](https://ww
 
 There are four types of pre-filled fields available for your lead ad:  
 
-\[table id=4 /\]
+| Contact fields                                                                                                                                                                                      | Demographic questions                                                                                               | Work information                                       | National ID number                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Email (available for Instagram)  Full name (available for Instagram)  First name  Last name  Phone number (available for Instagram)  Street address  City  State  Country  State/province  Zip code | Date of birth  Gender (available for Instagram)  Marital status  Relationship status  Company name  Military status | Job title  Work phone number  Work email  Company name | CPF (Brazil)  DNI (Peru)  CC (Colombia)  DNI (Argentina)  RUT (Chile)  CI (Ecuador) |
+
+
 
 If you’re going to run lead ads on Instagram, read the part below.
 
@@ -163,8 +170,8 @@ Choosing the form type is the first step in creating a form.
 
 There are two options:  
 
-- **More Volume**. This is simpler, requiring minimum effort from your potential customers. If you need to get emails or increase the number of registrations, this option is for you.
-- **Higher Intent**. These forms are more detailed due to the larger number of fields. Also, users can check their info before sending it to you. This option is available only for Facebook Feed on mobile devices. It’s for you if you plan to contact every user personally.
+* **More Volume**. This is simpler, requiring minimum effort from your potential customers. If you need to get emails or increase the number of registrations, this option is for you.
+* **Higher Intent**. These forms are more detailed due to the larger number of fields. Also, users can check their info before sending it to you. This option is available only for Facebook Feed on mobile devices. It’s for you if you plan to contact every user personally.
 
 Don’t forget that each form type will work more effectively with a customized welcoming message.
 
@@ -178,11 +185,11 @@ Write a catchy headline to focus your customers’ attention, upload a 1200x628 
 
 The Thank You screen includes:  
 
-- **Headline**: Up to 60 characters
-- **Description**
-- **Call to action buttons**: Download, View Website, Call Business
-- **Button text**: Up to 60 characters
-- **Website link**
+* **Headline**: Up to 60 characters
+* **Description**
+* **Call to action buttons**: Download, View Website, Call Business
+* **Button text**: Up to 60 characters
+* **Website link**
 
 ![How to create Facebook lead generation ads — thank you screen](/img/create-facebook-lead-generation-ads-thank-you-screen.jpg)
 
@@ -224,11 +231,11 @@ You’ll need a template to generate your Dynamic Ads. To run them, pick a Lead 
 
 Note that there are customized [Dynamic Ads](https://softcube.com/facebook-dynamic-product-ads/) for different industries:  
 
-- Automotive (dealerships)
-- Automotive (manufacturers)
-- Real estate (brokerages)
-- Travel advertisers
-- CPG advertisers
+* Automotive (dealerships)
+* Automotive (manufacturers)
+* Real estate (brokerages)
+* Travel advertisers
+* CPG advertisers
 
 Facebook Pixel is code that allows you to track conversions and upload [Custom Audiences](https://softcube.com/guide-to-facebook-custom-audiences/).
 
@@ -238,32 +245,32 @@ Note that specifications for lead ads on Facebook and Instagram are different.
 
 Images for Facebook:
 
-- **Size**: 1080x1080 px
-- **Aspect ratio**: 1:1
-- **Text**: 125 characters
-- **Headline**: 25 characters
-- **Link description**: 30 characters
-- **File format**: PNG or JPG
+* **Size**: 1080x1080 px
+* **Aspect ratio**: 1:1
+* **Text**: 125 characters
+* **Headline**: 25 characters
+* **Link description**: 30 characters
+* **File format**: PNG or JPG
 
 Videos for Facebook:
 
-- **Length**: Up to 15 seconds
-- **Aspect ratio**: Vertical (4:5)
-- **Text**: 125 characters
-- **Headline**: 25 characters
-- **Video**: H.264 video compression, high profile preferred, square pixels, fixed frame rate, progressive scan
-- **File format**: MP4 container, ideally with leading moov atom and no edit lists
+* **Length**: Up to 15 seconds
+* **Aspect ratio**: Vertical (4:5)
+* **Text**: 125 characters
+* **Headline**: 25 characters
+* **Video**: H.264 video compression, high profile preferred, square pixels, fixed frame rate, progressive scan
+* **File format**: MP4 container, ideally with leading moov atom and no edit lists
 
 Images for Instagram:
 
-- Aspect ratio: Vertical (4:5), Square (1:1), Landscape (1.91:1)
-- Resolution: Vertical (600x750 px), Square (600x600 px), Landscape (600x315 px)
+* Aspect ratio: Vertical (4:5), Square (1:1), Landscape (1.91:1)
+* Resolution: Vertical (600x750 px), Square (600x600 px), Landscape (600x315 px)
 
 Videos for Instagram:
 
-- Aspect ratio: Vertical (4:5)
-- Video: H.264, high profile preferred, square pixels, fixed frame rate, progressive scan
-- File type: MP4 container, ideally with leading moov atom and no edit lists
+* Aspect ratio: Vertical (4:5)
+* Video: H.264, high profile preferred, square pixels, fixed frame rate, progressive scan
+* File type: MP4 container, ideally with leading moov atom and no edit lists
 
 #### **Widen Your Boundaries with Supported Languages**
 
@@ -273,10 +280,10 @@ If  you’re looking for ways to do business in other potential markets, note t
 
 There are four options to download the data you get from your ads:  
 
-- **From your Page**, go to **Publishing Tools**, click **Forms Library**, and choose the **Download** link under the Leads column.
-- **From Ads Manager**, go to **Results** and click **Download** in the Download Leads window.
-- **From the** [**API**](https://developers.facebook.com/docs/marketing-api/guides/lead-ads/retrieving). You’ll need a developer’s help if you choose this method.
-- **From your CRM**. Before doing this, you’ll need to integrate your CRM with Facebook.
+* **From your Page**, go to **Publishing Tools**, click **Forms Library**, and choose the **Download** link under the Leads column.
+* **From Ads Manager**, go to **Results** and click **Download** in the Download Leads window.
+* **From the** **[API](https://developers.facebook.com/docs/marketing-api/guides/lead-ads/retrieving)**. You’ll need a developer’s help if you choose this method.
+* **From your CRM**. Before doing this, you’ll need to integrate your CRM with Facebook.
 
 ## 7 Great Facebook Lead Ads Examples
 
@@ -284,7 +291,7 @@ We’ve found a few Facebook Lead ad examples that were launched for different p
 
 ### Centerline Drivers
 
-Centerline Drivers uses lead ads to find new team members. The ad text description is simple and informative — _Be home daily!_ It’s perfect to spark a truck driver’s interest.
+Centerline Drivers uses lead ads to find new team members. The ad text description is simple and informative — *Be home daily!* It’s perfect to spark a truck driver’s interest.
 
 ![How to create Facebook lead generation ads — Centerline Drivers](/img/create-facebook-lead-generation-ads-centerline-drivers-1.jpg)
 

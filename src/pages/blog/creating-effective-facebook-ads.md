@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: creating effective facebook ads
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -6,23 +7,26 @@ categories-slug:
   - facebook-ads
 title: 10 Tricks for Creating Effective Facebook Ads
 date: 2019-02-18T00:00:00.000Z
-description: Need modify desk.
+description: Become the master of creating effective Facebook ads and launch an
+  ad campaign that increases conversions. Read the 10 hottest tips now.
 featuredpost: false
 featuredimage: /img/creating-effective-facebook-ads-featured-image.jpg
 image: /img/creating-effective-facebook-ads-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - Dynamic ads
+  - Facebook ad formats
+  - Facebook Blueprint
+  - video ad campaigns
+seo_title: 10 Tips for Creating an Effective Facebook Ad Campaign
+metadescription: 
+focus_keyphrase: creating effective facebook ads
 seotitle: 10 Tricks for Creating Effective Facebook Ads
-focuskeyphrase: creating effective facebook ads
 ---
 <!--StartFragment-->
 
-<script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
-
 Knowing how to make effective Facebook ads is the holy grail of Facebook marketing. However, you don’t have to search for this grail. It’s waiting for you to take it. Let’s do this together right now, shall we?
 
-![](/img/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/ZgYBhq1x7L1bW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/choose-chose-wisely-ZgYBhq1x7L1bW">via GIPHY</a></p>
 
 As of December 2018, Facebook had [2.32 billion monthly active users](https://newsroom.fb.com/company-info/). To direct their attention to your business, you should drive your own attention to the fundamentals.
 
@@ -96,8 +100,8 @@ Have you already used [Google Ads](https://softcube.com/google-ads-ex-adwords-vs
 
 Facebook has its own family of apps and services, including Facebook, Instagram, Messenger, and the Audience Network. You can use two options when it comes to choosing your placements:
 
-- **Automatic Placements.** The system delivers your ad to the placements where it will perform best based on your budget and your ad content.
-- **Edit Placements. You set placements manually, which may reduce your post reach but may also save your budget.**
+* **Automatic Placements.** The system delivers your ad to the placements where it will perform best based on your budget and your ad content.
+* **Edit Placements.** You set placements manually, which may reduce your post reach but may also save your budget.
 
 Which option should you choose? It depends on your goal. If you want to increase your brand awareness, the first option will be a great choice.
 
@@ -121,7 +125,7 @@ If you want to learn how to create effective Facebook ads, make [high-quality co
 
 An ad consists of three main ingredients: a headline, some text, and an image. The recipe is simple: write text from your heart (but keep your mind cool), design a picture or video that attracts attention, and spice it up with a few tags. Done!
 
-By the way, if you have some raw video footage, we’d love to help you create [**10 awesome video ads**](https://softcube.com/get-ten-ads/) using artificial intelligence.
+By the way, if you have some raw video footage, we’d love to help you create **[10 awesome video ads](https://softcube.com/get-ten-ads/)** using artificial intelligence.
 
 ### Tip 5. Use Different Ad Formats
 
@@ -201,14 +205,14 @@ Even if you’re too busy with your business, you should take at least a few eLe
 
 ## Let’s Conclude
 
-- Set the right objectives
-- Pick the right placements
-- Allocate your budget
-- Create high-quality content for your ads
-- Use multiple ad formats
-- Install a tracking Pixel
-- Take advantage of retargeting
-- Boost popular publications
-- Learn something new with Blueprint
+* Set the right objectives
+* Pick the right placements
+* Allocate your budget
+* Create high-quality content for your ads
+* Use multiple ad formats
+* Install a tracking Pixel
+* Take advantage of retargeting
+* Boost popular publications
+* Learn something new with Blueprint
 
 Don’t forget to read the Success Stories, keep a focus on Instagram, and be mobile-oriented. And if you need video ads for an image-sized budget, test our [artificial intelligence platform](http://softcube.com) now.

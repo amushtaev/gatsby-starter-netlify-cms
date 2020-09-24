@@ -1,20 +1,30 @@
 ---
+focuskeyphrase: facebook collection ads
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: The Beginner's Guide to Facebook Collection Ads
-date: 2020-01-09
-description: Need modify desk.
+date: 2020-01-09T00:00:00.000Z
+description: Learn how to create successful Facebook Collection Ads, discover
+  their major types, check specifications, and read the best practices in this
+  guide.
 featuredpost: false
 featuredimage: /img/facebook-collection-ads-featured-picture.jpg
 image: /img/facebook-collection-ads-featured-picture.jpg
-seotitle: Everything You Need to Know About Facebook Collection Ads
-focuskeyphrase: facebook collection ads
 tags:
-  - brewing
-  - chemex
+  - image ads
+  - Instagram ads
+  - Instant Customer Acquisition
+  - Instant Lookbook
+  - Instant Storytelling
+  - Instant Storefront
+  - video ads
+seo_title: Everything You Need to Know About Facebook Collection Ads
+metadescription: 
+focus_keyphrase: facebook collection ads
+seotitle: Everything You Need to Know About Facebook Collection Ads
 ---
 <!--StartFragment-->
 

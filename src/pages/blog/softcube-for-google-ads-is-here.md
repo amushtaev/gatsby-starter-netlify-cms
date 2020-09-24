@@ -1,24 +1,32 @@
 ---
+focuskeyphrase: softcube for google ads
 templateKey: blog-post
 categories:
   - News
 categories-slug:
   - news
 title: Softcube for Google Ads is Here
-date: 2018-12-12
-description: Need modify desk.
+date: 2018-12-12T00:00:00.000Z
+description: Softcube for Google Ads is available. Learn how to make your ad
+  campaigns eye-catching and dynamic using AI-generated video ads.
 featuredpost: false
 featuredimage: /img/softcube-for-google-ads-feature-picture.jpg
 image: /img/softcube-for-google-ads-feature-picture.jpg
-seotitle: "Softcube for Google Ads: Use AI to Make Video Ads at Scale"
-focuskeyphrase: softcube for google ads
 tags:
-  - brewing
-  - chemex
+  - AI
+  - artificial intelligence
+  - Google ads
+  - Google display ads
+  - Google ad campaigns
+  - Google video ads
+  - video ad campaigns
+  - video ads
+seo_title: "Softcube for Google Ads: Use AI to Make Video Ads at Scale"
+metadescription: 
+focus_keyphrase: softcube for google ads
+seotitle: "Softcube for Google Ads: Use AI to Make Video Ads at Scale"
 ---
 <!--StartFragment-->
-
-<script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
 
 Every company wants to create dynamic and eye-catching video ads for their products. But videos are effective only when produced at scale. So businesses face a big challenge with modern video marketing: making a lot of video ads takes a lot of time and money.
 

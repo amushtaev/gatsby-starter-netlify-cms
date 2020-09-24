@@ -1,20 +1,25 @@
 ---
+focuskeyphrase: facebook app install ads
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: The Developer’s Guide to Facebook App Install Ads
-date: 2020-03-17
-description: Need modify desk.
+date: 2020-03-17T00:00:00.000Z
+description: Attract new users to your mobile app and make it more popular among
+  current users by reading this beginner’s guide to Facebook app install ads.
 featuredpost: false
 featuredimage: /img/facebook-app-install-ads-featured-image.jpg
 image: /img/facebook-app-install-ads-featured-image.jpg
-seotitle: How to Promote Your Mobile App with Facebook App Install Ads
-focuskeyphrase: facebook app install ads
 tags:
-  - brewing
-  - chemex
+  - Ads Manager
+  - free ads
+  - Facebook Blueprint
+seo_title: How to Promote Your Mobile App with Facebook App Install Ads
+metadescription: 
+focus_keyphrase: facebook app install ads
+seotitle: How to Promote Your Mobile App with Facebook App Install Ads
 ---
 <!--StartFragment-->
 
@@ -22,15 +27,13 @@ Have a mobile app, want to promote it on Facebook, but aren’t quite sure how t
 
 We’re here to help!
 
-https://giphy.com/gifs/smartphone-ixDd2qXviXpqE
-
 Promoting an app on Facebook is a wonderful idea. If you orchestrate your promotional campaign down to the last detail, you’ll be able to attain amazing results.
 
 Here are several examples:
 
-- Monobank engaged over [7.6 million users](https://www.facebook.com/business/success/monobank) through multiple Facebook and Instagram ad campaigns, resulting in 188,000 app installs and 142,000 app registrations.
-- Washmen used Facebook to get a [70% mobile app registration boost](https://www.facebook.com/business/success/washmen), double their sales growth, and triple their weekly signups.
-- Swvl achieved a [90% boost in completed signups](https://www.facebook.com/business/success/swvl), 2.2x growth in app installs, more than 58,000 app engagements, and more than 10 million video views thanks to Facebook ads.
+* Monobank engaged over [7.6 million users](https://www.facebook.com/business/success/monobank) through multiple Facebook and Instagram ad campaigns, resulting in 188,000 app installs and 142,000 app registrations.
+* Washmen used Facebook to get a [70% mobile app registration boost](https://www.facebook.com/business/success/washmen), double their sales growth, and triple their weekly signups.
+* Swvl achieved a [90% boost in completed signups](https://www.facebook.com/business/success/swvl), 2.2x growth in app installs, more than 58,000 app engagements, and more than 10 million video views thanks to Facebook ads.
 
 Sounds promising, doesn’t it? Let’s see how to create app install ads on Facebook and use them effectively for your business.
 
@@ -54,9 +57,9 @@ When you plan and do it wisely, organic advertising on Facebook pays dividends n
 
 However, keep in mind that your focus should be on paid ads. Consider [free Facebook advertising](https://softcube.com/how-to-advertise-on-facebook-for-free/) as an extra. Here’s how you can bring it to life:
 
-- **Grow your mobile app community with the News Feed**. Make new posts about your app, repost tutorials and product updates from your blog, create discounts to grow installs, announce events, etc.
-- **Customize your Page**. Add a stunning video cover that showcases your app, write an “our story” description to explain why you created your app, etc.
-- **Use the full functionality of your Page**. Connect your Facebook Page to Instagram to optimize your app marketing, create a shop to sell products related to your mobile app, activate a live chat in Messenger to be in touch with your customers 24/7, etc.
+* **Grow your mobile app community with the News Feed**. Make new posts about your app, repost tutorials and product updates from your blog, create discounts to grow installs, announce events, etc.
+* **Customize your Page**. Add a stunning video cover that showcases your app, write an “our story” description to explain why you created your app, etc.
+* **Use the full functionality of your Page**. Connect your Facebook Page to Instagram to optimize your app marketing, create a shop to sell products related to your mobile app, activate a live chat in Messenger to be in touch with your customers 24/7, etc.
 
 These are only a few examples of how to create Facebook mobile app install ads that you can promote free of charge. Need more ideas? 
 
@@ -86,8 +89,8 @@ What’s next? The next step is to engage users with your app so you can do busi
 
 This type of Facebook mobile app ad is based on one of two marketing objectives:
 
-- **Traffic**. Use this objective to get more people to open your mobile app.
-- **Conversions**. Use this objective to get more people to take action in your mobile app.
+* **Traffic**. Use this objective to get more people to open your mobile app.
+* **Conversions**. Use this objective to get more people to take action in your mobile app.
 
 Launching a mobile app engagement ad campaign is the same as launching an app installs ad campaign. Just make sure you pick the objective you need.
 
@@ -95,13 +98,13 @@ Launching a mobile app engagement ad campaign is the same as launching an app in
 
 Facebook playable ads are designed to demonstrate your mobile app as if viewers had already downloaded it. In fact, these are the best Facebook app install ads for game developers.
 
-https://giphy.com/gifs/ZClQyZaslepWOPV6Bi
+<div style="width:100%;height:0;padding-bottom:204%;position:relative;"><iframe src="https://giphy.com/embed/ZClQyZaslepWOPV6Bi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ZClQyZaslepWOPV6Bi">via GIPHY</a></p>
 
 Every playable ad consists of three components:
 
-- **Introduction video**. Its goal is to show that your app is playable.
-- **Live demo**. After a user taps the intro video, they’re taken to a full-screen app demo.
-- **Call-to-action button**. You can place your CTA throughout the demo and at the end of it.
+* **Introduction video**. Its goal is to show that your app is playable.
+* **Live demo**. After a user taps the intro video, they’re taken to a full-screen app demo.
+* **Call-to-action button**. You can place your CTA throughout the demo and at the end of it.
 
 If you’re going to use this ad format, make sure your intro video and live demo look similar to provide users with a comfortable experience, create an intuitive demo that takes only several steps to complete, and let ad viewers download your mobile app at any moment by placing a call-to-action throughout the demonstration.
 
@@ -143,11 +146,11 @@ Ad quality and relevance are two crucial factors that affect the success of your
 
 According to a [study by Facebook](https://www.facebook.com/business/news/insights/3-ways-to-improve-download-and-retention-rates-in-mobile-apps) that included 2,400 participants, the top five things that make ads ineffective are:
 
-- poor ad quality
-- irrelevance for the viewer
-- links that go to the wrong page
-- a message that doesn’t match the app’s purpose
-- not being able to skid an ad
+* poor ad quality
+* irrelevance for the viewer
+* links that go to the wrong page
+* a message that doesn’t match the app’s purpose
+* not being able to skid an ad
 
 They say forewarned is forearmed. That’s why you should make sure you know your audience pretty well before targeting it with your mobile ads.
 
@@ -155,11 +158,11 @@ They say forewarned is forearmed. That’s why you should make sure you know you
 
 If you don’t know how to run app install ads on Facebook, you may be surprised with the ways you can [target potential and current users](https://softcube.com/creating-effective-facebook-ads/) of your mobile app. 
 
-- **Targeting by device**. Deliver ads to owners of a specific model of iPhone, specific Samsung devices, or devices by other manufacturers. 
-- **Custom Audience targeting**. Target users who’ve already downloaded your app or who have shared their contact information with your business.
-- **Ad placement targeting**.  Show ads to people on different places across Facebook, Instagram, Messenger, and the Audience Network.
-- **Targeting by operating system**. Create different ads for users running different versions of iOS and Android. 
-- **Lookalike Audience targeting**. Find new users who have the same characteristics as those in your Custom Audiences. 
+* **Targeting by device**. Deliver ads to owners of a specific model of iPhone, specific Samsung devices, or devices by other manufacturers. 
+* **[Custom Audience targeting](https://softcube.com/guide-to-facebook-custom-audiences/)**. Target users who’ve already downloaded your app or who have shared their contact information with your business.
+* **[Ad placement targeting](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/)**.  Show ads to people on different places across Facebook, Instagram, Messenger, and the Audience Network.
+* **Targeting by operating system**. Create different ads for users running different versions of iOS and Android. 
+* **[Lookalike Audience targeting](https://softcube.com/how-to-use-facebook-lookalike-audiences/)**. Find new users who have the same characteristics as those in your Custom Audiences. 
 
 These are the major targeting options you can use for promoting your app. The number of possibilities depends only on your imagination. 
 
@@ -178,6 +181,8 @@ When creating your first ad campaign, you should check Facebook app install ads 
 ## Launch AI-Made Facebook Video Ads to Boost Your Mobile App
 
 Now that you know about Facebook mobile app install ad specs, targeting, content, ad types, and launching your ads, we have a gift for you. Do you like the video you see below?
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/0671d2c6df756586b6da825b89974163.mp4"></video></figure>
 
 Increase your downloads with mobile ads produced by the [Softcube AI](https://softcube.com/).
 

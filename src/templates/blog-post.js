@@ -36,7 +36,9 @@ export const BlogPostTemplate = ({
   date,
   focuskeyphrase,
   categories_slug,
+  metadescription,
   seotitle,
+  snippet,
 }) => {
   const PostContent = contentComponent || Content;
   const windowSize = useWindowSize();
@@ -73,7 +75,7 @@ export const BlogPostTemplate = ({
       <link rel="canonical" href={slug} />
       {/* Twitter */}
       <meta name='twitter:card' content='summary' key='twcard' />
-      <meta name='twitter:creator' content={description} key='twhandle' />
+      <meta name='twitter:creator' content={metadescription} key='twhandle' />
 
       {/* Open Graph */}
       <meta property="og:locale" content="en_US" />
@@ -82,8 +84,8 @@ export const BlogPostTemplate = ({
       <meta property='og:image' content={image} key='ogimage' />
       <meta property='og:site_name' content={siteName} key='ogsitename' />
       <meta property='og:title' content={seotitle} key='ogtitle' />
-      <meta property='og:description' content={description} key='ogdesc' />
-      {/*<div className="snippet" dangerouslySetInnerHTML={{ __html: article.snippet }} />*/}
+      <meta property='og:description' content={metadescription} key='ogdesc' />
+      <div className="snippet" dangerouslySetInnerHTML={{ __html: snippet }} />
       <div
         className='index Blog'
         itemScope itemType="http://schema.org/BlogPosting"
@@ -293,6 +295,8 @@ BlogPostTemplate.propTypes = {
   focuskeyphrase: PropTypes.string,
   categories_slug: PropTypes.array,
   seotitle: PropTypes.string,
+  metadescription: PropTypes.string,
+  snippet: PropTypes.string,
 };
 
 const BlogPost = ({ data }) => {
@@ -321,12 +325,14 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         seotitle={post.frontmatter.seotitle}
+        metadescription={post.frontmatter.metadescription}
         focuskeyphrase={post.frontmatter.focuskeyphrase}
         categories_slug={post.frontmatter.categories_slug}
         image={post.frontmatter.image ?
           post.frontmatter.image.publicURL : null
         }
         date={post.frontmatter.date}
+        snippet={post.snippet}
       />
     </LayoutBlog>
   )
@@ -373,6 +379,7 @@ export const pageQuery = graphql`
         categories_slug
         seotitle
         focuskeyphrase
+        metadescription
       }
       snippet
       tableOfContents

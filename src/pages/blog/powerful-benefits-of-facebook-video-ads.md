@@ -18,6 +18,7 @@ tags:
   - video ad campaigns
   - artificial intelligence
 seo_title: How Can Video Ads Improve Your Performance on Facebook?
+metadescription: 
 focus_keyphrase: benefits of facebook video ads
 seotitle: How Can Video Ads Improve Your Performance on Facebook?
 ---
@@ -66,13 +67,13 @@ Facebook recommends using [video advertisements](https://softcube.com/fifteen-be
 
 As of March 2018, brand awareness was the cheapest objective of Facebook ad campaigns worldwide. Based on average cost per mille (CPM), or the cost per thousand impressions, [this diagram](https://www.statista.com/statistics/829439/cpm-facebook-advertising-campaigns-by-objective/) shows the cost of each objective:
 
-![Benefits of Facebook video ads - objectives diagram](/img/benefits-of-facebook-video-ads-objectives-diagram.jpg "benefits-of-facebook-video-ads-objectives-diagram")
+![Benefits of Facebook video ads - objectives diagram](/img/benefits-of-facebook-video-ads-objectives-diagram.jpg)
 
 So if you want Facebook users to recall your brand through video ads, you’ll get a double advantage. You’ll not only reach your target audience but also save money.
 
 ### Benefit 4. The Second Largest Audience After Google
 
-Always trust the numbers. Facebook is one of the most popular platforms for running video ads. Currently, this social media platform has over 2 billion monthly active users. For this reason, tens of thousands of companies run their advertising campaigns there.
+Always trust the numbers. Facebook is one of the most popular platforms for running [video ads](https://softcube.com/category/video-ads/). Currently, this social media platform has over 2 billion monthly active users. For this reason, tens of thousands of companies run their advertising campaigns there.
 
 ## 3 Best Practices of Facebook Video Ads Campaigns
 
@@ -82,7 +83,7 @@ Now that you know the major benefits of video ads on Facebook, let’s review su
 
 Thanks to Facebook video ads, [Baked NYC](https://bakednyc.com/), a New York City-based confectionery, increased their number of leads by 1.5 times.
 
-![Benefits of Facebook video ads - Baked NYC](/img/benefits-of-facebook-video-ads-baked-nyc.jpg "benefits-of-facebook-video-ads-baked-nyc")
+![Benefits of Facebook video ads - Baked NYC](/img/benefits-of-facebook-video-ads-baked-nyc.jpg)
 
 The company achieved this by taking advantage of a smartphone, tripod, lamp, and the [Facebook Mobile Studio](https://www.facebook.com/business/e/mobile_studio) tools. These tools allow you to create engaging video ads effectively. As a result, the bakery’s pie sales grew by 40%.
 
@@ -94,7 +95,7 @@ The company achieved this by taking advantage of a smartphone, tripod, lamp, and
 
 [Inspiralized](https://inspiralized.com/) is the heartland of healthy food. The company sells cookbooks in its shop, shares guides on how to cook vegetables, and promotes its unique cooking machine by creating video content. Video ads of the [Inspiralizer](https://inspiralized.com/the-inspiralizer/) (that’s what they call their product) on Instagram have increased the company’s click-through rate by 3.4 times.
 
-![Benefits of Facebook video ads - Inspiralizer](/img/benefits-of-facebook-video-ads-inspiralizer.jpg "benefits-of-facebook-video-ads-inspiralizer")
+![Benefits of Facebook video ads - Inspiralizer](/img/benefits-of-facebook-video-ads-inspiralizer.jpg)
 
 ## How to Create a Perfect Facebook Video Ad
 
