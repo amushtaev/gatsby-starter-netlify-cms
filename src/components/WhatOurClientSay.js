@@ -51,7 +51,7 @@ const WhatOurClientSay = () => {
       },
     },
   });
-
+//TODO
   const getVisibleCard = (index, length) => {
     switch (currentSlide) {
       case 0:

@@ -1,4 +1,5 @@
 ---
+focuskeyphrase: facebook ads case study
 templateKey: blog-post
 categories:
   - Case Study
@@ -6,15 +7,19 @@ categories-slug:
   - case-study
 title: "Getting Ahead with Facebook Ads: eCommerce Case Study"
 date: 2018-10-10T00:00:00.000Z
-description: Need modify desk.
+description: Want to know the benefits of Facebook video ads? Learn the
+  advantages of video advertisement on the world’s most popular social media
+  platform in our guide.
 featuredpost: false
 featuredimage: /img/facebook-ads-case-study-featured-image.jpg
 image: /img/facebook-ads-case-study-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - product ads
+  - video ads
+  - artificial intelligence
+seo_title: "Facebook Ads Case Study: 62% Better Performance of Dynamic Ads"
+focus_keyphrase: facebook ads case study
 seotitle: "Getting Ahead with Facebook Ads: eCommerce Case Study"
-focuskeyphrase: facebook ads case study
 ---
 <!--StartFragment-->
 
@@ -30,7 +35,7 @@ eCommerce Facebook ads help retailers to grow, but not all retailers run their a
 
 Allo is the [second largest online marketplace](https://allo.ua/) in Ukraine, with over 11 million monthly visitors. The company offers over 120,000 products in 1,400 categories including phones, headphones, mobile devices, electronics, products for kids, perfumes and cosmetics, automobile accessories, home decor, and sporting goods.
 
-![Facebook Ads Case Study - All Store](/img/facebook-ads-case-study-allo-store.jpg)
+![Facebook Ads Case Study - Allo store](/img/facebook-ads-case-study-allo-store.jpg "facebook-case-study-allo-store")
 
 However, Allo isn’t just an online store. Originally established as a cell phone retailer in 1998, today this brand has over 1,000 physical stores in 130 locations around Ukraine. Nearly 18% of Allo customers order items online to collect them from a local store.
 
@@ -44,11 +49,11 @@ After running hundreds of image ad remarketing campaigns on Facebook, Allo decid
 
 Videos ads are much harder to create and launch than image-based ads. Creating and launching a video ad consists of five major steps:
 
-1. 1. Create a video template.
-   2. Source product footage.
-   3. Compile and edit footage.
-   4. Render the video.
-   5. Set up and optimize a marketing campaign on Facebook.
+1. Create a video template.
+2. Source product footage.
+3. Compile and edit footage.
+4. Render the video.
+5. Set up and optimize a marketing campaign on Facebook.
 
 It takes a lot of time to produce one video. The trick is that businesses have to produce thousands of engaging videos to keep up with demand, make the most of each video ad campaign, and achieve the highest possible ROI.
 
@@ -81,19 +86,35 @@ Most of the examples you see below are ads for smartphones, which is one of the 
 
 ### Apple iPhone 7
 
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/724dfab95bd34e18904a8bd65f78e2b8.mp4"></video></figure>
+
 ### Huawei P20
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/8ffc5199d5d24a4ca9e76911c35cfb34.mp4"></video></figure>
 
 ### Apple iPhone 7 Plus
 
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/208b8f35d311472dbba9b47e1daf5a87.mp4"></video></figure>
+
 ### Xiaomi Mi A1
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/2249441f952e4a92a14a62d998cb376d.mp4"></video></figure>
 
 ### Apple iPhone XR
 
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/0acd1c483bf7454885110b248639e5d6.mp4"></video></figure>
+
 ### Xiaomi Mi TV 4A 32
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/0e613a8ef1fd4bde918be9f56ecb5c9b.mp4"></video></figure>
 
 ### Apple iPhone XS Max
 
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/863235b03b404ea38b8b13e8882bdfc5.mp4"></video></figure>
+
 ### JBL T450BT BLK Black
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/34154ba43ddb4022974393fb22bf1636.mp4"></video></figure>
 
 ### Samsung Galaxy A8 2018
 

@@ -1,24 +1,27 @@
 ---
+focuskeyphrase: benefits of facebook video ads
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
-title: 5 Powerful Benefits of Facebook Video Ads
-date: 2018-10-10
-description: Need modify desk.
+title: 4 Powerful Benefits of Facebook Video Ads
+date: 2018-10-10T00:00:00.000Z
+description: Want to know the benefits of Facebook video ads? Learn the
+  advantages of video advertisement on the world’s most popular social media
+  platform in our guide.
 featuredpost: false
 featuredimage: /img/benefits-of-facebook-video-ads-featured-image.jpg
 image: /img/benefits-of-facebook-video-ads-featured-image.jpg
-seotitle: How Can Video Ads Improve Your Performance on Facebook?
-focuskeyphrase: benefits of facebook video ads
 tags:
-  - brewing
-  - chemex
+  - video advertising
+  - video ad campaigns
+  - artificial intelligence
+seo_title: How Can Video Ads Improve Your Performance on Facebook?
+focus_keyphrase: benefits of facebook video ads
+seotitle: How Can Video Ads Improve Your Performance on Facebook?
 ---
 <!--StartFragment-->
-
-<script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
 
 Did you know that 80% of people remember what they see while only 20% remember what they read? Wyzowl has created an [infographic](https://www.wyzowl.com/infographic-the-power-of-visual-communication/) that perfectly illustrates this. You’ll barely recall this article in a few days. But a well-designed visual can sneak into your mind and stay there for a long time.
 
@@ -36,9 +39,9 @@ Compared to [text and images](https://softcube.com/facebook-video-ads-vs-image-a
 
 Here are some numbers for you according to a [report](https://www.wyzowl.com/video-marketing-statistics-2018/) by Wyzowl:
 
-- 68% of marketers have used video ads on Facebook
-- 87% of these marketers consider Facebook video ads to be effective
-- 81% of customers have bought a product after watching a brand’s video
+* 68% of marketers have used video ads on Facebook
+* 87% of these marketers consider Facebook video ads to be effective
+* 81% of customers have bought a product after watching a brand’s video
 
 One of the greatest advantages of Facebook video ads is that you can display them on extra placements. What are placements?
 
@@ -52,22 +55,22 @@ In addition to Facebook, video ads can be run on two other placements: Instagram
 
 Facebook recommends using [video advertisements](https://softcube.com/fifteen-best-product-video-ads/) for two promotional objectives: brand awareness and video views. However, there are other objectives you can also chase with video advertisement:
 
-- **Reach.** Display your ad to the largest possible audience.
-- **Traffic.** Lead people to your website or app.
-- **Messages.** Start conversations with leads in Messenger.
-- **Conversions****.** Get users to take a certain action on your website.
-- **Engagement.** Get users to engage with your video ad posts.
-- **Store visits.** Create video ads for multiple local stores.
-- **App installs.** Increase your app downloads.
-- **Lead generation.** Build interest in your business.
+* **Reach.** Display your ad to the largest possible audience.
+* **Traffic.** Lead people to your website or app.
+* **Messages.** Start conversations with leads in Messenger.
+* **Conversion.** Get users to take a certain action on your website.
+* **Engagement.** Get users to engage with your video ad posts.
+* **Store visits.** Create video ads for multiple local stores.
+* **App installs.** Increase your app downloads.
+* **Lead generation.** Build interest in your business.
 
 As of March 2018, brand awareness was the cheapest objective of Facebook ad campaigns worldwide. Based on average cost per mille (CPM), or the cost per thousand impressions, [this diagram](https://www.statista.com/statistics/829439/cpm-facebook-advertising-campaigns-by-objective/) shows the cost of each objective:
 
-![Benefits of Facebook video ads - objectives diagram](/img/benefits-of-facebook-video-ads-objectives-diagram.jpg)
+![Benefits of Facebook video ads - objectives diagram](/img/benefits-of-facebook-video-ads-objectives-diagram.jpg "benefits-of-facebook-video-ads-objectives-diagram")
 
 So if you want Facebook users to recall your brand through video ads, you’ll get a double advantage. You’ll not only reach your target audience but also save money.
 
-### Benefit 5. The Second Largest Audience After Google
+### Benefit 4. The Second Largest Audience After Google
 
 Always trust the numbers. Facebook is one of the most popular platforms for running video ads. Currently, this social media platform has over 2 billion monthly active users. For this reason, tens of thousands of companies run their advertising campaigns there.
 
@@ -79,7 +82,7 @@ Now that you know the major benefits of video ads on Facebook, let’s review su
 
 Thanks to Facebook video ads, [Baked NYC](https://bakednyc.com/), a New York City-based confectionery, increased their number of leads by 1.5 times.
 
-![Benefits of Facebook video ads - Baked NYC](/img/benefits-of-facebook-video-ads-baked-nyc.jpg)
+![Benefits of Facebook video ads - Baked NYC](/img/benefits-of-facebook-video-ads-baked-nyc.jpg "benefits-of-facebook-video-ads-baked-nyc")
 
 The company achieved this by taking advantage of a smartphone, tripod, lamp, and the [Facebook Mobile Studio](https://www.facebook.com/business/e/mobile_studio) tools. These tools allow you to create engaging video ads effectively. As a result, the bakery’s pie sales grew by 40%.
 
@@ -91,18 +94,18 @@ The company achieved this by taking advantage of a smartphone, tripod, lamp, and
 
 [Inspiralized](https://inspiralized.com/) is the heartland of healthy food. The company sells cookbooks in its shop, shares guides on how to cook vegetables, and promotes its unique cooking machine by creating video content. Video ads of the [Inspiralizer](https://inspiralized.com/the-inspiralizer/) (that’s what they call their product) on Instagram have increased the company’s click-through rate by 3.4 times.
 
-![Benefits of Facebook video ads - Inspiralizer](/img/benefits-of-facebook-video-ads-inspiralizer.jpg)
+![Benefits of Facebook video ads - Inspiralizer](/img/benefits-of-facebook-video-ads-inspiralizer.jpg "benefits-of-facebook-video-ads-inspiralizer")
 
 ## How to Create a Perfect Facebook Video Ad
 
 Facebook offers the following recommendations to capture maximum attention from leads:
 
-1. 1. Upload your videos directly to Facebook instead of linking to external videos.
-    2. Create mobile-friendly videos (over 50% of viewers come from mobile).
-    3. Consider making the length of your videos less than 15 seconds.
-    4. Mention your brand in your ads as soon as possible.
-    5. Include different visuals to make your videos catchy.
-    6. Add text and subtitles (over 85% of users watch video ads without sound).
+1. Upload your videos directly to Facebook instead of linking to external videos.
+2. Create mobile-friendly videos (over 50% of viewers come from mobile).
+3. Consider making the length of your videos less than 15 seconds.
+4. Mention your brand in your ads as soon as possible.
+5. Include different visuals to make your videos catchy.
+6. Add text and subtitles (over 85% of users watch video ads without sound).
 
 ## Awesome Facebook Video Ads Created by AI
 

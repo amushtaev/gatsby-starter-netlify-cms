@@ -50,7 +50,6 @@ export const IncludeContainerIndex = styled.div`
 export const KeenSlider = styled.div`
     display: flex;
     max-width: 1626px;
-    /*width: 1626px;*/
     overflow-y: visible;
     position: relative;
     user-select: none;

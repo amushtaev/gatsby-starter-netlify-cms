@@ -12,10 +12,10 @@ export const Features = {
 
 export const Comments = [
   {
-    author: 'Elizabeth Davis',
+    author: 'Epicentr K, Ukraine',
     text:
-      '“I tried video ads for the first time to promote my business and they performed better than my previous image ads. Thanks!”',
-    photo: '../img/ElizabethDavis.png',
+      '“Softcube provides us with stunning videos for various categories on our website. We highly recommend this platform!”',
+    photo: '../img/epicentrk.png',
   },
   {
     author: 'Agency',
@@ -37,40 +37,42 @@ export const Comments = [
     photo: '../img/ALLO.png',
   },
   {
-    author: 'Hanna Schmid',
+    author: 'Epicentr K, Ukraine',
     text:
-      "“Softcube video ads help me save time. I don't need to use various programs for creating ads anymore. It's amazing!”",
-    photo: '../img/HannaSchmid.png',
+      '“Softcube provides us with stunning videos for various categories on our website. We highly recommend this platform!”',
+    photo: '../img/epicentrk.png',
   },
   {
-    author: 'Dylan Pradas',
+    author: 'Agency',
     text:
-      '“Softcube video ads are so eye-catching! Video ads help me reach new customers with less effort”',
-    photo: '../img/DylanPradas.png',
+      "“Softcube is a great partner, supporting us with high-quality videos that boost our performance!\n" +
+      "SEM agency with over 750 Successful customers,  Germany”",
+    photo: '../img/Agency.png',
   },
   {
-    author: 'Elizabeth Davis',
+    author: 'Julieta Romero Gueto',
     text:
-      '“I tried video ads for the first time to promote my business and they performed better than my previous image ads. Thanks!”',
-    photo: '../img/ElizabethDavis.png',
+      "“It's easy to create eye-catching video ads using Softcube. Now we can scale our ad campaigns in a faster way.”",
+    photo: '../img/Julieta-Romero-Gueto.png',
   },
   {
-    author: 'Leon Becker',
+    author: 'ALLO, Ukraine',
     text:
-      '“The Softcube video library is the best way for me to make a lot of video ads in a few clicks!”',
-    photo: '../img/LeonBecker.png',
+      "“It's easy to create eye-catching video ads using Softcube. Now we can scale our ad campaigns in a faster way.”",
+    photo: '../img/ALLO.png',
   },
   {
-    author: 'Hanna Schmid',
+    author: 'Epicentr K, Ukraine',
     text:
-      "“Softcube video ads help me save time. I don't need to use various programs for creating ads anymore. It's amazing!”",
-    photo: '../img/HannaSchmid.png',
+      '“Softcube provides us with stunning videos for various categories on our website. We highly recommend this platform!”',
+    photo: '../img/epicentrk.png',
   },
   {
-    author: 'Dylan Pradas',
+    author: 'Agency',
     text:
-      '“Softcube video ads are so eye-catching! Video ads help me reach new customers with less effort”',
-    photo: '../img/DylanPradas.png',
+      "“Softcube is a great partner, supporting us with high-quality videos that boost our performance!\n" +
+      "SEM agency with over 750 Successful customers,  Germany”",
+    photo: '../img/Agency.png',
   },
 ];
 

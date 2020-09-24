@@ -46,6 +46,14 @@ export const BlogPostTemplate = ({
   const debouncedSearchTerm = useDebounce(search, 1500);
   const siteName = 'Softcube Blog';
 
+  const mouseOut = () => {
+    console.log("mouseOut")
+  };
+
+  const mouseOver = () => {
+    console.log("mouseOver")
+  };
+
   useEffect(() => {
     setRedirectTo(true);
   }, [debouncedSearchTerm]);
@@ -55,7 +63,10 @@ export const BlogPostTemplate = ({
       window.location.href = '/blog'
     }
   }
-  console.log(focuskeyphrase, "focuskeyphrase", seotitle)
+
+  useEffect(() => {
+
+  },[]);
 
   return (
     <section className='section Blog-Post' id={id}>
@@ -75,7 +86,7 @@ export const BlogPostTemplate = ({
       {/*<div className="snippet" dangerouslySetInnerHTML={{ __html: article.snippet }} />*/}
       <div
         className='index Blog'
-        itemscope itemType="http://schema.org/BlogPosting"
+        itemScope itemType="http://schema.org/BlogPosting"
       >
         <h1 className='h1-title' >
           SOFTCUBE BLOG

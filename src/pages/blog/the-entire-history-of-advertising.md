@@ -20,7 +20,7 @@ tags:
 
 In the beginning was the word… In the meantime, people discovered fire, started gathering fruits, nuts, and grasses, learned to hunt protein-rich animals, and created settlements near water to catch fish. Soon after that, the agricultural revolution happened and settlements turned into towns and cities where technological advancements expanded commerce, promoted competition, and gave birth to advertising. That’s how the civilized world emerged.
 
-https://giphy.com/gifs/reaction-3KVcFEmdDl9NYaFTtx
+<iframe src="https://giphy.com/embed/3KVcFEmdDl9NYaFTtx" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-3KVcFEmdDl9NYaFTtx">via GIPHY</a></p>
 
 This world keeps evolving, and advertising is evolving along with it. Nowadays, ads chase people everywhere, gaining as much power over human minds as fire, food, and technology. 
 

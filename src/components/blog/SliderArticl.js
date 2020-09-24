@@ -6,10 +6,13 @@ import { DarkRectangle, Dot, Dots, KeenSlider, Article} from "../pricing/styledC
 import ArrowRight from "../ArrowRight";
 import ArrowLeft from "../ArrowLeft";
 import { ShowMore } from '../pricing/styledComponents';
+import useWindowSize from '../Getscreen'
 
 const SliderArticl = (props) => {
   const [currentSlide, setCurrentSlide] = useState(0);
+  const windowSize = useWindowSize();
   const slidesPerView = 5;
+  const [opacities, setOpacities] = React.useState([]);
   const [sliderRef, slider] = useKeenSlider({
     initial: 0,
     slideChanged(s) {
@@ -20,12 +23,17 @@ const SliderArticl = (props) => {
     centered: false,
     loop: true,
     mode: 'snap',
+    duration: 1000,
     breakpoints: {
       '(min-width: 300px)': {
         slidesPerView: 1,
-        mode: 'free-snap',
-        centered: true,
-        loop: true,
+        mode: 'free',
+        centered: false,
+        loop: false,
+        move(s) {
+          const new_opacities = s.details().positions.map(slide => slide.portion);
+          setOpacities(new_opacities);
+        }
       },
       '(min-width: 520px)': {
         slidesPerView: 2,
@@ -84,8 +92,9 @@ const SliderArticl = (props) => {
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''} keen-slider__slide number-slide${index + 1}`}
                 noShadow={!isVisiblePost}
+                style={{ opacity: opacities[index] }}
               >
-                <DarkRectangle visible={!isVisiblePost} />
+                {windowSize.width > 780 ? <DarkRectangle visible={!isVisiblePost} /> : null}
                 <header className="header article BlogRoll">
                   {post.frontmatter.featuredimage ? (
                     <div className="featured-thumbnail">
@@ -96,7 +105,7 @@ const SliderArticl = (props) => {
                         <PreviewCompatibleImage
                           imageInfo={{
                             image: post.frontmatter.featuredimage,
-                            alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                            alt: `image for post ${post.frontmatter.title}`,
                             srcSet: post.frontmatter.featuredimage.childImageSharp.fluid.srcSet,
                           }}
                         />

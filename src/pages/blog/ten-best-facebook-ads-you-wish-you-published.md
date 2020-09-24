@@ -1,20 +1,28 @@
 ---
+focuskeyphrase: best facebook ad examples
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
 title: 10 Best Facebook Ads You Wish You Published
-date: 2018-10-09
-description: Need modify desk.
+date: 2018-10-09T00:00:00.000Z
+description: Need some advertising examples to promote your business on the most
+  popular social media platform? Get inspired by best Facebook ads in this
+  article.
 featuredpost: false
 featuredimage: /img/best-facebook-ads-featured-image-1.jpg
 image: /img/best-facebook-ads-featured-image-1.jpg
-seotitle: 10 Best Facebook Ad Examples That Drive Leads
-focuskeyphrase: best facebook ad examples
 tags:
-  - brewing
-  - chemex
+  - Apple
+  - Facebook ads
+  - image ads
+  - Instagram
+  - text ads
+  - video ads
+seo_title: 10 Best Facebook Ad Examples That Drive and Convert Leads
+focus_keyphrase: best facebook ad examples
+seotitle: 10 Best Facebook Ad Examples That Drive Leads
 ---
 <!--StartFragment-->
 
@@ -22,8 +30,8 @@ tags:
 
 There are two building blocks for any **[successful Facebook advertising](https://softcube.com/)** campaign:
 
-- an appropriate set of targeting options
-- a large collection of great Facebook ads
+* an appropriate set of targeting options
+* a large collection of great Facebook ads
 
 While setting up a Facebook campaign lies in following precise recommendations, creating great Facebook ads requires effort and creativity.
 
@@ -41,9 +49,9 @@ Each ad on Facebook has a specific structure. The basic components are a headlin
 
 The post body may vary depending on:
 
-- the [format of your ad](https://softcube.com/how-to-select-types-of-facebook-ads/) (text, video, image, carousel, collection);
-- where you place your ad (Facebook, Instagram, Messenger, Audience Network);
-- the objective of your ad (page likes, video views, website conversions, clicks to website).
+* the [format of your ad](https://softcube.com/how-to-select-types-of-facebook-ads/) (text, video, image, carousel, collection);
+* where you place your ad (Facebook, Instagram, Messenger, Audience Network);
+* the objective of your ad (page likes, video views, website conversions, clicks to website).
 
 Which elements should you pick to drive leads? Facebook will guide you automatically once you start to set up your campaign. Instead of thinking what you should pick, keep your focus on the content.
 
@@ -53,7 +61,7 @@ There are three ways to create great videos and images.
 
 Naturally, you can [take pictures and record videos](https://softcube.com/facebook-video-ads-vs-image-ads/) by yourself. The latest smartphones have cameras of very decent quality. But will you be able to direct, retouсh, and edit this content at the same level as big companies? That’s the real question.
 
-![Best Facebook ads - smartphone image](/img/best-facebook-ads-smartphone-image-1.jpg)
+![Best Facebook ads - smartphone image](/img/best-facebook-ads-smartphone-image-1.jpg "best-facebook-ads-smartphone-image")
 
 If you have doubts about producing your own videos, contacting professionals makes sense. You can share how you see your ads, an expert can advise you on how they see them, and together you can come up with something great. In this case, however, be ready to allocate a large budget.
 
@@ -89,7 +97,7 @@ You don’t have to be an owner of an iMac, MacBook, or other Apple product to s
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fapple%2Fvideos%2F1714027778708271%2F&amp;show_text=1&amp;width=476" width="476" height="612" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-Let’s be honest. You may not like Apple, but this video ad looks spectacular. Called _Apple’s big news in 108 seconds_, it demonstrates the company’s three latest devices and their features.
+Let’s be honest. You may not like Apple, but this video ad looks spectacular. Called *Apple’s big news in 108 seconds*, it demonstrates the company’s three latest devices and their features.
 
 In fact, this is what every successful video advertisement on Facebook should look be like: fast, informative, and vivid. The recipe is simple, don’t you agree? Designers combined animations with black, white, and image backgrounds peppered with changing text.
 
@@ -177,7 +185,7 @@ Any piano virtuosos here? Yamaha is one of the most popular digital piano and ke
 
 You might argue that text-based ads aren’t as [effective as image and video](https://softcube.com/creating-effective-facebook-ads/) alternatives. You’re generally right, but not if you want to advertise your YouTube channel as Yamaha did. Indeed, Facebook is a great platform to promote not only your website, online store, or app but also your profiles on other platforms.
 
-For text-based Facebook ads, it’s not recommended to use _selling_ words or phrases. Instead, feed your potential customers with useful information of any sort that relates to the link you’ve added to the sponsored post. If your lead discovers something new when they read your message, you’ll succeed!
+For text-based Facebook ads, it’s not recommended to use *selling* words or phrases. Instead, feed your potential customers with useful information of any sort that relates to the link you’ve added to the sponsored post. If your lead discovers something new when they read your message, you’ll succeed!
 
 **NOTE:** Text is no less important than any other kind of content in a Facebook ad of any type.
 
