@@ -20,7 +20,7 @@ tags:
 
 In the beginning was the word… In the meantime, people discovered fire, started gathering fruits, nuts, and grasses, learned to hunt protein-rich animals, and created settlements near water to catch fish. Soon after that, the agricultural revolution happened and settlements turned into towns and cities where technological advancements expanded commerce, promoted competition, and gave birth to advertising. That’s how the civilized world emerged.
 
-https://giphy.com/gifs/reaction-3KVcFEmdDl9NYaFTtx
+<iframe src="https://giphy.com/embed/3KVcFEmdDl9NYaFTtx" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 This world keeps evolving, and advertising is evolving along with it. Nowadays, ads chase people everywhere, gaining as much power over human minds as fire, food, and technology. 
 
@@ -34,7 +34,9 @@ If you take a look at any advertisement in the past and present, you’ll see th
 
 No one knows exactly when businesses began using advertising to distinguish themselves. What makes sense and what we know for sure is that early forms of advertising were verbal. In ancient markets, sellers shouted in order to advertise their products and services.
 
-https://www.youtube.com/watch?v=jmHG92lARUQ
+<figure class="youtube">
+  <iframe title="28314 Years Before Commercials" width="500" height="281" src="https://www.youtube.com/embed/jmHG92lARUQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</figure>
 
 After a while, stall owners realized that it’s more efficient to be quiet and nail down carved signs or flags that tell much more than any shouts and words. And things got rolling…
 
@@ -74,7 +76,7 @@ In the beginning of the Middle Ages, advertising hardly differed from ads in ant
 
 However, the rapid growth of the world’s population and the human passion for exploration made capitalism ascendant. All around the world, consumers became more educated and business owners started to make more money.
 
-https://giphy.com/gifs/OE4z9ulueu4PC
+<iframe src="https://giphy.com/embed/OE4z9ulueu4PC" width="480" height="188" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 In the second volume of his trilogy [_The Wheels of Commerce_](https://www.nytimes.com/1983/07/10/books/the-roots-of-modern-capitalism.html), French historian Fernand Braudel describes a dramatic transformation of economic life in London, Amsterdam, Venice, Lyons, Nuremberg, and many other cities: Shops became a new economic force, a specialized urban real estate market emerged, credit gained importance.
 
@@ -140,7 +142,7 @@ In the beginning of the 20th century, advertising was everywhere. And advertisin
 
 At the time when advertising was shaping into an industry worth millions of dollars, print advertising was about to face a new rival: the radio waves.
 
-https://giphy.com/gifs/LwxzFXEymTsf6
+<iframe src="https://giphy.com/embed/LwxzFXEymTsf6" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 The [first paid radio advertising](https://www.aaaa.org/timeline/) was aired on WEAF (WFAN) in New York on August 28, 1922. Since direct selling was prohibited, the ad was a 10-minute broadcast on the subject of a carefree life in the suburbs at the Hawthorne Court Apartments in Jackson Heights, Queens. The Queensboro Corporation paid WEAF $50 to run it.
 
@@ -150,7 +152,9 @@ In the 1920s, commercial radio stations became the major advertising medium for 
 
 After World War II, television became the major source for promoting products and services to the masses.
 
-https://www.youtube.com/watch?v=8JenAyMmZ68&feature=emb\_logo
+<figure class="youtube">
+  <iframe title="28314 Years Before Commercials" width="500" height="281" src="http://www.youtube.com/watch?v=8JenAyMmZ68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</figure>
 
 The [first television advertisement](https://www.youtube.com/watch?v=8JenAyMmZ68&feature=emb_logo) was aired on July 1, 1941, and lasted nearly ten seconds. Produced by the Biow Company, the video promoted a Bulova Watch. The message was “America runs on Bulova time.”
 
@@ -166,7 +170,7 @@ Professionals started thinking out big ideas, relying on psychology and big data
 
 The synergy of economics and science in advertising that began in the 1980s reached its peak in the 1990s with the emergence of the fourth major advertising medium: the World Wide Web.
 
-https://giphy.com/gifs/idH8hdCYBSThguUPnj
+<iframe src="https://giphy.com/embed/idH8hdCYBSThguUPnj" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 In the history of online advertising, the timeline includes numerous events.
 

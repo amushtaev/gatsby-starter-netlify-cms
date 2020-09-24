@@ -68,10 +68,9 @@ export const Comments = [
     photo: '../img/epicentrk.png',
   },
   {
-    author: 'Agency',
+    author: 'SEM agency with over 750 Successful customers,  Germany',
     text:
-      "“Softcube is a great partner, supporting us with high-quality videos that boost our performance!\n" +
-      "SEM agency with over 750 Successful customers,  Germany”",
+      "“Softcube is a great partner, supporting us with high-quality videos that boost our performance!”",
     photo: '../img/Agency.png',
   },
 ];
