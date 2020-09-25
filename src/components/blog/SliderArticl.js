@@ -11,29 +11,28 @@ import useWindowSize from '../Getscreen'
 const SliderArticl = (props) => {
   const [currentSlide, setCurrentSlide] = useState(0);
   const windowSize = useWindowSize();
-  const slidesPerView = 5;
-  const [opacities, setOpacities] = React.useState([]);
+  //const [opacities, setOpacities] = React.useState([]);
   const [sliderRef, slider] = useKeenSlider({
     initial: 0,
     slideChanged(s) {
       setCurrentSlide(s.details().relativeSlide);
     },
     spacing: 24,
-    slidesPerView: slidesPerView,
+    slidesPerView: 5,
     centered: false,
     loop: true,
     mode: 'snap',
-    duration: 1000,
+    //duration: 1000,
     breakpoints: {
       '(min-width: 300px)': {
         slidesPerView: 1,
-        mode: 'free',
+        mode: 'free-snap',
         centered: false,
         loop: false,
-        move(s) {
+        /*move(s) {
           const new_opacities = s.details().positions.map(slide => slide.portion);
           setOpacities(new_opacities);
-        }
+        }*/
       },
       '(min-width: 520px)': {
         slidesPerView: 2,
@@ -46,13 +45,14 @@ const SliderArticl = (props) => {
         mode: 'free-snap',
       },
       '(min-width: 1200px)': {
-        slidesPerView: slidesPerView,
+        slidesPerView: 5,
         mode: 'free-snap',
+        loop: true,
       },
     },
   });
 
-  const getVisibleCard = (index, lengthSlide) => {
+  const getVisibleCard = (index) => {
     switch (currentSlide) {
       case 0:
         return index === 1 || index === 2 || index === 3;
@@ -63,17 +63,9 @@ const SliderArticl = (props) => {
       case 3:
         return index === 4 || index === 5 || index === 6;
       case 4:
-        return index === 5 || index === 6 || index === 7;
+        return index === 5 || index === 6 || index === 0;
       case 5:
-        return index === 6 || index === 7 || index === 8;
-      case 6:
-        return index === 7 || index === 8 || index === 9;
-      case 7:
-        return index === 8 || index === 9 || index === 0;
-      case 8:
-        return index === 9 || index === 0 || index === 1;
-      case 9:
-        return index === 0 || index === 1 || index === 2;
+        return index === 6 || index === 0 || index === 1;
       default:
         return false;
     }
@@ -92,7 +84,7 @@ const SliderArticl = (props) => {
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''} keen-slider__slide number-slide${index + 1}`}
                 noShadow={!isVisiblePost}
-                style={{ opacity: opacities[index] }}
+                /*style={{ opacity: opacities[index] }}*/
               >
                 {windowSize.width > 780 ? <DarkRectangle visible={!isVisiblePost} /> : null}
                 <header className="header article BlogRoll">

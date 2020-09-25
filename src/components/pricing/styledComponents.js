@@ -50,7 +50,7 @@ export const IncludeContainerIndex = styled.div`
 export const KeenSlider = styled.div`
     display: flex;
     max-width: 1626px;
-    overflow-y: visible;
+    overflow: hidden;
     position: relative;
     user-select: none;
     -webkit-touch-callout: none;
@@ -123,7 +123,7 @@ export const Comment = styled.span`
 
 export const AuthorContainer = styled.div`
     height: 100px;
-    padding: 24px;
+    padding: 0 12px;
     box-sizing: border-box;
     text-align: left;
     display: grid;
@@ -139,6 +139,7 @@ export const AuthorPhoto = styled.div`
     border-radius: 50%;
     border: 1px solid rgba(255, 255, 255, 0.54);
     display: block;
+    margin: auto
 `;
 
 export const Author = styled.span`
@@ -146,8 +147,8 @@ export const Author = styled.span`
     font-family: Source Sans Pro;
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
-    line-height: 25px;
+    font-size: 19px;
+    line-height: 20px;
     text-align: center;
     color: rgba(255, 255, 255, 0.54);
     padding-left: 14px

@@ -35,6 +35,7 @@ class NavRoll extends React.Component {
 
   render() {
     const { data, active, isShowSearch } = this.props;
+    const refSlug = typeof window !== 'undefined' && window.location.href.indexOf('/page/') === -1;
 
     return (
       <nav
@@ -128,7 +129,9 @@ class NavRoll extends React.Component {
               ))}
             </ul>
           </div>
+          {refSlug ?
           <Search onSearch={this.props.onSearch} value={this.props.defaultSearch} isShowSearch={isShowSearch} />
+          : ""}
         </div>
       </nav>
     )

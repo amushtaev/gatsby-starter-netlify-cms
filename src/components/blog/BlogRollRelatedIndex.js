@@ -35,7 +35,7 @@ export default () => {
             frontmatter: { 
               templateKey: { eq: "blog-post" } 
             } 
-          }, limit: 10) {
+          }, limit: 6) {
           edges {
             node {
               excerpt(pruneLength: 400)
@@ -52,7 +52,7 @@ export default () => {
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 220, quality: 70) {
+                    fluid(maxWidth: 200, quality: 70) {
                       ...GatsbyImageSharpFluid
                     }
                   }
