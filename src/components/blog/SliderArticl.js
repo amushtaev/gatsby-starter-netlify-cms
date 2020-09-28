@@ -11,7 +11,7 @@ import useWindowSize from '../Getscreen'
 const SliderArticl = (props) => {
   const [currentSlide, setCurrentSlide] = useState(0);
   const windowSize = useWindowSize();
-  //const [opacities, setOpacities] = React.useState([]);
+  /*const [opacities, setOpacities] = React.useState([]);*/
   const [sliderRef, slider] = useKeenSlider({
     initial: 0,
     slideChanged(s) {
@@ -70,6 +70,7 @@ const SliderArticl = (props) => {
         return false;
     }
   };
+
   return (
     <>
       <section className='section index'>
@@ -83,7 +84,7 @@ const SliderArticl = (props) => {
                 key={`${post.id}:blogRoll:${index + 1}`}
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''} keen-slider__slide number-slide${index + 1}`}
-                noShadow={!isVisiblePost}
+                noShadow={windowSize.width > 780 ? !isVisiblePost : false}
                 /*style={{ opacity: opacities[index] }}*/
               >
                 {windowSize.width > 780 ? <DarkRectangle visible={!isVisiblePost} /> : null}

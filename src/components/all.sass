@@ -1135,6 +1135,9 @@ footer section.menu
     margin: auto
     padding: inherit
 
+  iframe
+    width: 100%
+
 @media (min-width: 568px) and (max-width: 780px)
   .BlogPaginationPosts
     width: 100%
@@ -1151,6 +1154,16 @@ footer section.menu
 
   .IncludeContainer
     width: 334px
+
+@media (min-width: 300px) and (max-width: 780px)
+  .post_column iframe
+    width: 100% !important
+
+  .post_column .giphy-embed
+    width: 100% !important
+
+.is-for-mobile iframe
+  width: 100% !important
 
 @import "~bulma"
 
@@ -1421,7 +1434,7 @@ footer section.menu
 
   .articl-footer, .articl-footer_related
     display: grid
-    grid-template-columns: 1fr 1fr
+    grid-template-columns: 1fr 40px
     width: 91%
     padding-bottom: 14px
 
@@ -2047,3 +2060,12 @@ footer section.menu
 
   .secondAccordion
     margin-top: 24px
+
+  .tile.is-child
+    margin: 0 24px !important
+
+  iframe, .giphy-embed, .iframe-video
+    width: 100% !important
+    height: auto
+    overflow-x: hidden
+    overflow-y: hidden

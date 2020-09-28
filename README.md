@@ -136,9 +136,17 @@ please read the [code of conduct](CODE_OF_CONDUCT.md).
 
 
 ```html
+
 <figure class="wp-block-video aligncenter">
     <video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/34154ba43ddb4022974393fb22bf1636.mp4"></video>
 </figure>
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="https://video.softcube.com/media/5abaef956b187ea16c0387cefdb19eb4.mp4" type="video/mp4">
+  </video>
+</figure>
+
 ```
 
 ```html
