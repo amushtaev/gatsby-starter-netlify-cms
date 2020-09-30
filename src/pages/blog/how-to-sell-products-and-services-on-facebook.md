@@ -7,9 +7,7 @@ categories-slug:
   - tutorials
 title: How to Sell Products and Services on Facebook
 date: 2019-05-11T00:00:00.000Z
-description: Want to promote your products and services on the world’s number
-  one social network? Learn how to sell on Facebook using ten simple
-  recommendations.
+description:
 featuredpost: false
 featuredimage: /img/how-to-sell-products-on-facebook-featured-image.jpg
 image: /img/how-to-sell-products-on-facebook-featured-image.jpg
@@ -20,7 +18,7 @@ tags:
   - Lookalike Audiences
   - Messenger
 seo_title: What’s the Best Way to Sell Products on Facebook?
-metadescription: 
+metadescription: Want to promote your products and services on the world’s number one social network? Learn how to sell on Facebook using ten simple recommendations.
 focus_keyphrase: how to sell on facebook
 seotitle: What’s the Best Way to Sell Products on Facebook?
 ---
@@ -38,7 +36,7 @@ Searching for the best strategy will give you lots of experience that will help 
 
 A Facebook ad campaign is like a journey to Mars. We know how it works in theory, don’t we?
 
-https://imgur.com/ARxWY48
+<iframe src="https://giphy.com/embed/1gCWGWkZZHE7QbbzLk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Once launched, an ad campaign can’t be canceled. Well, it can be canceled, but it’d be a waste of time and effort in that case.  
 

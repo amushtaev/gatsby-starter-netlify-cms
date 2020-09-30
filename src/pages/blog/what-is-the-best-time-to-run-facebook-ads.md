@@ -30,7 +30,7 @@ According to The Verge Tech Survey 2020, almost [10% of people](https://www.thev
 
 The right ads delivered to the right people at the right time do magic and make people (and the Facebook team) happier, even if these people don’t like seeing ads.
 
-<iframe src="https://giphy.com/embed/3og0ILJig6zIu1hRVm" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/3og0ILJig6zIu1hRVm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 But if something is wrong with this formula, happiness gives way to annoyance, which eventually pushes people away and reduces the number of active Facebook users.
 
@@ -124,3 +124,11 @@ Third, you should experiment with your ads on an ongoing basis after examining y
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/7d079d8647803412528a3f2f3ccbe10d.mp4"></video></figure>
 
 And don’t forget that you can use [artificial intelligence to make video ads](https://softcube.com/) for your tests. That way you’ll get a greater return on your investments from the beginning. Good luck!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

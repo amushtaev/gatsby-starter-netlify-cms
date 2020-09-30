@@ -7,9 +7,7 @@ categories-slug:
   - tutorials
 title: How to Hire a Social Media Marketing Expert
 date: 2019-09-04T00:00:00.000Z
-description: Are you ready to give a boost to your social media marketing
-  strategy? Hire a social media marketing expert with insightful tips and get
-  set to succeed.
+description:
 featuredpost: false
 featuredimage: /img/social-media-marketing-expert-featured-image.jpg
 image: /img/social-media-marketing-expert-featured-image.jpg
@@ -19,7 +17,7 @@ tags:
   - social media
   - social media advertising
 seo_title: What to Look For When Hiring a Social Media Marketing Expert
-metadescription: 
+metadescription: Are you ready to give a boost to your social media marketing strategy? Hire a social media marketing expert with insightful tips and get set to succeed.
 focus_keyphrase: social media marketing expert
 seotitle: What to Look For When Hiring a Social Media Marketing Expert
 ---
@@ -31,7 +29,7 @@ This means that you should be marketing your business on social media to reach t
 
 To create the most effective social media strategy, you'll then need to find the right expert. Here are some tips on what to look for when hiring a social media marketing expert to make it all a little easier.
 
-## **1\. Their Area of Expertise**
+## 1\. Their Area of Expertise
 
 There are several different kinds of [social media such as Facebook](https://softcube.com/creating-effective-facebook-ads/), Instagram, Twitter, Reddit, and Pinterest to name a few.
 
@@ -79,7 +77,7 @@ Finding a seasoned marketer also means tapping into a larger potential audience.
 
 Still, a new marketer could be a great fit as well. A good way to get a better understanding of your marketer whether seasoned or new is to take a look at their reviews.
 
-## 4\. **Reviews and Portfolio**
+## 4\. Reviews and Portfolio
 
 Don’t just take their word for how good they are. Take a look through their reviews to see what other clients have said about them. Seeing multiple high reviews is an easy way to get an insight about their past work.
 
@@ -89,7 +87,7 @@ You should also take a look through their portfolio. This gives you a great look
 
 Their portfolio also gives you a look at their process and how they do the things they do so you’ll have a better idea if they’ll be a good fit.  
 
-## 5\. ** Find a Critical Thinker**
+## 5\. Find a Critical Thinker
 
 A good marketer is able to analyze, test, and balance new strategies and hypotheses with proven strategies.
 

@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: 11 Essential Facebook Ad Metrics You Must Use
 date: 2019-08-16T00:00:00.000Z
-description: Read everything about monitoring the performance of your Facebook
-  ads. Find the key Facebook ad metrics to measure results in the most effective
-  way.
+description:
 featuredpost: false
 featuredimage: /img/facebook-ad-metrics-featured-image.jpg
 image: /img/facebook-ad-metrics-featured-image.jpg
@@ -26,9 +24,9 @@ tags:
   - Relevance Score
   - Result Rate
 seo_title: 11 Facebook Ad Metrics That Make the Difference in Marketing
-metadescription: 
+metadescription: Read everything about monitoring the performance of your Facebook ads. Find the key Facebook ad metrics to measure results in the most effective way.
 focus_keyphrase: facebook ad metrics
-seotitle: 11 Essential Facebook Ad Metrics You Must Use
+seotitle: 11 Facebook Ad Metrics That Make the Difference in Marketing
 ---
 <!--StartFragment-->
 
@@ -46,7 +44,7 @@ This makes competition among companies in all industries fiercer than ever. The 
 
 Advertising on Facebook – like on any other platform – is all about results.
 
-<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/kEuC3j5TU1l27YjzVC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/marketing-roi-return-on-investment-kEuC3j5TU1l27YjzVC">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/kEuC3j5TU1l27YjzVC" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Measuring results gives you a better understanding of how good you are at launching your [current ad campaigns](https://softcube.com/facebook-ad-best-practices-for-2019/) and sheds light on what you can do to improve the outcome for future ad strategies.
 
@@ -297,4 +295,4 @@ Facebook ads monitoring is crucial for getting a holistic view of marketing acti
 
 Facebook provides advertisers with dozens of metrics for measuring the performance of ads, ad sets, and ad campaigns. Metrics are easy to use and easy to set up.
 
-If you want to get positive results from your video ads, don’t hesitate to [Softcube artificial intelligence](http://softcube.com) right now.
+If you want to get positive results from your video ads, don’t hesitate to [Softcube artificial intelligence](https://softcube.com) right now.

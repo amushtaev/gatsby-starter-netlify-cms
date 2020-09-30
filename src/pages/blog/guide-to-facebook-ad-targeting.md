@@ -7,8 +7,7 @@ categories-slug:
   - tutorials
 title: How to Hit the Mark with Facebook Ad Targeting
 date: 2019-04-12T00:00:00.000Z
-description: If you run or promote an online business, you already know
-  effective Facebook ad targeting strategies. You just don’t think you do.
+description:
 featuredpost: false
 featuredimage: /img/facebook-ad-targeting-featured-picture.jpg
 image: /img/facebook-ad-targeting-featured-picture.jpg
@@ -19,7 +18,7 @@ tags:
   - Google Ads
   - Lookalike Audience
 seo_title: 7 Powerful Facebook Ad Targeting Strategies That Work
-metadescription: 
+metadescription: If you run or promote an online business, you already know effective Facebook ad targeting strategies. You just don’t think you do.
 focus_keyphrase: facebook ad targeting
 seotitle: 7 Powerful Facebook Ad Targeting Strategies That Work
 ---
@@ -31,7 +30,9 @@ Naturally, [mobile video advertising](https://www.facebook.com/business/ads/vide
 
 ![Facebook ad targeting — mobile video data](/img/facebook-ad-targeting-mobile-video-data.jpg)
 
-We at Softcube are happy to be part of this. [**AI-generated video ads**](https://softcube.com/) are helping online businesses convert their customers much faster and are bringing the video advertising future much closer.  
+We at Softcube are happy to be part of this. [**AI-generated video ads**](https://softcube.com/) are helping online businesses convert their customers much faster and are bringing the video advertising future much closer.
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/7d079d8647803412528a3f2f3ccbe10d.mp4"></video></figure>
 
 The cool thing is that there are not only lots of ways to promote your products and services (or even non-commercial initiatives) but also lots of ways to target people with your ads on Facebook.
 
@@ -39,7 +40,7 @@ The cool thing is that there are not only lots of ways to promote your products 
 
 You know your audience pretty well, don’t you?
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dSdvPrKU0w8WGo4c9L" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/someone-facebook-data-dSdvPrKU0w8WGo4c9L">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/dSdvPrKU0w8WGo4c9L" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Then you already know how to use Facebook ad targeting.  
 
@@ -115,10 +116,10 @@ If you’re already running your ads on multiple marketing channels to spread yo
 
 1. **Facebook**. Feed, instant articles, in-stream videos, marketplace, stories
 2. **Instagram**. Feed, stories
-3. **Audience Network**. Native, banner and interstitial, in-stream videos, rewarded videos
+3. **[Audience Network](https://softcube.com/facebook-audience-network-complete-guide/)**. Native, banner and interstitial, in-stream videos, rewarded videos
 4. **Messenger**. Inbox, sponsored messages
 
-By targeting users on a few placements simultaneously, you make your ads more memorable and give the ad delivery system more space for action. Let’s explain.  
+By targeting users on a [few placements](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/) simultaneously, you make your ads more memorable and give the ad delivery system more space for action. Let’s explain.  
 
 There are two ways you can pick placements: manually and automatically.  
 
@@ -240,6 +241,6 @@ Audience Insights is perfect for getting acquainted with new leads and convertin
 
 Talking of ad formats, don’t forget about video ads, which work well for any audience. Just like Dynamic Ads, you can make them automatically using artificial intelligence.  
 
-You’re welcome to test our [AI platform](http://softcube.com) to highlight your products in the best possible way. No editing and rendering. Pure automation.
+You’re welcome to test our [AI platform](https://softcube.com) to highlight your products in the best possible way. No editing and rendering. Pure automation.
 
 That’s it for our complete guide to Facebook ad targeting. Happy hunting!

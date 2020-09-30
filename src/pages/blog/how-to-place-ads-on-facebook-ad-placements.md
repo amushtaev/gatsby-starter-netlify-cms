@@ -166,6 +166,6 @@ Facebook Blueprint is an online training program designed to fill the gaps in yo
 
 ## Place AI-Produced Video Ads on Facebook Platforms
 
-Now that you know how to place your ads and find the best Facebook ad placements, we’ll be glad to help you even more with your marketing across Facebook, Instagram, Messenger, and the Audience Network the [Softcube artificial intelligence](http://softcube.com). You can test it to automate your marketing!
+Now that you know how to place your ads and find the best Facebook ad placements, we’ll be glad to help you even more with your marketing across Facebook, Instagram, Messenger, and the Audience Network the [Softcube artificial intelligence](https://softcube.com). You can test it to automate your marketing!
 
 Good luck, and have fun with your placements in Ads Manager!

@@ -94,14 +94,14 @@ The third use case is for adding standard events without adding pixel event code
 If you choose this option, you’ll let Facebook register all visits to all webpages. But keep in mind that Facebook won’t tell you which event has happened and where exactly it has happened.
 
 The fourth purpose is to let you share individual custom conversions with your team or partners instead of sharing your entire pixel event data.  
-You can create up to 100 custom conversions per ad account, but you can’t use them with [Dynamic Ads](http://softcube.com/facebook-dynamic-product-ads/).
+You can create up to 100 custom conversions per ad account, but you can’t use them with [Dynamic Ads](https://softcube.com/facebook-dynamic-product-ads/).
 
 ## How to Set Up Facebook Pixel Events Code
 
 To set up code for Facebook pixel events, first of all, read these recommendations. They’ll help you use your code properly no matter which type of event you take advantage of:
 
 - Add the code snippet of every event and its parameters as they are. Otherwise, your event won’t work or Facebook will log it as an event of another type.
-- Set the [value and currency](http://facebook.com/business/help/392174274295227?id=1205376682832142) for events that are related to purchasing products or services.
+- Set the [value and currency](https://facebook.com/business/help/392174274295227?id=1205376682832142) for events that are related to purchasing products or services.
 - Add events in a way that allows you to cover your entire sales or marketing funnel to let Facebook pixel fully understand your customers’ behavior. The event chain example is page view, view category, view content, add to cart, purchase, etc.
 
 Now let’s find out how you can set up events for Facebook pixel and review the installation  process type by type.
@@ -152,7 +152,7 @@ After you see the entire Facebook pixel events list and create your standard or 
 
 ![Facebook pixel events — tools](/img/facebook-pixel-events-tools.jpg)
 
-And if you want to get high conversion rates with Facebook ads, try [Softcube artificial intelligence](http://softcube.com).
+And if you want to get high conversion rates with Facebook ads, try [Softcube artificial intelligence](https://softcube.com).
 
 The Softcube platform will help you achieve a higher return on investment by producing high-quality video ads automatically, at scale, and for the same money as image ads.
 

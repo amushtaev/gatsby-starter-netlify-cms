@@ -7,17 +7,14 @@ categories-slug:
   - tutorials
 title: 5 Tips to Boost Conversions with Email Automation
 date: 2019-07-12T00:00:00.000Z
-description: Learn how to become an email automation professional. Read a few
-  recommendations to make emails to your customers more attractive and
-  informative.
+description:
 featuredpost: false
 featuredimage: /img/email-automation-featured-image.jpg
 image: /img/email-automation-featured-image.jpg
 tags:
   - email marketing
-  - ""
 seo_title: 5 Tips to Use Email Automation to Improve Conversion Rates
-metadescription: 
+metadescription: Learn how to become an email automation professional. Read a few recommendations to make emails to your customers more attractive and informative.
 focus_keyphrase: email automation
 seotitle: 5 Tips to Use Email Automation to Improve Conversion Rates
 ---

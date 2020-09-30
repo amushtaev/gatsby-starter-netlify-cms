@@ -95,4 +95,4 @@ The [same survey](https://www.statista.com/statistics/275788/share-of-facebook-u
 
 To promote a Facebook Page, you should post a lot of diverse video content all the time. And remember to make your videos with mobile in mind, as [75% of worldwide video](https://www.facebook.com/business/news/insights/how-to-maximize-the-impact-of-mobile-video) is viewed on mobile devices according to eMarketer.
 
-If you have products or services that you want to boost with video, save your ad budget with the [Softcube artificial intelligence platform](http://softcube.com). It will help you make high-quality video content at scale and for the cost of image ads.
+If you have products or services that you want to boost with video, save your ad budget with the [Softcube artificial intelligence platform](https://softcube.com). It will help you make high-quality video content at scale and for the cost of image ads.

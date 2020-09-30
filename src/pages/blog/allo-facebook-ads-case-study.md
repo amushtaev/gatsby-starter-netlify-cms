@@ -7,9 +7,7 @@ categories-slug:
   - case-study
 title: "Getting Ahead with Facebook Ads: eCommerce Case Study"
 date: 2018-10-10T00:00:00.000Z
-description: Want to know the benefits of Facebook video ads? Learn the
-  advantages of video advertisement on the world’s most popular social media
-  platform in our guide.
+description:
 featuredpost: false
 featuredimage: /img/facebook-ads-case-study-featured-image.jpg
 image: /img/facebook-ads-case-study-featured-image.jpg
@@ -18,9 +16,9 @@ tags:
   - video ads
   - artificial intelligence
 seo_title: "Facebook Ads Case Study: 62% Better Performance of Dynamic Ads"
-metadescription: Today, companies have to create compelling content and promote it on digital ad channels like Facebook. Creating content is a 100% winning strategy.
+metadescription: Want to know the benefits of Facebook video ads? Learn the advantages of video advertisement on the world’s most popular social media platform in our guide.
 focus_keyphrase: facebook ads case study
-seotitle: "Getting Ahead with Facebook Ads: eCommerce Case Study"
+seotitle: "Facebook Ads Case Study: 62% Better Performance of Dynamic Ads"
 ---
 <!--StartFragment-->
 
@@ -119,6 +117,8 @@ Most of the examples you see below are ads for smartphones, which is one of the 
 
 ### Samsung Galaxy A8 2018
 
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/ccc86dfd06584d2dbe56129063438d1b.mp4"></video></figure>
+
 ## Allo and Softcube Partnership: What's the Outcome?
 
 Allo is still working with Softcube to achieve its advertising objectives on the world’s top social media platform. This collaboration has already increased Allo's retail conversions.
@@ -127,4 +127,4 @@ Results show that video ads produced by Softcube achieve a 2.7 times higher conv
 
 Video ads have not only improved Allo’s conversion rate but have also significantly decreased ad expenses. The new optimized campaigns have reduced conversion costs by 2.6 times.
 
-We hope our Facebook ads eCommerce case study was helpful to you. If you'd like to know how the [Softcube artificial intelligence](http://softcube.com) works, you're welcome to test it by yourself.
+We hope our Facebook ads eCommerce case study was helpful to you. If you'd like to know how the [Softcube artificial intelligence](https://softcube.com) works, you're welcome to test it by yourself.

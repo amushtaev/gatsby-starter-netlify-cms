@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: The Beginner's Guide to Facebook Sponsored Ads
 date: 2019-12-19T00:00:00.000Z
-description: Discover what Facebook sponsored ads are and read a few
-  recommendations on how to launch them in order to make your ad campaign truly
-  successful.
+description:
 featuredpost: false
 featuredimage: /img/facebook-sponsored-ads-featured-image.jpg
 image: /img/facebook-sponsored-ads-featured-image.jpg
@@ -18,9 +16,8 @@ tags:
   - Business Page
   - Custom Audiences
   - Facebook Pixel
-  - ""
 seo_title: The Beginner's Guide to Facebook Sponsored Ads
-metadescription: 
+metadescription: Discover what Facebook sponsored ads are and read a few recommendations on how to launch them in order to make your ad campaign truly successful.
 focus_keyphrase: facebook sponsored ads
 seotitle: The Beginner's Guide to Facebook Sponsored Ads
 ---
@@ -153,14 +150,12 @@ Launching Facebook sponsored video ads has a lot of advantages. Video content al
 * Provide more details about the offer than static ads can
 * Have a more powerful effect on customers’ buying decisions
 
-Want to get **[10 FREE video ads](https://softcube.com/get-ten-ads/)** made by artificial intelligence now?
-
 ## Launch Sponsored Ads on Facebook Now
 
 Now you know everything about Facebook sponsored ads — even how to view Facebook sponsored ads in one click.
 
 Follow the latest trends in Facebook marketing and ad quality standards, check how your ads perform, take advantage of the benefits of video content, allocate your ad budget, choose your target audiences wisely, and don’t forget to test your sponsored ads.
 
-And keep in mind you can make your sponsored ads automatically with [Softcube artificial intelligence](http://softcube.com),
+And keep in mind you can make your sponsored ads automatically with [Softcube artificial intelligence](https://softcube.com),
 
 Good luck!

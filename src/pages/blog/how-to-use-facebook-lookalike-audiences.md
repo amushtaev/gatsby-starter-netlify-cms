@@ -144,4 +144,4 @@ Lookalike Audience targeting on Facebook is one of the best techniques your busi
 
 And do you know what people from Facebook Lookalike Audiences like the most? They adore attractive video ads. 
 
-We’ve launched thousands of Facebook video ads made by [artificial intelligence](http://softcube.com) for numerous Lookalike ad campaigns, and they’ve worked great.
+We’ve launched thousands of Facebook video ads made by [artificial intelligence](https://softcube.com) for numerous Lookalike ad campaigns, and they’ve worked great.

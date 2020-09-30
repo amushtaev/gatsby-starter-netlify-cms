@@ -7,8 +7,7 @@ categories-slug:
   - tutorials
 title: How to Use Facebook Business Manager
 date: 2018-10-26T00:00:00.000Z
-description: Learn how to create, customize, and delete a Facebook Business
-  Manager account and start using ads to promote your business.
+description:
 featuredpost: false
 featuredimage: /img/how-to-use-facebook-business-manager-featured-image.jpg
 image: /img/how-to-use-facebook-business-manager-featured-image.jpg
@@ -20,7 +19,7 @@ tags:
   - Creative Hub
   - Facebook placements
 seo_title: How to Use Facebook Business Manager [Guide + Best Practices]
-metadescription: 
+metadescription: Learn how to create, customize, and delete a Facebook Business Manager account and start using ads to promote your business.
 focus_keyphrase: how to use facebook business manager
 seotitle: How to Use Facebook Business Manager [Guide + Best Practices]
 ---
@@ -272,4 +271,4 @@ If you’re still hesitating about using Facebook as an advertising platform, yo
 
 If you do everything right, it will certainly be worth it. Now that you know how to use Facebook Business Manager, you’re free to start your journey through the deep advertising forest by creating your own FBM account.
 
-And if you plan to promote your business with Facebook video ads, you're welcome to try our artificial intelligence, which allows producing video ads for the image-sized budget. Interested? Try [Softcube artificial intelligence](http://softcube.com) for your Facebook video campaign right now.
+And if you plan to promote your business with Facebook video ads, you're welcome to try our artificial intelligence, which allows producing video ads for the image-sized budget. Interested? Try [Softcube artificial intelligence](https://softcube.com) for your Facebook video campaign right now.

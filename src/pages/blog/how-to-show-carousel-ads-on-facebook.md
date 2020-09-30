@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: How to Make Carousel Ads on Facebook
 date: 2018-12-07T00:00:00.000Z
-description: Learn a few simple tips about Facebook Carousel Ads and check out a
-  few great ad examples to make engaging video and image carousels for your
-  audience.
+description:
 featuredpost: false
 featuredimage: /img/facebook-carousel-ads-featured-image.jpg
 image: /img/facebook-carousel-ads-featured-image.jpg
@@ -18,7 +16,7 @@ tags:
   - image ads
   - video ads
 seo_title: Best Practices of Using Facebook Carousel Ads for Increasing ROI
-metadescription: 
+metadescription: Learn a few simple tips about Facebook Carousel Ads and check out a few great ad examples to make engaging video and image carousels for your audience.
 focus_keyphrase: facebook carousel ads
 seotitle: Best Practices of Using Facebook Carousel Ads for Increasing ROI
 ---
@@ -39,7 +37,7 @@ Why use Facebook Carousel Ads? There are a few reasons. With Carousel Ads, you c
 * **Engage users with a story.** Add images and videos in a row to come up with an interesting narration.
 * **Give a step-by-step tour.** Guide users through any process concerning your product or service.
 * **Exhibit a large canvas.** Divide one wide image (like a panoramic photo) into several scenes.
-    
+  
 * **Display the advantages.** Show why it’s worth it to become your customer.
 
 It’s not hard to find a use for Carousel Ads. Just think why your business, project, or company is unique and stress this uniqueness using a Carousel.
@@ -108,7 +106,7 @@ Here’s the same process but through Ads Manager:
 
 Here are some tips and tricks that will help you to convert leads into customers and increase your ROI using Carousel Ads on Facebook.
 
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/3oz8xUoZC8D0J2Grss" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tom-hanks-youve-got-mail-merry-go-round-3oz8xUoZC8D0J2Grss">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3oz8xUoZC8D0J2Grss?video=0" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### Take Advantage of All Ad Elements
 
@@ -138,7 +136,7 @@ Now it’s time for inspiration. Below are some of the best Facebook Carousel Ad
 
 Criminal Case is a detective game originally developed for Facebook and later adapted for iOS and Android. The goal of the game is to find objects. In this example, you’re asked to find a hairdryer.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCriminalCaseGame%2Fposts%2F1052576951561462&amp;width=500" width="500" height="513" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCriminalCaseGame%2Fposts%2F1052576951561462&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" align="center"></iframe>
 
 Of course, it takes less than two minutes to find it, but this ad from Criminal Case is really stunning. Not because of the complete mess in the bathroom but because of how the ad was produced.
 
@@ -148,13 +146,13 @@ The ad contains three cards that tell a single story and lead to the download li
 
 This ad, made by one of the world’s most famous coffee brands, is one of the best examples of video Carousel Ads on Facebook. The video novel consists of three parts, each less than ten seconds long. By means of a short story, Carte Noire demonstrates its new product collection.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" frameborder="0" scrolling="no" align="center"></iframe>
 
 ### Coca-Cola
 
 Coca-Cola has launched hundreds of diverse marketing campaigns over the years. In 2015, one of them was devoted to promoting a GIF creation service called GIFthefeeling.com. Unfortunately, the website isn’t available today, but we’ll remember it thanks to the Facebook ad you see below.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCocaColaUnitedStates%2Fposts%2F1159323160767063&amp;width=500" width="500" height="538" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCocaColaUnitedStates%2Fposts%2F1159323160767063&amp;width=500" width="500" height="538" frameborder="0" scrolling="no" align="center"></iframe>
 
 To promote their GIF service, Coca-Cola resorted to a trick. Since Facebook Carousel Ads don’t support GIFs, the company published them in the form of videos. The ad includes five cheerful cards to inspire creators who like one of the most consumed beverages in the world.
 
@@ -170,7 +168,7 @@ Because the result turned out to be amazing. We bet the fans who waited for a lo
 
 Mad Max is probably the world’s most popular post-apocalyptic movie ever. Released in 2015, Mad Max: Fury Road became the fourth film in the franchise and collected over $370 million around the world.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMadMaxMovieUK%2Fposts%2F1163234180358590&amp;width=500" width="500" height="513" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMadMaxMovieUK%2Fposts%2F1163234180358590&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" align="center"></iframe>
 
 If you take a look at the movie’s official Facebook Page, you’ll see many posts that promote it. One of them is a Carousel Ad with four image cards dedicated to the release of four editions — Blu-ray, 3D Blu-ray, a four-disc anthology, and DVD.
 
@@ -178,10 +176,10 @@ If you take a look at the movie’s official Facebook Page, you’ll see many po
 
 Today, every internet user has their own needs. Some play video games, some work online, some spend their time on social media. In every case, the number of gigabytes used is different. That’s why Verizon compared its plans with dog breeds to help their customers find the ideal size.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fverizon%2Fposts%2F10155892979010123&amp;width=500" width="500" height="513" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fverizon%2Fposts%2F10155892979010123&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" align="center"></iframe>
 
 ## Have Fun With Your Carousels
 
 That’s it. We hope you now know how to make the most attractive and effective Carousel Ads. We’ve told you everything about Facebook Carousel Ad specs, shared best practices, and shown examples of a few great ads.
 
-If you plan to create Carousel video ads, you can test our [artificial intelligence](http://softcube.com) for your Facebook Carousel right now.
+If you plan to create Carousel video ads, you can test our [artificial intelligence](https://softcube.com) for your Facebook Carousel right now.

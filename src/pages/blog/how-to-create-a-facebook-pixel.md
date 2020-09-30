@@ -140,6 +140,6 @@ After you learn how to create a pixel on Facebook, read [this developer’s guid
 
 ## Use Facebook Pixel to Track Video Ads Made by AI
 
-Now that you know how to make a Facebook pixel your right hand helper in managing your Facebook marketing as well as which tools you need to work with it smoothly, don’t hesitate to test [Softcube artificial intelligence](http://softcube.com/) to create high-quality video ads for an image-sized ad budget.
+Now that you know how to make a Facebook pixel your right hand helper in managing your Facebook marketing as well as which tools you need to work with it smoothly, don’t hesitate to test [Softcube artificial intelligence](https://softcube.com/) to create high-quality video ads for an image-sized ad budget.
 
 Soon after you launch AI-produced video ads, your Facebook pixel will show you how they boost your conversions. Good luck!

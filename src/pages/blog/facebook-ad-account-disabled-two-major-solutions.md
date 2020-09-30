@@ -31,11 +31,9 @@ seotitle: Facebook Ad Account Disabled? How to Restore It Fast
 <p>As usual, you were monitoring a couple of ad campaigns you launched in Ads Manager. Everything was fine. But one day, you found that your Facebook ad account was disabled.&nbsp;</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://giphy.com/gifs/season-10-the-simpsons-10x18-l2Jegv1leoimrHPcQ","type":"photo","providerNameSlug":"giphy"} -->
-<figure class="wp-block-embed is-type-photo is-provider-giphy"><div class="wp-block-embed__wrapper" align="center">
-https://giphy.com/gifs/season-10-the-simpsons-10x18-l2Jegv1leoimrHPcQ
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:paragraph -->
+<iframe src="https://giphy.com/embed/l2Jegv1leoimrHPcQ" style="max-width:480px; max-height:360px; width:100%; height:360px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>Keep your head up! In this tutorial, you’ll find out why Facebook may suspend your ads and show you how to activate a disabled Facebook ad account as fast as possible.</p>
@@ -170,5 +168,14 @@ https://giphy.com/gifs/season-10-the-simpsons-10x18-l2Jegv1leoimrHPcQ
 <!-- /wp:video -->
 
 <!-- wp:paragraph -->
-<p>After you do that, don’t forget to try <a href="http://softcube.com">the AI-powered Softcube platform</a> to save your efforts and budget while producing high-quality video ads.</p>
+<p>After you do that, don’t forget to try <a href="https://softcube.com">the AI-powered Softcube platform</a> to save your efforts and budget while producing high-quality video ads.</p>
 <!-- /wp:paragraph -->
+
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

@@ -7,8 +7,7 @@ categories-slug:
   - tutorials
 title: How to Benefit From Video in Email Marketing
 date: 2019-07-19T00:00:00.000Z
-description: Read why you should use video in email marketing campaigns and
-  learn how to embed video content to your emails from scratch without a hitch.
+description:
 featuredpost: false
 featuredimage: /img/video-in-email-marketing-featured-image.jpg
 image: /img/video-in-email-marketing-featured-image.jpg
@@ -20,7 +19,7 @@ tags:
   - vimeo
   - YouTube
 seo_title: "Video in Email Marketing: Everything You Need to Know"
-metadescription: 
+metadescription: Read why you should use video in email marketing campaigns and learn how to embed video content to your emails from scratch without a hitch.
 focus_keyphrase: video in email marketing
 seotitle: "Video in Email Marketing: Everything You Need to Know"
 ---
@@ -107,15 +106,15 @@ The obvious alternative to video in email is an animated GIF. This animation is 
 
 That’s why so many emails we receive contain animated GIFs. Sometimes, GIF is enough itself to replace videos, it especially goes to manuals on how to use [tools or software](https://softcube.com/best-facebook-ad-tools/). When actions are not too long and complex, and no sound is required - just arrange visualization as GIFs.
 
-<iframe src="https://giphy.com/embed/WRKxVLBiZXTLRimAkV" width="393" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://giphy.com/embed/WRKxVLBiZXTLRimAkV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 On the other hand, GIFs may be combined with links to videos. As they give the illusion of video in an email, make an animated GIF of your video fragment - and add the link to complete video. Perfect.
 
-<iframe src="https://giphy.com/embed/Q99mlKCztxcSxgdOD0" width="480" height="360" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:360px; min-height: 170px;" src="https://giphy.com/embed/Q99mlKCztxcSxgdOD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Cinemagraphs are another cool alternative to embedded video.
 
-<iframe src="https://giphy.com/embed/ML2ZWEpFPh4Sk" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/iesfgXJfJhXc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 A simple image with one or two moving elements that give an impression of the video. The rest is the regular static image.
 
@@ -162,3 +161,12 @@ It was our compilation of basic things we need to know about email marketing vid
 That’s all for now. Follow our tips and recommendations and embed only the [best videos](https://softcube.com/best-facebook-video-ad-examples-2019/) to make your campaigns intriguing, meaningful and performing!
 
 Sincerely wish you the best of success and luck!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>
+

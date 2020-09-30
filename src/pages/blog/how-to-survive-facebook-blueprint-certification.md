@@ -7,8 +7,7 @@ categories-slug:
   - tutorials
 title: How to Survive Facebook Blueprint Certification
 date: 2018-11-14T00:00:00.000Z
-description: Read about the Facebook Blueprint learning platform, which offers
-  Facebook Blueprint Certification, and get tips for passing certification
+description:
   exams.
 featuredpost: false
 featuredimage: /img/facebook-blueprint-certification-featured-image.jpg
@@ -19,7 +18,7 @@ tags:
   - Facebook ads
   - Facebook Blueprint Certification
 seo_title: How to Pass Facebook Blueprint Certification [Complete Guide]
-metadescription: 
+metadescription: Read about the Facebook Blueprint learning platform, which offers Facebook Blueprint Certification, and get tips for passing certification.
 focus_keyphrase: facebook blueprint certification
 seotitle: How to Pass Facebook Blueprint Certification [Complete Guide]
 ---
@@ -31,6 +30,13 @@ Getting a certificate on Facebook Blueprint is like climbing to the top of the *
 
 We want you to reach the top successfully. Don’t know how to pass Facebook Blueprint certification? Find out in our Facebook Blueprint review. Let’s get started.
 
+## Table of Contents
+*[What is Facebook Blueprint?](#definition)
+*[Cost of Facebook Advertising Certification](#cost)
+*[Three tips for passing Facebook Ads Certification](#tips)
+*[Final thoughts on Facebook Blueprint Certification](#finalthoughts)
+
+<a name="definition"></a>
 ## What is Facebook Blueprint?
 
 Facebook Blueprint is a platform that allows you to improve your skills with Facebook, Messenger, Instagram, and Audience Network marketing. The platform offers both free online courses and paid certifications.
@@ -228,6 +234,7 @@ After getting certified, you’ll get your personal badge of achievement. You ca
 
 Keep in mind that you can get a certificate only if you have at least six months of experience in [Facebook marketing](https://softcube.com/category/facebook-ads/). Don’t have enough practice? Study with eLearning and gain some experience.
 
+<a name="cost"></a>
 ## Cost of Facebook Advertising Certification
 
 The Facebook Blueprint Certification cost will be about $300 in total. This cost includes $150 for each exam, but the final price may vary depending on your country. You can pay for exams using AMEX, Visa, or Mastercard.
@@ -236,6 +243,7 @@ You can reschedule or cancel an exam within 24 hours of registering for the exam
 
 **Note:** A Blueprint Certificate is valid for one year.
 
+<a name="tips"></a>
 ## Three tips for passing Facebook Ads Certification
 
 How can you pass the certifications successfully? First, don’t cheat. Second, follow the Blueprint Certification requirements. We’ve prepared three simple but useful tips for passing Facebook Blueprint exams that will help you when taking your exams.
@@ -266,10 +274,11 @@ Before starting an exam, you have to sign a non-disclosure agreement that obliga
 
 ![facebook blueprint certification - be honest](/img/facebook-blueprint-certification-be-honest.jpg)
 
+<a name="finalthoughts"></a>
 ## Final thoughts on Facebook Blueprint Certification
 
 Facebook Blueprint Certification has encouraged thousands of marketers, advertisers, and entrepreneurs to improve their skills in creating different types of ads and running ad campaigns on Facebook.
 
 We hope that this guide will help you get your own certificate and get one step closer to producing awesome Facebook ads for your product or company. And by the way...
 
-If you need help creating video ads, consider using the Softcube neural network. Our artificial intelligence is able to produce thousands of videos at short notice and for a price lower than the cost of a video production company. Sounds interesting? Test [Softcube AI](http://softcube.com) right now.
+If you need help creating video ads, consider using the Softcube neural network. Our artificial intelligence is able to produce thousands of videos at short notice and for a price lower than the cost of a video production company. Sounds interesting? Test [Softcube AI](https://softcube.com) right now.

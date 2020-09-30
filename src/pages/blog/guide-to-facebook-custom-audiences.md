@@ -7,9 +7,7 @@ categories-slug:
   - tutorials
 title: Guide to Facebook Custom Audiences
 date: 2019-03-14T00:00:00.000Z
-description: Want to create lists of customers from any possible marketing
-  channel? Learn everything about Facebook Custom Audiences targeting in this
-  article.
+description:
 featuredpost: false
 featuredimage: /img/facebook-custom-audience-featured-pic.jpg
 image: /img/facebook-custom-audience-featured-pic.jpg
@@ -18,7 +16,7 @@ tags:
   - Facebook Pixel
   - Facebook Dynamic Ads
 seo_title: What Are Facebook Custom Audiences? [Complete Guide]
-metadescription: 
+metadescription: Want to create lists of customers from any possible marketing channel? Learn everything about Facebook Custom Audiences targeting in this article.
 focus_keyphrase: facebook custom audiences
 seotitle: What Are Facebook Custom Audiences? [Complete Guide]
 ---
@@ -259,4 +257,4 @@ You can connect customers from any channel: a file, your website or mobile app, 
 
 If you plan to show video ads to your customers, you can reduce the cost of creating them with our artificial intelligence platform.
 
-Softcube allows you to create high-quality product videos at scale and for an image-sized budget — without human interaction. Test our [AI platform](http://softcube.com) for your business right now.
+Softcube allows you to create high-quality product videos at scale and for an image-sized budget — without human interaction. Test our [AI platform](https://softcube.com) for your business right now.

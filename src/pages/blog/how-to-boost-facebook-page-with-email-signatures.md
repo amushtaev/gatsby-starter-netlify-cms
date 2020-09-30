@@ -7,17 +7,15 @@ categories-slug:
   - tutorials
 title: How to Boost Facebook Pages with Email Signatures
 date: 2019-09-25T00:00:00.000Z
-description: How can you promote a Facebook business profile with professional
-  email signatures? Learn the most powerful ways to boost email and social media
-  marketing.
+description:
 featuredpost: false
 featuredimage: /img/email-signatures-featured-image.jpg
 image: /img/email-signatures-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - email marketing
+  - Facebook Business Manager
 seo_title: How to Promote Your Facebook Account with Email Signature Marketing
-metadescription: 
+metadescription: How can you promote a Facebook business profile with professional email signatures? Learn the most powerful ways to boost email and social media marketing.
 focus_keyphrase: email signature
 seotitle: How to Promote Your Facebook Account with Email Signature Marketing
 ---
@@ -45,7 +43,7 @@ Every recipient of your email will be able to check out your Facebook Page. In t
 
 With [more than 50 million small business Pages on Facebook](https://newoldstamp.com/blog/how-to-grow-followers-of-your-facebook-business-page/), you have to be both creative and consistent enough with your marketing efforts to survive the competition. And email signature marketing is a huge lifeline in this regard.
 
-With about [120 emails](http://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) each person receives daily, every single one is an opportunity to promote your Facebook Page. Especially if your employees have similar corporate email signatures.
+With about [120 emails](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) each person receives daily, every single one is an opportunity to promote your Facebook Page. Especially if your employees have similar corporate email signatures.
 
 These could be hundreds of thousands of Facebook Page ads embedded in everyday email correspondence.  
 

@@ -219,7 +219,7 @@ By doing so, you’ll save time, learn more about the ad creation process, and b
 
 Video is everywhere: on streets, in stores, in cafes, and on smartphones. More than [50% of people in the United States](https://softcube.com/70-video-marketing-statistics-for-2020/) watch video every day. Video ads have a more powerful effect on users than ever before.
 
-On Instagram, short videos create magic. They show action and drive action. Not to mention that new methods of [video production](http://softcube.com/) have reduced the Instagram sponsored ads cost.
+On Instagram, short videos create magic. They show action and drive action. Not to mention that new methods of [video production](https://softcube.com/) have reduced the Instagram sponsored ads cost.
 
 You should create as many videos as possible to find active users that can become your customers.
 
@@ -239,4 +239,4 @@ Here’s one of them:
 
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure>
 
-Like it? Test [Softcube artificial intelligence](http://softcube.com) and create yours!
+Like it? Test [Softcube artificial intelligence](https://softcube.com) and create yours!

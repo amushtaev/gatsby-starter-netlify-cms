@@ -106,7 +106,7 @@ Here are Instagram video ads best practices for making spectacular content that 
 
 ### Try Instagram Mobile Apps
 
-First of all, don’t forget that there are creative tools like [Softcube artificial intelligence](http://softcube.com) that can simplify the editing process and make your videos more attractive.
+First of all, don’t forget that there are creative tools like [Softcube artificial intelligence](https://softcube.com) that can simplify the editing process and make your videos more attractive.
 
 ![Instagram video ads — mobile apps](/img/instagram-video-ads-mobile-apps.jpg)
 

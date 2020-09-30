@@ -38,7 +38,7 @@ In the end, I'm going to share my **_“Exclusive Scaling Secret”_**.
 
 ## Facebook Worldwide Targeting Case Study
 
-Scaling your [Facebook advertising](http://softcube.com/) means increasing your ad spend while maintaining a positive return.
+Scaling your [Facebook advertising](https://softcube.com/) means increasing your ad spend while maintaining a positive return.
 
 To help you successfully increase your daily ad spend from $50 to $500, there are tons of great strategies and tactics on the Internet.
 

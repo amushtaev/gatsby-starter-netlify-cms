@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: 15 Best Facebook Ad Tools You Might Not Have Heard Of
 date: 2019-04-18T00:00:00.000Z
-description: Looking for advertising software to boost your conversions? Check
-  out the best Facebook ad tools that you might not have even heard of.
+description: Looking for advertising software to boost your conversions? Check out the best Facebook ad tools that you might not have even heard of.
 featuredpost: false
 featuredimage: /img/best-facebook-ad-tools-featured-image.jpg
 image: /img/best-facebook-ad-tools-featured-image.jpg
@@ -31,7 +30,7 @@ tags:
 seo_title: 15 Best Facebook Ad Tools That Every Marketer Should Use
 metadescription: 
 focus_keyphrase: best facebook ad tools
-seotitle: 15 Best Facebook Ad Tools You Might Not Have Heard Of
+seotitle: 15 Best Facebook Ad Tools That Every Marketer Should Use
 ---
 <!--StartFragment-->
 
@@ -289,7 +288,7 @@ If a company run a few Pages for different countries, you can see ads for any Pa
 
 People are obsessed with making Stories and posting photos online that portray their everyday lives. Sometimes, too much so.
 
-<div style="width:100%;height:0;padding-bottom:103%;position:relative;"><iframe src="https://giphy.com/embed/6LzPPnutAquju" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scorpiondagger-scorpiondagger-instagram-6LzPPnutAquju">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/6LzPPnutAquju" width="467" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 This makes Instagram one of today’s most popular digital marketing channels. Also, it’s one of the best Facebook marketing tools that allows agencies and businesses to attract customers that are distinct from their Facebook audiences.  
 

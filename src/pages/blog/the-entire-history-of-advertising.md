@@ -20,7 +20,7 @@ tags:
 
 In the beginning was the word… In the meantime, people discovered fire, started gathering fruits, nuts, and grasses, learned to hunt protein-rich animals, and created settlements near water to catch fish. Soon after that, the agricultural revolution happened and settlements turned into towns and cities where technological advancements expanded commerce, promoted competition, and gave birth to advertising. That’s how the civilized world emerged.
 
-<iframe src="https://giphy.com/embed/3KVcFEmdDl9NYaFTtx" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe title="" style="max-width:480px; max-height:265px; width:100%; height:265px; min-height: 264px;" src="https://giphy.com/embed/3KVcFEmdDl9NYaFTtx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 This world keeps evolving, and advertising is evolving along with it. Nowadays, ads chase people everywhere, gaining as much power over human minds as fire, food, and technology. 
 
@@ -34,9 +34,7 @@ If you take a look at any advertisement in the past and present, you’ll see th
 
 No one knows exactly when businesses began using advertising to distinguish themselves. What makes sense and what we know for sure is that early forms of advertising were verbal. In ancient markets, sellers shouted in order to advertise their products and services.
 
-<figure class="youtube">
-  <iframe title="28314 Years Before Commercials" width="500" height="281" src="https://www.youtube.com/embed/jmHG92lARUQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</figure>
+<iframe title="28314 Years Before Commercials" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/jmHG92lARUQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 After a while, stall owners realized that it’s more efficient to be quiet and nail down carved signs or flags that tell much more than any shouts and words. And things got rolling…
 
@@ -76,7 +74,7 @@ In the beginning of the Middle Ages, advertising hardly differed from ads in ant
 
 However, the rapid growth of the world’s population and the human passion for exploration made capitalism ascendant. All around the world, consumers became more educated and business owners started to make more money.
 
-<iframe src="https://giphy.com/embed/OE4z9ulueu4PC" width="480" height="188" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe title="28314 Years Before Commercials" style="max-width:500px; max-height:181px; width:100%; height:181px; min-height: 170px;" src="https://giphy.com/embed/OE4z9ulueu4PC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 In the second volume of his trilogy [_The Wheels of Commerce_](https://www.nytimes.com/1983/07/10/books/the-roots-of-modern-capitalism.html), French historian Fernand Braudel describes a dramatic transformation of economic life in London, Amsterdam, Venice, Lyons, Nuremberg, and many other cities: Shops became a new economic force, a specialized urban real estate market emerged, credit gained importance.
 
@@ -128,7 +126,7 @@ On June 16, 1836, Émile de Girardin, a French journalist, politician, and publi
 
 ![History of advetising — Palmer's ad agency](/img/history-of-advertising-palmers-advertising-agency-1024x888.jpg)
 
-In 1841, the [first advertising agency](http://pabook2.libraries.psu.edu/palitmap/AdCo.html) in the United States was founded by Robert Palmer, the son of a newspaper publisher and a coal businessman who considered himself an advertising agent. Palmer’s major contribution was the formation of the newspaper advertising market by setting aside a large amount of space for ads and reselling it at higher rates to professional advertisers whose competition got fiercer year by year.
+In 1841, the [first advertising agency](https://pabook2.libraries.psu.edu/palitmap/AdCo.html) in the United States was founded by Robert Palmer, the son of a newspaper publisher and a coal businessman who considered himself an advertising agent. Palmer’s major contribution was the formation of the newspaper advertising market by setting aside a large amount of space for ads and reselling it at higher rates to professional advertisers whose competition got fiercer year by year.
 
 ![History of advetising — John Orlando Parry watercolor](/img/history-of-advertising-john-orlando-perry-1024x707.jpg)
 
@@ -142,7 +140,7 @@ In the beginning of the 20th century, advertising was everywhere. And advertisin
 
 At the time when advertising was shaping into an industry worth millions of dollars, print advertising was about to face a new rival: the radio waves.
 
-<iframe src="https://giphy.com/embed/LwxzFXEymTsf6" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe title="28314 Years Before Commercials" style="max-width:500px; max-height:357px; width:100%; height:357px; min-height: 170px;" src="https://giphy.com/embed/LwxzFXEymTsf6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The [first paid radio advertising](https://www.aaaa.org/timeline/) was aired on WEAF (WFAN) in New York on August 28, 1922. Since direct selling was prohibited, the ad was a 10-minute broadcast on the subject of a carefree life in the suburbs at the Hawthorne Court Apartments in Jackson Heights, Queens. The Queensboro Corporation paid WEAF $50 to run it.
 
@@ -152,9 +150,7 @@ In the 1920s, commercial radio stations became the major advertising medium for 
 
 After World War II, television became the major source for promoting products and services to the masses.
 
-<figure class="youtube">
-  <iframe title="28314 Years Before Commercials" width="500" height="281" src="http://www.youtube.com/watch?v=8JenAyMmZ68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</figure>
+<iframe title="28314 Years Before Commercials" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/8JenAyMmZ68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The [first television advertisement](https://www.youtube.com/watch?v=8JenAyMmZ68&feature=emb_logo) was aired on July 1, 1941, and lasted nearly ten seconds. Produced by the Biow Company, the video promoted a Bulova Watch. The message was “America runs on Bulova time.”
 
@@ -170,7 +166,7 @@ Professionals started thinking out big ideas, relying on psychology and big data
 
 The synergy of economics and science in advertising that began in the 1980s reached its peak in the 1990s with the emergence of the fourth major advertising medium: the World Wide Web.
 
-<iframe src="https://giphy.com/embed/idH8hdCYBSThguUPnj" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe title="28314 Years Before Commercials" style="max-width:500px; max-height:281px; width:100%; height:362px; min-height: 362px;" src="https://giphy.com/embed/idH8hdCYBSThguUPnj" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 In the history of online advertising, the timeline includes numerous events.
 
@@ -180,7 +176,7 @@ The evolution of digital advertising began in October **1994** when HotWired lau
 
 ![History of advertising — the first digital banner ad](/img/history-of-advertising-first-digital-banner.jpg)
 
-Above, you can see one of the banners that participated in the HotWired ad campaign. If you want to know more about the first banner ads launched online, check out [this website](http://thefirstbannerad.com/).
+Above, you can see one of the banners that participated in the HotWired ad campaign. If you want to know more about the first banner ads launched online, check out [this website](https://thefirstbannerad.com/).
 
 HotWired left one of the best examples of early internet advertising. Back then, website publishers sold ad space on their websites to ad exchange networks such as Microsoft, Nexus, and OpenX and changed banners by hand by editing a website’s HTML code.
 
@@ -233,4 +229,12 @@ Traditional ways of producing advertising are becoming increasingly unattractive
 Technology is the answer. How long will the digital period last? That’s the most fascinating question in the history of advertising.
 
   
-Thank you for checking out our timeline of the history of advertising. Don’t be shy to test the [Softcube AI](http://softcube.com) service to produce high-quality video ads in a few clicks, and take care.
+Thank you for checking out our timeline of the history of advertising. Don’t be shy to test the [Softcube AI](https://softcube.com) service to produce high-quality video ads in a few clicks, and take care.
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

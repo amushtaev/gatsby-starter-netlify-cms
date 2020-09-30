@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: How to Select Types of Facebook Ads Wisely
 date: 2019-01-17T00:00:00.000Z
-description: Don’t know how to pick the best Facebook ad types? Read this guide
-  to learn everything about the major advertising formats on the largest social
-  network.
+description:
 featuredpost: false
 featuredimage: /img/best-facebook-ad-types-featured-image.jpg
 image: /img/best-facebook-ad-types-featured-image.jpg
@@ -32,7 +30,7 @@ tags:
   - Slideshow ads
   - Video ads
 seo_title: Guide to Choosing the Best Facebook Ad Types for Your Business
-metadescription: 
+metadescription: Don’t know how to pick the best Facebook ad types? Read this guide to learn everything about the major advertising formats on the largest social network.
 focus_keyphrase: best facebook ad types
 seotitle: Guide to Choosing the Best Facebook Ad Types for Your Business
 ---
@@ -85,7 +83,7 @@ Aside from these types of video ads, there are two more ad formats that allow yo
 
 A Carousel Ad can combine up to ten cards that include videos and images. In a Carousel Ad, cards are arranged in a particular order. It’s a perfect way to highlight the features of one product or to showcase a few products from a collection.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBMW%2Fposts%2F10157233085797269&amp;width=500" width="500" height="570" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBMW%2Fposts%2F10157233085797269&amp;width=500" width="500" height="570" frameborder="0" scrolling="no" align="center"></iframe>
 
 If you want to know everything about this ad format, read our guide to [Carousel Ads on Facebook](https://softcube.com/how-to-show-carousel-ads-on-facebook/). It includes Carousel Ad sizing and specs, best practices, and great examples.
 
@@ -265,7 +263,9 @@ In this context, launching video ads within different Facebook ad formats may be
 
 Not to mention that modern technologies have already dropped the cost of video advertising. For instance, today you can produce awesome video ads without a video-sized budget using artificial intelligence.
 
-Softcube artificial intelligence has already created thousands of Facebook video ads for dozens of companies worldwide. You can try the [platform](http://softcube.com) for your business right now
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/3a4c2dab734e5f673451fc2fd4374eac.mp4"></video></figure>
+
+Softcube artificial intelligence has already created thousands of Facebook video ads for dozens of companies worldwide. You can try the [platform](https://softcube.com) for your business right now
 
 ## Your Marketing Success Lies in The Variety
 

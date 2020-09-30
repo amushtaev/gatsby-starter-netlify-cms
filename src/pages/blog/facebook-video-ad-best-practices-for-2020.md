@@ -7,9 +7,7 @@ categories-slug:
   - video-ads
 title: 7 Facebook Video Ad Best Practices for 2020
 date: 2019-12-24T00:00:00.000Z
-description: Want to produce high-quality and captivating Facebook video ads?
-  Learn the most important Facebook video ad best practices for 2020 in this
-  guide.
+description:
 featuredpost: false
 featuredimage: /img/facebook-video-ad-best-practices-featured-image.jpg
 image: /img/facebook-video-ad-best-practices-featured-image.jpg
@@ -17,7 +15,7 @@ tags:
   - mobile ads
   - video ads
 seo_title: 7 Facebook Video Ad Best Practices for Your Business in 2020
-metadescription: 
+metadescription: Want to produce high-quality and captivating Facebook video ads? Learn the most important Facebook video ad best practices for 2020 in this guide.
 focus_keyphrase: facebook video ad best practices
 seotitle: 7 Facebook Video Ad Best Practices for Your Business in 2020
 ---
@@ -71,7 +69,7 @@ According to [Statista](https://www.statista.com/statistics/647347/smartphone-vi
 
 Modern viewers don’t watch videos for too long. That’s why the best Facebook video ads are short.
 
-Desktop users need [2 to 3 seconds](http://mmaglobal.com/news/mobile-marketing-association-reveal-brands-need-first-second-strategy/) to form a positive or negative opinion of an ad, while mobile users need only 0.4 seconds. That’s why you should capture viewers’ interest as quickly as possible.
+Desktop users need [2 to 3 seconds](https://mmaglobal.com/news/mobile-marketing-association-reveal-brands-need-first-second-strategy/) to form a positive or negative opinion of an ad, while mobile users need only 0.4 seconds. That’s why you should capture viewers’ interest as quickly as possible.
 
 ### 6\. **Use a 15-second Video Ad Standard**
 
@@ -81,7 +79,7 @@ Hundreds of video ad campaigns on Facebook have been launched with the help of S
 
 Here’s an example of one of the best video ads on Facebook made by our artificial intelligence engine:
 
-Like it? Then don’t be shy: Get [**10 high-quality video ads**](https://softcube.com/get-ten-ads/) for free right now.
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/10d0046c57fe2d17fe05c75a0394341f.mp4"></video></figure>
 
 ### 7\. **Use Video to Advertise on Facebook Organically**
 

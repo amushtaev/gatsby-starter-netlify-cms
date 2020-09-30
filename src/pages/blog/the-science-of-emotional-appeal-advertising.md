@@ -177,4 +177,4 @@ We showed you how you can do that by taking advantage of your company’s missio
 
 We hope you’ve found this tutorial useful. Thank you for reading!
 
-Don't forget that you can test creating the [Softcube Artificial Intelligence](http://softcube.com/) system to produce your emotional ads. Have fun, and good luck!
+Don't forget that you can test creating the [Softcube Artificial Intelligence](https://softcube.com/) system to produce your emotional ads. Have fun, and good luck!

@@ -20,7 +20,7 @@ const SliderArticl = (props) => {
     spacing: 24,
     slidesPerView: 5,
     centered: false,
-    loop: true,
+    loop: false,
     mode: 'snap',
     //duration: 1000,
     breakpoints: {
@@ -61,11 +61,11 @@ const SliderArticl = (props) => {
       case 2:
         return index === 3 || index === 4 || index === 5;
       case 3:
-        return index === 4 || index === 5 || index === 6;
+        return index === 4 || index === 5 || index === 0;
       case 4:
-        return index === 5 || index === 6 || index === 0;
+        return index === 5 || index === 0 || index === 1;
       case 5:
-        return index === 6 || index === 0 || index === 1;
+        return index === 0 || index === 1 || index === 2;
       default:
         return false;
     }

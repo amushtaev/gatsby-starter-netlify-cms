@@ -100,4 +100,4 @@ Such situations are typical for any business. And if you want to know how to sor
 We hope we’ve given you enough food for thought to create the best Facebook ads sales funnel for your business at the current moment.
 
   
-To make the shopping adventure more exciting for your customers, take advantage of the Softcube [video ad production platform](http://softcube.com/) powered by artificial intelligence. Softcube will help you automatically create a large number of high-quality video ads in a short time and for an image ad-sized budget.
+To make the shopping adventure more exciting for your customers, take advantage of the Softcube [video ad production platform](https://softcube.com/) powered by artificial intelligence. Softcube will help you automatically create a large number of high-quality video ads in a short time and for an image ad-sized budget.

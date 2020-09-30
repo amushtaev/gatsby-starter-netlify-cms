@@ -83,11 +83,7 @@ seotitle: 7 Most Epic Viral Marketing Examples You’ve Ever Seen
 <p>Two days after Jason Statham published his bottle cap kick, Ryan Reynolds made his own contribution to the viral challenge on YouTube in a very creative way:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=-VCPj5F7z7I","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=-VCPj5F7z7I
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/-VCPj5F7z7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>We recommend you watch Ryan’s other videos on his official YouTube channel if you haven’t seen them yet. Believe us, they’re worth your time. Ryan used a lot of crazy and genius ideas to promote his product.</p>
@@ -97,41 +93,25 @@ https://www.youtube.com/watch?v=-VCPj5F7z7I
 <p>Reveal your twin brother to the world and interview him? Check!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=MgM-ny6Gxvs\u0026t=1s","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=MgM-ny6Gxvs&amp;t=1s
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/MgM-ny6Gxvs\u0026t=1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>Show how bottles are ordained by the church and serenaded with healing music? Check.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=NjDCH6SiMgo","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=NjDCH6SiMgo
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/NjDCH6SiMgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>Let your friend celebrity roast you? Check.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=YioAD0gQQSM","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=YioAD0gQQSM
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/YioAD0gQQSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- wp:paragraph -->
 <p>Put an ad within an ad that’s within another ad? Check.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=ymZK54XLXMU","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=ymZK54XLXMU
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>The long and the short of it is that Ryan created his own cinematic <em>giniverse</em> that seems to be rapidly expanding.</p>
@@ -149,21 +129,13 @@ https://www.youtube.com/watch?v=ymZK54XLXMU
 <p>You’ve probably already seen the jump. If not, here it is:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=FHtvDA0W34I","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=FHtvDA0W34I
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/FHtvDA0W34I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>And here’s extra GoPro footage from Felix’s perspective:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=dYw4meRWGd4","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=dYw4meRWGd4
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title=""style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/dYw4meRWGd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>Of course, you’re unlikely to sponsor space programs like Red Bull Stratos. However, this marketing campaign fulfilled one of the big purposes of viral content — improving the world. The most important thing is you can do the same, and you don’t need a big budget or advanced technology.</p>
@@ -177,14 +149,10 @@ https://www.youtube.com/watch?v=dYw4meRWGd4
 <p>In November 2013, Volvo demonstrated the directional stability and precision of Volvo Dynamic Steering, a technology that simplifies the negotiations between two reversing trucks.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=M7FIvfx5J10","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=M7FIvfx5J10
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/M7FIvfx5J10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
-<p>Jean-Claude Van Damme performed the <a href="http://usatoday.com/story/life/movies/2014/01/17/van-damme-volvo-trucks/4580861/">epic split</a> in one take and went viral on YouTube, reaching 25 million views within a week. Considering Volvo truck sales increased 31% after the video was released, we can say it became one of the&nbsp; best viral marketing videos uploaded to YouTube.&nbsp;</p>
+<p>Jean-Claude Van Damme performed the <a href="https://usatoday.com/story/life/movies/2014/01/17/van-damme-volvo-trucks/4580861/">epic split</a> in one take and went viral on YouTube, reaching 25 million views within a week. Considering Volvo truck sales increased 31% after the video was released, we can say it became one of the&nbsp; best viral marketing videos uploaded to YouTube.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -195,11 +163,7 @@ https://www.youtube.com/watch?v=M7FIvfx5J10
 <p>In 2011, Volkswagen made some of the greatest YouTube viral marketing examples.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=1n6hf3adNqk","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=1n6hf3adNqk
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/1n6hf3adNqk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p><em>The Force</em> is a Super Bowl commercial that appeared on television one week after its appearance on YouTube, where it hit eight million views. The <a href="https://www.youtube.com/watch?v=R55e-uHQna0">original video</a> of this commercial is unavailable. But you’ll find a lot of <a href="https://www.youtube.com/watch?v=1n6hf3adNqk">copies</a> on YouTube that amount to a few million views.</p>
@@ -213,11 +177,7 @@ https://www.youtube.com/watch?v=1n6hf3adNqk
 <p>In 2012, Dollar Shave Club, the first company to deliver men’s grooming products via mail, changed the way a business can do online sales.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=ZUG9qYTJMsI\u0026t=19s","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=ZUG9qYTJMsI&amp;t=19s
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/ZUG9qYTJMsI\u0026t=19s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>You’ve probably already seen this guy. He’s Michael Dubin, a Dollar Shave Club co-founder and the author of this video.</p>
@@ -235,11 +195,7 @@ https://www.youtube.com/watch?v=ZUG9qYTJMsI&amp;t=19s
 <p>As for this guy, you’ve seen him for sure. In 2010, Old Spice launched an unprecedented viral campaign on YouTube featuring Isaiah Mustafa, an American actor and former football player.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=uLTIowBF0kE","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=uLTIowBF0kE
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/uLTIowBF0kE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>After uploading four mindblowing viral videos, the Old Spice marketing team uploaded over <a href="https://www.youtube.com/c/oldspice/videos?view=0&amp;sort=da&amp;flow=grid">200 videos</a> where Isaiah reacted to social media posts of other brands and answered questions sent by users via Facebook, Reddit, Twitter, and other social media channels.</p>
@@ -253,11 +209,8 @@ https://www.youtube.com/watch?v=uLTIowBF0kE
 <p>In 2014, Matthew McConaughey went viral after playing himself in a <a href="https://www.youtube.com/watch?v=8QEAA94FjHc">series of commercials</a> promoting the 2015 Lincoln MKC. As one of the best viral marketing examples made by a world-known brand, the ad campaign almost doubled sales of the MKC between 2014 and 2019.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=dq4Qj_vG9Tg","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=dq4Qj_vG9Tg
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/dq4Qj_vG9Tg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>Not to mention that in December 2019, Lincoln uploaded another YouTube video featuring McConaughey fishing on the Upper Kananaskis Lake in Alberta, Canada. The <a href="https://www.youtube.com/watch?v=dq4Qj_vG9Tg">Lincoln Aviator video ad</a> hit over 20 million views.</p>
@@ -276,5 +229,12 @@ https://www.youtube.com/watch?v=dq4Qj_vG9Tg
 <!-- /wp:video -->
 
 <!-- wp:paragraph -->
-<p>If you want to go viral with video advertising, don’t hesitate to try <a href="http://softcube.com/">Softcube</a> to scale and optimize your video production with artificial intelligence. Wishing you a successful viral marketing campaign!</p>
+<p>If you want to go viral with video advertising, don’t hesitate to try <a href="https://softcube.com/">Softcube</a> to scale and optimize your video production with artificial intelligence. Wishing you a successful viral marketing campaign!</p>
 <!-- /wp:paragraph -->
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

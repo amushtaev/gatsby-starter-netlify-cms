@@ -165,4 +165,4 @@ This amazing tool will provide you with analytics that are vital to your success
 
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/785427d5979c09f5e35f9a2717d95ecc.mp4"></video></figure>
 
-To get more conversions and then track them with your pixel, don’t hesitate to test [Softcube artificial intelligence](http://softcube.com/) to produce video ads. Created in just a few clicks, AI-generated video ads look spectacular and cost the same amount as image ads.
+To get more conversions and then track them with your pixel, don’t hesitate to test [Softcube artificial intelligence](https://softcube.com/) to produce video ads. Created in just a few clicks, AI-generated video ads look spectacular and cost the same amount as image ads.

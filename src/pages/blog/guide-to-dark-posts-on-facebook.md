@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: The Beginner’s Guide to Dark Posts on Facebook
 date: 2019-11-25T00:00:00.000Z
-description: Discover the secret of dark posts on Facebook and read about what
-  you need to create effective Facebook dark posts from scratch.
+description:
 featuredpost: false
 featuredimage: /img/dark-post-on-facebook-featured-pic.jpg
 image: /img/dark-post-on-facebook-featured-pic.jpg
@@ -18,7 +17,7 @@ tags:
   - custom audiences
   - lookalike audiences
 seo_title: Everything You Need to Know about Dark Posts on Facebook
-metadescription: 
+metadescription: Discover the secret of dark posts on Facebook and read about what you need to create effective Facebook dark posts from scratch.
 focus_keyphrase: dark post facebook
 seotitle: Everything You Need to Know about Dark Posts on Facebook
 ---
@@ -26,7 +25,7 @@ seotitle: Everything You Need to Know about Dark Posts on Facebook
 
 Did you know that dark posts on Facebook are also light? Surprise!
 
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/j4kdx6uRLeA3maAp53" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/j4kdx6uRLeA3maAp53">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/j4kdx6uRLeA3maAp53" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 On March 28, 2019, Facebook announced a [new ad library](https://www.facebook.com/ads/library/) that makes Facebook ads transparent.
 

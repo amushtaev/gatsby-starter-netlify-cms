@@ -149,7 +149,7 @@ These ads provide a native user experience by receiving data from the Native Ad 
 
 Facebook claims this ad placement performs the worst because people are used to ignoring banners.
 
-**Step 5** — Integrate with the Facebook Audience Network SDK. You can do this with or without [mediation](http://facebook.com/business/help/1744424245771424?id=2826815050729954).
+**Step 5** — Integrate with the Facebook Audience Network SDK. You can do this with or without [mediation](https://facebook.com/business/help/1744424245771424?id=2826815050729954).
 
 Here’s a list of guides on how to integrate with the Audience Network if you’re using multiple platforms to monetize your app:
 

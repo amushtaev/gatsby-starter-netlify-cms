@@ -7,16 +7,15 @@ categories-slug:
   - tutorials
 title: How to Create Facebook Lead Generation Ads
 date: 2019-05-02T00:00:00.000Z
-description: Learn how to create Facebook lead generation ads, get inspired by a
-  few great ad examples, and discover effective practices for your business.
+description:
 featuredpost: false
 featuredimage: /img/create-facebook-lead-generation-ads-featured-picture.jpg
 image: /img/create-facebook-lead-generation-ads-featured-picture.jpg
 tags:
   - lead generation
 seo_title: How to Create Facebook Lead Generation Ads [with Examples]
-metadescription: 
-focus_keyphrase: create facebook lead generation adds
+metadescription: Learn how to create Facebook lead generation ads, get inspired by a few great ad examples, and discover effective practices for your business.
+focus_keyphrase: create facebook lead generation ads
 seotitle: How to Create Facebook Lead Generation Ads [with Examples]
 ---
 <!--StartFragment-->
@@ -25,6 +24,16 @@ There are nearly a [dozen ways](https://softcube.com/how-to-select-types-of-face
 
 Still, none guarantee that the users who come to your website or app will become leads. None, that is, except for Facebook lead ads.
 
+## Table of Contents
+*[What Are Facebook Lead Ads](#leadgen)
+*[Why Should You Use Facebook lead ads?](#using)
+*[How to Сreate Facebook Lead Generation Ads](#create)
+*[10 Facebook Lead Ads Best Practices](#practices)
+*[7 Great Facebook Lead Ads Examples](#examples)
+*[Lead Your Customers in the Right Direction](#direction)
+
+<a name="leadgen"></a>
+
 ## What Are Facebook Lead Ads?
 
 Lead ads on Facebook and Instagram is an ad format that allows any business or agency to convert a user into a customer with a premade form that instantly pops out of an ad when a user taps or clicks on it.
@@ -32,6 +41,8 @@ Lead ads on Facebook and Instagram is an ad format that allows any business or a
 ![How to create Facebook lead generation ads — Centerline Drivers](/img/create-facebook-lead-generation-ads-centerline-drivers-1.jpg)
 
 The form can include both prefilled and custom questions to collect customer data such as emails, phone numbers, and names.
+
+<a name="using"></a>
 
 ## Why Should You Use Facebook lead ads?
 
@@ -56,6 +67,8 @@ You can use lead generation ads to ask any question you want except for ones tha
 * Usernames and passwords
 
 Let’s find out how to create a Facebook Lead Ad.
+
+<a name="create"></a>
 
 ## How to Сreate Facebook Lead Generation Ads
 
@@ -127,6 +140,8 @@ Wait for Facebook to approve your ad campaign and enjoy!
 ![How to create Facebook lead generation ads — instant form for Softcube](/img/create-facebook-lead-generation-ads-softcube-form.jpg)
 
 Once your form is ready, confirm your ad campaign, wait for Facebook to approve it, and collect your leads!
+
+<a name="practices"></a>
 
 ## 10 Facebook Lead Ads Best Practices
 
@@ -285,6 +300,8 @@ There are four options to download the data you get from your ads:
 * **From the** **[API](https://developers.facebook.com/docs/marketing-api/guides/lead-ads/retrieving)**. You’ll need a developer’s help if you choose this method.
 * **From your CRM**. Before doing this, you’ll need to integrate your CRM with Facebook.
 
+<a name="examples"></a>
+
 ## 7 Great Facebook Lead Ads Examples
 
 We’ve found a few Facebook Lead ad examples that were launched for different purposes.
@@ -373,10 +390,12 @@ The ad has a well-written text that encourages the user to click the **Get Offer
 
 After filling out five simple fields, users become leads. That’s how Pure Barre makes the Facebook lead generation process nice and easy.
 
+<a name="direction"></a>
+
 ## Lead Your Customers in the Right Direction
 
 What are Facebook lead ads? They’re a perfect opportunity to increase conversions and attract Facebook users without directing them to your website or landing page.
 
 Use best practices, get inspired by examples, and create your own set of lead ads!
 
-And don’t forget that you can also test [Softcube artificial intelligence](http://softcube.com) for your Facebook video advertising.
+And don’t forget that you can also test [Softcube artificial intelligence](https://softcube.com) for your Facebook video advertising.

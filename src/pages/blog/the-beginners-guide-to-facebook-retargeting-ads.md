@@ -7,7 +7,7 @@ categories-slug:
   - facebook-ads
 title: The Beginner’s Guide to Facebook Retargeting Ads
 date: 2019-08-28T00:00:00.000Z
-description: Need modify desk.
+description:
 featuredpost: false
 featuredimage: /img/facebook-retargeting-ads-featured-image.jpg
 image: /img/facebook-retargeting-ads-featured-image.jpg
@@ -17,7 +17,7 @@ tags:
   - Custom Audiences
   - Facebook Pixel
 seo_title: How to Bring Customers Back with Facebook Retargeting Ads
-metadescription: 
+metadescription: Learn everything about launching retargeting ads and get inspired by a few examples of engaging Facebook retargeting ads.
 focus_keyphrase: facebook retargeting ads
 seotitle: How to Bring Customers Back with Facebook Retargeting Ads
 ---
@@ -27,7 +27,7 @@ Retargeting (or remarketing) is essential for every business.
 
 We bet the majority of your website visitors look like this:
 
-<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/fDO2Nk0ImzvvW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fDO2Nk0ImzvvW">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/fDO2Nk0ImzvvW" width="480" height="365" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 That’s okay. When it comes to Google advertising, the [majority of websites](https://www.gorocketfuel.com/the-rocket-blog/whats-the-average-bounce-rate-in-google-analytics/) have a bounce rate between 26% and 70%.
 
@@ -272,4 +272,4 @@ Launch a Dynamic Ads campaign to retarget Facebook users with items they’ve se
 
 Pay attention to the temperature and size of your audience as well as to the choice of ad placements and bidding strategies.
 
-And don't forget to test [Softcube artificial intelligence](http://softcube.com) to create awesome video ads for your retargeting campaigns.
+And don't forget to test [Softcube artificial intelligence](https://softcube.com) to create awesome video ads for your retargeting campaigns.

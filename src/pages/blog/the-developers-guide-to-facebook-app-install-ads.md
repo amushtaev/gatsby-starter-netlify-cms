@@ -98,7 +98,8 @@ Launching a mobile app engagement ad campaign is the same as launching an app in
 
 Facebook playable ads are designed to demonstrate your mobile app as if viewers had already downloaded it. In fact, these are the best Facebook app install ads for game developers.
 
-<div style="width:100%;height:0;padding-bottom:204%;position:relative;"><iframe src="https://giphy.com/embed/ZClQyZaslepWOPV6Bi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ZClQyZaslepWOPV6Bi">via GIPHY</a></p>
+
+<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/ZClQyZaslepWOPV6Bi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Every playable ad consists of three components:
 
@@ -187,3 +188,11 @@ Now that you know about Facebook mobile app install ad specs, targeting, content
 Increase your downloads with mobile ads produced by the [Softcube AI](https://softcube.com/).
 
 Good luck with promoting your mobile app!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

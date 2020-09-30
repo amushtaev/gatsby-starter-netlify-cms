@@ -7,9 +7,7 @@ categories-slug:
   - tutorials
 title: How to Set Up Facebook Dynamic Product Ads
 date: 2019-01-04T00:00:00.000Z
-description: Want to get into Facebook dynamic advertisement? Check out ways for
-  boosting your sales with Facebook dynamic product ads and create your first
-  campaign.
+description:
 featuredpost: false
 featuredimage: /img/dynamic-product-ads-on-facebook-featured-image.jpg
 image: /img/dynamic-product-ads-on-facebook-featured-image.jpg
@@ -17,9 +15,9 @@ tags:
   - Facebook Business Manager
   - Facebook Pixel
   - product ads
-  - ""
+  - Carousel
 seo_title: 5 Ways to Use Dynamic Product Ads on Facebook Wisely
-metadescription: 
+metadescription: Want to get into Facebook dynamic advertisement? Check out ways for boosting your sales with Facebook dynamic product ads and create your first campaign.
 focus_keyphrase: dynamic product ads on facebook
 seotitle: 5 Ways to Use Dynamic Product Ads on Facebook Wisely
 ---
@@ -27,7 +25,7 @@ seotitle: 5 Ways to Use Dynamic Product Ads on Facebook Wisely
 
 eCommerce is all about counting things. Whether on their own or with someone’s help, entrepreneurs track product inventory, maintain records, calculate and pay taxes, take stock, set prices, and [promote their businesses](https://softcube.com/) on social media.
 
-<div style="width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/3oEdv1vkhqxcynkB5C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hrcloud-hr-human-resources-cloud-3oEdv1vkhqxcynkB5C">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3oEdv1vkhqxcynkB5C" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Facebook remains the [world’s most popular social network](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/), which makes it the most promising channel for retailers. Still, tracking multiple advertising campaigns is hard, especially for online stores that offer hundreds or thousands of goods.
 

@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: 14 Facebook Ad Formats You Need to Know
 date: 2020-01-15T00:00:00.000Z
-description: Check out all the Facebook ad formats that exist today, find the
-  best way to visualize your Facebook advertising, and get high-quality video
-  ads for free.
+description:
 featuredpost: false
 featuredimage: /img/facebook-ad-formats-featured-picture.jpg
 image: /img/facebook-ad-formats-featured-picture.jpg
@@ -29,7 +27,7 @@ tags:
   - Stories
   - video ads
 seo_title: The Most Complete List of Facebook Ad Formats in 2020
-metadescription: 
+metadescription: Check out all the Facebook ad formats that exist today, find the best way to visualize your Facebook advertising, and get high-quality video ads for free.
 focus_keyphrase: facebook ad formats
 seotitle: The Most Complete List of Facebook Ad Formats in 2020
 ---
@@ -55,9 +53,7 @@ Let’s cut to the chase and review all the Facebook ad formats one by one.
 
 ### Video Ads
 
-Facebook video ads were launched in 2014. 
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPUMA%2Fvideos%2F331980087434810%2F&amp;show_text=1&amp;width=345" width="345" height="666" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
+Facebook video ads were launched in 2014.
 
 Today, brands publish an average of nearly [seven video posts](https://softcube.com/70-video-marketing-statistics-for-2020/) on Facebook every month.
 
@@ -137,7 +133,7 @@ Powered by Instant Experience, [Facebook Collection ads](https://softcube.com/gu
 
 [Carousel ads](https://softcube.com/how-to-show-carousel-ads-on-facebook/) are posts that have the form of a merry-go-round.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftommyhilfiger%2Fposts%2F10156999283175686&amp;width=500" width="500" height="532" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftommyhilfiger%2Fposts%2F10156999283175686&amp;width=500" width="500" height="532" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe>
 
 Every Carousel ad includes up to ten videos or images.
 
@@ -260,4 +256,6 @@ Thanks for reading our Facebook ad formats guide!
 
 Have you already discovered the ad formats you’d like to test for your Facebook marketing? What about amazing Facebook video ads made automatically?
 
-Contact us to test our [artificial intelligence](http://softcube.com) platform!
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/9830bcf5656f65f4e17f57c214dde3ee.mp4"></video></figure>
+
+Contact us to test our [artificial intelligence](https://softcube.com) platform!

@@ -45,7 +45,7 @@ There are two ways you can plan your ad schedule: Facebook runs ads on schedule 
 
 When you're just getting started, we recommend automatic scheduling. One of the cool things about advertising with Facebook is that the system adapts to your actions to better understand your needs and provide you with a higher return on investment.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/OBnwDJW77acLK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/time-alice-in-wonderland-clock-OBnwDJW77acLK">via GIPHY</a></p>
+<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/OBnwDJW77acLK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 After testing ad scheduling automation, you can schedule your ads manually and use Facebook _dayparting_. When it comes to Facebook ads, dayparting is a synonym for scheduling.
 
@@ -146,3 +146,11 @@ Here you need to choose the ad campaigns or ad sets you want to control, the act
 ![Facebook ad scheduling — Automated Rules menu](/img/facebook-ad-scheduling-ads-manager-1.jpg)
 
 Once you’re ready, click **Create** to make your rule active. To track your rules, click **Automated Rules** in the Advertise section of the Facebook Business Manager dropdown menu.
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

@@ -7,8 +7,7 @@ categories-slug:
   - news
 title: Softcube for Google Ads is Here
 date: 2018-12-12T00:00:00.000Z
-description: Softcube for Google Ads is available. Learn how to make your ad
-  campaigns eye-catching and dynamic using AI-generated video ads.
+description:
 featuredpost: false
 featuredimage: /img/softcube-for-google-ads-feature-picture.jpg
 image: /img/softcube-for-google-ads-feature-picture.jpg
@@ -22,7 +21,7 @@ tags:
   - video ad campaigns
   - video ads
 seo_title: "Softcube for Google Ads: Use AI to Make Video Ads at Scale"
-metadescription: 
+metadescription: Softcube for Google Ads is available. Learn how to make your ad campaigns eye-catching and dynamic using AI-generated video ads.
 focus_keyphrase: softcube for google ads
 seotitle: "Softcube for Google Ads: Use AI to Make Video Ads at Scale"
 ---
@@ -42,6 +41,8 @@ The Google Display Network comprises millions of websites, including Google sear
 
 If you already use or plan to use Google Ads, we have good news for you. From now on, you can meet your advertising goals by running AI-generated ads in your Google Ads Display campaigns.
 
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/c9952f713294250659d63a3e6b1e4457.mp4"></video></figure>
+
 To get started, you’ll need to provide access to your Google Ads account. Then our specialists will:
 
 1. Log in to your [Google Ads account](https://accounts.google.com/).
@@ -56,4 +57,4 @@ Video production is a collaborative process. To make a professional video for yo
 
 In the case of Google Ads, you’ll need to repeat this process dozens or even hundreds of times to achieve your advertising objective.
 
-The Softcube neural network can make 1,000 product videos per week, without any professionals, for the cost of image ads. You’re welcome to test out [our platform](http://softcube.com) for your Google Ads campaign right now.
+The Softcube neural network can make 1,000 product videos per week, without any professionals, for the cost of image ads. You’re welcome to test out [our platform](https://softcube.com) for your Google Ads campaign right now.

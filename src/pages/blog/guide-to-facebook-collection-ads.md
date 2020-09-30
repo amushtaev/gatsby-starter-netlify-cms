@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: The Beginner's Guide to Facebook Collection Ads
 date: 2020-01-09T00:00:00.000Z
-description: Learn how to create successful Facebook Collection Ads, discover
-  their major types, check specifications, and read the best practices in this
-  guide.
+description:
 featuredpost: false
 featuredimage: /img/facebook-collection-ads-featured-picture.jpg
 image: /img/facebook-collection-ads-featured-picture.jpg
@@ -22,7 +20,7 @@ tags:
   - Instant Storefront
   - video ads
 seo_title: Everything You Need to Know About Facebook Collection Ads
-metadescription: 
+metadescription: Learn how to create successful Facebook Collection Ads, discover their major types, check specifications, and read the best practices in this guide.
 focus_keyphrase: facebook collection ads
 seotitle: Everything You Need to Know About Facebook Collection Ads
 ---
@@ -186,12 +184,12 @@ To take full advantage of Collection ads on Facebook, you should:
 
 ## Collect Everything about Your Offer in One Ad
 
-When it comes to Facebook ads, a Collection is a great method to achieve your marketing objectives by walking people through your sales funnel.
-
-Thanks to Facebook Collections, you can let users meet your business, look through your products, and go to your website or app to make a purchase or finish any other conversion.
+When it comes to Facebook ads, a Collection is a great method to achieve your marketing objectives by walking people through your sales funnel. Thanks to Facebook Collections, you can let users meet your business, look through your products, and go to your website or app to make a purchase or finish any other conversion.
 
 If you need high-quality video content for your Collections, we’re ready to help.
 
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/4a114899d95f84d84473ce50ee8a22a1.mp4"></video></figure>
+
 The video ad above was made by Softcube artificial intelligence.
 
-If you like it, don’t hesitate to test [Softcube artificial intelligence](http://softcube.com) now.
+If you like it, don’t hesitate to test [Softcube artificial intelligence](https://softcube.com) now.

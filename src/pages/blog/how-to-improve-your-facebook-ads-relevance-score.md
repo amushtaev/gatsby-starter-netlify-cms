@@ -7,9 +7,7 @@ categories-slug:
   - tutorials
 title: How to Improve Facebook Ads Relevance Score
 date: 2019-06-05T00:00:00.000Z
-description: View where to find Facebook ad relevance score, learn why it's
-  important, and read the tips to improve the relevance score for your
-  advertising on Facebook.
+description:
 featuredpost: false
 featuredimage: /img/facebook-ads-relevance-score-featured-picture.jpg
 image: /img/facebook-ads-relevance-score-featured-picture.jpg
@@ -19,7 +17,7 @@ tags:
   - video ads
   - video marketing
 seo_title: facebook ads relevance score
-metadescription: 
+metadescription: View where to find Facebook ad relevance score, learn why it's important, and read the tips to improve the relevance score for your advertising on Facebook.
 focus_keyphrase: 6 Tips to Improve Your Facebook Ads Relevance Score
 seotitle: 6 Tips to Improve Your Facebook Ads Relevance Score
 ---
@@ -35,7 +33,7 @@ In one of [his blog posts](https://seths.blog/2019/05/reach-is-overrated/), Seth
 
 In other words, don’t _make_ people buy; present your product or service and _let_ them buy it.
 
-![](/img/source.gif)
+<iframe src="https://giphy.com/embed/U4teIjRowtTSU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 But how can you be sure that your Facebook ad delivery strategy works well?  
 
@@ -184,7 +182,7 @@ Facebook marketing isn’t rocket science. And launching an ad campaign is much 
 
 Still, both rocket scientists and advertising specialists learn a lot when they practice a lot.  
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/mwwEcxbodLHIk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/marketing-mwwEcxbodLHIk">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/mwwEcxbodLHIk" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 You can run various types of tests. Display different ads to the same audience, pick different audiences to show the same ad to, or use any other narrow strategy.
 
@@ -234,13 +232,15 @@ Our final recommendation on how to increase your Facebook relevance score revolv
 
 ![Facebook ads relevance score — Content marketing statistics](/img/facebook-ads-relevance-score-content-marketing-stats.jpg)
 
-According to Ascend2, video is the [most effective content type](http://ascend2.com/wp-content/uploads/2017/06/Ascend2-Content-Marketing-and-Distribution-Report-170612.pdf) to achieve important marketing objectives.  
+According to Ascend2, video is the [most effective content type](https://ascend2.com/wp-content/uploads/2017/06/Ascend2-Content-Marketing-and-Distribution-Report-170612.pdf) to achieve important marketing objectives.  
 
 At the same time, [64% of marketers](https://optinmonster.com/video-marketing-statistics-what-you-must-know/) experience difficulties when producing videos.  
 
 Artificial intelligence solves this problem. Automated systems like [**Softcube**](https://softcube.com/) produce high-quality video ads at scale and do so much faster than any professional human editor.  
 
-For example, this video ad was 100% made without human involvement:  
+For example, this video ad was 100% made without human involvement:
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/a3fbec84d42ac869aad93cb21d283ed1.mp4"></video></figure>
 
 The Softcube AI platform watched the original video, cut the three best scenes, added a product packshot, and rendered the final result. And it did all this automatically.
 
@@ -257,4 +257,6 @@ If your ad performance is poor and it results in a bad score, however, try to:
 
 And of course, don’t underestimate the power of video marketing!
 
-If you want to test our [artificial intelligence](http://softcube.com) service, you can do it right now.
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/98d0a98d4088199e95fae589233ded5b.mp4"></video></figure>
+
+If you want to test our [artificial intelligence](https://softcube.com) service, you can do it right now.

@@ -31,7 +31,7 @@ seotitle: 7 Marketing Psychology Methods to Change Customers’ Minds
 
 Marketers and psychologists have one major thing in common: they both analyze the human mind. When we buy, we play mind games. For this reason, the most popular and most effective ads often blow one’s mind, sometimes literally.
 
-<iframe src="https://giphy.com/gifs/mind-blown-brain-explode-b8kHKZq3YFfnq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://giphy.com/gifs/mind-blown-brain-explode-b8kHKZq3YFfnq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 We can only guess what psychological experiments businesses carry out in their laboratories, away from prying eyes, in order to create more advanced mind games and help marketers stay on top. 
 
@@ -102,3 +102,11 @@ The importance of psychology to marketing specialists is enormous. Nowadays, adv
 Want to take advantage of one of the psychology methods we’ve mentioned in practice?
 
 Do it by creating [video ads](https://softcube.com/) with the Softcube artificial intelligence platform. Softcube will help you edit your footage fast and skilfully with minimum human interaction, allowing you to create high-quality video ads for any purpose and for an image-sized budget.
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

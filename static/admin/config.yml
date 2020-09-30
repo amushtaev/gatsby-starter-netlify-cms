@@ -23,7 +23,7 @@ collections:
       - {label: "Category-Slug", name: "categories-slug", widget: "select", multiple: true, options: ["case-study", "facebook-ads", "instagram-ads", "news", "tutorials", "video-ads"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Description", name: "description", widget: "text", required: false}
       - {label: "Featured Post", name: "featuredpost", widget: "boolean", required: false}
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: Image, name: "image", widget: image, required: false}
@@ -32,6 +32,8 @@ collections:
       - {label: "Seo title", name: "seotitle", widget: "string", required: false}
       - {label: "Focus keyphrase", name: "focuskeyphrase", widget: "string", required: false}
       - {label: "Matadescription", name: "metadescription", widget: "string", required: false}
+      - {label: "Call-to-action text", name: "ctatext", widget: "string", required: false}
+      - {label: "Call-to-action button", name: "ctabutton", widget: "string", required: false}
 
   - name: "pages"
     label: "Pages"

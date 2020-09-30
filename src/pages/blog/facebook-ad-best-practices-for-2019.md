@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: 8 Facebook Ad Best Practices for 2019
 date: 2019-04-16T00:00:00.000Z
-description: Want to know how to lure Facebook users in 2019? Learn Facebook ad
-  best practices for video, Messenger, and other Facebook marketing channels.
+description: Want to know how to lure Facebook users in 2019? Learn Facebook ad best practices for video, Messenger, and other Facebook marketing channels.
 featuredpost: false
 featuredimage: /img/facebook-ad-best-practices-featured-image.jpg
 image: /img/facebook-ad-best-practices-featured-image.jpg
@@ -26,7 +25,7 @@ tags:
 seo_title: 8 Facebook Ad Best Practices You Should Know in 2019
 metadescription: 
 focus_keyphrase: facebook ad best practices
-seotitle: 8 Facebook Ad Best Practices for 2019
+seotitle: 8 Facebook Ad Best Practices You Should Know in 2019
 ---
 <!--StartFragment-->
 
@@ -66,7 +65,9 @@ We’ll see what the future holds. As for today, let’s see some of the best pr
 
 With today’s massive glut of content, users are trapped in a chase for their emotions.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Xickl5YZKUx68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scorpiondagger-scorpion-dagger-Xickl5YZKUx68">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Xickl5YZKUx68" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+
 
 Naturally, your duty is to wake users up and generate good emotions toward your company. This isn’t the only way to convert users into customers, but beyond doubt it’s the most effective.
 
@@ -92,9 +93,11 @@ Here are other Facebook video ad best practices:
 4. **Produce videos for mobile devices**. Over 50% of users watch videos via smartphones and tablets.
 5. **Add visuals**. Also, use attractive video editing techniques.
 
-To increase your conversions even more, you can use [automated Facebook video ads](http://softcube.com/) created with artificial intelligence.
+To increase your conversions even more, you can use [automated Facebook video ads](https://softcube.com/) created with artificial intelligence.
 
 Softcube artificial intelligence cuts original footage, chooses the best scenes from it, and compiles the final video ad with a packshot:
+
+<p><p align="center"><video id="video-1034-1_html5" class="wp-video-shortcode" autoplay="autoplay" loop="loop" width="640" height="360"><source type="video/mp4" src="https://video.softcube.com/media/267464eb20af45b7833faf2273fd55ed.mp4"></video></p></p>
 
 Thanks to the swiftness of this process, the Softcube AI can produce video ads at scale within a short time and for the cost of traditional image ads.
 
@@ -206,7 +209,7 @@ Nevertheless, static image advertising is still trendy, especially in the appare
 
 The first one is Collection — a grid that contains a cover image or video followed by up to four images. Every element is a separate card that can have its own link and description.  
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fconverse%2Fposts%2F10156534686309580&amp;width=500" width="500" height="688" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fconverse%2Fposts%2F10156534686309580&amp;width=500" width="500" height="688" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe>
 
 There are four types of [Collection ads](https://softcube.com/guide-to-facebook-collection-ads/), also called templates:  
 
@@ -217,7 +220,7 @@ There are four types of [Collection ads](https://softcube.com/guide-to-facebook-
 
 The second ad format you can use to highlight a few items simultaneously is Carousel.  
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBMW%2Fposts%2F10157233085797269&amp;width=500" width="500" height="570" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBMW%2Fposts%2F10157233085797269&amp;width=500" width="500" height="570" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe>
 
 [Carousel ads](https://softcube.com/how-to-show-carousel-ads-on-facebook/) can contain up to 10 image and video cards displayed one after another.  
 

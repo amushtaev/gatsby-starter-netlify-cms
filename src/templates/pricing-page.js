@@ -333,7 +333,7 @@ function FrequentlyAskedQuestions() {
             </QuestionPanel>
           ))}
         </AccordionWithMargin>
-        <Accordion animate={false} gap='24px' multiple>
+        <Accordion animate={false} gap='24px' multiple className='secondAccordion'>
           {QuestionsAnswersSecond[0].map((qa, index) => (
             <QuestionPanel
               key={`question:${qa.question}`}

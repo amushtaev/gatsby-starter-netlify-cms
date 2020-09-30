@@ -171,4 +171,4 @@ seotitle: How to Successfully Exit the Facebook Learning Phase
 <!-- /wp:video -->
 
 <!-- wp:paragraph -->
-<p>Like this ad produced by artificial intelligence? Use <a href="http://softcube.com">Softcube</a> to create a large number of video ads with AI in a few clicks and for the cost of image ads right now.</p>
+<p>Like this ad produced by artificial intelligence? Use <a href="https://softcube.com">Softcube</a> to create a large number of video ads with AI in a few clicks and for the cost of image ads right now.</p>

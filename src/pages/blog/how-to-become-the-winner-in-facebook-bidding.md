@@ -42,7 +42,7 @@ Let’s give an answer.
 
 Facebook bidding is an auction-based ad delivery system designed to find the best ad to show to a certain user at a certain moment.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMESHbV1KLGMsq4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-16-the-simpsons-16x8-xT5LMESHbV1KLGMsq4">via GIPHY</a></p>
+<iframe title="" style="max-width:480px; max-height:265px; width:100%; height:265px; min-height: 264px;" src="https://giphy.com/embed/xT5LMESHbV1KLGMsq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Billions of ad auctions are launched by millions of advertisers every day. Multiple businesses can simultaneously compete for the attention of people from the same target audience. How does Facebook determine the winner?
 
@@ -207,3 +207,11 @@ Thank you for reading our express guide. Have fun, enjoy the experience, and get
 To make your journey even more cheerful and less challenging, you can try the [Softcube artificial intelligence system](https://softcube.com/) to make video ads at scale.
 
 Bid with optimism and promote your products or services automatically. Good luck!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

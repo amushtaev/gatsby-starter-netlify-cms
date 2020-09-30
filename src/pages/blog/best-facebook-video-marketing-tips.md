@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: 8 Best Facebook Video Marketing Tips
 date: 2018-11-29T00:00:00.000Z
-description: Check out top Facebook video marketing tips, see attractive ad
-  examples, and learn how to make high-quality video ads in this special guide.
+description:
 featuredpost: false
 featuredimage: /img/facebook-video-marketing-tips-featured-image.jpg
 image: /img/facebook-video-marketing-tips-featured-image.jpg
@@ -20,13 +19,11 @@ tags:
   - video ads
   - video advertising
 seo_title: 8 Best Facebook Video Marketing Tips to Boost Your Sales
-metadescription: 
+metadescription: Check out top Facebook video marketing tips, see attractive ad examples, and learn how to make high-quality video ads in this special guide.
 focus_keyphrase: facebook video marketing tips
-seotitle: 8 Best Facebook Video Marketing Tips
+seotitle: 8 Best Facebook Video Marketing Tips to Boost Your Sales
 ---
 <!--StartFragment-->
-
-<script src="https://0ec8dc1fc179467d8f9052a5df6153cd.js.ubembed.com" async></script>
 
 **[Video marketing for Facebook](https://softcube.com/)** is like Cinématographe for the Lumière brothers — it’s a new opportunity for business expansion.
 
@@ -79,7 +76,7 @@ Naturally, you may start comparing image ads and video ads in your head. It seem
 
 Diversity is the key to successful video marketing on Facebook. The social media network offers a few video ad formats you can test and use simultaneously. 360-degree video is one of them.  
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDior%2Fvideos%2F946924365362229%2F&amp;show_text=1&amp;width=560" width="560" height="410" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNOVApbs%2Fvideos%2F10157114020712196%2F&show_text=1&width=560" width="560" height="477" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
 It creates a totally new watching experience, especially with VR glasses. Customers will be able to see your products from any side they want. In combination with an engaging cinematic background, 360-degree videos let viewers evoke the feeling of personal presence.  
 
@@ -105,13 +102,13 @@ Carousel and Collection are two ad formats that offer extraordinary ways of usin
 
 Using [this ad format](https://softcube.com/how-to-show-carousel-ads-on-facebook/), you can show up to 10 separate video ads at once. Every ad in a Carousel has its own description and link. Carousel is a handy tool for displaying several products at once, for instance during a sale or after a product release.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" frameborder="0" scrolling="no" align="center"></iframe>
 
 #### Collection
 
 Today, users buy mostly from their smartphones. Collection is a [Facebook ad format](https://softcube.com/how-to-select-types-of-facebook-ads/) that improves the mobile shopping experience by displaying a product video clip as an ad cover, followed by a set of product images.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCartier%2Fposts%2F10157707885347646&amp;width=500" width="500" height="688" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCartier%2Fposts%2F10157707885347646&amp;width=500" width="500" height="688" frameborder="0" scrolling="no" align="center"></iframe>
 
 ### Tip 7. Drive Leads from Instagram
 
@@ -136,4 +133,4 @@ Facebook video ads are worth trying — first of all, due to the diversity of av
 
 Don’t forget to create your videos at scale and design top-notch thumbnails for them. Remember about their quality and tags, and maybe try to find new customers on Instagram.
 
-You're also welcome to test our [artificial intelligence](http://softcube.com) for your Facebook ad campaign right now.
+You're also welcome to test our [artificial intelligence](https://softcube.com) for your Facebook ad campaign right now.

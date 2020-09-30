@@ -7,17 +7,17 @@ categories-slug:
   - tutorials
 title: "Google Ads (Ex-AdWords) vs. Facebook Ads: Which to Use?"
 date: 2019-01-29T00:00:00.000Z
-description: Choosing between Google Ads (formerly AdWords) and Facebook ads to
-  launch your advertising campaigns? Compare Facebook Ads vs. Google Ads in our
-  article.
+description:
 featuredpost: false
 featuredimage: /img/facebook-ads-vs-google-ads-featured-pic.jpg
 image: /img/facebook-ads-vs-google-ads-featured-pic.jpg
 tags:
   - AdWords
-  - ""
+  - Google Ads
+  - product ads
+  - video ads
 seo_title: "Facebook Ads vs. Google Ads (Ex-AdWords): How to Reach a Better ROI"
-metadescription: 
+metadescription: Choosing between Google Ads (formerly AdWords) and Facebook ads to launch your advertising campaigns? Compare Facebook Ads vs. Google Ads in our article.
 focus_keyphrase: Facebook Ads vs. Google Ads
 seotitle: "Facebook Ads vs. Google Ads (Ex-AdWords): How to Reach a Better ROI"
 ---
@@ -198,4 +198,4 @@ In this article, we listed the Facebook Ads and Google Ads differences, their ba
 
 Don’t forget to try AI-powered video advertising. Our artificial intelligence platform can produce one thousand video ads within a week and do it for an image-sized budget. Sound interesting?
 
-Test [Softcube AI](http://softcube.com) for your Facebook ads and Google Ads campaigns right now.
+Test [Softcube AI](https://softcube.com) for your Facebook ads and Google Ads campaigns right now.

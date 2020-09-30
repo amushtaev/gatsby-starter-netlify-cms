@@ -528,6 +528,14 @@ footer.footer
   width: inherit !important
   height: inherit !important
 
+.BlogRollRelated .is-for-mobile p
+  display: contents
+
+@media screen and (max-width: 400px)
+  .image_related
+    height: 122px
+    overflow: hidden
+
 .social a img
   padding-bottom: 12px !important
 
@@ -1072,6 +1080,43 @@ footer section.menu
 .column.back span
   padding-left: 12px
 
+.sliderSlick
+  display: flex
+  max-width: 1626px
+  width: 100%
+  position: relative
+.sliderSlick .slick-slide
+  padding: 0 12px !important
+.section.index .slick-list
+  display: flex
+  max-width: 1626px
+  width: 100%
+.slick-initialized .slick-slide
+  padding: 0 12px
+.sliderSlick .slick-active
+  margin: 0 24px
+.slick-dots
+  display: -webkit-box
+  display: -webkit-flex
+  display: -ms-flexbox
+  display: flex
+  padding: 15px 0 0 0
+  -webkit-box-pack: center
+  -webkit-justify-content: center
+  -ms-flex-pack: center
+  justify-content: center
+.slick-dots li
+  border: none
+  width: 12px
+  height: 12px
+  background: rgba(255,255,255,1)
+  border-radius: 50%
+  margin: 0 6px
+  cursor: pointer
+  padding: 0
+.slick-dots li button
+  display: none
+
 @media screen and (min-width: 780px) and (max-width: 1405px)
   .columns.footer_grid
     flex-direction: column
@@ -1164,6 +1209,10 @@ footer section.menu
 
 .is-for-mobile iframe
   width: 100% !important
+
+@media screen and (max-width: 768px)
+  .sliderSlick
+    width: 100%
 
 @import "~bulma"
 
@@ -2028,7 +2077,7 @@ footer section.menu
     font-weight: bold
 
   .image_related
-    height: 183px !important
+    height: 183px
     overflow: hidden
 
   .blog-list-item.with_background
@@ -2061,7 +2110,7 @@ footer section.menu
   .secondAccordion
     margin-top: 24px
 
-  .tile.is-child
+  .index.Posts .tile.is-child
     margin: 0 24px !important
 
   iframe, .giphy-embed, .iframe-video

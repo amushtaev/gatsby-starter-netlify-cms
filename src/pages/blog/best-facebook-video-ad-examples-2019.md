@@ -155,9 +155,9 @@ Tide even mocked a well-known Old Spice ad.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTide%2Fvideos%2F10155383889218231%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:380px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-And a good old Mr. Clean ad.
+And a typical Valentine’s Day ad.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTide%2Fvideos%2F10155383925033231%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:380px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTide%2Fvideos%2F10155409533383231%2F&show_text=true&width=734&height=502&appId" style="max-width:480px; max-height:480px; width:100%; height:380px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 It’s beautiful indeed. Like a meme in a meme.
 
@@ -212,7 +212,7 @@ Make it happen!
 
 Sometimes, displaying an ad isn’t so important as creating hype around it.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fskittles%2Fvideos%2F10156843551918475%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:400px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Best Facebook video ad examples — Skittles Marcos](best-facebook-video-ad-examples-skittles-marcos.jpg)
 
 Skittles didn’t spend its entire marketing budget on one person. Instead, by showing their standard process of testing an ad on a target group, they intrigued a Facebook live stream audience.  
 
@@ -237,10 +237,6 @@ When you think of a new high-quality ad, you should be cool in any circumstances
 Even if you’re waiting too long for your inspiration.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMercedesBenz%2Fvideos%2F10156589772916670%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:410px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-Your mind should be completely clear. Just like the interior filters in your car.
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMercedesBenz%2Fvideos%2F345545069609721%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:410px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 You should always trust your intuition and instincts, which can bring you priceless knowledge.
 

@@ -185,6 +185,6 @@ Instagram is growing by leaps and bounds. In the future, we’ll definitely see 
 
 In the meantime, thanks for being curious about Instagram ads.
 
-We appreciate your curiosity and would like you to know that you can test the [Softcube AI platform](http://softcube.com) and create lots of high-quality video ads.
+We appreciate your curiosity and would like you to know that you can test the [Softcube AI platform](https://softcube.com) and create lots of high-quality video ads.
 
 You can use these videos for any Instagram ad format. Don’t hesitate, and good luck with your business on Instagram!

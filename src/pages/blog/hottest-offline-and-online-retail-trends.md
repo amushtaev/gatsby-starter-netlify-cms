@@ -137,4 +137,4 @@ Video content is on the rise. Cisco reports that video will account for [82% of 
 
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/3a4c2dab734e5f673451fc2fd4374eac.mp4"></video></figure>
 
-What’s more, artificial intelligence platforms like [Softcube](http://softcube.com) made it easier, faster, and cheaper to make video ads. That’s one more reason to test this ad format for your retail business.
+What’s more, artificial intelligence platforms like [Softcube](https://softcube.com) made it easier, faster, and cheaper to make video ads. That’s one more reason to test this ad format for your retail business.

@@ -215,7 +215,7 @@ Post video content on the News Feed and launch video ad campaigns. 
 
 Also, don’t forget to add a cover video for your page. A cover video will make your page more vivid and alive than a cover image.
 
-<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/YLsNzJxDs3dMy9rhbg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/YLsNzJxDs3dMy9rhbg">via GIPHY</a></p>
+<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/YLsNzJxDs3dMy9rhbg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Note that your video should be at least 820x312 pixels. For the best results, Facebook recommends picking an 820x462 video. The recommended length for your cover video is 20 to 90 seconds.
 
@@ -247,7 +247,7 @@ Another way to grow your Facebook community is to [create Facebook ads](https://
 
 The first way is to reach more people by boosting News Feed posts. Click **Boost Post** under a post you want to promote, set your ad campaign settings, and you’re good to go.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAmazonPrimeVideo%2Fvideos%2F939250066448132%2F&amp;show_text=1&amp;width=476" width="476" height="587" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
+<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:587px; min-height: 587px;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAmazonPrimeVideo%2Fvideos%2F939250066448132%2F&amp;show_text=1&amp;width=476" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The second way to reach more people is by launching [Page likes ads](https://www.facebook.com/business/help/507612906001199?id=2223788217707136) to get some likes for your Page. To do that, click Promote on the left side of your Page.
 
@@ -262,3 +262,11 @@ We hope you liked the Facebook Page examples we linked to in our post.
 To attract more users to your own Page, use more [high-quality video content](https://softcube.com/), communicate with your community more often, test paid ads, and publish a lot of diverse and captivating content.
 
 And don’t be shy to share more of the best Pages to follow on Facebook in the comments.
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

@@ -7,8 +7,7 @@ categories-slug:
   - video-ads
 title: 70 Video Marketing Statistics for 2020
 date: 2019-10-30T00:00:00.000Z
-description: Discover the latest video marketing statistics to see which
-  advertising platforms you should use to promote your business with video ads.
+description:
 featuredpost: false
 featuredimage: /img/video-marketing-statistics-featured-image.jpg
 image: /img/video-marketing-statistics-featured-image.jpg
@@ -20,9 +19,9 @@ tags:
   - YouTube ads
   - statistics
 seo_title: 70 Surprising Video Marketing Statistics for 2020 You Must Know
-metadescription: 
+metadescription: Discover the latest video marketing statistics to see which advertising platforms you should use to promote your business with video ads.
 focus_keyphrase: video marketing statistics
-seotitle: 70 Video Marketing Statistics for 2020
+seotitle: 70 Surprising Video Marketing Statistics for 2020 You Must Know
 ---
 <!--StartFragment-->
 
@@ -140,5 +139,7 @@ Did you know that users post nearly [400 million Snapchat Stories](https://www.p
 As you can see from these statistics, video marketing has something to offer. However, the offers don’t end there.
 
 Keep in mind that the ad you see above was created by artificial intelligence.
+
+<p align="center"><video id="video-1034-1_html5" class="wp-video-shortcode" autoplay="autoplay" loop="loop" width="640" height="360"><source type="video/mp4" src="https://video.softcube.com/media/7ddd6215a0c24690b497520c0abe2fd6.mp4"></video></p>
 
 And we’d like you to know that you can test [Softcube artificial intelligence](https://softcube.com) to advertise your own business.

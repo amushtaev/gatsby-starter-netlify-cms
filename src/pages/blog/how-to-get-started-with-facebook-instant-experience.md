@@ -192,7 +192,7 @@ You can see a report that includes the number of taps on your Instant Experience
 
 ### Don’t Go Too Far with Video
 
-It’s no secret that [video advertising](http://softcube.com/) is one of the best ways to attract users’ attention nowadays.
+It’s no secret that [video advertising](https://softcube.com/) is one of the best ways to attract users’ attention nowadays.
 
 However, Facebook doesn’t recommend posting more than one auto-play video in an Instant Experience. And it makes sense. 
 
@@ -266,6 +266,6 @@ What is Instant Experience on Facebook?
 
 An Instant Experience is an amazing opportunity to take time by the forelock. Thanks to lightning-fast loading speed as well as massive storytelling and customization opportunities, Instant Experiences have everything you need to impress your target audience with high-quality mobile ads.
 
-In the end, we have just one more question for you. Would you like to upgrade your Instant Experience ads with [artificial intelligence](http://softcube.com)?
+In the end, we have just one more question for you. Would you like to upgrade your Instant Experience ads with [artificial intelligence](https://softcube.com)?
 
 The Facebook video ad you see above was made with AI. Like it? Test Softcube AI and make yours!

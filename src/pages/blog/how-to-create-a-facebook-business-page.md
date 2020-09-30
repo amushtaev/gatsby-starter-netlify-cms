@@ -7,8 +7,7 @@ categories-slug:
   - tutorials
 title: How to Create a Facebook Business Page in 5 Steps
 date: 2019-05-24T00:00:00.000Z
-description: Learn how to create a Facebook Business Page and start using your
-  account to launch effective ad campaigns with no mistakes.
+description:
 featuredpost: false
 featuredimage: /img/create-a-facebook-business-page-feature-image.jpg
 image: /img/create-a-facebook-business-page-feature-image.jpg
@@ -19,7 +18,7 @@ tags:
   - boosted posts
   - video ads
 seo_title: 5 Simple Steps to Create a Facebook Business Page
-metadescription: 
+metadescription: Learn how to create a Facebook Business Page and start using your account to launch effective ad campaigns with no mistakes.
 focus_keyphrase: create a facebook business page
 seotitle: 5 Simple Steps to Create a Facebook Business Page
 ---
@@ -281,6 +280,8 @@ Video is the best way to promote or sell anything. Not to mention that producing
 
 Today, artificial intelligence like [Softcube](https://softcube.com/) is able to automatically scan a video, cut the best parts from it, and add visuals and a product packshot to compile a high-quality video ad:
 
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/7d079d8647803412528a3f2f3ccbe10d.mp4"></video></figure>
+
 Marketers and advertisers don’t have to hire specialists to edit and render their footage. Automation allows anyone with an image-sized budget to produce professional video ads at scale.
 
 ## Open a New Page for Your Online Business
@@ -291,4 +292,4 @@ Let your ad campaigns on Facebook attract as many leads as you need.
 
 Want to boost your conversions with AI-powered video marketing?
 
-You’re welcome to test [Softcube artificial intelligence](http://softcube.com) for your business right now.
+You’re welcome to test [Softcube artificial intelligence](https://softcube.com) for your business right now.

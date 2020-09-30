@@ -7,9 +7,7 @@ categories-slug:
   - instagram-ads
 title: The Complete Guide to Instagram Stories Ads
 date: 2020-01-30T00:00:00.000Z
-description: Learn everything you need to know about Instagram Stories Ads,
-  including best practices and ad specifications, plus get post ideas, examples,
-  and freebies.
+description:
 featuredpost: false
 featuredimage: /img/instagram-stories-ads-featured-image.jpg
 image: /img/instagram-stories-ads-featured-image.jpg
@@ -19,7 +17,7 @@ tags:
   - storytelling
   - ad type
 seo_title: How to Become the Best Storyteller with Instagram Stories Ads
-metadescription: 
+metadescription: Learn everything you need to know about Instagram Stories Ads, including best practices and ad specifications, plus get post ideas, examples and freebies.
 focus_keyphrase: instagram stories ads
 seotitle: How to Become the Best Storyteller with Instagram Stories Ads
 ---
@@ -29,7 +27,7 @@ seotitle: How to Become the Best Storyteller with Instagram Stories Ads
 
 That’s perhaps one of the most common questions today and might be throughout the decade.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/oWi1ED7Sw22PK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/classic-film-oWi1ED7Sw22PK">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/oWi1ED7Sw22PK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Instagram is all about getting attention. As of June 2018, this social networking service had more than [one billion monthly active users](https://www.statista.com/statistics/253577/number-of-monthly-active-instagram-users/) worldwide.
 
@@ -221,19 +219,19 @@ We highly recommend you visit [this case study library](https://business.instagr
 
 ### **[DFS UK](https://business.instagram.com/success/dfs-uk/)**
 
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/W6cbxb3NuePgvoeEYW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/W6cbxb3NuePgvoeEYW">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/W6cbxb3NuePgvoeEYW" width="237" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 **[Yoga International](https://business.instagram.com/success/yoga-international/)**
 
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/igV317AUzip8oNRork" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/igV317AUzip8oNRork">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/igV317AUzip8oNRork" width="237" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### [The Walt Disney Company France](https://business.instagram.com/success/disney-france/)
 
-<div style="width:100%;height:0;padding-bottom:204%;position:relative;"><iframe src="https://giphy.com/embed/m93R2sZTshqOOwzXYf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/m93R2sZTshqOOwzXYf">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/m93R2sZTshqOOwzXYf" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### [Chantelle Lingerie](https://business.instagram.com/success/chantelle-lingerie/)
 
-<div style="width:100%;height:0;padding-bottom:190%;position:relative;"><iframe src="https://giphy.com/embed/gKZVgHr1IeZ4WdpHkv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gKZVgHr1IeZ4WdpHkv">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/gKZVgHr1IeZ4WdpHkv" width="253" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ## Create Instagram Stories Ads Using AI
 
@@ -241,4 +239,6 @@ Now you know how to create Instagram Story ads and make them work for your busin
 
 Have ideas for your first Stories?
 
-Use [Softcube artificial intelligence technology](http://softcube.com) and achieve your marketing objectives faster. Good luck!
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/237908189eb65a642869912b3f318742.mp4"></video></figure>
+
+Use [Softcube artificial intelligence technology](https://softcube.com) and achieve your marketing objectives faster. Good luck!

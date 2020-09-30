@@ -45,7 +45,7 @@ Another [survey from 2018 published on eMarketer](https://www.emarketer.com/char
 
 Interestingly, some people hate advertising so much they want to buy freedom from it. According to Statista, [33% of US consumers surveyed in September 2017](https://www.statista.com/statistics/760619/us-consumers-willing-pay-more-services-without-ads/) were ready to pay more for services if they didn’t have ads.
 
-<iframe src="https://giphy.com/embed/d2YZzTQvyoNYf9YI" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://giphy.com/embed/d2YZzTQvyoNYf9YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 No matter what, bad marketing examples always give food for thought. 
 
@@ -63,13 +63,13 @@ On April 23, 1985, Roberto Goizueta, the CEO of Coca-Cola, introduced a new form
 
 In this TV commercial, Coca-Cola marketers told about a taste test conducted by an independent research firm which showed that “more people all around the country” chose New Coke over Pepsi in a taste test:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QkfFdQ1yaqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://www.youtube.com/embed/QkfFdQ1yaqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Surprisingly, consumers changed their opinion soon after New Coke was released. And the best part? People didn’t want Pepsi. They wanted the classic taste of Coca-Cola back.
 
 In June 1985, Coca-Cola was forced to launch a mea culpa commercial where Ron Keough, the president of Coca-Cola, told about thousands of phone calls and letters from customers who wanted to go back to the classic taste.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nqir3-NXqG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://www.youtube.com/embed/Nqir3-NXqG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 We might assume this wasn’t a failure but actually a cunning plan to succeed — after turning back, Classic Coca-Cola not only outsold New Coke within several months but even strengthened its position in the market and went ahead of Pepsi.
 
@@ -79,7 +79,7 @@ Nevertheless, the fact is that you should always think twice before changing you
 
 Released in 2017, this Pepsi YouTube commercial featuring American model Kendall Jenner made one of the world’s top beverage brands officially apologize to their customers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uwvAgDCOdU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://www.youtube.com/embed/uwvAgDCOdU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 After viewers saw how PepsiCO switched the view from young protesters and a woman in a hijab to a model handing a Pepsi can to a police officer, the food and beverage corporation faced strong criticism for using the Black Lives Matter movement as a reason to advertise one of their products. 
 
@@ -96,7 +96,7 @@ Just as Pepsi failed to stand with protesters, Dove failed to celebrate the beau
 
 After posting a three-second Facebook video ad in October 2017, Dove faced a PR disaster after demonstrating a black woman turning white.
 
-<iframe src="https://giphy.com/embed/Uq54ajLgpC2SNGKwXf" width="480" height="395" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/Uq54ajLgpC2SNGKwXf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 As a result of one of the most unsuccessful advertising campaigns Facebook has ever known, social media users in the United States and Europe urged a boycott of Dove products and compared Dove marketing with racist 1880s posters.
 
@@ -105,7 +105,7 @@ As a result of one of the most unsuccessful advertising campaigns Facebook has e
 
 In the end, Dove deleted their post and made a statement about it:
 
-<p style="text-align: center;"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDoveUS%2Fposts%2F1493719354007207&amp;width=500" width="500" height="212" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></p>
+<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDoveUS%2Fposts%2F1493719354007207&amp;width=500" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Want to succeed in advertising today? Celebrate the diversity of your audience wisely!
 
@@ -115,3 +115,10 @@ In January 2018, H&M appeared at the center of a racism scandal caused by a prin
 
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://softcube.com/wp-content/uploads/2020/06/bad-advertising-examples-h-m-1024x646.jpg" alt="Bad advertising examples — H&amp;M" class="wp-image-3527"/></figure></div>
 
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

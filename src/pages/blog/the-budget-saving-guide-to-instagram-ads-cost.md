@@ -54,7 +54,7 @@ Say you advertise an apparel brand. Your ads will be more expensive than ads pos
 
 ### Cost Driver #2 — Location
 
-Economics and financial solvency also affect the Instagram promotion price. In the fourth quarter of 2017, the average CPC in Vietnam amounted to $3.73, while the average CPC in Liechtenstein was $1.37 [according to Statista](http://statista.com/statistics/872579/cost-per-click-on-instagram-countries/).
+Economics and financial solvency also affect the Instagram promotion price. In the fourth quarter of 2017, the average CPC in Vietnam amounted to $3.73, while the average CPC in Liechtenstein was $1.37 [according to Statista](https://statista.com/statistics/872579/cost-per-click-on-instagram-countries/).
 
 ### Cost Driver #3 — Audience
 

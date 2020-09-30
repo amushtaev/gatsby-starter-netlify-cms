@@ -135,4 +135,4 @@ Click [here](https://www.facebook.com/business/ads-guide/image/facebook-marketpl
 
 Planning to use video content for your Facebook Marketplace ads? Create them at scale with minimum human interaction at the cost of image ads!
 
-Take advantage of [Softcube artificial intelligence](http://softcube.com/) to produce high-quality advertising videos, save your budget, and get higher conversions.
+Take advantage of [Softcube artificial intelligence](https://softcube.com/) to produce high-quality advertising videos, save your budget, and get higher conversions.

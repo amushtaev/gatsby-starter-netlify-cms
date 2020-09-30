@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: 4 Powerful Benefits of Facebook Video Ads
 date: 2018-10-10T00:00:00.000Z
-description: Want to know the benefits of Facebook video ads? Learn the
-  advantages of video advertisement on the world’s most popular social media
-  platform in our guide.
+description:
 featuredpost: false
 featuredimage: /img/benefits-of-facebook-video-ads-featured-image.jpg
 image: /img/benefits-of-facebook-video-ads-featured-image.jpg
@@ -18,7 +16,7 @@ tags:
   - video ad campaigns
   - artificial intelligence
 seo_title: How Can Video Ads Improve Your Performance on Facebook?
-metadescription: 
+metadescription: Want to know the benefits of Facebook video ads? Learn the advantages of video advertisement on the world’s most popular social media platform in our guide.
 focus_keyphrase: benefits of facebook video ads
 seotitle: How Can Video Ads Improve Your Performance on Facebook?
 ---
@@ -32,7 +30,7 @@ Why use video ads on Facebook? According to Forbes, over [500 million users](htt
 
 ## What Are The Benefits of Facebook Video Ads?
 
-There are five main benefits of video advertising on Facebook.
+There are four main benefits of video advertising on Facebook.
 
 ### Benefit 1. The Most Attention-Grabbing Ad Format
 
@@ -112,8 +110,8 @@ Facebook offers the following recommendations to capture maximum attention from 
 
 Facebook video ads are a fast-growing content marketing tool. Still, many companies face problems when using them. The trick is that you have to produce a huge amount of video if you want to derive the most benefit from video ads on Facebook.
 
-Not every company has enough time, energy, and resources to do that. According to a report by [Ascend2](http://research.ascend2.com/video-marketing-strategy/), 64% of advertisers consider video ads the most difficult type of content to create.
+Not every company has enough time, energy, and resources to do that. According to a report by [Ascend2](https://research.ascend2.com/video-marketing-strategy/), 64% of advertisers consider video ads the most difficult type of content to create.
 
 For this reason, we’ve developed an artificial intelligence system that can help you to create high-quality video ads without a camera or photographer. Sound interesting?
 
-Test our [AI platform](http://softcube.com) for your Facebook ad campaign right now.
+Test our [AI platform](https://softcube.com) for your Facebook ad campaign right now.

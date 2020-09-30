@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: 6 Tips to Create Successful Facebook Ads for Real Estate
 date: 2019-05-20T00:00:00.000Z
-description: Learn how to launch Facebook ads for real estate wisely. Read
-  recommendations and get advertising inspiration from ten great examples.
+description:
 featuredpost: false
 featuredimage: /img/facebook-ads-for-real-estate-featured-image.jpg
 image: /img/facebook-ads-for-real-estate-featured-image.jpg
@@ -21,7 +20,7 @@ tags:
   - Dynamic Ads
   - Realtors
 seo_title: 6 Tips to Create Facebook Ads for Real Estate [with Examples]
-metadescription: 
+metadescription: Learn how to launch Facebook ads for real estate wisely. Read recommendations and get advertising inspiration from ten great examples.
 focus_keyphrase: facebook ads for real estate
 seotitle: 6 Tips to Create Facebook Ads for Real Estate [with Examples]
 ---
@@ -220,7 +219,7 @@ Compared to standard Dynamic Ads, they have unique options to present your prope
 
 Carousel Ads is an ad format that allows you to [display up to 10 images or videos](https://softcube.com/how-to-show-carousel-ads-on-facebook/) in a single post.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgulfsothebysrealty%2Fposts%2F1078265879029399&amp;width=500" width="500" height="551" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fremax%2Fposts%2F10160230685154418&show_text=true&width=552&height=533&appId" width="552" height="533" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" align="center"></iframe>
 
 Every card in a Carousel ad has its own image, headline, link, and button. This gives you great options for demonstrating:  
 
@@ -351,6 +350,8 @@ The world’s top social media network offers amazing opportunities to brokers, 
 
 There are various ad types, targeting options, placements, and tools that can be effective for achieving different marketing objectives on Facebook and beyond.
 
-If you’d like to get better results using video ads, start by testing [Softcube artificial intelligence](http://softcube.com) platform.
+<video muted="" loop="" poster="https://s3.eu-central-1.amazonaws.com/s-http-public/video_offers/img/photo_2019-04-02_12-55-07.jpg" playsinline="https://s3.eu-central-1.amazonaws.com/s-http-public/video_offers/img/photo_2019-04-02_12-55-07.jpg" id="video_01" width="100%" height="100%"><source src="https://s3.eu-central-1.amazonaws.com/s-http-public/pacificunion_480x480.webm" type="video/webm; codecs=vp9,vorbis"><source src="https://s3.eu-central-1.amazonaws.com/s-http-public/video_offers-s/pacificunion_480x480_1.mp4" type="video/mp4"></video>
+
+If you’d like to get better results using video ads, start by testing [Softcube artificial intelligence](https://softcube.com) platform.
 
 All the best with your real estate business!

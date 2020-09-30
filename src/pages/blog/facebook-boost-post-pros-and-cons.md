@@ -145,7 +145,7 @@ Check out the full list of placements available in Ads Manager [here](https://so
 
 ### Targeting
 
-When you boost your timeline posts, you can only target people by location and age, people who like your Page, people who like your Page and those people’s friends, people in your local area, and [Custom Audiences](http://softcube.com/guide-to-facebook-custom-audiences/).
+When you boost your timeline posts, you can only target people by location and age, people who like your Page, people who like your Page and those people’s friends, people in your local area, and [Custom Audiences](https://softcube.com/guide-to-facebook-custom-audiences/).
 
 ![Facebook boost post — detailed targeting](/img/facebook-boost-post-detailed-targeting.jpg)
 

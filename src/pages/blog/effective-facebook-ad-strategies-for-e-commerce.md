@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: 7 Effective Facebook Ad Strategies for E-Commerce
 date: 2019-08-05T00:00:00.000Z
-description: Want to sell more with Facebook advertising? Learn how to boost
-  sales using automated video ads and choose your e-commerce Facebook ads
-  strategy.
+description:
 featuredpost: false
 featuredimage: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
 image: /img/e-commerce-facebook-ads-strategy-featured-image.jpg
@@ -22,9 +20,9 @@ tags:
   - Messenger
   - video ads
 seo_title: How to Choose the Right E-Commerce Facebook Ads Strategy
-metadescription: 
+metadescription: Want to sell more with Facebook advertising? Learn how to boost sales using automated video ads and choose your e-commerce Facebook ads strategy.
 focus_keyphrase: e-commerce facebook ads strategy
-seotitle: 7 Effective Facebook Ad Strategies for E-Commerce
+seotitle: How to Choose the Right E-Commerce Facebook Ads Strategy
 ---
 <!--StartFragment-->
 
@@ -88,7 +86,7 @@ Long story short, more and more great features are coming. If you’re looking f
 
 When it comes to e-commerce, Facebook advertising strategies are necessary for promoting any business.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dUJxUPSkmZBqE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/idea-epiphany-dUJxUPSkmZBqE">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/dUJxUPSkmZBqE" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Remember that you need to [set up a Facebook Pixel](https://softcube.com/how-to-create-a-facebook-pixel/) on your website to track conversions and do lots of other marketing things.
 
@@ -254,7 +252,7 @@ What could be better for telling a story than one advertising image (except for 
 
 Marketers love [Carousel Ads](https://softcube.com/how-to-show-carousel-ads-on-facebook/) because they can contain up to ten image cards with their own headlines and links.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FIKEAUSA%2Fposts%2F10158742333768066&amp;width=500" width="500" height="519" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FIKEAUSA%2Fposts%2F10158742333768066&amp;width=500" width="500" height="519" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe>
 
 Carousels are used to promote a few products at the same time or to tell a complete story about one product or collection.
 
@@ -356,7 +354,7 @@ There are several ways to find new leads, but Lead Ads is probably the most accu
 
 There are at least three ad types that can help you save time and resources: Automated Ads, Dynamic Ads, and AI-powered video ads.
 
-By the way, if you want to boost conversions with automated video ads, test our [artificial intelligence platform](http://softcube.com) now.
+By the way, if you want to boost conversions with automated video ads, test our [artificial intelligence platform](https://softcube.com) now.
 
 Keep in mind that you can sell products directly in a Facebook Shop and promote any discounts and deals with Offer Ads.
 

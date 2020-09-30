@@ -26,11 +26,7 @@ seotitle: Why Do People Love to Spread Viral Marketing Campaigns?
 <p>We all have it inside us: a quiet voice that constantly reminds us that we need to find the best way to market our business and make it famous. Because when a company or startup comes to prominence, it converts, it sells, and it evolves into something big.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://giphy.com/gifs/arrogant-anchorman-erldqIniuBYo8","type":"photo","providerNameSlug":"giphy"} -->
-<figure class="wp-block-embed is-type-photo is-provider-giphy"><div class="wp-block-embed__wrapper" align="center">
-https://giphy.com/gifs/arrogant-anchorman-erldqIniuBYo8
-</div></figure>
-<!-- /wp:embed -->
+<iframe src="https://giphy.com/gifs/arrogant-anchorman-erldqIniuBYo8" style="max-width:480px; max-height:290px; width:100%; height:288px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <!-- wp:paragraph -->
 <p>With the advent of the internet and social media, information spreads like a virus. Going big means going viral, being famous means being viral, and prominence means virality.</p>
@@ -144,11 +140,7 @@ https://giphy.com/gifs/arrogant-anchorman-erldqIniuBYo8
 <p>In 2005, OK Go, an American rock band, recorded a low-budget homemade video for their song <a href="https://www.youtube.com/watch?v=M1_CLW-NNwc"><em>A Million Ways</em></a>. Originally, they sent it to some of their friends who uploaded it to video hosting website iFilm where it was downloaded hundreds of thousands of times. This was many times the number of copies OK Go sold of their first song after touring and promoting it on the radio.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=dTAAsCNK7RA","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper" align="center">
-https://www.youtube.com/watch?v=dTAAsCNK7RA
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe title=""style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/dTAAsCNK7RA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- wp:paragraph -->
 <p>After recording the <a href="https://www.youtube.com/watch?v=dTAAsCNK7RA"><em>Here It Goes Again</em></a><em> </em>official music video based on the same simple concept, OK Go’s label uploaded it to YouTube in 2006. Within a single day, the video reached 900,000 views.</p>
@@ -219,7 +211,7 @@ https://www.youtube.com/watch?v=dTAAsCNK7RA
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Video is one of the most beneficial ways to make your content viral. If you have some footage you want to go viral, use <a href="http://softcube.com">Softube AI</a> to edit it like a pro with no human intervention.</p>
+<p>Video is one of the most beneficial ways to make your content viral. If you have some footage you want to go viral, use <a href="https://softcube.com">Softube AI</a> to edit it like a pro with no human intervention.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:video {"align":"center"} -->
@@ -233,3 +225,12 @@ https://www.youtube.com/watch?v=dTAAsCNK7RA
 <!-- wp:paragraph -->
 <p>Thanks for reading our tutorial. May your content go viral!</p>
 <!-- /wp:paragraph -->
+
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

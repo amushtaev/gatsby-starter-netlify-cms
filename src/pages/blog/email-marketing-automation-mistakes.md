@@ -7,9 +7,7 @@ categories-slug:
   - tutorials
 title: 5 Email Marketing Automation Mistakes
 date: 2019-09-16T00:00:00.000Z
-description: Email marketing automation requires attention to detail. Want to
-  make sure you nail it every time? Avoid these five email marketing automation
-  mistakes.
+description:
 featuredpost: false
 featuredimage: /img/email-marketing-mistakes-featured-image.jpg
 image: /img/email-marketing-mistakes-featured-image.jpg
@@ -17,9 +15,9 @@ tags:
   - email advertising
   - email marketing
 seo_title: 5 Email Marketing Automation Mistakes You Need Avoid
-metadescription: 
+metadescription: Email marketing automation requires attention to detail. Want to make sure you nail it every time? Avoid these five email marketing automation mistakes.
 focus_keyphrase: email marketing mistakes
-seotitle: 5 Email Marketing Automation Mistakes
+seotitle: 5 Email Marketing Automation Mistakes You Need Avoid
 ---
 <!--StartFragment-->
 
@@ -167,13 +165,13 @@ Take into consideration the **technical side** of email sending:
 If your email passes the spam filters, recipients might still **mark your emails as spam** in these cases:  
 
 - The prospect didn’t give consent to receive emails. This doesn’t automatically dismiss cold emailing — just make sure you don’t come across as too familiar in your first email, and provide detailed information on the reason you are emailing.  
-    
+  
 - No unsubscribe option. Always provide a way for the recipient to opt-out of your emails. Failing to do so will cause negative feelings and a hit to your sender reputation after multiple spam complaints.  
-    
+  
 - Overly frequent emails. We’ve already mentioned this in the previous paragraph, but email frequency affects how happy the recipient is to see an email from you in their inbox, so choose it carefully.  
-    
+  
 - Unclear sender name and/or a misleading subject line. Make sure your sender name contains your company name to make it more trustworthy, and never mislead your recipient with a clickbait-y subject line only to fail to deliver what was promised in the email itself. Recipients don’t take kindly to such tricks.  
-    
+  
 - Bad email design or formatting. Yep, even such small things as an email that looks slapped together design-wise can trigger distrust in a recipient. Use a good HTML template or stick to plain-text to avoid such mishaps.
 
 ### Send an email sequence as one thread 
@@ -224,25 +222,25 @@ To do this, follow the following tips:
 
 - Use personalization variables wisely, adding just enough to make emails more appealing and human-like.  
       
-    
+  
 - Stick to the email length comfortable for the recipients according to your niche, buyer persona, and product.  
       
-    
+  
 - Be goal-oriented: set one goal for one email campaign, stick to one CTA, avoid distracting the reader. Simplicity is good.  
       
-    
+  
 - Define the email frequency best for your niche: research and experiment.  
       
-    
+  
 - Verify the list of recipients regularly (at least every 6 months). This will help keep deliverability and sender reputation high.  
       
-    
+  
 - Send emails as one thread for human-like feel and frequency control.  
       
-    
+  
 - Send emails from a dedicated IP address and have a separate email address for marketing, transactional, newsletter, and other emails.  
       
-    
+  
 - Analyze campaign performance concentrating on your goal, not all statistics.
 
 Happy sending!

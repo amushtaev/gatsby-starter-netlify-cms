@@ -89,7 +89,7 @@ Here are four types of ads you can launch on Messenger:
 
 Ads in the Messenger Inbox will encourage people from your target audience to start a conversation with your business by appearing in the Chats tab of the Messenger app. 
 
-<div style="width:100%;height:0;padding-bottom:205%;position:relative;"><iframe src="https://giphy.com/embed/MbAUFfYbEg95QIaeNL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/MbAUFfYbEg95QIaeNL">via GIPHY</a></p>
+<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/MbAUFfYbEg95QIaeNL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Another huge benefit you get with this Messenger ad format is that it can help you be in the limelight for a large number of people so they’ll keep your business in mind.
 
@@ -106,7 +106,7 @@ After users stumble on an ad in their inbox and tap on it, they’re directed to
 
 Having first appeared on Instagram and Facebook, [Stories ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) are now also available on Messenger.
 
-<div style="width:100%;height:0;padding-bottom:202%;position:relative;"><iframe src="https://giphy.com/embed/QBWzHQmf0XQ32PnnCz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/QBWzHQmf0XQ32PnnCz">via GIPHY</a></p>
+<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/QBWzHQmf0XQ32PnnCz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Powered by [Instant Experience](https://softcube.com/how-to-get-started-with-facebook-instant-experience/), Messenger Stories ads allow you to spark users’ interest with an appealing, dynamic, and captivating visual narrative about your company, products, and services.
 
@@ -121,7 +121,7 @@ After people tap on a call-to-action button on your Story ad, they’re driven t
 
 Facebook reports that click to Messenger ads is one of the [fastest-growing ad formats](https://www.facebook.com/business/news/insights/5-reasons-messaging-is-taking-flight-with-travelers). This format allows you to hook the attention of customers on Messenger, Instagram, and Facebook and then chat with them one-on-one after they tap the ad.
 
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/XGVemHE9kNl58efqVm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/XGVemHE9kNl58efqVm">via GIPHY</a></p>
+<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/XGVemHE9kNl58efqVm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Best Practices for Messenger Stories Ads:**
 
@@ -133,7 +133,7 @@ Facebook reports that click to Messenger ads is one of the [fastest-growing ad f
 
 Using sponsored Messenger ads is one of the best Messenger retargeting techniques. With this advertising format, you can contact Messenger users you’ve already engaged with by sending highly personalized offers they’re likely to be interested in.
 
-<div style="width:100%;height:0;padding-bottom:202%;position:relative;"><iframe src="https://giphy.com/embed/d8VewvkMFMrXsi5ZwJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/d8VewvkMFMrXsi5ZwJ">via GIPHY</a></p>
+<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/d8VewvkMFMrXsi5ZwJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Best Practices for Messenger Sponsored Ads:**
 
@@ -196,7 +196,7 @@ As Pablo Picasso once said, _Good artists copy, great artists steal._
 
 But how would he respond to one of the best Facebook Messenger ad examples ever?
 
-<div style="width:100%;height:0;padding-bottom:177%;position:relative;"><iframe src="https://giphy.com/embed/JUFuSFsgD1tZOgW0jU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/JUFuSFsgD1tZOgW0jU">via GIPHY</a></p>
+<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/JUFuSFsgD1tZOgW0jU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The [Pablo Picasso Messenger bot](https://www.facebook.com/business/inspiration?show=27%2F09%2F2018-National-Geographic) received lots of responses from fans of the Genius series by National Geographic.
 
@@ -212,6 +212,14 @@ We hope you’ll have a lot of fun gaining insights and inspiration for your adv
 
 Now that you know how to make Messenger ads, we have news for you.
 
-You can save and launch your video Messenger marketing campaign with [Softcube artificial intelligence](http://softcube.com/).
+You can save and launch your video Messenger marketing campaign with [Softcube artificial intelligence](https://softcube.com/).
 
 Good luck with your messaging!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

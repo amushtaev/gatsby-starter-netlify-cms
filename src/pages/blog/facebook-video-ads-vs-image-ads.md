@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: "Facebook Video Ads vs. Image Ads: Which to Shoot?"
 date: 2018-11-27T00:00:00.000Z
-description: This article compares Facebook video ads vs. photo ads. Learn the
-  costs and advantages of video and image advertising on the world's top social
-  media.
+description:
 featuredpost: false
 featuredimage: /img/facebook-video-ads-vs-image-ads-featured-image.jpg
 image: /img/facebook-video-ads-vs-image-ads-featured-image.jpg
@@ -21,7 +19,7 @@ tags:
   - video marketing
   - image marketing
 seo_title: "Video Ads vs. Photo Ads: What Converts Better on Facebook?"
-metadescription: 
+metadescription: This article compares Facebook video ads vs. photo ads. Learn the costs and advantages of video and image advertising on the world's top social media.
 focus_keyphrase: facebook video ads vs. image ads
 seotitle: "Video Ads vs. Photo Ads: What Converts Better on Facebook?"
 ---
@@ -125,4 +123,4 @@ If you’re facing the video or photo for Facebook ads dilemma and can’t make 
 
 The perfect strategy is choosing both types of ads with a focus on one. We’ve mentioned the advantages and disadvantages and said a few words about the cost, so it’s up to you which ad format to choose.
 
-Just remember that video content isn’t so expensive and hard to make any more. If you need some advice on how to start creating videos using the [Softcube artificial intelligence](http://softcube.com) for your Facebook ad campaign right now.
+Just remember that video content isn’t so expensive and hard to make any more. If you need some advice on how to start creating videos using the [Softcube artificial intelligence](https://softcube.com) for your Facebook ad campaign right now.

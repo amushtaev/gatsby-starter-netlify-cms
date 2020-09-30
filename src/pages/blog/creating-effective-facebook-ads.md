@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: creating effective facebook ads
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,8 +6,7 @@ categories-slug:
   - facebook-ads
 title: 10 Tricks for Creating Effective Facebook Ads
 date: 2019-02-18T00:00:00.000Z
-description: Become the master of creating effective Facebook ads and launch an
-  ad campaign that increases conversions. Read the 10 hottest tips now.
+description: ./
 featuredpost: false
 featuredimage: /img/creating-effective-facebook-ads-featured-image.jpg
 image: /img/creating-effective-facebook-ads-featured-image.jpg
@@ -17,16 +15,20 @@ tags:
   - Facebook ad formats
   - Facebook Blueprint
   - video ad campaigns
-seo_title: 10 Tips for Creating an Effective Facebook Ad Campaign
-metadescription: 
+focuskeyphrase: creating effective facebook ads
+ctabutton: Try for free
 focus_keyphrase: creating effective facebook ads
-seotitle: 10 Tricks for Creating Effective Facebook Ads
+seo_title: 10 Tips for Creating an Effective Facebook Ad Campaign
+seotitle: 10 Tips for Creating an Effective Facebook Ad Campaign
+metadescription: Become the master of creating effective Facebook ads and launch
+  an ad campaign that increases conversions. Read the 10 hottest tips now.
+ctatext: Start creating promotional video for facebook
 ---
 <!--StartFragment-->
 
 Knowing how to make effective Facebook ads is the holy grail of Facebook marketing. However, you don’t have to search for this grail. It’s waiting for you to take it. Let’s do this together right now, shall we?
 
-<div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/ZgYBhq1x7L1bW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/choose-chose-wisely-ZgYBhq1x7L1bW">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ZgYBhq1x7L1bW" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 As of December 2018, Facebook had [2.32 billion monthly active users](https://newsroom.fb.com/company-info/). To direct their attention to your business, you should drive your own attention to the fundamentals.
 
@@ -98,7 +100,7 @@ If you’re grappling with how to make a good Facebook ad, remember one simple r
 
 Have you already used [Google Ads](https://softcube.com/google-ads-ex-adwords-vs-facebook-ads/) for business promotion? Then you know that Google has a large ad network.
 
-Facebook has its own family of apps and services, including Facebook, Instagram, Messenger, and the Audience Network. You can use two options when it comes to choosing your placements:
+Facebook has its own family of apps and services, including Facebook, Instagram, [Messenger](https://softcube.com/how-to-start-a-personal-chat-with-messenger-ads/), and the [Audience Network](https://softcube.com/facebook-audience-network-complete-guide/). You can use two options when it comes to choosing your placements:
 
 * **Automatic Placements.** The system delivers your ad to the placements where it will perform best based on your budget and your ad content.
 * **Edit Placements.** You set placements manually, which may reduce your post reach but may also save your budget.
@@ -137,7 +139,7 @@ Experiments bear fruit. Naturally, both [images and videos have their benefits](
 
 People love videos, and online stores successfully use them to boost conversions. However, images can be effective as well when used in the right way.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnatgeo%2Fposts%2F10156243975208951&amp;width=500" width="500" height="506" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnatgeo%2Fposts%2F10156243975208951&amp;width=500" width="500" height="506" frameborder="0" scrolling="no" align="center"></iframe>
 
 Examine [all available formats of Facebook ads](https://softcube.com/how-to-select-types-of-facebook-ads/) to find the best format for your business. Some formats are aimed at reaching specific objectives. For example, Lead Ads are perfect if you want to drive users to your website or landing page using pre-made forms.
 
@@ -149,7 +151,7 @@ If it doesn’t grow your sales, you can turn it off at any moment. Keep in mind
 
 ### Tip 6. Set Up a Pixel to Get More Accurate Statistics
 
-A Facebook Pixel is JavaScript code that you add to your website.
+A [Facebook Pixel](https://softcube.com/what-is-facebook-pixel-and-why-use-it/) is JavaScript code that you add to your website.
 
 The primary reason why you should add a Pixel (aside from enabling Dynamic Ads) is to track users who come from the social network.
 
@@ -157,7 +159,7 @@ The primary reason why you should add a Pixel (aside from enabling Dynamic Ads) 
 
 Every time a user takes some action (an event) on your website, the Pixel detects this information (a conversion) and sends it to Ads Manager and the Analytics Dashboard.
 
-The Pixel code is necessary for creating one more awesome advertising instrument — Custom Audiences. Custom Audiences consist of people who have visited your website. You can segment these visitors and retarget them based on the events tracked by the Pixel.
+The Pixel code is necessary for creating one more awesome advertising instrument — Custom Audiences. [Custom Audiences](https://softcube.com/guide-to-facebook-custom-audiences/) consist of people who have visited your website. You can segment these visitors and retarget them based on the events tracked by the Pixel.
 
 ### Tip 7. Retarget Your Audience
 
@@ -185,7 +187,7 @@ Aside from participating in ad auctions, you can also boost popular posts in you
 
 The other day we published a post that contains a video originally made by our AI for the [second biggest marketplace](https://softcube.com/allo-facebook-ads-case-study/) in Ukraine. Of course, it’s not so popular as it would seem. That’s not the point.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsoftcube.video%2Fvideos%2F300764910635517%2F&amp;show_text=1&amp;width=476" width="476" height="675" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsoftcube.video%2Fvideos%2F300764910635517%2F&show_text=1&width=476" width="476" height="679" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true" align="center"></iframe>
 
 The point is that Facebook was already there, recommending that we boost that video.
 
@@ -215,4 +217,4 @@ Even if you’re too busy with your business, you should take at least a few eLe
 * Boost popular publications
 * Learn something new with Blueprint
 
-Don’t forget to read the Success Stories, keep a focus on Instagram, and be mobile-oriented. And if you need video ads for an image-sized budget, test our [artificial intelligence platform](http://softcube.com) now.
+Don’t forget to read the Success Stories, keep a focus on Instagram, and be mobile-oriented. And if you need video ads for an image-sized budget, test our [artificial intelligence platform](https://softcube.com) now.

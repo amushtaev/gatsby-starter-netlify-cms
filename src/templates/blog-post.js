@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React, {useEffect, useLayoutEffect, useState} from 'react';
 import PropTypes from 'prop-types';
 import { kebabCase } from 'lodash';
 import { Helmet } from 'react-helmet';
@@ -21,6 +21,7 @@ import BlogRollPostsLatest from "../components/blog/BlogRollPostsLatest";
 import BlogRoll from "../components/blog/BlogRoll";
 import useWindowSize from '../components/Getscreen'
 import useDebounce from "../components/DebouncedHook";
+import BlogCallToAction from "../components/blog/BlogCallToAction";
 
 export const BlogPostTemplate = ({
   content,
@@ -116,7 +117,9 @@ export const BlogPostTemplate = ({
                 {title}
               </h1>
               <p  itemProp="articleBody">{description}</p>
-              <PostContent content={content} />
+              <div id='content'>
+                  <PostContent content={content} />
+              </div>
               {tags && tags.length ? (
                 <div style={{ marginTop: `4rem`, display: `none` }}>
                   <h4>Tags</h4>
@@ -278,6 +281,13 @@ export const BlogPostTemplate = ({
           />
         </div>
       }
+
+      <BlogCallToAction
+          attachTo='content'
+          text='Create a promotional video for Facebook with us'
+          buttonText={"Try for free"}
+      />
+
     </section>
   )
 };

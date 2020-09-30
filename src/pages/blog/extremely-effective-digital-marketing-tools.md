@@ -63,7 +63,7 @@ Over the next five years, businesses plan to use artificial intelligence to:
 
 The coolest part is that AI offers many more possibilities for businesses than what’s described in the Forbes article linked to above. Here are some of the best AI tools for digital marketing that your company can take advantage of:
 
-### [Softcube](http://softcube.com/)
+### [Softcube](https://softcube.com/)
 
 Softcube uses artificial intelligence to make high-quality video ads in several clicks for an image-sized budget.
 
@@ -159,7 +159,7 @@ In the mobile world, speed means everything. Type in your website domain to see 
 
 Grow My Store generates a fully fledged report with personalized recommendations for improving the customer experience on your online store.
 
-### [Find My Audience](http://www.thinkwithgoogle.com/feature/findmyaudience) by Google
+### [Find My Audience](https://www.thinkwithgoogle.com/feature/findmyaudience) by Google
 
 Find My Audience lets you search for new customers that fit your present marketing objectives, receive data about your customers’ interests, habits, and purchasing plans, and grow your YouTube community without paid promotions.
 
@@ -257,7 +257,7 @@ Grammarly is the best online proofreading tool for marketers of all sorts.
 
 Ludwig is the best linguistic search engine that makes it easier to write good copy.
 
-### [Power Thesaurus](http://powerthesaurus.org/)
+### [Power Thesaurus](https://powerthesaurus.org/)
 
 Powerthesaurus.org is the best synonym finder to enrich your ad vocabulary.
 
@@ -267,6 +267,6 @@ RhymeZone is the best online finder of rhymes, near rhymes, synonyms, descriptiv
 
 ## Enjoy Video Ads Made by Softcube Artificial Intelligence
 
-Video ads are one of the most effective instruments for promoting any product or service online. Don't forget to test [Softube AI](http://softcube.com) that will really come in handy.
+Video ads are one of the most effective instruments for promoting any product or service online. Don't forget to test [Softube AI](https://softcube.com) that will really come in handy.
 
 Thank you for scrolling through our list of top digital marketing tools. Good luck with building your toolset!

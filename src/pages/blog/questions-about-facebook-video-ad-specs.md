@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: 5 Major Questions about Facebook Video Ad Specs
 date: 2019-11-14T00:00:00.000Z
-description: Read this post to find answers to five major questions about
-  Facebook video ad specs and learn how to make flawless high-quality video ads.
+description:
 featuredpost: false
 featuredimage: /img/facebook-video-ad-specs-featured-picture.jpg
 image: /img/facebook-video-ad-specs-featured-picture.jpg
@@ -18,7 +17,7 @@ tags:
   - video advertising
   - video marketing
 seo_title: All Facebook Video Ad Specs You Need to Create Amazing Ads
-metadescription: 
+metadescription: Read this post to find answers to five major questions about Facebook video ad specs and learn how to make flawless high-quality video ads.
 focus_keyphrase: facebook video ad specs
 seotitle: All Facebook Video Ad Specs You Need to Create Amazing Ads
 ---
@@ -294,8 +293,6 @@ For example, a 15-second video ad will have nearly six loops. After looping, the
 | Audience Network Rewarded Video                       | 3–60 seconds      |
 | Audience Network Native, Banner, and Interstitial Ads | 1–120 seconds     |
 
-
-
 Although short video ads are effective in most cases, don’t forget that long video content can also work great for some Facebook Placements.
 
 For example, you can create long promotional videos (up to 240 minutes) for the Facebook Feed, Messenger Home, and Marketplace.
@@ -338,4 +335,6 @@ Now you’ve got answers to five major questions about Facebook video ad specifi
 
 We highlighted Placements where you can launch Facebook video ads, showed you the best Facebook video ad sizes, maximum video ad length, recommended ratios, and other major design requirements.
 
-If you want to optimize your video ad production, test our [AI service](http://softcube.com) for creating video ads right now to promote your products and services.
+<p align="center"><video id="video-1034-1_html5" class="wp-video-shortcode" autoplay="autoplay" loop="loop" width="640" height="360"><source type="video/mp4" src="https://video.softcube.com/media/a293c868a5d278afb37f7f5c7087307a.mp4"></video></p>
+
+If you want to optimize your video ad production, test our [AI service](https://softcube.com) for creating video ads right now to promote your products and services.
