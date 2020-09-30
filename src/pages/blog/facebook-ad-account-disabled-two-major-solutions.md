@@ -113,7 +113,7 @@ metadescription: Got your Facebook ad account disabled? Read why Facebook may
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3782,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-chat-button.png" alt="Facebook ad account disabled — chat button" class="wp-image-3782"/></figure></div>
+![Facebook ad account disabled — chat button](/img/facebook-ad-account-disabled-chat-button.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -121,7 +121,7 @@ metadescription: Got your Facebook ad account disabled? Read why Facebook may
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3785,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-chat-form-1007x1024.png" alt="Facebook ad account disabled — chat form" class="wp-image-3785"/></figure></div>
+![Facebook ad account disabled — chat form](/img/facebook-ad-account-disabled-chat-form-1007x1024.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -137,7 +137,7 @@ metadescription: Got your Facebook ad account disabled? Read why Facebook may
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3787,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-request-review-form-1024x453.png" alt="Facebook ad account disabled — request review form" class="wp-image-3787"/></figure></div>
+![Facebook ad account disabled — request review form](/img/facebook-ad-account-disabled-request-review-form-1024x453.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -145,7 +145,7 @@ metadescription: Got your Facebook ad account disabled? Read why Facebook may
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3789,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-payments-form-1-1024x908.png" alt="Facebook ad account disabled — disabled payments form" class="wp-image-3789"/></figure></div>
+![Facebook ad account disabled — disabled payments form](/img/facebook-ad-account-disabled-payments-form-1-1024x908.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

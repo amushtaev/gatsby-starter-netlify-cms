@@ -1,24 +1,25 @@
 ---
-focuskeyphrase: facebook learning phase
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
-title: "Facebook Ad Account Disabled: Two Major Solutions"
+title: The Beginner’s Guide to the Facebook Learning Phase
 date: 2020-09-10T00:00:00.000Z
-description: Read a few recommendations on how to create effective Facebook ad sets and complete the Facebook learning phase on your first attempt.
+description: ""
 featuredpost: false
 featuredimage: /img/facebook-learning-phase-featured-image.jpg
 image: /img/facebook-learning-phase-featured-image.jpg
-tags:
-    - Ads Manager
-    - Facebook business manager
-    - Facebook Targeting
-seo_title: How to Successfully Exit the Facebook Learning Phase
-metadescription: Read a few recommendations on how to create effective Facebook ad sets and complete the Facebook learning phase on your first attempt.
-focus_keyphrase: facebook learning phase
 seotitle: How to Successfully Exit the Facebook Learning Phase
+focuskeyphrase: facebook learning phase
+focus_keyphrase: facebook learning phase
+seo_title: How to Successfully Exit the Facebook Learning Phase
+tags:
+  - Ads Manager
+  - Facebook business manager
+  - Facebook Targeting
+metadescription: Read a few recommendations on how to create effective Facebook
+  ad sets and complete the Facebook learning phase on your first attempt.
 ---
 <!--StartFragment-->
 

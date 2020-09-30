@@ -182,7 +182,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://test.softcube.com/',
+        host: 'https://softcube.com/',
         policy: [{ userAgent: '*', allow: '/', disallow: 'recom.softcube.com' }]
       }
     },
