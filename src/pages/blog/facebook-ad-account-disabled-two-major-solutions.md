@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook ad account disabled
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,19 +6,21 @@ categories-slug:
   - facebook-ads
 title: "Facebook Ad Account Disabled: Two Major Solutions"
 date: 2020-09-10T00:00:00.000Z
-description: Got your Facebook ad account disabled? Read why Facebook may suspend your marketing and discover possible ways of unlocking your account.
+description: ""
 featuredpost: false
 featuredimage: /img/facebook-ad-account-disabled-featured-image.jpg
 image: /img/facebook-ad-account-disabled-featured-image.jpg
-tags:
-    - Facebook advertising policies
-    - Facebook Community Standards
-    - Facebook Help Center
-    - Facebook representative
-seo_title: Facebook Ad Account Disabled? How to Restore It Fast
-metadescription: Got your Facebook ad account disabled? Read why Facebook may suspend your marketing and discover possible ways of unlocking your account.
-focus_keyphrase: facebook ad account disabled
 seotitle: Facebook Ad Account Disabled? How to Restore It Fast
+focuskeyphrase: facebook ad account disabled
+focus_keyphrase: facebook ad account disabled
+seo_title: Facebook Ad Account Disabled? How to Restore It Fast
+tags:
+  - Facebook advertising policies
+  - Facebook Community Standards
+  - Facebook Help Center
+  - Facebook representative
+metadescription: Got your Facebook ad account disabled? Read why Facebook may
+  suspend your marketing and discover possible ways of unlocking your account.
 ---
 <!--StartFragment-->
 
@@ -96,7 +97,7 @@ seotitle: Facebook Ad Account Disabled? How to Restore It Fast
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3780,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://softcube.com/wp-content/uploads/2020/09/facebook-ad-account-disabled-get-started-button-1024x567.jpg" alt="Facebook ad account disabled — get started button" class="wp-image-3780"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-get-started-button-1024x567.jpg" alt="Facebook ad account disabled — get started button" class="wp-image-3780"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -104,7 +105,7 @@ seotitle: Facebook Ad Account Disabled? How to Restore It Fast
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3781,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://softcube.com/wp-content/uploads/2020/09/facebook-ad-account-disabled-get-support-button.png" alt="Facebook ad account disabled — get support button" class="wp-image-3781"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-get-support-button.png" alt="Facebook ad account disabled — get support button" class="wp-image-3781"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -112,7 +113,7 @@ seotitle: Facebook Ad Account Disabled? How to Restore It Fast
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3782,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://softcube.com/wp-content/uploads/2020/09/facebook-ad-account-disabled-chat-button.png" alt="Facebook ad account disabled — chat button" class="wp-image-3782"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-chat-button.png" alt="Facebook ad account disabled — chat button" class="wp-image-3782"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -120,7 +121,7 @@ seotitle: Facebook Ad Account Disabled? How to Restore It Fast
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3785,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://softcube.com/wp-content/uploads/2020/09/facebook-ad-account-disabled-chat-form-1007x1024.png" alt="Facebook ad account disabled — chat form" class="wp-image-3785"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-chat-form-1007x1024.png" alt="Facebook ad account disabled — chat form" class="wp-image-3785"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -136,7 +137,7 @@ seotitle: Facebook Ad Account Disabled? How to Restore It Fast
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3787,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://softcube.com/wp-content/uploads/2020/09/facebook-ad-account-disabled-request-review-form-1024x453.png" alt="Facebook ad account disabled — request review form" class="wp-image-3787"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-request-review-form-1024x453.png" alt="Facebook ad account disabled — request review form" class="wp-image-3787"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -144,7 +145,7 @@ seotitle: Facebook Ad Account Disabled? How to Restore It Fast
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3789,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://softcube.com/wp-content/uploads/2020/09/facebook-ad-account-disabled-payments-form-1-1024x908.png" alt="Facebook ad account disabled — disabled payments form" class="wp-image-3789"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-payments-form-1-1024x908.png" alt="Facebook ad account disabled — disabled payments form" class="wp-image-3789"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

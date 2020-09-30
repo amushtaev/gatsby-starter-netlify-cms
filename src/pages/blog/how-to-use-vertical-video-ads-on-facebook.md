@@ -34,7 +34,7 @@ Put another way, people have gotten used to watching a lot of mobile video conte
 
 In the beginning of the 2010s, companies didn’t take vertical video marketing seriously. People mocked vertical videos (mostly uploaded to YouTube) so much that the [vertical video syndrome](/img/giphy_1.gif) meme appeared in 2012.
 
-![Image](https://giphy.com/gifs/CBSAllAccess-science-fiction-replay-the-twilight-zone-QAD2c9bfVENP2Rig82)
+<iframe src="https://giphy.com/embed/QAD2c9bfVENP2Rig82" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 264px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CBSAllAccess-science-fiction-replay-the-twilight-zone-QAD2c9bfVENP2Rig82">via GIPHY</a></p>
 
 ### Step 1. Launch Events Manager
 

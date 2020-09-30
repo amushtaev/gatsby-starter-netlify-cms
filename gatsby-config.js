@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Softcube',
-    siteUrl: 'https://test.softcube.com/',
+    siteUrl: 'https://softcube.com/',
     description:
       'CREATE VIDEO ADS IN TWO CLICKS \n ' +
       'Paste your link and the Softcube AI will automatically create video ads that convert',

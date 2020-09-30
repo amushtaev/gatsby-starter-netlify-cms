@@ -149,15 +149,21 @@ The Tide marketing team came up with a brilliant idea. They used a few popular S
 
 Write a hilarious monologue for David Harbour, pepper it with several cliches, and voilà! You’ve got an awesome ad in an ad.  
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTide%2Fvideos%2F10155383878468231%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:380px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/1_n.mp4" type="video/mp4">
+</video>
 
 Tide even mocked a well-known Old Spice ad.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTide%2Fvideos%2F10155383889218231%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:380px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/2_n.mp4" type="video/mp4">
+</video>
 
 And a typical Valentine’s Day ad.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTide%2Fvideos%2F10155409533383231%2F&show_text=true&width=734&height=502&appId" style="max-width:480px; max-height:480px; width:100%; height:380px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/3_n.mp4" type="video/mp4">
+</video>
 
 It’s beautiful indeed. Like a meme in a meme.
 
@@ -165,28 +171,39 @@ It’s beautiful indeed. Like a meme in a meme.
 
 Colgate is famous for saving your health:
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FColgate%2Fvideos%2F938320679596340%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/4_n.mp4" type="video/mp4">
+</video>
 
 For optimizing our water supply:
 
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FColgate%2Fvideos%2F1619112074850527%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/5_n.mp4" type="video/mp4">
+</video>
 
 And for optimizing the Tooth Fairy’s budget:
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FColgate%2Fvideos%2F1109763475785392%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:500px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/6_n.mp4" type="video/mp4">
+</video>
 
 Facebook video ad examples by Colgate show that the company actively uses special occasions to remind us about a few other important things. For example, that we should love each other:
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FColgate%2Fvideos%2F1076367332458340%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:500px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/7_n.mp4" type="video/mp4">
+</video>
 
 Save our planet’s water resources:
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FColgate%2Fvideos%2F1700320560063011%2F&show_text=1&width=560" style="max-width:480px; max-height:264px; width:100%; height:500px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/8_n.mp4" type="video/mp4">
+</video>
 
 And stay in a good mood all the time:
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FColgate%2Fvideos%2F425384028228246%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:500px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/9_n.mp4" type="video/mp4">
+</video>
 
 Don’t you agree?
 
@@ -196,15 +213,21 @@ Keanu Reeves hasn’t only reached nirvana, saved the world from [artificial int
 
 He also likes motorcycles. That’s why he started a motorcycle company and created a website.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsquarespace%2Fvideos%2F10156083341074731%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:400px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/10_n.mp4" type="video/mp4">
+</video>
 
 Like anything else, creating a Facebook ad successfully is all about finding your inner self.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsquarespace%2Fvideos%2F10156104242374731%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:400px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/11_n.mp4" type="video/mp4">
+</video>
 
 So what are you waiting for? It’s time to create your own effective ad that converts.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsquarespace%2Fvideos%2F10156095705719731%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:400px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/12_n.mp4" type="video/mp4">
+</video>
 
 Make it happen!
 
@@ -212,7 +235,7 @@ Make it happen!
 
 Sometimes, displaying an ad isn’t so important as creating hype around it.
 
-![Best Facebook video ad examples — Skittles Marcos](best-facebook-video-ad-examples-skittles-marcos.jpg)
+![Best Facebook video ad examples — Skittles Marcos](/img/best-facebook-video-ad-examples-skittles-marcos.jpg)
 
 Skittles didn’t spend its entire marketing budget on one person. Instead, by showing their standard process of testing an ad on a target group, they intrigued a Facebook live stream audience.  
 
@@ -220,7 +243,9 @@ Skittles hit where it hurts. Curiosity is in our nature. When someone sees somet
 
 Here’s what Marcos Menendez has actually seen:
 
-<iframe title="Here’s what Marcos Menendez has actually seen" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" src="https://www.youtube.com/embed/MMufUB9HZ7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/13_n.mp4" type="video/mp4">
+</video>
 
 The mystery isn’t in what Marcos has seen. We’re wondering whether David Schwimmer was born to become part of the Skittles ad campaign or whether Skittles was invented especially to feature David Schwimmer in this ad.
 
@@ -232,19 +257,27 @@ One of the best German carmakers has lots of great Facebook video ad examples in
 
 When you think of a new high-quality ad, you should be cool in any circumstances.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMercedesBenz%2Fvideos%2F10156584711356670%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:410px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/14_n.mp4" type="video/mp4">
+</video>
 
 Even if you’re waiting too long for your inspiration.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMercedesBenz%2Fvideos%2F10156589772916670%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:410px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/15_n.mp4" type="video/mp4">
+</video>
 
 You should always trust your intuition and instincts, which can bring you priceless knowledge.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMercedesBenz%2Fvideos%2F10156333903581670%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:410px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/16_n.mp4" type="video/mp4">
+</video>
 
 And don’t forget that knowledge is light.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMercedesBenz%2Fvideos%2F296706771061701%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:410px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/17_n.mp4" type="video/mp4">
+</video>
 
 It can flash on you at any moment with vivid colorful ideas.
 
@@ -252,15 +285,21 @@ It can flash on you at any moment with vivid colorful ideas.
 
 We have one more amazing Facebook video ad example for you that was produced for the Super Bowl. It’s from one of Facebook’s major competitors in the advertising market starring Forest Whitaker.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAmazon%2Fvideos%2F314548689180030%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/18_n.mp4" type="video/mp4">
+</video>
 
 The Kelly brothers, NASA space program participants, are totally comfortable with new technologies.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAmazon%2Fvideos%2F409065236300919%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/19_n.mp4" type="video/mp4">
+</video>
 
 And we love how Harrison Ford already hates that.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAmazon%2Fvideos%2F1677843075649089%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/20_n.mp4" type="video/mp4">
+</video>
 
 As the ad description says, Harrison Ford is always up for an adventure. We should follow his example.
 
@@ -268,11 +307,15 @@ As the ad description says, Harrison Ford is always up for an adventure. We shou
 
 How often do you dream? Chasing dreams is very important if you want to achieve something in life. Toyota knows that and suggests you to chase your dream in one of their RAV4s.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTOYOTA.Global%2Fvideos%2F751464645336462%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/21_n.mp4" type="video/mp4">
+</video>
 
 We bet you'd make your dream a reality in a Toyota Supra.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTOYOTA.Global%2Fvideos%2F624152251666985%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/22_n.mp4" type="video/mp4">
+</video>
 
 These two Facebook ads prove that you can attract the attention of your audience within seconds.
 
@@ -280,11 +323,15 @@ These two Facebook ads prove that you can attract the attention of your audience
 
 Lamborghini claims that you need passion to chase your dreams and make them come true. Or in fact, you need one passionate dad and one enthusiastic son.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLamborghini%2Fvideos%2F2539542369628612%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/23_n.mp4" type="video/mp4">
+</video>
 
 Unleashed dreams make the present a wonderful place and lead to the bright future where something new awaits us all.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLamborghini%2Fvideos%2F569059527209392%2F&amp;show_text=1&amp;width=560" style="max-width:480px; max-height:480px; width:100%; height:385px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/24_n.mp4" type="video/mp4">
+</video>
 
 Your Facebook ads are also dreams that can help people find their purpose.
 
@@ -292,11 +339,15 @@ Your Facebook ads are also dreams that can help people find their purpose.
 
 Would you like to feel like an astronaut? Spacewalk is real. And you don’t have to spend millions of dollars to go to space. All you need is to watch this Puma Facebook video ad.  
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPUMA%2Fvideos%2F327632088179711%2F&show_text=1&width=380" style="max-width:480px; max-height:264px; width:100%; height:480px; min-height: 350px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/25_n.mp4" type="video/mp4">
+</video>
 
 But be careful. Puma sneakers may affect your imagination...
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPUMA%2Fvideos%2F424587164779575%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/26_n.mp4" type="video/mp4">
+</video>
 
 ...and make you buy an extra pair of sports shoes.
 
@@ -306,35 +357,47 @@ If you want to promote your business or brand using Facebook video ads, you don�
 
 Something unusual as Xiaomi Terminator Bunny.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FXiaomiGlobal%2Fvideos%2F1884057281726354%2F&amp;show_text=1&amp;width=560" style="max-width:480px; max-height:480px; width:100%; height:410px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/27_n.mp4" type="video/mp4">
+</video>
 
 One more great idea for your Facebook video ad is to show your product or service in action.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FXiaomiGlobal%2Fvideos%2F3440939279311169%2F&show_text=1&width=560" style="max-width:480px; max-height:264px; width:100%; height:410px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/28_n.mp4" type="video/mp4">
+</video>
 
 For example, Xiaomi tested one of their devices in Antarctica. A trip trailer looks great:
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FXiaomiGlobal%2Fvideos%2F459740744929627%2F&amp;show_text=1&amp;width=560" style="max-width:480px; max-height:264px; width:100%; height:410px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/29_n.mp4" type="video/mp4">
+</video>
 
 Did you like it? Watch the full video above!
 
 ### Intel
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIntel%2Fvideos%2F539985376813293%2F&show_text=1&width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/30_n.mp4" type="video/mp4">
+</video>
 
 ![](/img/best-facebook-video-ad-examples-intel-supercomputer.jpg)
 
 ### Saint Laurent
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fysl%2Fvideos%2F670590260073613%2F&show_text=1&width=560" style="max-width:480px; max-height:480px; width:100%; height:410px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fysl%2Fvideos%2F2413834462196362%2F&amp;show_text=1&amp;width=560" style="max-width:480px; max-height:264px; width:100%; height:410px; min-height: v;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/31_n.mp4" type="video/mp4">
+</video>
 
 ### Kitchen Aid
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fysl%2Fvideos%2F670590260073613%2F&amp;show_text=1&amp;width=560" style="max-width:480px; max-height:480px; width:100%; height:410px; min-height: 170px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/32_n.mp4" type="video/mp4">
+</video>
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FKitchenAid%2Fvideos%2F1300846310086508%2F&amp;show_text=1&amp;width=476" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/33_n.mp4" type="video/mp4">
+</video>
 
 ## Facebook Video Ads Generated by Artificial Intelligence
 
@@ -346,51 +409,39 @@ All of these examples were launched on Facebook at different times.
 
 ### Asus VivoBook Flip
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="480" height="360">
-    <source src="https://video.softcube.com/media/267464eb20af45b7833faf2273fd55ed.mp4" type="video/mp4">
-  </video>
-</figure>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/267464eb20af45b7833faf2273fd55ed_1.mp4" type="video/mp4">
+</video>
 
 ### **BlackBerry Priv**
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="480" height="360">
-    <source src="https://video.softcube.com/media/5abaef956b187ea16c0387cefdb19eb4.mp4" type="video/mp4">
-  </video>
-</figure>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/5abaef956b187ea16c0387cefdb19eb4_1.mp4" type="video/mp4">
+</video>
 
 ### **Blackview BV6000**
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="480" height="360">
-    <source src="https://video.softcube.com/media/594bbc53f2e244dea6bdd67a3b8c4d69.mp4" type="video/mp4">
-  </video>
-</figure>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/594bbc53f2e244dea6bdd67a3b8c4d69_1.mp4" type="video/mp4">
+</video>
 
 ### **Canon EOS**
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="480" height="360">
-    <source src="https://video.softcube.com/media/63262673d34557386f98ff5f8cdcb7e9.mp4" type="video/mp4">
-  </video>
-</figure>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/63262673d34557386f98ff5f8cdcb7e9_1.mp4" type="video/mp4">
+</video>
 
 ### **Apple iPad Mini 4**
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="480" height="360">
-    <source src="https://video.softcube.com/media/009b9103216346eb97b9d5fe6c64594d.mp4" type="video/mp4">
-  </video>
-</figure>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/009b9103216346eb97b9d5fe6c64594d_1.mp4" type="video/mp4">
+</video>
 
 ### **Sony PlayStation 4 Pro**
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="480" height="360">
-    <source src="https://video.softcube.com/media/7577530c76d91f942434e00e5a62bfd0.mp4" type="video/mp4">
-  </video>
-</figure>
+<video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="/img/7577530c76d91f942434e00e5a62bfd0_1.mp4" type="video/mp4">
+</video>
     
 ## Final Cut
 
