@@ -313,8 +313,6 @@ const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
   const { allMarkdownRemark: article } = data;
 
-  console.log(data, "data")
-
   return (
     <LayoutBlog>
       <BlogPostTemplate

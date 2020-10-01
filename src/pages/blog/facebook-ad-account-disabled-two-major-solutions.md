@@ -97,7 +97,7 @@ metadescription: Got your Facebook ad account disabled? Read why Facebook may
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3780,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-get-started-button-1024x567.jpg" alt="Facebook ad account disabled — get started button" class="wp-image-3780"/></figure></div>
+![Facebook ad account disabled — get started button](/img/facebook-ad-account-disabled-get-started-button-1024x567.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -105,7 +105,7 @@ metadescription: Got your Facebook ad account disabled? Read why Facebook may
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3781,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/img/facebook-ad-account-disabled-get-support-button.png" alt="Facebook ad account disabled — get support button" class="wp-image-3781"/></figure></div>
+![Facebook ad account disabled — get support button](/img/facebook-ad-account-disabled-get-support-button.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

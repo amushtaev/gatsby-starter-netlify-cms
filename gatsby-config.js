@@ -183,7 +183,8 @@ module.exports = {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         host: 'https://softcube.com/',
-        policy: [{ userAgent: '*', allow: '/', disallow: 'recom.softcube.com' }]
+        sitemap: 'https://softcube.com/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/', disallow: ['recom.softcube.com', 'test.softcube.com'] }]
       }
     },
     // must be after other CSS plugins
