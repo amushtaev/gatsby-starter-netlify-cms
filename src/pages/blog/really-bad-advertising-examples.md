@@ -113,7 +113,7 @@ Want to succeed in advertising today? Celebrate the diversity of your audience w
 
 In January 2018, H&M appeared at the center of a racism scandal caused by a printed hooded top with the words “coolest monkey in the jungle.” Before H&M removed the ad, it was available to everyone on the British version of the online store.
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://softcube.com/wp-content/uploads/2020/06/bad-advertising-examples-h-m-1024x646.jpg" alt="Bad advertising examples — H&amp;M" class="wp-image-3527"/></figure></div>
+![Bad advertising examples — H&amp;M](/img/bad-advertising-examples-h-m-1024x646.jpg)
 
 <style>
 @media screen and (max-width: 780px){

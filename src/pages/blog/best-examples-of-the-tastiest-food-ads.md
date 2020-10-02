@@ -7,9 +7,7 @@ categories-slug:
   - instagram-ads
 title: 40 Examples of the Tastiest Food Ads
 date: 2020-05-04T00:00:00.000Z
-description: Would you like to see food ads of all sorts? Check out this list of
-  awesome fast food ads, Instagram and Facebook food ads, video food ads, and AI
-  food ads.
+description: 
 featuredpost: false
 featuredimage: /img/food-ads-featured-image.jpg
 image: /img/food-ads-featured-image.jpg
@@ -18,9 +16,9 @@ tags:
   - Instagram ads
   - video ads
 seo_title: 40 Delicious Examples of Food Ads You Would Eat If You Could
-metadescription: 
+metadescription: Would you like to see food ads of all sorts? Check out this list of awesome fast food ads, Instagram and Facebook food ads, video food ads, and AI  food ads.
 focus_keyphrase: food ads
-seotitle: 40 Examples of the Tastiest Food Ads
+seotitle: 40 Delicious Examples of Food Ads You Would Eat If You Could
 ---
 <!--StartFragment-->
 

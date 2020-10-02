@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: What is Facebook Pixel and Why Use It?
 date: 2020-06-09T00:00:00.000Z
-description: What is Facebook pixel? Discover the advantages of using Facebook
-  pixel to learn more about your conversions and boost your sales.
+description:
 featuredpost: false
 featuredimage: /img/what-is-facebook-pixel-featured-image.jpg
 image: /img/what-is-facebook-pixel-featured-image.jpg
@@ -18,7 +17,7 @@ tags:
   - lookalike audiences
   - ad tracking
 seo_title: What Is Facebook Pixel and Why Should Your Business Use It?
-metadescription: 
+metadescription:  What is Facebook pixel? Discover the advantages of using Facebook pixel to learn more about your conversions and boost your sales.
 focus_keyphrase: what is facebook pixel
 seotitle: What Is Facebook Pixel and Why Should Your Business Use It?
 ---
@@ -166,3 +165,10 @@ This amazing tool will provide you with analytics that are vital to your success
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/785427d5979c09f5e35f9a2717d95ecc.mp4"></video></figure>
 
 To get more conversions and then track them with your pixel, don’t hesitate to test [Softcube artificial intelligence](https://softcube.com/) to produce video ads. Created in just a few clicks, AI-generated video ads look spectacular and cost the same amount as image ads.
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

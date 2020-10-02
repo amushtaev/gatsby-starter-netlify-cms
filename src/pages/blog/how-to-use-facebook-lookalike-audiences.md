@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: How to Use Facebook Lookalike Audiences
 date: 2020-02-19T00:00:00.000Z
-description: Read this beginner’s guide to Facebook Lookalike Audiences and
-  discover how to find the most valuable customers on Facebook without a hitch.
+description: 
 featuredpost: false
 featuredimage: /img/facebook-lookalike-audiences-featured-image.jpg
 image: /img/facebook-lookalike-audiences-featured-image.jpg
@@ -18,7 +17,7 @@ tags:
   - Facebook SDK
   - targeting
 seo_title: The Beginner’s Guide to Facebook Lookalike Audiences
-metadescription: 
+metadescription: Read this beginner’s guide to Facebook Lookalike Audiences and discover how to find the most valuable customers on Facebook without a hitch.
 focus_keyphrase: facebook lookalike audiences
 seotitle: The Beginner’s Guide to Facebook Lookalike Audiences
 ---
@@ -145,3 +144,10 @@ Lookalike Audience targeting on Facebook is one of the best techniques your busi
 And do you know what people from Facebook Lookalike Audiences like the most? They adore attractive video ads. 
 
 We’ve launched thousands of Facebook video ads made by [artificial intelligence](https://softcube.com) for numerous Lookalike ad campaigns, and they’ve worked great.
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

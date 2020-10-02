@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: "Facebook Audience Network: Monetization and Advertising"
 date: 2020-04-30T00:00:00.000Z
-description: "Read a two-part guide to the Facebook Audience Network: for
-  developers and for advertisers. Learn how to succeed by running and monetizing
-  ads."
+description:
 featuredpost: false
 featuredimage: /img/facebook-audience-network-featured-image.jpg
 image: /img/facebook-audience-network-featured-image.jpg
@@ -23,7 +21,7 @@ tags:
   - Native ads
   - Playable ads
 seo_title: How to Monetize and Advertise on Facebook Audience Network
-metadescription: 
+metadescription: "Read a two-part guide to the Facebook Audience Network: for developers and for advertisers. Learn how to succeed by running and monetizing ads."
 focus_keyphrase: facebook audience network
 seotitle: How to Monetize and Advertise on Facebook Audience Network
 ---
@@ -366,6 +364,13 @@ Facebook controls [nearly 9% of all mobile video](https://softcube.com/70-video-
 
 A few-second video is the best way to gain attention and achieve any marketing objective with Audience Network ads. Test a strategy that includes launching video ads at scale.
 
-<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="480" height="360" src="https://video.softcube.com/media/
 
 Keep in mind that you can use [Softcube Artificial Intelligence](https://softcube.com/) to create high-quality video ads for your Audience Network at the cost of image ads
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style> 

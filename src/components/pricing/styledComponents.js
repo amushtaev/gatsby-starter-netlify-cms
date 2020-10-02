@@ -64,6 +64,58 @@ export const KeenSlider = styled.div`
     }
 `;
 
+export const WrapperCookies = styled.div`
+    background: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 0;
+    boxShadow: 0px -2px 6px 0px rgba(0,0,0,0.6);
+    display: ${props => props. display};
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    z-index: 999;
+    
+    button {
+        height: 50px !important;
+        padding: 0 30px;
+            
+        span {
+            font-size: 16px;
+        }
+    }
+    
+    @media screen and (max-width: 800px) {
+        button {
+            height: 40px !important;
+            padding: 0 20px;
+            
+            span {
+                font-size: 16px;
+            }
+        }
+    }
+    
+    @media screen and (max-width: 500px) {
+        padding: 10px 5px;
+        div {
+            font-size: 14px;
+        }
+        button {
+            height: 40px !important;
+            padding: 0 20px;
+            width: 160px;
+            
+            span {
+                font-size: 16px;
+            }
+        }
+    }
+    
+    `;
+
 export const Slide = styled.div`
     width: 251px;
     height: 341px;

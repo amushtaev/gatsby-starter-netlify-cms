@@ -6,7 +6,7 @@ categories-slug:
   - facebook-ads
 title: 10 Tricks for Creating Effective Facebook Ads
 date: 2019-02-18T00:00:00.000Z
-description: ./
+description: ""
 featuredpost: false
 featuredimage: /img/creating-effective-facebook-ads-featured-image.jpg
 image: /img/creating-effective-facebook-ads-featured-image.jpg
@@ -52,7 +52,7 @@ If we consider Facebook the king of social media marketing, Instagram is the pri
 
 ![Creating effective Facebook Ads — Instagram mobile revenue](/img/creating-effective-facebook-ads-instagram-mobile-revenue.jpg)
 
-Instagram mobile ad revenue in the United States reached one-[third of Facebook’s total mobile ad revenue](https://www.statista.com/statistics/448189/instagram-facebook-advertising-share/).
+Instagram mobile ad revenue in the United States reached [one-third of Facebook’s total mobile ad revenue](https://www.statista.com/statistics/448189/instagram-facebook-advertising-share/).
 
 Most Facebook users have an account on Instagram. That’s why using both platforms together for displaying your ads may be a good idea.
 

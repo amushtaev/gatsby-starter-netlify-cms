@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
               <div className="column" style={{padding: `1.75rem 0`}}>
                 <section className="menu">
                   <ul className="menu-list_footer l-copyright">
-                    <li><a className="copyright" style={{paddingTop: `7px`}}>© 2020 Softcube</a></li>
+                    <li><a className="copyright" style={{paddingTop: `7px`, cursor: `default`}}>© 2020 Softcube</a></li>
                   </ul>
                   <ul className="menu-list_footer">
                     <li>

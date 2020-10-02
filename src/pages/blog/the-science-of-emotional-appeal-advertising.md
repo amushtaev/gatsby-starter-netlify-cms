@@ -7,9 +7,7 @@ categories-slug:
   - tutorials
 title: The Science of Emotional Appeal Advertising
 date: 2020-04-21T00:00:00.000Z
-description: Learn how you can use your ads to stir emotions with this guide to
-  emotional appeal advertising, try three original best practices, and get a
-  free gift.
+description:
 featuredpost: false
 featuredimage: /img/emotional-appeal-advertising-featured-image.jpg
 image: /img/emotional-appeal-advertising-featured-image.jpg
@@ -23,7 +21,7 @@ tags:
   - New Balance
   - video ads
 seo_title: The Rational Guide to Emotional Appeal Advertising
-metadescription: 
+metadescription: Learn how you can use your ads to stir emotions with this guide to emotional appeal advertising, try three original best practices, and succeed.
 focus_keyphrase: emotional appeal advertising
 seotitle: The Rational Guide to Emotional Appeal Advertising
 ---
@@ -178,3 +176,10 @@ We showed you how you can do that by taking advantage of your company’s missio
 We hope you’ve found this tutorial useful. Thank you for reading!
 
 Don't forget that you can test creating the [Softcube Artificial Intelligence](https://softcube.com/) system to produce your emotional ads. Have fun, and good luck!
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

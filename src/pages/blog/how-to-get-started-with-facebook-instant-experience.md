@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: How to Get Started with Facebook Instant Experience
 date: 2020-02-13T00:00:00.000Z
-description: Read everything about Facebook Instant Experience. Learn design
-  specifications, get recommendations, look at ad examples, and receive a free
-  gift.
+description:
 featuredpost: false
 featuredimage: /img/facebook-instant-experience-featured-image.jpg
 image: /img/facebook-instant-experience-featured-image.jpg
@@ -21,7 +19,7 @@ tags:
   - video ads
   - Facebook Pixel
 seo_title: How to Gain Momentum with Facebook Instant Experience
-metadescription: 
+metadescription: Read everything about Facebook Instant Experience. Learn design specifications, get recommendations, look at ad examples, and receive a free gift.
 focus_keyphrase: facebook instant experience
 seotitle: How to Gain Momentum with Facebook Instant Experience
 ---
@@ -269,3 +267,11 @@ An Instant Experience is an amazing opportunity to take time by the forelock. Th
 In the end, we have just one more question for you. Would you like to upgrade your Instant Experience ads with [artificial intelligence](https://softcube.com)?
 
 The Facebook video ad you see above was made with AI. Like it? Test Softcube AI and make yours!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

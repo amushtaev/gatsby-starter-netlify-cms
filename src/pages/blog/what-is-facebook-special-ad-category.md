@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: What is Facebook Special Ad Category?
 date: 2020-05-19T00:00:00.000Z
-description: Learn what a Facebook special ad category is and how it has changed
-  the opportunities of advertisers in the areas of housing, employment, and
-  credit.
+description: 
 featuredpost: false
 featuredimage: /img/facebook-special-ad-category-featured-image.jpg
 image: /img/facebook-special-ad-category-featured-image.jpg
@@ -19,7 +17,7 @@ tags:
   - targeting
   - housing ads
 seo_title: "Facebook Special Ad Category: What’s So Special About It?"
-metadescription: 
+metadescription: Learn what a Facebook special ad category is and how it has changed the opportunities of advertisers in the areas of housing, employment, and  credit.
 focus_keyphrase: facebook special ad category
 seotitle: "Facebook Special Ad Category: What’s So Special About It?"
 ---
@@ -132,3 +130,11 @@ With the advent of Facebook special ad categories, we’ve entered a new era in 
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/237908189eb65a642869912b3f318742.mp4"></video></figure>
 
 Planning to run ads within a special category on Facebook? Keep in mind that you can take advantage of [Softcube artificial intelligence](https://softcube.com/) to create high-quality (and very special) video ads for the cost of producing photo ads. Good luck!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

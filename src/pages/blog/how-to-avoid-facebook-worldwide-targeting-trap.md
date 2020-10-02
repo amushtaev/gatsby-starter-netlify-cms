@@ -7,11 +7,9 @@ categories-slug:
   - case-study
 date: 2020-05-26T00:00:00.000Z
 featuredimage: /img/facebook-worldwide-targeting-featured-image.jpg
-seotitle:"Facebook Worldwide Targeting Trap: A Case Study"
+seotitle: "Facebook Worldwide Targeting Trap: A Case Study"
 title: How to Avoid Facebook Worldwide Targeting Trap
-description: Learn how you can avoid losing your money, read a few useful
-  recommendations, and see real numbers in a Facebook worldwide targeting case
-  study.
+description:
 featuredpost: false
 image: /img/facebook-worldwide-targeting-featured-image.jpg
 tags:
@@ -19,7 +17,7 @@ tags:
   - facebook ads
   - target cost
 seo_title: "Facebook Worldwide Targeting Trap: A Case Study"
-metadescription: 
+metadescription: Learn how you can avoid losing your money, read a few useful recommendations, and see real numbers in a Facebook worldwide targeting case study.
 focus_keyphrase: facebook worldwide targeting
 ---
 <!--StartFragment-->
@@ -232,3 +230,10 @@ The install quality was lower as well, but this is not the point of our discover
 - Create and update an exclusion list, where you put all countries without conversions over time. Exclude these locations from your campaigns. Update the list and test these countries over and over again.
 - Scale successful campaigns/groups by copy/pasting instead of increasing a budget.
 - Testing everything can indeed make your advertising better. I used to work with a 70/30 formula, where 30% of my monthly budget was dedicated to testing efforts.
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

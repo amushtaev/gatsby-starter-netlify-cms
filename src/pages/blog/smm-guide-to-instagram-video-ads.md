@@ -7,9 +7,7 @@ categories-slug:
   - instagram-ads
 title: "Instagram Video Ads: 8 Tips and Tricks for Marketers"
 date: 2020-04-02T00:00:00.000Z
-description: Become a guru in creating Instagram video ads. Learn Instagram
-  video ad formats, take advantage of recommendations, and get inspired by vivid
-  examples.
+description:
 featuredpost: false
 featuredimage: /img/instagram-video-ads-featured-image.jpg
 image: /img/instagram-video-ads-featured-image.jpg
@@ -20,7 +18,7 @@ tags:
   - mobile ads
   - video ads
 seo_title: The Social Media Marketer’s Guide to Instagram Video Ads
-metadescription: 
+metadescription: Become a guru in creating Instagram video ads. Learn Instagram video ad formats, take advantage of recommendations, and get inspired by vivid examples.
 focus_keyphrase: instagram video ads
 seotitle: The Social Media Marketer’s Guide to Instagram Video Ads
 ---
@@ -191,3 +189,11 @@ Finally, we promised a gift to everyone who read this guide till the end.
 Would you like to make Instagram ad videos automatically?
 
 Use the **[Softcube Artificial In](https://softcube.com/get-ten-ads/)****[t](https://softcube.com/)****[elligence platform](https://softcube.com/get-ten-ads/)** right now. Thanks for reading, and enjoy your AI-made videos!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

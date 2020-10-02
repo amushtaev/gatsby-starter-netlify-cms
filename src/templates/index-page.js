@@ -11,6 +11,7 @@ import {
   TryButton,
   SearchButton,
 } from '../components/pricing/styledComponents';
+import BlogCallToAction from "../components/blog/BlogCallToAction";
 
 const BlogRoll = loadable(() => import('../components/blog/BlogRoll'));
 const BlogRollRelatedIndex = loadable(() => import('../components/blog/BlogRollRelatedIndex'));
@@ -20,6 +21,7 @@ const AutomaticCreat = loadable(() => import('../components/main/AutomaticCreat'
 const MarketingVideos = loadable(() => import('../components/main/MarketingVideos'));
 const Maximize = loadable(() => import('../components/main/Maximize'));
 const FrequentlyAskedQuestions = loadable(() => import('../components/main/FrequentlyAskedQuestions'));
+const ScCookie = loadable(() => import('../components/Cookies'));
 
 const IndexPageTemplate = () => {
   return (
@@ -46,6 +48,7 @@ const IndexPageTemplate = () => {
         <IndexHeading top={'132px'}>RELATED ARTICLES</IndexHeading>
         <BlogRollRelatedIndex />
       </PricingPageContainer>
+      <ScCookie />
     </Layout>
   )
 };

@@ -2,7 +2,7 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import {PricingHeading, PricingPageContainer, ShowMore, SloganSmall} from "../components/pricing/styledComponents";
+import {PricingHeading, PricingPageContainer, SloganSmall} from "../components/pricing/styledComponents";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
 class TagRoute extends React.Component {

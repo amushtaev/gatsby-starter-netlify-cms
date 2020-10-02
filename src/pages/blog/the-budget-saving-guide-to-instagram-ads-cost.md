@@ -7,8 +7,7 @@ categories-slug:
   - instagram-ads
 title: The Budget Saving Guide to Instagram Ads Cost
 date: 2020-04-23T00:00:00.000Z
-description: Learn how to get Instagram ads cost under control, read bidding
-  recommendations, and win your ad auction with free video ads made by AI.
+description:
 featuredpost: false
 featuredimage: /img/instagram-ads-cost-featured-image.jpg
 image: /img/instagram-ads-cost-featured-image.jpg
@@ -24,7 +23,7 @@ tags:
   - lowest cost
   - target cost
 seo_title: What Affects Instagram Ads Cost and How to Reduce It
-metadescription: 
+metadescription: Learn how to get Instagram ads cost under control, read bidding recommendations, and win your ad auction with free video ads made by AI.
 focus_keyphrase: instagram ads cost
 seotitle: What Affects Instagram Ads Cost and How to Reduce It
 ---
@@ -169,3 +168,11 @@ Now that you know the average cost of Instagram advertising, the factors that af
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/267464eb20af45b7833faf2273fd55ed.mp4"></video></figure>
 
 Test [Softcube AI](https://softcube.com/) right now and win your first ad auction. Good luck!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

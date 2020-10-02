@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: 7 Hottest Retail Trends for 2020
 date: 2020-05-28T00:00:00.000Z
-description: Want to discover the latest retail trends for 2020? Read this
-  article for a few ideas on how to meet the new era of retail technology
-  evolution.
+description: 
 featuredpost: false
 featuredimage: /img/retail-trends-2020-featured-image.jpg
 image: /img/retail-trends-2020-featured-image.jpg
@@ -20,7 +18,7 @@ tags:
   - R&D
   - social media
 seo_title: 7 Effective In-Store and Online Retail Trends for 2020
-metadescription: 
+metadescription: Want to discover the latest retail trends for 2020? Read this article for a few ideas on how to meet the new era of retail technology evolution.
 focus_keyphrase: retail trends 2020
 seotitle: 7 Effective In-Store and Online Retail Trends for 2020
 ---
@@ -138,3 +136,11 @@ Video content is on the rise. Cisco reports that video will account for [82% of 
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/3a4c2dab734e5f673451fc2fd4374eac.mp4"></video></figure>
 
 What’s more, artificial intelligence platforms like [Softcube](https://softcube.com) made it easier, faster, and cheaper to make video ads. That’s one more reason to test this ad format for your retail business.
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

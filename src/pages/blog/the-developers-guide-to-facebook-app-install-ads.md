@@ -5,10 +5,9 @@ categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
-title: The Developer’s Guide to Facebook App Install Ads
+title: "The Developer’s Guide to Facebook App Install Ads"
 date: 2020-03-17T00:00:00.000Z
-description: Attract new users to your mobile app and make it more popular among
-  current users by reading this beginner’s guide to Facebook app install ads.
+description:
 featuredpost: false
 featuredimage: /img/facebook-app-install-ads-featured-image.jpg
 image: /img/facebook-app-install-ads-featured-image.jpg
@@ -17,7 +16,7 @@ tags:
   - free ads
   - Facebook Blueprint
 seo_title: How to Promote Your Mobile App with Facebook App Install Ads
-metadescription: 
+metadescription: Attract new users to your mobile app and make it more popular among current users by reading this beginner’s guide to Facebook app install ads.
 focus_keyphrase: facebook app install ads
 seotitle: How to Promote Your Mobile App with Facebook App Install Ads
 ---

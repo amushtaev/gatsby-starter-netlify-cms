@@ -7,9 +7,7 @@ categories-slug:
   - instagram-ads
 title: 7 Recommendations for Instagram Sponsored Ads
 date: 2020-02-27T00:00:00.000Z
-description: Want to find new customers on Instagram with advertising? These
-  short tips will help you make a good start and create the best Instagram
-  sponsored ads.
+description:
 featuredpost: false
 featuredimage: /img/instagram-sponsored-ads-featured-image.jpg
 image: /img/instagram-sponsored-ads-featured-image.jpg
@@ -21,7 +19,7 @@ tags:
   - Lookalike Audiences
   - video ads
 seo_title: Everything You Should Know about Instagram Sponsored Ads
-metadescription: 
+metadescription: Want to find new customers on Instagram with advertising? These short tips will help you make a good start and create the best Instagram sponsored ads.
 focus_keyphrase: instagram sponsored ads
 seotitle: Everything You Should Know about Instagram Sponsored Ads
 ---
@@ -240,3 +238,11 @@ Here’s one of them:
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure>
 
 Like it? Test [Softcube artificial intelligence](https://softcube.com) and create yours!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

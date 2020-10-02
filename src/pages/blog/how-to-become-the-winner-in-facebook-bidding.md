@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: How to Become the Winner in Facebook Bidding
 date: 2020-04-09T00:00:00.000Z
-description: Read about Facebook bidding fundamentals including strategies,
-  bidding types, and bidding recommendations. Plus get a free gift to help you
-  win an auction.
+description:
 featuredpost: false
 featuredimage: /img/facebook-bidding-featured-image.jpg
 image: /img/facebook-bidding-featured-image.jpg
@@ -24,7 +22,7 @@ tags:
   - target cost
   - value optimization with minimum return on ad spend
 seo_title: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
-metadescription: 
+metadescription: Read about Facebook bidding fundamentals including strategies, bidding types, and bidding recommendations. Plus get a free gift to help you win an auction.
 focus_keyphrase: facebook bidding
 seotitle: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
 ---

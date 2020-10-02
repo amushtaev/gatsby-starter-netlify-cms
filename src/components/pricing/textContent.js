@@ -26,7 +26,7 @@ export const Comments = [
   {
     author: 'Julieta Romero Gueto',
     text:
-      "“It's easy to create eye-catching video ads using Softcube. Now we can scale our ad campaigns in a faster way.”",
+      "“Softcube allowed us to scale up our Facebook video ad campaigns, achieving consistently a low target CPA.”",
     photo: '../img/Julieta-Romero-Gueto.png',
   },
   {
@@ -50,7 +50,7 @@ export const Comments = [
   {
     author: 'Julieta Romero Gueto',
     text:
-      "“It's easy to create eye-catching video ads using Softcube. Now we can scale our ad campaigns in a faster way.”",
+      "“Softcube allowed us to scale up our Facebook video ad campaigns, achieving consistently a low target CPA.”",
     photo: '../img/Julieta-Romero-Gueto.png',
   },
   {

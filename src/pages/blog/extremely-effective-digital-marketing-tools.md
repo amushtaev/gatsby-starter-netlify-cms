@@ -7,9 +7,7 @@ categories-slug:
   - tutorials
 title: 38 Extremely Effective Digital Marketing Tools
 date: 2020-03-24T00:00:00.000Z
-description: Check out this list of helpful digital marketing tools for
-  planning, tracking, analytics, SEO, design, and copywriting. Plus, get a gift
-  to grow your brand.
+description:
 featuredpost: false
 featuredimage: /img/digital-marketing-tools-featured-image.jpg
 image: /img/digital-marketing-tools-featured-image.jpg
@@ -18,9 +16,9 @@ tags:
   - Instagram
   - Facebook
 seo_title: 38 Digital Marketing Tools You Might Have Never Used
-metadescription: 
+metadescription: Check out this list of helpful digital marketing tools for planning, tracking, analytics, SEO, design, and copywriting. Plus, get a gift to grow your brand.
 focus_keyphrase: digital marketing tools
-seotitle: 38 Extremely Effective Digital Marketing Tools
+seotitle: 38 Digital Marketing Tools You Might Have Never Used
 ---
 <!--StartFragment-->
 
@@ -269,4 +267,14 @@ RhymeZone is the best online finder of rhymes, near rhymes, synonyms, descriptiv
 
 Video ads are one of the most effective instruments for promoting any product or service online. Don't forget to test [Softube AI](https://softcube.com) that will really come in handy.
 
+<video controls autoplay="autoplay" loop="loop" width="480" height="360"src="https://video.softcube.com/media/0671d2c6df756586b6da825b89974163.mp4"></video>
+
 Thank you for scrolling through our list of top digital marketing tools. Good luck with building your toolset!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

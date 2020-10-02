@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: What is the Best Time to Run Facebook Ads?
 date: 2020-06-02T00:00:00.000Z
-description: Discover how to find the best time to run Facebook Ads by means of
-  simple recommendations, user-friendly tools, and artificial intelligence.
+description:
 featuredpost: false
 featuredimage: /img/best-time-to-run-facebook-ads-featured-image.jpg
 image: /img/best-time-to-run-facebook-ads-featured-image.jpg
@@ -16,7 +15,7 @@ tags:
   - brewing
   - chemex
 seo_title: "Best Time to Run Facebook Ads: 3 Things to Remember"
-metadescription: 
+metadescription: Discover how to find the best time to run Facebook Ads by means of simple recommendations, user-friendly tools, and artificial intelligence.
 focus_keyphrase: best time to run facebook ads
 seotitle: "Best Time to Run Facebook Ads: 3 Things to Remember"
 ---

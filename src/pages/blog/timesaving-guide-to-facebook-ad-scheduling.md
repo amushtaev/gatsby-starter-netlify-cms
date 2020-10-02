@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: A Timesaving Guide to Facebook Ad Scheduling
 date: 2020-05-12T00:00:00.000Z
-description: Read how to get started with Facebook ad scheduling. Discover three
-  methods that will help you find the perfect moment to show your Facebook ads.
+description: 
 featuredpost: false
 featuredimage: /img/facebook-ad-scheduling-featured-image.jpg
 image: /img/facebook-ad-scheduling-featured-image.jpg
@@ -19,7 +18,7 @@ tags:
   - Facebook Analytics
   - Page Insights
 seo_title: How to Save Time and Money with Facebook Ad Scheduling
-metadescription: 
+metadescription: Read how to get started with Facebook ad scheduling. Discover three methods that will help you find the perfect moment to show your Facebook ads.
 focus_keyphrase: facebook ad scheduling
 seotitle: How to Save Time and Money with Facebook Ad Scheduling
 ---

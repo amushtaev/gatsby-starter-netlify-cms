@@ -7,9 +7,7 @@ categories-slug:
   - facebook-ads
 title: How to Place Ads on Facebook Ad Placements
 date: 2020-03-12T00:00:00.000Z
-description: Want to know how to place your ads on Facebook? Check out this
-  tutorial to see the full list of Facebook ad placements and learn best
-  practices.
+description:
 featuredpost: false
 featuredimage: /img/facebook-ad-placements-featured-image.jpg
 image: /img/facebook-ad-placements-featured-image.jpg
@@ -20,7 +18,7 @@ tags:
   - Audience Network
   - Facebook Blueprint
 seo_title: How to Take Advantage of Facebook Ad Placements
-metadescription: 
+metadescription: Want to know how to place your ads on Facebook? Check out this tutorial to see the full list of Facebook ad placements and learn best practices.
 focus_keyphrase: facebook ad placements
 seotitle: How to Take Advantage of Facebook Ad Placements
 ---
@@ -169,3 +167,11 @@ Facebook Blueprint is an online training program designed to fill the gaps in yo
 Now that you know how to place your ads and find the best Facebook ad placements, we’ll be glad to help you even more with your marketing across Facebook, Instagram, Messenger, and the Audience Network the [Softcube artificial intelligence](https://softcube.com). You can test it to automate your marketing!
 
 Good luck, and have fun with your placements in Ads Manager!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

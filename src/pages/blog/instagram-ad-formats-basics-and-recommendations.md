@@ -7,9 +7,7 @@ categories-slug:
   - instagram-ads
 title: "Instagram Ad Formats: Basics and Recommendations"
 date: 2020-03-05T00:00:00.000Z
-description: Learn everything about Instagram ad formats and read a few tips and
-  tricks to use them effectively for any of your Instagram advertising
-  campaigns.
+description:
 featuredpost: false
 featuredimage: /img/instagram-ad-formats-featured-picture.jpg
 image: /img/instagram-ad-formats-featured-picture.jpg
@@ -20,7 +18,7 @@ tags:
   - Photo ads
   - Facebook Blueprint
 seo_title: How to Leverage Instagram Ad Formats for Business
-metadescription: 
+metadescription: Learn everything about Instagram ad formats and read a few tips and tricks to use them effectively for any of your Instagram advertising campaigns.
 focus_keyphrase: instagram ad formats
 seotitle: How to Leverage Instagram Ad Formats for Business
 ---
@@ -188,3 +186,11 @@ In the meantime, thanks for being curious about Instagram ads.
 We appreciate your curiosity and would like you to know that you can test the [Softcube AI platform](https://softcube.com) and create lots of high-quality video ads.
 
 You can use these videos for any Instagram ad format. Don’t hesitate, and good luck with your business on Instagram!
+
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

@@ -106,8 +106,12 @@ export const BlogPostTemplate = ({
               <div style={{paddingTop: `8px`}}>
                 {categories && categories.length ? (
                 <>
-                  {categories.map((category) => (
-                    <span className='post_category' style={{display: `inline-flex`}} key={category + `category`}>{category}</span>
+                  {categories.map((category, index) => (
+                    <span className={`post_category ${categories_slug[0]}`} style={{display: `inline-flex`}} key={category + `category`}>
+                      <Link style={{color: 'rgba(33,33,33,.8)'}} to={`https://softcube.com/category/${categories_slug[0]}/`}>
+                        {category}
+                      </Link>
+                    </span>
                   ))}
                 </>
               ) : null}

@@ -7,8 +7,7 @@ categories-slug:
   - facebook-ads
 title: 8 Profitable Recommendations for Facebook Mobile Ads
 date: 2020-05-07T00:00:00.000Z
-description: Discover everything you need to know about Facebook mobile ads and
-  get tips and tricks for launching them quickly and effectively.
+description: 
 featuredpost: false
 featuredimage: /img/facebook-mobile-ads-featured-image.jpg
 image: /img/facebook-mobile-ads-featured-image.jpg
@@ -18,7 +17,7 @@ tags:
   - Messenger
   - Mobile Studio
 seo_title: How to Boost Conversions with Facebook Mobile Ads
-metadescription: 
+metadescription: Discover everything you need to know about Facebook mobile ads and get tips and tricks for launching them quickly and effectively.
 focus_keyphrase: facebook mobile ads
 seotitle: How to Boost Conversions with Facebook Mobile Ads
 ---
@@ -181,3 +180,10 @@ You can use [Softcube Artificial Intelligence](https://softcube.com/industries/)
 Contact us if you’d like to test AI for your business.
 
 Thanks for reading our Facebook mobile advertising guide, and good luck!
+<style>
+@media screen and (max-width: 780px){
+  iframe {
+    height: inherit !important;
+  }
+}
+</style>

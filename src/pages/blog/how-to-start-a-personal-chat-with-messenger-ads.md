@@ -7,9 +7,7 @@ categories-slug:
   - tutorials
 title: How to Start a Personal Chat with Messenger Ads
 date: 2020-04-16T00:00:00.000Z
-description: Learn everything you need to know to get started with Messenger
-  ads, including the best practices for Messenger ad formats and tips for
-  launching your ads.
+description:
 featuredpost: false
 featuredimage: /img/messenger-ads-featured-image.jpg
 image: /img/messenger-ads-featured-image.jpg
@@ -19,7 +17,7 @@ tags:
   - Sponsored ads
   - Stories
 seo_title: How to Make Your Business Personal with Messenger Ads
-metadescription: 
+metadescription: Learn everything you need to know to get started with Messenger ads, including the best practices for Messenger ad formats and tips for launching your ads.
 focus_keyphrase: messenger ads
 seotitle: How to Make Your Business Personal with Messenger Ads
 ---
