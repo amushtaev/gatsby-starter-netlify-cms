@@ -59,25 +59,25 @@ import {
 } from '../img/icons';
 import Layout from '../components/Layout';
 import { initialPlans } from '../components/pricing/stripe/plans';
-/*import Accordion from '../components/Accordion';*/
 const Accordion = loadable(() => import('../components/Accordion'));
-/*import WhatOurClientSay from '../components/WhatOurClientSay'*/
 const WhatOurClientSay = loadable(() => import('../components/WhatOurClientSay'));
+const ScCookie = loadable(() => import('../components/Cookies'));
 
 const PricingPage = ({ isSubscribing, subscribe, subscribeResult }) => {
   return (
     <Layout>
-    <PricingPageContainer>
-      <PlansPricing
-        isSubscribing={isSubscribing}
-        subscribe={subscribe}
-        subscribeResult={subscribeResult}
-      />
-      <AllPlansInclude />
-      <WhatOurClientSay />
-      <FrequentlyAskedQuestions />
-      <PasteYourLink />
-    </PricingPageContainer>
+      <PricingPageContainer>
+        <PlansPricing
+          isSubscribing={isSubscribing}
+          subscribe={subscribe}
+          subscribeResult={subscribeResult}
+        />
+        <AllPlansInclude />
+        <WhatOurClientSay />
+        <FrequentlyAskedQuestions />
+        <PasteYourLink />
+      </PricingPageContainer>
+      <ScCookie />
     </Layout>
   );
 };

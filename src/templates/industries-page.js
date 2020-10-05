@@ -13,6 +13,8 @@ import NavIndustries from '../components/NavIndustries';
 import VideoTemplate from '../components/industries/VideoTemplate'
 import BlogRoll from "../components/blog/BlogRoll";
 import BlogRollRelatedIndex from "../components/blog/BlogRollRelatedIndex";
+import loadable from "@loadable/component";
+const ScCookie = loadable(() => import('../components/Cookies'));
 
 const Tags = [
   { 'tag': 'ecommerce' },
@@ -117,6 +119,7 @@ const IndustriesPage = (props) => {
           <IndexHeading top={'132px'}>RELATED ARTICLES</IndexHeading>
           <BlogRollRelatedIndex />
         </PricingPageContainer>
+        <ScCookie />
       </Layout>
     );
   } else {

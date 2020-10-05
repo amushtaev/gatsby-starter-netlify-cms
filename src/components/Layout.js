@@ -5,6 +5,7 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
+import Analytics from "./Analitics";
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -50,7 +51,9 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
+        <meta name="google-site-verification" content="lTplUruFH61DAfPI6hQ8Z18epNymLnv6GqYsgTrtkJU" />
       </Helmet>
+      <Analytics />
       <Navbar />
       <div>{children}</div>
       <Footer />

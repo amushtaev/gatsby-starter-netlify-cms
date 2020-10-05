@@ -187,6 +187,12 @@ module.exports = {
         policy: [{ userAgent: '*', allow: '/', disallow: ['recom.softcube.com', 'test.softcube.com'] }]
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-115185661-1",
+      },
+    },
     // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],

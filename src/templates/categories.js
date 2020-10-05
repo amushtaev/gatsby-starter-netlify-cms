@@ -6,6 +6,8 @@ import Pagination from "../components/Pagination";
 import useDebounce from "../components/DebouncedHook";
 import { Router } from "@reach/router";
 import SearchPage from "./search-result";
+import loadable from "@loadable/component";
+const ScCookie = loadable(() => import('../components/Cookies'));
 
 const CatPage = ({pageContext, stringSearch }) => {
   //const refSlug = typeof window !== 'undefined' && window.location.href.split("/category/")[1];
@@ -49,6 +51,7 @@ const CatPage = ({pageContext, stringSearch }) => {
           <Pagination pageContext={pageContext} category={`/category/${slug}`} link={`/category/${slug}/page/`} />
         </div>
       </section>
+      <ScCookie />
     </LayoutBlog>
   )
 };

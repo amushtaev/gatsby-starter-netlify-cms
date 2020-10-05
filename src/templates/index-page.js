@@ -127,8 +127,9 @@ function SearchYourLink() {
         />
         <SearchButton
           text='Create Video'
-          onClick={() => {
-            window.location.href = 'https://app.softcube.com'
+          onClick={(e) => {
+            e.preventDefault();
+            window.location.href = 'https://app.softcube.com?link=' + inputValue
           }}
         />
       </InputContainer>

@@ -5,6 +5,7 @@ import '../all.sass'
 import useSiteMetadata from '../SiteMetadata'
 import { withPrefix } from 'gatsby'
 import Footer from "../Footer";
+import Analytics from "../Analitics";
 
 const TemplateWrapperBlog = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -45,7 +46,9 @@ const TemplateWrapperBlog = ({ children }) => {
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
+        <meta name="google-site-verification" content="lTplUruFH61DAfPI6hQ8Z18epNymLnv6GqYsgTrtkJU" />
       </Helmet>
+      <Analytics />
       <Navbar />
       <div>{children}</div>
       <Footer />

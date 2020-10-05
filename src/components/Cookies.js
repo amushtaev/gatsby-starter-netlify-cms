@@ -5,7 +5,7 @@ import {Link} from "gatsby";
 
 export default function ScCookie() {
     const cookies = new Cookies();
-    const [display, setDisplay] = useState('flex')
+    const [display, setDisplay] = useState('flex');
 
     return (
       <>

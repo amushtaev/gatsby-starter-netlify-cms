@@ -81,7 +81,7 @@ exports.createPages = ({ actions, graphql }) => {
       edges: edgesBlog,
       component: path.resolve(`src\/templates\/blog.js`),
       limit: 6,
-      pathFormatter: p => (p === 1 ? `/blog/` : `/blog/page/${p}`),
+      pathFormatter: p => (p === 1 ? `/blog/` : `/blog/page/${p}/`),
       //pathFormatter: prefixPathFormatter('/blog'),
       context: {
         title,
@@ -161,7 +161,7 @@ exports.createPages = ({ actions, graphql }) => {
         edges: edgesCat,
         component: path.resolve(`src\/templates\/categories.js`),
         limit: 6,
-        pathFormatter: p => (p === 1 ? categoryPath : `${categoryPath}/page/${p}`),
+        pathFormatter: p => (p === 1 ? categoryPath : `${categoryPath}/page/${p}/`),
         context: {
           title,
           shortTitle,
@@ -198,7 +198,7 @@ exports.createPages = ({ actions, graphql }) => {
       edges: edgesBlog,
       component: path.resolve(`src/templates/search-result.js`),
       limit: 20,
-      pathFormatter: p => (p === 1 ? `/search/` : `/search/page/${p}`),
+      pathFormatter: p => (p === 1 ? `/search/` : `/search/page/${p}/`),
       //pathFormatter: prefixPathFormatter('/blog'),
       context: {
         title,

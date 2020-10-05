@@ -7,6 +7,8 @@ import PropTypes from 'prop-types';
 import SearchPage from './search-result'
 import { Router } from "@reach/router"
 import useDebounce from '../components/DebouncedHook'
+import loadable from "@loadable/component";
+const ScCookie = loadable(() => import('../components/Cookies'));
 
 const BlogPage = ({pageContext, stringSearch}) => {
   const [search, setSearch] = useState(stringSearch);
@@ -46,6 +48,7 @@ const BlogPage = ({pageContext, stringSearch}) => {
           <Pagination pageContext={pageContext} link={`/blog/page/`} />
         </div>
       </section>
+      <ScCookie />
     </LayoutBlog>
   )
 };
