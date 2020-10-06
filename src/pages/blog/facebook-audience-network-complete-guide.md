@@ -117,7 +117,7 @@ Note that it will take nearly 72 hours for Facebook to review and approve your m
 
 * **Rewarded video ads** is a placement you can choose to monetize a gaming app and reward people who have watched your ad. 
 
-<div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/cJBIT8kiM3hb3z5yrn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cJBIT8kiM3hb3z5yrn">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/cJBIT8kiM3hb3z5yrn" width="100%" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 For instance, Pretty Simple achieved a [20% higher CPM](https://www.facebook.com/audiencenetwork/success-stories/pretty-simple-rewarded-video) using rewarded videos on the Audience Network.
 
@@ -125,13 +125,13 @@ For instance, Pretty Simple achieved a [20% higher CPM](https://www.facebook.com
 
 * **Playable ads** are one more [Facebook ad format](https://www.facebook.com/business/success/2-oneplus) available on the Audience Network for mobile gaming apps.
 
-<div style="width:100%;height:0;padding-bottom:204%;position:relative;"><iframe src="https://giphy.com/embed/ZClQyZaslepWOPV6Bi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ZClQyZaslepWOPV6Bi">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ZClQyZaslepWOPV6Bi" height="350" width="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 A playable ad consists of three parts: a video intro, a game demo, and a call-to-action screen.
 
 * **Interstitial ads** are full-screen video ads that appear soon after a mobile app user takes an action and before they’re about to take the next.
 
-<div style="width:100%;height:0;padding-bottom:190%;position:relative;"><iframe src="https://giphy.com/embed/JrYP2N7RDvAcOUKszs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/JrYP2N7RDvAcOUKszs">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/JrYP2N7RDvAcOUKszs" width="192" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Interstitial videos can be launched in two formats: autoplay and click-to-play.
 
@@ -364,7 +364,7 @@ Facebook controls [nearly 9% of all mobile video](https://softcube.com/70-video-
 
 A few-second video is the best way to gain attention and achieve any marketing objective with Audience Network ads. Test a strategy that includes launching video ads at scale.
 
-<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="480" height="360" src="https://video.softcube.com/media/
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/27c40ff5f7bd62126167ad55e0b84c5c.mp4"></video></figure>
 
 Keep in mind that you can use [Softcube Artificial Intelligence](https://softcube.com/) to create high-quality video ads for your Audience Network at the cost of image ads
 <style>

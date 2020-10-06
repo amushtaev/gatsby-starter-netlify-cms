@@ -703,9 +703,12 @@ $menu-item-active-background-color:	$black-invert
 $menu-list-border-left: 1px solid $black-invert
 $menu-label-color: $white-ter
 
-.container.header
+.container.header.top
   max-width: 100%
   padding: 0 72px 0 200px
+@media screen and (min-width: 1408px)
+  .container:not(.is-max-desktop):not(.is-max-widescreen):not(.top)
+    max-width: 1078px
 
 footer .container, section .container
   max-width: 1078px
@@ -811,6 +814,11 @@ footer section.menu
     order: 2
     width: 150px
 
+//Post Content
+#html__content p img
+  max-height: 400px
+#html__content  iframe
+  max-height: 520px
 
 //Pricing
 .clients-say .arrow

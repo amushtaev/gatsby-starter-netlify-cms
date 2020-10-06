@@ -43,7 +43,7 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
         style={{zIndex: '200'}}
       >
-        <div className="container header">
+        <div className="container header top" style={{maxWidth: '100%'}}>
           <div className="navbar-brand">
             <Link to="/" className="navbar-item logo" title="Logo Softcube">
               <img src={logo} alt="Softcube" className="logo"/>

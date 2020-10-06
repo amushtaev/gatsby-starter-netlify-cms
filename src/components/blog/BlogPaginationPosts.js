@@ -29,7 +29,7 @@ export default class BlogPaginationPosts extends React.Component {
                       >
                         <PreviewCompatibleImage
                           imageInfo={{
-                            image: post.frontmatter.image.publicURL,
+                            image: post.frontmatter.featuredimage.publicURL,
                             alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                             srcSet: post.frontmatter.featuredimage.childImageSharp.fluid.srcSet,
                           }}

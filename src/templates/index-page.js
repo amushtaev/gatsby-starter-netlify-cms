@@ -129,7 +129,7 @@ function SearchYourLink() {
           text='Create Video'
           onClick={(e) => {
             e.preventDefault();
-            window.location.href = 'https://app.softcube.com?link=' + inputValue
+            window.location.href = 'https://staging.softcube.com?link=' + inputValue
           }}
         />
       </InputContainer>

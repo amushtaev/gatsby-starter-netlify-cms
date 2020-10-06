@@ -132,7 +132,7 @@ export const DarkRectangle = styled.div`
     position: absolute;
     z-index: ${props => props.visible ? '100' : '0'};
     background: linear-gradient(270deg, rgba(18, 18, 47, 0.24) 0%, rgba(18, 18, 47, 0) 62.95%),
-        rgba(18, 18, 47, 0.82);
+        rgba(18, 18, 47, 0.92);
         
     @media screen and (max-width: 768px) {
       background: none
@@ -152,6 +152,7 @@ export const Article = styled.article`
     box-shadow: ${props => props.noShadow ? 'none'
   : '-10px -10px 15px rgba(28, 28, 72, 0.5), 10px 10px 15px rgba(8, 8, 22, 0.5)'};
     transition: all 0.2s;
+    z-index: ${props => props.noShadow ? '102' : '150'}
 `;
 
 export const CommentContainer = styled.div`
@@ -346,6 +347,7 @@ export const Arrow = styled.svg`
     -webkit-transform: translateY(-50%);
     /* fill: #fff; */
     cursor: pointer;
+    z-index: 200;
     ${props => props.left ? 'left: 110px;' : 'left: auto; right: 110px;'}
 `;
 
