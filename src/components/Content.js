@@ -9,17 +9,17 @@ export const HTMLContent = ({ content, className }) => {
   }, []);
 
   return <div id={'html__content'} className={className} dangerouslySetInnerHTML={{__html: content}}/>;
-}
+};
 
 const Content = ({ content, className }) => (
-  <div className={className}>{content}</div>
-)
+  <div itemProp="description" className={className}>{content}</div>
+);
 
 Content.propTypes = {
   content: PropTypes.node,
   className: PropTypes.string,
-}
+};
 
-HTMLContent.propTypes = Content.propTypes
+HTMLContent.propTypes = Content.propTypes;
 
 export default Content

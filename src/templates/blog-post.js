@@ -72,7 +72,7 @@ export const BlogPostTemplate = ({
   },[]);
 
   return (
-    <section className='section Blog-Post' id={id}>
+    <section className='section Blog-Post' id={id} itemType="http://schema.org/Article">
       <link rel="canonical" href={slug} />
       {/* Twitter */}
       <meta name='twitter:card' content='summary' key='twcard' />
@@ -101,7 +101,7 @@ export const BlogPostTemplate = ({
       <div className='container white s__width' style={{position: `relative`}}>
         <div className='columns'>
           <div className='column post_column'>
-              <img className='post_image' src={image} alt={title} />
+              <img itemType="https://schema.org/ImageObject" itemProp="image" className='post_image' src={image} alt={title} />
               <div className='is-for-mobile'>
               <div style={{paddingTop: `8px`}}>
                 {categories && categories.length ? (
@@ -115,7 +115,7 @@ export const BlogPostTemplate = ({
                   ))}
                 </>
               ) : null}
-                <span className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
+                <span itemProp="datePublished" dateTime={date} className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
               </div>
               <h1 className='title post_title' itemProp="headline">
                 {title}
@@ -130,7 +130,7 @@ export const BlogPostTemplate = ({
                   <ul className='taglist'>
                     {tags.map((tag) => (
                       <li key={tag + `tag`}>
-                        <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                        <Link itemProp="url" to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                       </li>
                     ))}
                   </ul>

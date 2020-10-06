@@ -26,6 +26,7 @@ export default class BlogPaginationPosts extends React.Component {
                       <Link
                         className="title_related"
                         to={post.fields.slug.replace("/blog", "")}
+                        itemProp="url"
                       >
                         <PreviewCompatibleImage
                           imageInfo={{
