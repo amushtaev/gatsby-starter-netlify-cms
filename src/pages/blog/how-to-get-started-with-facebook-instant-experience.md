@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook instant experience
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: How to Get Started with Facebook Instant Experience
 date: 2020-02-13T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/facebook-instant-experience-featured-image.jpg
 image: /img/facebook-instant-experience-featured-image.jpg
+seotitle: How to Gain Momentum with Facebook Instant Experience
+focuskeyphrase: facebook instant experience
+focus_keyphrase: facebook instant experience
+seo_title: How to Gain Momentum with Facebook Instant Experience
 tags:
   - mobile ads
   - Carousel
@@ -18,10 +21,9 @@ tags:
   - image ads
   - video ads
   - Facebook Pixel
-seo_title: How to Gain Momentum with Facebook Instant Experience
-metadescription: Read everything about Facebook Instant Experience. Learn design specifications, get recommendations, look at ad examples, and receive a free gift.
-focus_keyphrase: facebook instant experience
-seotitle: How to Gain Momentum with Facebook Instant Experience
+metadescription: Read everything about Facebook Instant Experience. Learn design
+  specifications, get recommendations, look at ad examples, and receive a free
+  gift.
 ---
 <!--StartFragment-->
 
@@ -263,6 +265,8 @@ Check out our small collection of great Instant Experience ad examples and get i
 What is Instant Experience on Facebook?
 
 An Instant Experience is an amazing opportunity to take time by the forelock. Thanks to lightning-fast loading speed as well as massive storytelling and customization opportunities, Instant Experiences have everything you need to impress your target audience with high-quality mobile ads.
+
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure></center>
 
 In the end, we have just one more question for you. Would you like to upgrade your Instant Experience ads with [artificial intelligence](https://softcube.com)?
 

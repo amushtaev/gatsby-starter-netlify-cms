@@ -6,15 +6,19 @@ categories-slug:
   - facebook-ads
 title: The Storyteller’s Guide to Facebook Story Ads
 date: 2020-07-02T00:00:00.000Z
-description: Need modify desk.
+description: ""
 featuredpost: false
 featuredimage: /img/facebook-story-ads-featured-image.jpg
 image: /img/facebook-story-ads-featured-image.jpg
+tags:
+  - storytelling
+  - video
+  - placements
 seotitle: How to Become a Powerful Storyteller with Facebook Story Ads
 focuskeyphrase: facebook story ads
-tags:
-  - brewing
-  - chemex
+metadescription: Learn how to create impressive Facebook Story ads in seconds.
+  Take advantage of best practices and review all the relevant design
+  specifications.
 ---
 <!--StartFragment-->
 
@@ -26,7 +30,7 @@ In one of [his blog posts](https://seths.blog/2020/07/our-top-story/), author an
 
 Instagram has proved this with a vengeance. If you’re an active Instagram Stories user, you’ve noticed that [Instagram Stories ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) represent literally every second, third, or fourth post you swipe.
 
-<iframe title="" style="max-width:480px; max-height:265px; width:100%; height:265px; min-height: 264px;" src="https://giphy.com/gifs/oh-edition-maIEBUU5OmrMA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe src="https://giphy.com/embed/maIEBUU5OmrMA" width="480" height="313" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 The huge popularity of Instagram Stories pushed the Facebook team to expand storytelling opportunities across the Facebook family of apps and services and later introduce Stories for Facebook and Messenger. And it was the right move — in one survey, [68% of people](https://softcube.com/70-video-marketing-statistics-for-2020/) said they use Instagram Stories, Messenger Stories, and Facebook Stories at least once a week.
 
@@ -40,7 +44,9 @@ These numbers are huge. And you definitely shouldn’t ignore them when launchin
 
 Introduced on September 26, 2018, Facebook Story ads are an [ad placement](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/) available in Facebook Ads Manager. Want some Facebook Story ads examples? Consider this ad made by KFC during one of their Facebook ad campaigns:
 
-<iframe title="" style="max-width:480px; max-height:265px; width:100%; height:265px; min-height: 264px;" src="https://giphy.com/gifs/MZXnWgUQDsvJUh5qXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe src="https://giphy.com/embed/MZXnWgUQDsvJUh5qXA" width="272" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+Now let’s learn everything about how to create Facebook Story ads for your business.
 
 ## How to Create and Launch Story Ads on Facebook
 
@@ -82,15 +88,34 @@ The first thing you should know about Facebook Story ad specs is that the Facebo
 
 Before creating your Facebook Story ads, check out this spreadsheet:
 
-<!--StartFragment-->
-
-\[table id=12 /]
-
-<!--EndFragment-->
+| Specification          | Video                                                               | Image          |
+| ---------------------- | ------------------------------------------------------------------- | -------------- |
+| Aspect ratio           | 9:16 to 1.91:1                                                      | 9:16 to 1.91:1 |
+| Facebook Story ad size | 4 GB                                                                | 30 MB          |
+| Maximum duration       | 15 seconds                                                          | 6 seconds      |
+| Supported file types   | MP4, MOV                                                            | JPG, PNG       |
+| Maximum video width    | 500px                                                               | —              |
+| Video quality          | H.264, square pixels, fixed frame rate, progressive scan            | —              |
+| Audio quality          | Stereo AAC at 128kbps+                                              | —              |
+| Captions               | Not available. Subtitles or captions must be embedded in the video. | —              |
 
 Along with Facebook Story ad dimensions, sizes, and other specifications, you need to know the objectives and call to action buttons that support Facebook Story ads. Here they are:
 
-\[table id=13 /]
+| Call to Action Buttons | Marketing Objectives |
+| ---------------------- | -------------------- |
+| Apply Now              | Traffic              |
+| Book Now               | Conversions          |
+| Contact Us             | Reach                |
+| Download               | Brand Awareness      |
+| Learn More             | Video Views          |
+| Get Showtimes          | Lead Generation      |
+| Request Time           | App Installs         |
+| See Menu               |                      |
+| Shop Now               |                      |
+| Sign Up                |                      |
+| Watch More             |                      |
+| Listen Now             |                      |
+| Download               |                      |
 
 ## How to Master Facebook Storytelling with Facebook Stories Ads
 
@@ -137,6 +162,8 @@ Create as many scenes as possible. This technique will enhance the effect of eve
 ## Make Facebook Video Stories Ads with Artificial Intelligence
 
 When it comes to cutting scenes, it may be a real challenge to choose the best parts from your footage. We know that firsthand.
+
+<p align="center"><video id="video-1034-1_html5" class="wp-video-shortcode" autoplay="autoplay" loop="loop" width="640" height="360"><source type="video/mp4" src="https://video.softcube.com/media/a293c868a5d278afb37f7f5c7087307a.mp4"></video></p>
 
 The good news is you don't have to do this by hand. When you import your video to the [Softcube artificial intelligence](https://softcube.com) system, an algorithm will help you find the best scenes, cut them, and create a short, high-quality video ad that will boost your conversions.
 

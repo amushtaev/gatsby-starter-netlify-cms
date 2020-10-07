@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: digital marketing tools
 templateKey: blog-post
 categories:
   - Tutorials
@@ -7,18 +6,21 @@ categories-slug:
   - tutorials
 title: 38 Extremely Effective Digital Marketing Tools
 date: 2020-03-24T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/digital-marketing-tools-featured-image.jpg
 image: /img/digital-marketing-tools-featured-image.jpg
+seotitle: 38 Digital Marketing Tools You Might Have Never Used
+focuskeyphrase: digital marketing tools
+focus_keyphrase: digital marketing tools
+seo_title: 38 Digital Marketing Tools You Might Have Never Used
 tags:
   - Google
   - Instagram
   - Facebook
-seo_title: 38 Digital Marketing Tools You Might Have Never Used
-metadescription: Check out this list of helpful digital marketing tools for planning, tracking, analytics, SEO, design, and copywriting. Plus, get a gift to grow your brand.
-focus_keyphrase: digital marketing tools
-seotitle: 38 Digital Marketing Tools You Might Have Never Used
+metadescription: Check out this list of helpful digital marketing tools for
+  planning, tracking, analytics, SEO, design, and copywriting. Plus, get a gift
+  to grow your brand.
 ---
 <!--StartFragment-->
 
@@ -26,7 +28,7 @@ Humans have been using tools for as long as we’ve been humans. Every marketer 
 
 Naturally, you were introduced to some of the best digital marketing tools in your toolset by your colleagues at the beginning of your career.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMwmfeY3clGXS24" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-16-the-simpsons-16x8-xT5LMwmfeY3clGXS24">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/xT5LMwmfeY3clGXS24" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Then you probably upgraded your virtual toolkit with instruments you stumbled upon online. For example, in articles like this one.
 
@@ -239,7 +241,7 @@ Dribbble is the go-to platform where designers and creative people connect by sh
 
 In a time when visual content has conquered every platform, text is in the shadows but still makes a difference. If you create ads, you need to know how to write good copy.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/vpURqIvpuDguQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/not-my-job-vpURqIvpuDguQ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/vpURqIvpuDguQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Here are some copywriting tools required for digital marketing success:
 
@@ -267,7 +269,7 @@ RhymeZone is the best online finder of rhymes, near rhymes, synonyms, descriptiv
 
 Video ads are one of the most effective instruments for promoting any product or service online. Don't forget to test [Softube AI](https://softcube.com) that will really come in handy.
 
-<video controls autoplay="autoplay" loop="loop" width="480" height="360"src="https://video.softcube.com/media/0671d2c6df756586b6da825b89974163.mp4"></video>
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure></center>
 
 Thank you for scrolling through our list of top digital marketing tools. Good luck with building your toolset!
 

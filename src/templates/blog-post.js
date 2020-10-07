@@ -22,6 +22,7 @@ import BlogRoll from "../components/blog/BlogRoll";
 import useWindowSize from '../components/Getscreen'
 import useDebounce from "../components/DebouncedHook";
 import BlogCallToAction from "../components/blog/BlogCallToAction";
+import StyleForContent from "../components/blog/blog-post.css"
 
 export const BlogPostTemplate = ({
   content,
@@ -74,9 +75,10 @@ export const BlogPostTemplate = ({
   return (
     <section className='section Blog-Post' id={id} itemType="http://schema.org/Article">
       <link rel="canonical" href={slug} />
+      <meta name="description" content={seotitle} />
       {/* Twitter */}
       <meta name='twitter:card' content='summary' key='twcard' />
-      <meta name='twitter:creator' content={metadescription} key='twhandle' />
+      <meta name='twitter:creator' content={seotitle} key='twhandle' />
 
       {/* Open Graph */}
       <meta property="og:locale" content="en_US" />
@@ -98,7 +100,7 @@ export const BlogPostTemplate = ({
       </div>
       <NavRoll defaultSearch={''} onSearch={(value) => setSearch(value)} isShowSearch={false} />
       {helmet || ''}
-      <div className='container white s__width' style={{position: `relative`}}>
+      <div className='container white s__width' style={{position: `relative`}} itemScope="" itemType="https://schema.org/Organization">
         <div className='columns'>
           <div className='column post_column'>
               <img itemType="https://schema.org/ImageObject" itemProp="image" className='post_image' src={image} alt={title} />
@@ -116,6 +118,8 @@ export const BlogPostTemplate = ({
                 </>
               ) : null}
                 <span itemProp="datePublished" dateTime={date} className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
+                <span itemProp="author" style={{display: `none`}}>Softcube</span>
+                <span itemProp="publisher" itemScope="" itemType="https://schema.org/Organization" style={{display: `none`}}></span>
               </div>
               <h1 className='title post_title' itemProp="headline">
                 {title}

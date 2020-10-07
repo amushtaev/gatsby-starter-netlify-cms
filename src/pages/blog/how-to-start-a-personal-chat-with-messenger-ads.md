@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: messenger ads
 templateKey: blog-post
 categories:
   - Tutorials
@@ -7,19 +6,22 @@ categories-slug:
   - tutorials
 title: How to Start a Personal Chat with Messenger Ads
 date: 2020-04-16T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/messenger-ads-featured-image.jpg
 image: /img/messenger-ads-featured-image.jpg
+seotitle: How to Make Your Business Personal with Messenger Ads
+focuskeyphrase: messenger ads
+focus_keyphrase: messenger ads
+seo_title: How to Make Your Business Personal with Messenger Ads
 tags:
   - Click to Messenger ads
   - Messenger inbox
   - Sponsored ads
   - Stories
-seo_title: How to Make Your Business Personal with Messenger Ads
-metadescription: Learn everything you need to know to get started with Messenger ads, including the best practices for Messenger ad formats and tips for launching your ads.
-focus_keyphrase: messenger ads
-seotitle: How to Make Your Business Personal with Messenger Ads
+metadescription: Learn everything you need to know to get started with Messenger
+  ads, including the best practices for Messenger ad formats and tips for
+  launching your ads.
 ---
 <!--StartFragment-->
 
@@ -55,7 +57,7 @@ Pretty soon, the number of Messenger users is likely to approach the population 
 
 As of October 2019, there were over [1.3 billion people](https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/) using Messenger every month. Just imagine how many Pusheen cat stickers people send each other every day!
 
-https://giphy.com/gifs/cat-facebook-messenger-czhp123dcmKFG
+<iframe src="https://giphy.com/embed/czhp123dcmKFG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Actually, let’s imagine you’re about to get started with Facebook Messenger advertising. How should you go about it?
 
@@ -83,7 +85,7 @@ And the cool thing about messaging is that it can take many different forms.
 
 Here are four types of ads you can launch on Messenger:
 
-### 1\. Ads in the Messenger Inbox
+### 1. Ads in the Messenger Inbox
 
 Ads in the Messenger Inbox will encourage people from your target audience to start a conversation with your business by appearing in the Chats tab of the Messenger app. 
 
@@ -95,12 +97,12 @@ After users stumble on an ad in their inbox and tap on it, they’re directed to
 
 **Best Practices for Ads in Messenger Inbox:**
 
-- Preview both the inbox and detailed views before publishing your ad to make sure it looks great.
-- Create close-up images with high contrast, a clear focal point, and minimum text overlay to make them noticeable to viewers.
-- Make sure your image has a 1:1 ratio so it appears right in the center. Images with other ratios will automatically be masked to 1:1 to show up in the center.
-- Start your ad copy with a call to action and keep your message short and clear.
+* Preview both the inbox and detailed views before publishing your ad to make sure it looks great.
+* Create close-up images with high contrast, a clear focal point, and minimum text overlay to make them noticeable to viewers.
+* Make sure your image has a 1:1 ratio so it appears right in the center. Images with other ratios will automatically be masked to 1:1 to show up in the center.
+* Start your ad copy with a call to action and keep your message short and clear.
 
-### 2\. Messenger Stories Ads
+### 2. Messenger Stories Ads
 
 Having first appeared on Instagram and Facebook, [Stories ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) are now also available on Messenger.
 
@@ -112,10 +114,10 @@ After people tap on a call-to-action button on your Story ad, they’re driven t
 
 **Best Practices for Messenger Stories Ads:**
 
-- Keep the length of your story ads from 4 to 7 seconds. It’s a golden middle that gets viewers interested without being intrusive.
-- Come up with a story that will encourage people to start a conversation with you. In other words, create intrigue. 
+* Keep the length of your story ads from 4 to 7 seconds. It’s a golden middle that gets viewers interested without being intrusive.
+* Come up with a story that will encourage people to start a conversation with you. In other words, create intrigue. 
 
-### 3\. Click to Messenger Ads
+### 3. Click to Messenger Ads
 
 Facebook reports that click to Messenger ads is one of the [fastest-growing ad formats](https://www.facebook.com/business/news/insights/5-reasons-messaging-is-taking-flight-with-travelers). This format allows you to hook the attention of customers on Messenger, Instagram, and Facebook and then chat with them one-on-one after they tap the ad.
 
@@ -123,11 +125,11 @@ Facebook reports that click to Messenger ads is one of the [fastest-growing ad f
 
 **Best Practices for Messenger Stories Ads:**
 
-- Write a personalized welcome message to introduce your business.
-- Add quick replies to simplify the process of acquaintance.
-- Use the messages marketing objective to show ads to users who are more likely to engage with your company.
+* Write a personalized welcome message to introduce your business.
+* Add quick replies to simplify the process of acquaintance.
+* Use the messages marketing objective to show ads to users who are more likely to engage with your company.
 
-### 4\. Messenger Sponsored Ads
+### 4. Messenger Sponsored Ads
 
 Using sponsored Messenger ads is one of the best Messenger retargeting techniques. With this advertising format, you can contact Messenger users you’ve already engaged with by sending highly personalized offers they’re likely to be interested in.
 
@@ -135,8 +137,8 @@ Using sponsored Messenger ads is one of the best Messenger retargeting technique
 
 **Best Practices for Messenger Sponsored Ads:**
 
-- Strike while the iron is hot. Ideally, you should show your retargeting ad within two days of the first contact.
-- Be ready to respond at any moment after launching your Messenger sponsored ad campaign. Customers may have questions about your offer. Don’t miss this great opportunity.
+* Strike while the iron is hot. Ideally, you should show your retargeting ad within two days of the first contact.
+* Be ready to respond at any moment after launching your Messenger sponsored ad campaign. Customers may have questions about your offer. Don’t miss this great opportunity.
 
 ## How to Befriend Customers Through Messenger Ads
 
@@ -152,11 +154,11 @@ If you want to get the most out of advertising your business with Messenger, you
 
 The [Facebook for developers website](https://developers.facebook.com/docs/messenger-platform) includes a large number of tools, features, and APIs that will help you:
 
-- create chatbots
-- use messaging templates
-- get insights
-- measure the performance of your Messenger ads
-- and do many other things to automate and optimize your Messenger marketing.
+* create chatbots
+* use messaging templates
+* get insights
+* measure the performance of your Messenger ads
+* and do many other things to automate and optimize your Messenger marketing.
 
 ### Take Advantage of Retargeting Opportunities
 
@@ -190,7 +192,7 @@ You’ll be able to learn more about Facebook Messenger ad placements and format
 
 When it comes to advertising, experience gained by others always comes in handy. Businesses across all industries all over the world look to other companies for inspiration.
 
-As Pablo Picasso once said, _Good artists copy, great artists steal._
+As Pablo Picasso once said, *Good artists copy, great artists steal.*
 
 But how would he respond to one of the best Facebook Messenger ad examples ever?
 
@@ -200,15 +202,17 @@ The [Pablo Picasso Messenger bot](https://www.facebook.com/business/inspiration?
 
 If you want to create a Messenger ad or chatbot that will fascinate your audience, you can find inspiration in:
 
-- **Facebook Success Stories**. This [amazing website](https://www.facebook.com/business/success) allows you to find Messenger ad case studies from companies of all sizes.
-- **Instagram Success Stories**. Though [this alternative](https://business.instagram.com/success/) to Facebook Success Stories is dedicated solely to Instagram ads, you’ll find lots of ideas that are useful for your business.
-- **Facebook Creative Inspiration**. Check out [this resource](https://www.facebook.com/business/inspiration), if the other two aren’t enough for you.
+* **Facebook Success Stories**. This [amazing website](https://www.facebook.com/business/success) allows you to find Messenger ad case studies from companies of all sizes.
+* **Instagram Success Stories**. Though [this alternative](https://business.instagram.com/success/) to Facebook Success Stories is dedicated solely to Instagram ads, you’ll find lots of ideas that are useful for your business.
+* **Facebook Creative Inspiration**. Check out [this resource](https://www.facebook.com/business/inspiration), if the other two aren’t enough for you.
 
 We hope you’ll have a lot of fun gaining insights and inspiration for your advertising!
 
 ## Increase Conversions with Messenger Video Ads Made by AI
 
 Now that you know how to make Messenger ads, we have news for you.
+
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/8f833002ba8dd843043cbca6ffcf4e21.mp4"></video></figure></center>
 
 You can save and launch your video Messenger marketing campaign with [Softcube artificial intelligence](https://softcube.com/).
 

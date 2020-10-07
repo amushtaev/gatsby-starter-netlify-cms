@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: emotional appeal advertising
 templateKey: blog-post
 categories:
   - Tutorials
@@ -7,10 +6,14 @@ categories-slug:
   - tutorials
 title: The Science of Emotional Appeal Advertising
 date: 2020-04-21T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/emotional-appeal-advertising-featured-image.jpg
 image: /img/emotional-appeal-advertising-featured-image.jpg
+seotitle: The Rational Guide to Emotional Appeal Advertising
+focuskeyphrase: emotional appeal advertising
+focus_keyphrase: emotional appeal advertising
+seo_title: The Rational Guide to Emotional Appeal Advertising
 tags:
   - EKG
   - emotional advertising
@@ -20,10 +23,9 @@ tags:
   - neuromarketing
   - New Balance
   - video ads
-seo_title: The Rational Guide to Emotional Appeal Advertising
-metadescription: Learn how you can use your ads to stir emotions with this guide to emotional appeal advertising, try three original best practices, and succeed.
-focus_keyphrase: emotional appeal advertising
-seotitle: The Rational Guide to Emotional Appeal Advertising
+metadescription: Learn how you can use your ads to stir emotions with this guide
+  to emotional appeal advertising, try three original best practices, and
+  succeed.
 ---
 <!--StartFragment-->
 
@@ -49,7 +51,7 @@ Emotional appeal advertising urges customers to buy products and services by tri
 
 In fact, it’s more than a technique. It’s a real science pushed by big corporations in order to understand the inner world of the average consumer. 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Lx9GSD2b5M1PO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mrw-odds-drinkers-Lx9GSD2b5M1PO">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Lx9GSD2b5M1PO" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 For years, [Coca-Cola, AT&T, Dove](https://www.researchgate.net/publication/235270965_Understanding_and_using_emotions_in_advertising), and many other world-known brands have launched successful advertising campaigns based on data gained by professional diagnostic departments that are similar to those found in medical clinics.
 
@@ -71,29 +73,29 @@ In [their article](https://visme.co/blog/types-of-advertising-appeals/), Visme h
 
 They classify emotional and rational appeal into the following categories:
 
-- Personal Appeal
-- Social Appeal
-- Humor Appeal
-- Fear Appeal
-- Sexual Appeal
-- Romantic Appeal
-- Endorsement Appeal
-- Youth Appeal
-- Popularity Appeal
-- Musical Appeal
-- Adventure Appeal
-- Empathy Appeal
-- Potential Appeal
-- Brand Appeal
-- Pain Solution
-- Scarcity Appeal
-- Testimonial Appeal
-- Contrasting Appeal
-- Status Appeal
-- Statistics Appeal
-- Beauty Appeal
-- Transparent Appeal
-- Natural Appeal
+* Personal Appeal
+* Social Appeal
+* Humor Appeal
+* Fear Appeal
+* Sexual Appeal
+* Romantic Appeal
+* Endorsement Appeal
+* Youth Appeal
+* Popularity Appeal
+* Musical Appeal
+* Adventure Appeal
+* Empathy Appeal
+* Potential Appeal
+* Brand Appeal
+* Pain Solution
+* Scarcity Appeal
+* Testimonial Appeal
+* Contrasting Appeal
+* Status Appeal
+* Statistics Appeal
+* Beauty Appeal
+* Transparent Appeal
+* Natural Appeal
 
 If you’re ready to suggest more emotions and feelings that can help boost conversions, share them in the comments below.
 
@@ -139,15 +141,15 @@ Put simply, do what Fender’s marketers do: use your emotional appeal ads to le
 
 In one of the best emotional appeal commercials you could ever see, New Balance doesn’t make their product a means to an end.
 
-https://www.youtube.com/watch?v=xP52XhzbHSg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xP52XhzbHSg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Instead, they remind their customers about their strengths: _You don’t need us to know you’re fast. Be fast!_
+Instead, they remind their customers about their strengths: *You don’t need us to know you’re fast. Be fast!*
 
 A spectacular emotional appeal powered by a charismatic cast, sparky effects, and a powerful motto will make your customers feel like part of your family.
 
 Talking of family, here’s one more ad that brings the right values to the viewer’s mind:
 
-https://www.youtube.com/watch?v=HWmoME64Y9A
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HWmoME64Y9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The New Balance advertising team mixes a few emotional appeals in one video: vision, respect, strength, fearlessness, game, winning, and independence.
 
@@ -173,9 +175,12 @@ The major task for an advertisement that uses emotional appeal is to stimulate a
 
 We showed you how you can do that by taking advantage of your company’s mission, your customers’ strong points, and the video ad format.
 
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/3f8d56313730fd78343bb1f10b876fcd.mp4"></video></figure>
+
 We hope you’ve found this tutorial useful. Thank you for reading!
 
 Don't forget that you can test creating the [Softcube Artificial Intelligence](https://softcube.com/) system to produce your emotional ads. Have fun, and good luck!
+
 <style>
 @media screen and (max-width: 780px){
   iframe {

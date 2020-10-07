@@ -6,15 +6,22 @@ categories-slug:
   - facebook-ads
 title: "Facebook Boost Post: Pros and Cons"
 date: 2020-07-07T00:00:00.000Z
-description: Need modify desk.
+description: ""
 featuredpost: false
 featuredimage: /img/facebook-boost-post-featured-image.jpg
 image: /img/facebook-boost-post-featured-image.jpg
 tags:
-  - brewing
-  - chemex
+  - post engagement
+  - targeting
+  - Pixel
+  - Custom Audiences
+  - Lookalike Audiences
+  - Carousels
 seotitle: Is It Really Worth Clicking the Facebook Boost Post Button?
 focuskeyphrase: facebook boost post
+metadescription: Learn everything about Facebook boost posts and discover the
+  difference between boosted posts and traditional Facebook ads launched from
+  Ads Manager.
 ---
 <!--StartFragment-->
 
@@ -160,5 +167,7 @@ If you create ads in Ads Manager, you can create [Carousels](https://softcube.co
 ## Create Video Content for Boosted Posts with Artificial Intelligence
 
 No matter which method you choose for promoting your business, we wish you a high conversion rate and good sales.
+
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure></center>
 
 Keep in mind that you can come up with the best Facebook boosted posts and make your results even more impressive with [Softcube AI](https://softcube.com/) — a platform that requires just a few clicks and an image-sized ad budget to create high-quality video advertising content.

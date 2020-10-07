@@ -1,24 +1,26 @@
 ---
-focuskeyphrase: facebook app install ads
 templateKey: blog-post
 categories:
   - Facebook Ads
 categories-slug:
   - facebook-ads
-title: "The Developer’s Guide to Facebook App Install Ads"
+title: The Developer’s Guide to Facebook App Install Ads
 date: 2020-03-17T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/facebook-app-install-ads-featured-image.jpg
 image: /img/facebook-app-install-ads-featured-image.jpg
+seotitle: How to Promote Your Mobile App with Facebook App Install Ads
+focuskeyphrase: facebook app install ads
+focus_keyphrase: facebook app install ads
+seo_title: How to Promote Your Mobile App with Facebook App Install Ads
 tags:
   - Ads Manager
   - free ads
   - Facebook Blueprint
-seo_title: How to Promote Your Mobile App with Facebook App Install Ads
-metadescription: Attract new users to your mobile app and make it more popular among current users by reading this beginner’s guide to Facebook app install ads.
-focus_keyphrase: facebook app install ads
-seotitle: How to Promote Your Mobile App with Facebook App Install Ads
+metadescription: Attract new users to your mobile app and make it more popular
+  among current users by reading this beginner’s guide to Facebook app install
+  ads.
 ---
 <!--StartFragment-->
 
@@ -96,9 +98,6 @@ Launching a mobile app engagement ad campaign is the same as launching an app in
 ### Playable Ads
 
 Facebook playable ads are designed to demonstrate your mobile app as if viewers had already downloaded it. In fact, these are the best Facebook app install ads for game developers.
-
-
-<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/ZClQyZaslepWOPV6Bi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Every playable ad consists of three components:
 

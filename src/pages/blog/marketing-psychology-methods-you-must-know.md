@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: marketing psychology
 templateKey: blog-post
 categories:
   - Tutorials
@@ -7,10 +6,14 @@ categories-slug:
   - tutorials
 title: 7 Marketing Psychology Methods You Must Know
 date: 2020-08-11T00:00:00.000Z
-description: Learn well-known marketing psychology techniques to create an effective strategy to grow your business and achieve your advertising goals.
+description: ""
 featuredpost: false
 featuredimage: /img/marketing-psychology-featured-image.jpg
 image: /img/marketing-psychology-featured-image.jpg
+seotitle: 7 Marketing Psychology Methods to Change Customers’ Minds
+focuskeyphrase: marketing psychology
+focus_keyphrase: marketing psychology
+seo_title: 7 Marketing Psychology Methods to Change Customers’ Minds
 tags:
   - Anchoring
   - Color psychology
@@ -20,10 +23,8 @@ tags:
   - Reciprocity
   - Scarcity
   - Social proof
-seo_title: 7 Marketing Psychology Methods to Change Customers’ Minds
-metadescription: Learn well-known marketing psychology techniques to create an effective strategy to grow your business and achieve your advertising goals.
-focus_keyphrase: marketing psychology
-seotitle: 7 Marketing Psychology Methods to Change Customers’ Minds
+metadescription: Learn well-known marketing psychology techniques to create an
+  effective strategy to grow your business and achieve your advertising goals.
 ---
 <!--StartFragment-->
 
@@ -31,7 +32,7 @@ seotitle: 7 Marketing Psychology Methods to Change Customers’ Minds
 
 Marketers and psychologists have one major thing in common: they both analyze the human mind. When we buy, we play mind games. For this reason, the most popular and most effective ads often blow one’s mind, sometimes literally.
 
-<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://giphy.com/gifs/mind-blown-brain-explode-b8kHKZq3YFfnq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe src="https://giphy.com/embed/b8kHKZq3YFfnq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 We can only guess what psychological experiments businesses carry out in their laboratories, away from prying eyes, in order to create more advanced mind games and help marketers stay on top. 
 
@@ -43,7 +44,7 @@ Marketing psychology is a science that researches consumer behavior and buying d
 
 ## Reciprocity
 
-Reciprocity is a norm used in different fields of social, psychological, and scientific studies. Austrian economists Ernst Fehr and Simon Gächter, in [a paper](https://www.aeaweb.org/articles?id=10.1257/jep.14.3.159) for the Journal of Economic *Perspectives, write:*
+Reciprocity is a norm used in different fields of social, psychological, and scientific studies. Austrian economists Ernst Fehr and Simon Gächter, in [a paper](https://www.aeaweb.org/articles?id=10.1257/jep.14.3.159) for the Journal of Economic Perspectives, write*:*
 
 *Reciprocity means that in response to friendly actions, people are frequently much nicer and much more cooperative than predicted by the self-interest model; conversely, in response to hostile actions they are frequently much more nasty and even brutal.*
 

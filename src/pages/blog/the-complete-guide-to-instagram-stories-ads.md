@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: instagram stories ads
 templateKey: blog-post
 categories:
   - Instagram Ads
@@ -7,19 +6,22 @@ categories-slug:
   - instagram-ads
 title: The Complete Guide to Instagram Stories Ads
 date: 2020-01-30T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/instagram-stories-ads-featured-image.jpg
 image: /img/instagram-stories-ads-featured-image.jpg
+seotitle: How to Become the Best Storyteller with Instagram Stories Ads
+focuskeyphrase: instagram stories ads
+focus_keyphrase: instagram stories ads
+seo_title: How to Become the Best Storyteller with Instagram Stories Ads
 tags:
   - Ads Manager
   - ad format
   - storytelling
   - ad type
-seo_title: How to Become the Best Storyteller with Instagram Stories Ads
-metadescription: Learn everything you need to know about Instagram Stories Ads, including best practices and ad specifications, plus get post ideas, examples and freebies.
-focus_keyphrase: instagram stories ads
-seotitle: How to Become the Best Storyteller with Instagram Stories Ads
+metadescription: Learn everything you need to know about Instagram Stories Ads,
+  including best practices and ad specifications, plus get post ideas, examples
+  and freebies.
 ---
 <!--StartFragment-->
 
@@ -91,8 +93,6 @@ Here are all the Instagram Story ad specs you need to create amazing visual narr
 | Instagram Story ad format     | MP4 or MOV                                  | JPG or PNG                              |
 | Instagram Story ad length     | up to 120 seconds                           | show for 5 seconds                      |
 | Instagram Story ad codecs     | H.264, VP8 for video  AAC, Vorbis for audio | —                                       |
-
-
 
 **Note**: Be sure you know [design specifications](https://softcube.com/questions-about-facebook-video-ad-specs/) for other Instagram and Facebook ad types.
 
@@ -239,6 +239,6 @@ Now you know how to create Instagram Story ads and make them work for your busin
 
 Have ideas for your first Stories?
 
-<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/237908189eb65a642869912b3f318742.mp4"></video></figure>
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/237908189eb65a642869912b3f318742.mp4"></video></figure></center>
 
 Use [Softcube artificial intelligence technology](https://softcube.com) and achieve your marketing objectives faster. Good luck!

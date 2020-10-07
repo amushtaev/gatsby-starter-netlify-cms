@@ -6,18 +6,23 @@ categories-slug:
   - facebook-ads
 title: How to Use Vertical Video Ads on the Facebook Ad Network
 date: 2020-08-18
-description: Read this guide to learn about the rise of vertical video and how you can successfully take advantage of vertical video ads on Facebook and its apps.
+description: ""
 featuredpost: false
 featuredimage: /img/vertical-video-ads-facebook-featured-image.jpg
 image: /img/vertical-video-ads-facebook-featured-image.jpg
-seotitle: How to Create Vertical Video Ads on Facebook and Its Services
-focuskeyphrase: vertical video ads facebook
 tags:
   - IGTV
   - Instagram Ads
   - Stories
   - YouTube Ads
+seotitle: How to Create Vertical Video Ads on Facebook and Its Services
+focuskeyphrase: vertical video ads facebook
+metadescription: Read this guide to learn about the rise of vertical video and
+  how you can successfully take advantage of vertical video ads on Facebook and
+  its family of apps.
 ---
+
+
 <!--StartFragment-->
 
 If you’re going to launch vertical video ads on Facebook, Instagram, Snapchat, YouTube, or any other popular platform, now is the best time to do so because digital video content is booming. There are two reasons why we’re witnessing this boom.
@@ -34,114 +39,82 @@ Put another way, people have gotten used to watching a lot of mobile video conte
 
 In the beginning of the 2010s, companies didn’t take vertical video marketing seriously. People mocked vertical videos (mostly uploaded to YouTube) so much that the [vertical video syndrome](/img/giphy_1.gif) meme appeared in 2012.
 
-<iframe src="https://giphy.com/embed/QAD2c9bfVENP2Rig82" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 264px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CBSAllAccess-science-fiction-replay-the-twilight-zone-QAD2c9bfVENP2Rig82">via GIPHY</a></p>
+<center><iframe src="https://giphy.com/embed/QAD2c9bfVENP2Rig82" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 264px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 
-### Step 1. Launch Events Manager
+In 2013, two mobile apps changed the status quo: Instagram added a [15-second video feature](https://mashable.com/2013/06/20/instagram-video/) and Snapchat invented Stories.
 
-Events Manager is a sub-platform where all Facebook pixel activity happens. From Events Manager, you can monitor how, where, and why your conversions happen.
+In her [2015 Internet Trends Report](https://www.washingtonpost.com/news/innovations/wp/2015/05/28/6-key-takeaways-from-mary-meekers-must-read-report-on-internet-trends/), Mary Meeker, an American venture capitalist, said global vertical viewing time had increased from 5% in 2010 to 29% in 2015. That same year, YouTube revamped its app with vertical video and the number of vertical uploads [grew 50%](https://www.nytimes.com/2015/08/13/technology/personaltech/vertical-video-on-the-small-screen-not-a-crime.html).
 
-![Create a Facebook pixel — Events Manager](/img/create-a-facebook-pixel-events-manager.jpg)
+![Vertical video ads on Facebook — horizontal viewing](/img/vertical-video-ads-facebook-horizontal-viewing-1024x546.jpg)
 
-To launch Events Manager, go to Business Manager, open a dropdown menu, and click the Events Manager icon. Once you’re there, click **Connect Data Sources** to create a new data source.
+In 2016, companies got an opportunity to run Snapchat vertical video ads with the release of the [Snap Ads](https://tinuiti.com/blog/paid-social/snapchat-ads/) flagship ad format. Back then, [7 in 10 people](https://www.thinkwithgoogle.com/data/mobile-video-viewing-behavior/) defaulted to horizontal viewing when watching videos on their phones according to research by Google and Ipsos.
 
-![Create a Facebook pixel — data sources](/img/create-a-facebook-pixel-data-sources.jpg)
+In 2017, Facebook unveiled vertical video in News Feed on mobile. Facebook vertical video ads were tested against horizontal and square video ads by ten brand advertisers in Europe, North America, and Latin America. Seven brands [demonstrated an increase](https://www.facebook.com/business/news/upgrading-facebook-video-for-people-and-advertisers) in brand lift and ad recall.
 
-### Step 2. Create a New Data Source
+In 2018, Google presented YouTube vertical video ads for TrueView and Universal App campaigns and YouTube [started playing vertical video on desktop](https://www.theverge.com/2018/7/30/17629504/youtube-website-vertical-videos-without-black-bars) without black bars.
 
-There are three major types of data sources available in Events Manager:
+## How to Wisely Run Vertical Video Ads on Facebook and Its Apps
 
-1. **Web**. Create a new Facebook pixel to track website conversions.
-2. **App**. Install the Facebook SDK to track mobile app conversions.
+According to a [YuMe survey](https://www.mediapost.com/publications/article/302332/vertical-video-turns-heads-on-social-platforms-mo.html) published on DigitalNewsDaily:
 
-**Offline**. Use offline data to boost online conversions.
+* 78% of first-time viewers like vertical videos
+* 65% of people surveyed claim brands using the vertical video format are more innovative
+* 79% of first-time viewers claim vertical videos are more engaging and they would choose this format in most cases
+* 84% of first-time viewers and 85% of experienced viewers say vertical videos fit social media best.
 
-![Create a Facebook pixel  — a new data source](/img/create-a-facebook-pixel-new-data-source.jpg)
+And when it comes to using social media, Facebook and its products rule the day. Facebook, Instagram, WhatsApp, and Facebook Messenger are [among the top six social media platforms](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/) worldwide.
 
-Since you’re here to learn everything about creating a pixel on Facebook, choose the **Web** option. After that, click **Get Started**.
+![Vertical video ads on Facebook — device usage](/img/vertical-video-ads-facebook-device-usage.png)
 
-![Create a Facebook pixel — connection methods](/img/create-a-facebook-pixel-connection-method.jpg)
+Interestingly, over 98% of people use Facebook via some kind of mobile phone, and only around 2% log in to the world’s most popular social media network via a laptop or desktop computer according to a [DataReportal survey](https://www.statista.com/statistics/377808/distribution-of-facebook-users-by-device/).
 
-Next, you need to choose **Facebook Pixel** as your connection method and click **Connect**.
+If you want to create the best vertical video ads for the Facebook family of apps, here are a few useful recommendations.
 
-![Create a Facebook pixel — details](/img/create-a-facebook-pixel-details.jpg)
+### Know Vertical Video Ad Specifications
 
-Then enter a name for your pixel and check your website for easy setup options (if necessary) and click **Continue**.
+To begin with, Facebook recommends two aspect ratios for creating your mobile-first vertical ads on Facebook, Instagram, Messenger, and the Audience Network:
 
-### Step 3. Add Pixel Code to Your Website
+* Vertical: 4:5
+* Fullscreen vertical: 16:9
 
-The third step is to connect your website by adding pixel code to all pages.
+To learn more about design specifications, supported marketing objectives, and other crucial details for creating vertical video content across the Facebook family of apps without mistakes, read [our guide to Facebook video ad specs](https://softcube.com/questions-about-facebook-video-ad-specs/).
 
-![Create a Facebook pixel — code set up](/img/create-a-facebook-pixel-code-installation.jpg)
+### Spark Interest with Storytelling
 
-You can connect website activity to Facebook using a pixel in two ways.
+If you’re going to make vertical video ads on Facebook and its services, Stories is the first format you should try.
 
-The first way is by manually adding pixel code to the header of every website page. If you don’t know what this means, you can click **Email Instructions** in the bottom right and ask for the help of tech-savvy professionals.
+According to TechCrunch, Facebook Stories, Messenger Stories, and [Instagram Stories](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) have a combined [one billion daily active users](https://techcrunch.com/2019/04/24/facebook-stories-500-million/).
 
-If you took advantage of a popular user-friendly CMS (like WordPress or WooCommerce) to build your online store, you can find your platform in the list and follow step-by-step instructions to finish the installation.
+However, the major advantage of this ad format isn’t the huge number of people who consume, create, and share Stories but rather the endless number of creative storytelling possibilities you can use to promote your business.
 
-![Create a Facebook pixel — Events Setup Tool](/img/create-a-facebook-pixel-events-setup-tool.jpg)
+### Test Vertical Ads in Live Streaming
 
-After you choose your installation method, you need to create events for your pixel.
+According to Facebook IQ, more than [800 million people](https://www.facebook.com/iq/insights-to-go/800m-every-day-more-than-800-million-people-are-engaging-with-livestreaming-content-including-workout-classes-concerts-and-more/) watch live streams of different genres including sports and music. If your business is related to a sphere in which live streaming is popular, you can test the In-Stream placement along with other placements in Facebook Ads Manager to show your vertical ads in partners’ live streams.
 
-### Step 4. Set Up Facebook Pixel Events
+### Promote Your Business with IGTV
 
-The next step after adding pixel code is adding pixel events. Pixel events are actions Facebook users need to take to complete conversions on your website.
+IGTV is a mobile app and, at the same time, an [advertising tool](https://softcube.com/best-facebook-ad-tools/) where creators and brands can upload original vertical video content that’s typically longer than videos in the standard Instagram app.
 
-There are two types of events: standard and custom. 
+![Vertical video ads on Facebook — Instagram video](/img/vertical-video-ads-facebook-instagram-video.png)
 
-[Standard events](https://developers.facebook.com/docs/facebook-pixel/reference) include visiting a home page or placing an item in the shopping cart. You can add standard events using the **Event Setup Tool** in the **Settings** of your pixel.
+Thanks to IGTV, the percentage of long-form video content on Instagram increased [from 29% in 2016 to 54% in 2018](https://www.statista.com/chart/14377/mobile-video-consumption-by-length/). What does this mean to your business?
 
-![Create a Facebook Pixel — events](/img/create-a-facebook-pixel-events.jpg)
+Along with creating vertical videos for your Instagram profile, you can expand your community by collaborating with multiple IGTV creators and making appealing vertical videos for your IGTV channel.
 
-Custom events come in handy when you want to track non-standard actions made by your customers on different pages. You can [add them manually](https://developers.facebook.com/docs/facebook-pixel/implementation/conversion-tracking#custom-events) by means of code.
+Additionally, Facebook [has already started testing](https://about.instagram.com/blog/announcements/supporting-creators-on-instagram/) 15-second Instagram vertical video ads for IGTV that appear after users click on IGTV video. This new ad format will let creators monetize their content and help businesses expand their advertising opportunities.
 
-Now that we’ve reviewed how to create a Facebook pixel, let’s answer one of the most popular questions Facebook advertising newcomers have when learning how to create a new Facebook pixel.
+### Scale Vertical Video Ad Production with Artificial Intelligence
 
-## Can I Create a Few Facebook Pixels?
+The popularity of mobile video is growing by leaps and bounds. It’s anticipated that around [78% of global mobile traffic](https://www.facebook.com/iq/insights-to-go/78-78-of-all-mobile-data-traffic-will-be-video-by-2021/) will be video by 2021.
 
-When you create your first pixel, Facebook says you can create _only one pixel per ad account._
+![Vertical video ads on Facebook — global video traffic](/img/vertical-video-ads-facebook-global-mobile-data-1024x576.png)
 
-![Create a Facebook pixel — one pixel per website](/img/create-a-facebook-pixel-one-pixel.jpg)
+If you want to succeed with mobile video ads, you should keep in mind that video ads work best when produced at scale. However, producing video at scale is a challenge.
 
-However, Facebook has an exception for professional advertisers. Say you entrust creating and running your Facebook ads to several agencies and you want to provide each agency with separate access to your marketing activities. In this case, you can create a second Facebook pixel — or third or fourth. All you need to do is edit the code.
+To overcome it, use [Softcube artificial intelligence](http://softcube.com) to make a large number of spectacular vertical video ads within the shortest possible time and for the budget of image ads.
 
-![Create a Facebook pixel — two pixels in two codes](/img/create-a-facebook-pixel-two-pixels-code-1024x620.jpg)
+Here’s an example of a vertical video ad made by Softcube:
 
-Here’s a [detailed developer’s guide](https://developers.facebook.com/docs/facebook-pixel/implementation/accurate_event_tracking) for everyone who wants to create multiple pixels for Facebook ads launched by multiple agencies.
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/c82a19f3380e5243e440581d4c5179df.mp4"></video></figure></center>
 
-## How to Create a Facebook Pixel on the First Attempt
-
-The first thing you should do is check your pixel and event code from A to Z to make sure you didn’t make any mistakes. After that, you can take advantage of these tools.
-
-### The Test Events Tool
-
-The Test Events tool allows you to make sure Facebook correctly receives your pixel events and fix all possible bugs that happen after you set up those events.
-
-![Create a Facebook pixel — Test Events](/img/create-a-facebook-pixel-test-events-1024x565.jpg)
-
-To run this tool, click the **Test Events** tab in Events Manager. Then enter your website URL to open your website in a new window and start testing your events. Note that the Test Events tab must be open to conduct your test successfully. 
-
-Once you start interacting with your website, the results will appear within 30 seconds. All test data remains for 24 hours or until you clear it. If your events don’t appear in the Test Events tab, turn off any ad blocking software, refresh your website, or try using a different browser.
-
-### The Diagnostics Tool
-
-You’ll find the Diagnostics tool in the tab to the right of the Test Events tab.   
-The Diagnostics tool shows issues that may occur after you create a Facebook pixel for a website and offers solutions.
-
-![Create a Facebook pixel — Diagnostics](/img/create-a-facebook-pixel-diagnostics-1024x565.jpg)
-
-If you can’t handle a problem alone, you can click the **Send to Developer** button and delegate the task to one or several developers on your team.
-
-### Facebook Pixel Helper
-
-The Facebook Pixel Helper is a Google Chrome extension that allows you to know whether your pixel is completely installed, verify that your pixel works properly, receive troubleshooting suggestions, and improve pixel performance.
-
-![Create a Facebook pixel — Pixel Helper](/img/create-a-facebook-pixel-pixel-helper.jpg)
-
-After you learn how to create a pixel on Facebook, read [this developer’s guide](https://developers.facebook.com/docs/facebook-pixel/support/pixel-helper) to learn how to correctly use the Pixel Helper tool.
-
-## Use Facebook Pixel to Track Video Ads Made by AI
-
-Now that you know how to make a Facebook pixel your right hand helper in managing your Facebook marketing as well as which tools you need to work with it smoothly, don’t hesitate to test [Softcube artificial intelligence](https://softcube.com/) to create high-quality video ads for an image-sized ad budget.
-
-Soon after you launch AI-produced video ads, your Facebook pixel will show you how they boost your conversions. Good luck!
+Like it? Don’t hesitate to upload your own footage and play with it. Good luck with your vertical video ads!

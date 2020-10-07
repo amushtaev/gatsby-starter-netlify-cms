@@ -14,7 +14,6 @@ const BlogPage = ({pageContext, stringSearch}) => {
   const [search, setSearch] = useState(stringSearch);
   const [redirectTo, setRedirectTo] = useState(false);
   const debouncedSearchTerm = useDebounce(search, 1500);
-
   useEffect(() => {
     setRedirectTo(true);
   }, [debouncedSearchTerm]);
@@ -29,6 +28,7 @@ const BlogPage = ({pageContext, stringSearch}) => {
 
   return (
     <LayoutBlog>
+      <meta name="description" content="News, guides, and updates on Google and Facebook marketing" />
       <div
         className='index Blog'
       >

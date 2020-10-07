@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook bidding
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: How to Become the Winner in Facebook Bidding
 date: 2020-04-09T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/facebook-bidding-featured-image.jpg
 image: /img/facebook-bidding-featured-image.jpg
+seotitle: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
+focuskeyphrase: facebook bidding
+focus_keyphrase: facebook bidding
+seo_title: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
 tags:
   - Ad relevance diagnostics
   - bid cap
@@ -21,10 +24,9 @@ tags:
   - lowest cost
   - target cost
   - value optimization with minimum return on ad spend
-seo_title: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
-metadescription: Read about Facebook bidding fundamentals including strategies, bidding types, and bidding recommendations. Plus get a free gift to help you win an auction.
-focus_keyphrase: facebook bidding
-seotitle: "Facebook Bidding: Guide for Users Who Don't Know a Thing"
+metadescription: Read about Facebook bidding fundamentals including strategies,
+  bidding types, and bidding recommendations. Plus get a free gift to help you
+  win an auction.
 ---
 <!--StartFragment-->
 
@@ -39,8 +41,6 @@ Let’s give an answer.
 ## What is Ad Bidding on Facebook?
 
 Facebook bidding is an auction-based ad delivery system designed to find the best ad to show to a certain user at a certain moment.
-
-<iframe title="" style="max-width:480px; max-height:265px; width:100%; height:265px; min-height: 264px;" src="https://giphy.com/embed/xT5LMESHbV1KLGMsq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Billions of ad auctions are launched by millions of advertisers every day. Multiple businesses can simultaneously compete for the attention of people from the same target audience. How does Facebook determine the winner?
 
@@ -201,6 +201,8 @@ For example, if your rival’s bid is $0.70, you’ll pay $0.71.
 ## Bid for Facebook Video Ads
 
 Thank you for reading our express guide. Have fun, enjoy the experience, and get spectacular results with your bidding!
+
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/522718ddf554d62473f7ec37158d0215.mp4"></video></figure></center>
 
 To make your journey even more cheerful and less challenging, you can try the [Softcube artificial intelligence system](https://softcube.com/) to make video ads at scale.
 

@@ -161,7 +161,7 @@ exports.createPages = ({ actions, graphql }) => {
         edges: edgesCat,
         component: path.resolve(`src\/templates\/categories.js`),
         limit: 6,
-        pathFormatter: p => (p === 1 ? categoryPath : `${categoryPath}/page/${p}/`),
+        pathFormatter: p => (p === 1 ? `${categoryPath}/` : `${categoryPath}/page/${p}/`),
         context: {
           title,
           shortTitle,

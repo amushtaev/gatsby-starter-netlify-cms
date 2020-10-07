@@ -6,15 +6,20 @@ categories-slug:
   - facebook-ads
 title: The Beginner’s Guide to Facebook Ads Funnels
 date: 2020-07-21
-description: Need modify desk.
+description: ""
 featuredpost: false
 featuredimage: /img/facebook-sales-funnel-featured-image.jpg
 image: /img/facebook-sales-funnel-featured-image.jpg
+tags:
+  - cross-device
+  - conversions
+  - awareness
+  - attribution
 seotitle: How to Develop the Most Effective Facebook Ads Funnel
 focuskeyphrase: facebook ads funnel
-tags:
-  - brewing
-  - chemex
+metadescription: Follow this tutorial to develop the best Facebook ads funnel
+  for your e-commerce or brick-and-mortar business and make your ads more
+  effective.
 ---
 <!--StartFragment-->
 
@@ -36,9 +41,9 @@ But before learning what the Facebook ads funnel is and how to provide your cust
 
 The concept of the sales funnel as we know it today was formulated in the beginning of the 20th century. The history of advertising remembers two prominent figures related to this development: E. St. Elmo Lewis and William W. Townsend.
 
-In [_The Psychology of Selling and Advertising_](https://babel.hathitrust.org/cgi/pt?id=uc1.$b38792&view=2up&seq=364&size=125), Edward K. Strong Jr. writes:
+In *[The Psychology of Selling and Advertising](https://babel.hathitrust.org/cgi/pt?id=uc1.$b38792&view=2up&seq=364&size=125)*, Edward K. Strong Jr. writes:
 
-> _E. St. Elmo Lewis formulated the slogan, “Attract attention, maintain interest, create desire,” in 1898. Later he added the fourth term “get action.”_
+> *E. St. Elmo Lewis formulated the slogan, “Attract attention, maintain interest, create desire,” in 1898. Later he added the fourth term “get action.”*
 
 Later, E. St. Elmo Lewis’s slogan was transformed into the AIDA model that divides the customer journey into four main stages:
 
@@ -48,10 +53,10 @@ Later, E. St. Elmo Lewis’s slogan was transformed into the AIDA model that div
 
 **Stage 3. Desire** — The customer directs ambition toward buying the product or service.
 
-**Stage 4. Action** — The customer decides to purchase the product or service.  
-In 1924, William W. Townsend, in his book [_Bond Salesmanship_](https://books.google.com.ua/books?redir_esc=y&id=qglDAAAAIAAJ&focus=searchwithinvolume&q=The+salesman+should+visualize+his+whole+problem+of+developing+the+sales+steps+as+the+forcing+by+compression+of+a+broad+and+general+concept+of+facts+through+a+funnel+which+produces+the+specific+and+favorable+consideration+of+one+fact.+The+process+is+continually+from+the+general+to+the+specific%2C+and+the+visualizing+of+the+funnel+has+helped+many+salesmen+to+lead+a+customer+from+Attention+to+Interest%2C+and+beyond), proposed visualizing a funnel based on the AIDA concept developed by E. St. Elmo Lewis in 1898:
+**Stage 4. Action** — The customer decides to purchase the product or service.\
+In 1924, William W. Townsend, in his book *[Bond Salesmanship](https://books.google.com.ua/books?redir_esc=y&id=qglDAAAAIAAJ&focus=searchwithinvolume&q=The+salesman+should+visualize+his+whole+problem+of+developing+the+sales+steps+as+the+forcing+by+compression+of+a+broad+and+general+concept+of+facts+through+a+funnel+which+produces+the+specific+and+favorable+consideration+of+one+fact.+The+process+is+continually+from+the+general+to+the+specific%2C+and+the+visualizing+of+the+funnel+has+helped+many+salesmen+to+lead+a+customer+from+Attention+to+Interest%2C+and+beyond)*, proposed visualizing a funnel based on the AIDA concept developed by E. St. Elmo Lewis in 1898:
 
-> _The salesman should visualize his whole problem of developing the sales steps as the forcing by compression of a broad and general concept of facts through a funnel which produces the specific and favorable consideration of one fact. The process is continually from the general to the specific, and the visualizing of the funnel has helped many salesmen to lead a customer from Attention to Interest, and beyond._
+> *The salesman should visualize his whole problem of developing the sales steps as the forcing by compression of a broad and general concept of facts through a funnel which produces the specific and favorable consideration of one fact. The process is continually from the general to the specific, and the visualizing of the funnel has helped many salesmen to lead a customer from Attention to Interest, and beyond.*
 
 Today, marketers use lots of sales funnel concepts. However, all of them are derived from the AIDA model, including the Facebook sales funnel.
 
@@ -99,5 +104,6 @@ Such situations are typical for any business. And if you want to know how to sor
 
 We hope we’ve given you enough food for thought to create the best Facebook ads sales funnel for your business at the current moment.
 
-  
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/3f8d56313730fd78343bb1f10b876fcd.mp4"></video></figure></center>
+
 To make the shopping adventure more exciting for your customers, take advantage of the Softcube [video ad production platform](https://softcube.com/) powered by artificial intelligence. Softcube will help you automatically create a large number of high-quality video ads in a short time and for an image ad-sized budget.

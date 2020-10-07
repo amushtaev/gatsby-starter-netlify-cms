@@ -6,15 +6,19 @@ categories-slug:
   - facebook-ads
 title: The Complete Guide to Facebook Marketplace Ads
 date: 2020-07-13
-description: Need modify desk.
+description: ""
 featuredpost: false
 featuredimage: /img/facebook-marketplace-ads-featured-image.jpg
 image: /img/facebook-marketplace-ads-featured-image.jpg
+tags:
+  - Pixel
+  - placements
+  - Ads Manager
+  - Business Manager
 seotitle: How to Boost Your Sales with Facebook Marketplace Ads
 focuskeyphrase: facebook marketplace ads
-tags:
-  - brewing
-  - chemex
+metadescription: Read about what you need to know before launching Facebook
+  Marketplace ads, including how to create ads and design specifications.
 ---
 <!--StartFragment-->
 
@@ -38,7 +42,7 @@ Along with users, advertisers and marketers can find everything they need on Fac
 
 [Facebook Marketplace](https://www.facebook.com/marketplace/) as we know it today was introduced in 2016 as a response to the growing number of Facebook Groups where users bought and sold anything they wanted with no third party.
 
-https://giphy.com/gifs/snl-saturday-night-live-season-45-MF0pOwqwMuW5XrE2Fg
+<iframe src="https://giphy.com/embed/MF0pOwqwMuW5XrE2Fg" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 At the 2018 Facebook F8 Developer Conference, Mark Zuckerberg said that there were [800 million people](https://www.cnet.com/news/facebook-marketplace-is-used-in-70-countries-by-800-million-people-monthly/) who used Facebook Marketplace in 70 countries around the world.
 
@@ -62,10 +66,10 @@ If you want to not only launch Facebook Marketplace ads but understand their imp
 
 Let’s name these tools:
 
-- [Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) is the platform where you’ll manage your Facebook Marketplace ads.
-- [Analytics](https://analytics.facebook.com/) allows you to think over your future ad campaigns based on data you receive from your ads.
-- [Attribution](https://www.facebook.com/business/measurement/attribution) lets you see your customers’ entire sales path from the moment they click on your ad to the moment they land on your online shop to purchase your products.
-- Events Manager is where you can analyze the influence of your Facebook ads on your website traffic (see more information below).
+* [Ads Manager](https://softcube.com/tips-and-tricks-for-facebook-ads-manager/) is the platform where you’ll manage your Facebook Marketplace ads.
+* [Analytics](https://analytics.facebook.com/) allows you to think over your future ad campaigns based on data you receive from your ads.
+* [Attribution](https://www.facebook.com/business/measurement/attribution) lets you see your customers’ entire sales path from the moment they click on your ad to the moment they land on your online shop to purchase your products.
+* Events Manager is where you can analyze the influence of your Facebook ads on your website traffic (see more information below).
 
 There are lots of [Facebook tools you might not have heard of](https://softcube.com/best-facebook-ad-tools/), but the ones we’ve just mentioned are crucial for professionally launching, running, and testing your Facebook Marketplace ads.
 
@@ -83,7 +87,7 @@ After you add pixel (or Facebook SDK) and event tracking codes to your website (
 
 After you create an ad account in Facebook Business Manager and install Facebook ad tracking software, you’re ready to launch your first Facebook Marketplace ad campaign.
 
-https://giphy.com/gifs/l1a48M1MgZe8nMCc87
+<iframe src="https://giphy.com/embed/l1a48M1MgZe8nMCc87" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Note that if you’re wondering how to make an ad on Facebook Marketplace, the answer is that you can’t. You need to create Facebook Marketplace ads with Ads Manager.
 
@@ -127,12 +131,19 @@ However, you can also choose the Manual Placements option and check Facebook Mar
 
 The recommended Facebook Marketplace ad specs for images and videos are the same as for News Feed ads:
 
-\[table id=16 /\]
+| Specification                         | Video                                                                                                                                                   | Image        | Carousel                                |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------- |
+| File type                             | 3G2, 3GP, 3GPP, ASF, AVI, DAT, DIVX, DV, F4V, FLV, GIF, M2TS, M4V, MKV, MOD, MOV, MP4, MPE, MPEG, MPEG4, MPG, MTS, NSV, OGM, OGV, QT, TOD, TS, VOB, WMV | JPG, PNG     | The same as for image and video         |
+| Aspect ratio                          | 9:16 to 16:9                                                                                                                                            | 9:16 to 16:9 | 1.9:1 to 1:1 supported; 1:1 recommended |
+| Maximum  Facebook Marketplace ad size | 4GB                                                                                                                                                     | 30MB         | 4GB for video and 30MB for images       |
+| Maximum length                        | 240 minutes                                                                                                                                             | —            | 240 minutes                             |
 
 Click [here](https://www.facebook.com/business/ads-guide/image/facebook-marketplace) to check out all the specifications for Facebook Marketplace ads.
 
 ## Create Facebook Marketplace Ads with AI
 
 Planning to use video content for your Facebook Marketplace ads? Create them at scale with minimum human interaction at the cost of image ads!
+
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/7d079d8647803412528a3f2f3ccbe10d.mp4"></video></figure></center>
 
 Take advantage of [Softcube artificial intelligence](https://softcube.com/) to produce high-quality advertising videos, save your budget, and get higher conversions.

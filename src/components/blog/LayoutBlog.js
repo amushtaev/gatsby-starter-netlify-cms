@@ -8,14 +8,13 @@ import Footer from "../Footer";
 import Analytics from "../Analitics";
 
 const TemplateWrapperBlog = ({ children }) => {
-  const { title, description } = useSiteMetadata();
+  const { title } = useSiteMetadata();
 
   return (
     <div>
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
-        <meta name="description" content={description} />
         <link
           href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" rel="stylesheet" />
         <link

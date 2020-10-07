@@ -6,15 +6,15 @@ categories-slug:
   - tutorials
 title: The Entire History of Advertising
 date: 2020-08-04
-description: Need modify desk.
+description: ""
 featuredpost: false
 featuredimage: /img/history-of-advertising-facebook-featured-pic.jpg
 image: /img/history-of-advertising-facebook-featured-pic.jpg
-seotitle: The Crash Course on the History of Advertising You Must Read
-focuskeyphrase: history of advertising
 tags:
   - brewing
   - chemex
+seotitle: The Crash Course on the History of Advertising You Must Read
+focuskeyphrase: history of advertising
 ---
 <!--StartFragment-->
 

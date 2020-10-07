@@ -6,15 +6,20 @@ categories-slug:
   - facebook-ads
 title: How to Create a Facebook Pixel
 date: 2020-06-23
-description: Need modify desk.
+description: ""
 featuredpost: false
 featuredimage: /img/create-a-facebook-pixel-featured-image.jpg
 image: /img/create-a-facebook-pixel-featured-image.jpg
+tags:
+  - events
+  - custom audiences
+  - lookalike audiences
+  - Ads Manager
+  - Business Manager
 seotitle: 3 Tools to Create a Facebook Pixel with No Mistakes
 focuskeyphrase: create a facebook pixel
-tags:
-  - brewing
-  - chemex
+metadescription: Want to create a Facebook pixel to measure the performance of
+  your Facebook ads? Read this guide and learn how to do it on your first try.
 ---
 <!--StartFragment-->
 
@@ -97,7 +102,7 @@ Now that we’ve reviewed how to create a Facebook pixel, let’s answer one of 
 
 ## Can I Create a Few Facebook Pixels?
 
-When you create your first pixel, Facebook says you can create _only one pixel per ad account._
+When you create your first pixel, Facebook says you can create *only one pixel per ad account.*
 
 ![Create a Facebook pixel — one pixel per website](/img/create-a-facebook-pixel-one-pixel.jpg)
 
@@ -123,7 +128,7 @@ Once you start interacting with your website, the results will appear within 30 
 
 ### The Diagnostics Tool
 
-You’ll find the Diagnostics tool in the tab to the right of the Test Events tab.   
+You’ll find the Diagnostics tool in the tab to the right of the Test Events tab. \
 The Diagnostics tool shows issues that may occur after you create a Facebook pixel for a website and offers solutions.
 
 ![Create a Facebook pixel — Diagnostics](/img/create-a-facebook-pixel-diagnostics-1024x565.jpg)
@@ -141,5 +146,7 @@ After you learn how to create a pixel on Facebook, read [this developer’s guid
 ## Use Facebook Pixel to Track Video Ads Made by AI
 
 Now that you know how to make a Facebook pixel your right hand helper in managing your Facebook marketing as well as which tools you need to work with it smoothly, don’t hesitate to test [Softcube artificial intelligence](https://softcube.com/) to create high-quality video ads for an image-sized ad budget.
+
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/0671d2c6df756586b6da825b89974163.mp4"></video></figure>
 
 Soon after you launch AI-produced video ads, your Facebook pixel will show you how they boost your conversions. Good luck!

@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: instagram sponsored ads
 templateKey: blog-post
 categories:
   - Instagram Ads
@@ -7,10 +6,14 @@ categories-slug:
   - instagram-ads
 title: 7 Recommendations for Instagram Sponsored Ads
 date: 2020-02-27T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/instagram-sponsored-ads-featured-image.jpg
 image: /img/instagram-sponsored-ads-featured-image.jpg
+seotitle: Everything You Should Know about Instagram Sponsored Ads
+focuskeyphrase: instagram sponsored ads
+focus_keyphrase: instagram sponsored ads
+seo_title: Everything You Should Know about Instagram Sponsored Ads
 tags:
   - Ads Manager
   - Carousel
@@ -18,10 +21,9 @@ tags:
   - Custom Audiences
   - Lookalike Audiences
   - video ads
-seo_title: Everything You Should Know about Instagram Sponsored Ads
-metadescription: Want to find new customers on Instagram with advertising? These short tips will help you make a good start and create the best Instagram sponsored ads.
-focus_keyphrase: instagram sponsored ads
-seotitle: Everything You Should Know about Instagram Sponsored Ads
+metadescription: Want to find new customers on Instagram with advertising? These
+  short tips will help you make a good start and create the best Instagram
+  sponsored ads.
 ---
 <!--StartFragment-->
 
@@ -31,7 +33,7 @@ Many online users can’t imagine their lives without making a daily post about 
 
 It’s come to the point where Spongebob Squarepants even has an “Instaclam” profile in his own universe:
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/VtAK1TEI8aTF6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nickelodeon-funny-lol-VtAK1TEI8aTF6">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/VtAK1TEI8aTF6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 How often do you take out your phone to check your Instagram Feed in your own universe?
 
@@ -96,7 +98,7 @@ Now that you know how to add a sponsored ad to the Instagram feed of your target
 
 With [Stories Ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/), you can combine video, images, and text into a captivating story.
 
-<div style="width:100%;height:0;padding-bottom:204%;position:relative;"><iframe src="https://giphy.com/embed/j78YjyHfA087XV1Oux" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/j78YjyHfA087XV1Oux">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/j78YjyHfA087XV1Oux" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### Photo Ads
 
@@ -110,7 +112,7 @@ There are three types of Instagram photo ads: square, landscape, and portrait.
 
 Video ads have an amazing potential for your company, especially on Instagram.
 
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Rl6KH5X1SrlYFBU2ip">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 If you view Instagram [video marketing statistics](https://softcube.com/70-video-marketing-statistics-for-2020/), you’ll see that:
 
@@ -123,9 +125,7 @@ You can post Instagram video ads in two formats: square and landscape. The maxim
 
 Carousel ads allow you to show up to [ten images or videos](https://softcube.com/how-to-show-carousel-ads-on-facebook/) in one ad.
 
-https://giphy.com/gifs/jTAZDxvrW8ddcO60nY
-
-Thanks to Instagram Carousel ads, you can:
+<iframe src="https://giphy.com/embed/jTAZDxvrW8ddcO60nY" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 * show a few products at the same time
 * focus users’ attention on a single product and its features
@@ -150,7 +150,7 @@ Thanks to [Instant Experience](https://softcube.com/how-to-get-started-with-face
 
 Explore is an Instagram page where users are shown content based on their personal interests.
 
-<div style="width:100%;height:0;padding-bottom:202%;position:relative;"><iframe src="https://giphy.com/embed/egAb7wA5y9gyI5XKgr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/egAb7wA5y9gyI5XKgr">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/egAb7wA5y9gyI5XKgr" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 According to [Instagram’s internal data](https://business.instagram.com/igb/a/ads-in-explore/):
 

@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook collection ads
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: The Beginner's Guide to Facebook Collection Ads
 date: 2020-01-09T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/facebook-collection-ads-featured-picture.jpg
 image: /img/facebook-collection-ads-featured-picture.jpg
+seotitle: Everything You Need to Know About Facebook Collection Ads
+focuskeyphrase: facebook collection ads
+focus_keyphrase: facebook collection ads
+seo_title: Everything You Need to Know About Facebook Collection Ads
 tags:
   - image ads
   - Instagram ads
@@ -19,10 +22,9 @@ tags:
   - Instant Storytelling
   - Instant Storefront
   - video ads
-seo_title: Everything You Need to Know About Facebook Collection Ads
-metadescription: Learn how to create successful Facebook Collection Ads, discover their major types, check specifications, and read the best practices in this guide.
-focus_keyphrase: facebook collection ads
-seotitle: Everything You Need to Know About Facebook Collection Ads
+metadescription: Learn how to create successful Facebook Collection Ads,
+  discover their major types, check specifications, and read the best practices
+  in this guide.
 ---
 <!--StartFragment-->
 
@@ -50,9 +52,9 @@ Instant Lookbook is a Collection ad template that reminds of a magazine or catal
 
 It’s perfect for:
 
-- showing people using your products
-- creating a digital product catalog
-- offering products by telling a story about your business
+* showing people using your products
+* creating a digital product catalog
+* offering products by telling a story about your business
 
 ### Instant Storefront
 
@@ -62,11 +64,11 @@ Instant Storefront is a Collection ad template that resembles an online storefro
 
 It’s perfect for:
 
-- showing a product catalog that contains more than four products
-- demonstrating a few products simultaneously in a grid-like layout
-- highlighting related products with one main video or image
-- leading users to your mobile app or website to buy products
-- letting people view products by relevant groups or categories
+* showing a product catalog that contains more than four products
+* demonstrating a few products simultaneously in a grid-like layout
+* highlighting related products with one main video or image
+* leading users to your mobile app or website to buy products
+* letting people view products by relevant groups or categories
 
 ### Instant Storytelling
 
@@ -76,9 +78,9 @@ Instant Storytelling is a Collection ad template that’s similar to a brochure.
 
 It’s perfect for:
 
-- advertising your business in an entertaining way
-- telling a story with intriguing video and imagery
-- giving people more information about your app or website
+* advertising your business in an entertaining way
+* telling a story with intriguing video and imagery
+* giving people more information about your app or website
 
 ### Instant Customer Acquisition
 
@@ -88,9 +90,9 @@ Instant Customer Acquisition is a Collection ad template that looks like a landi
 
 It’s perfect for:
 
-- leading people to your mobile landing page to finish conversions
-- encouraging people to take an action on your mobile app or website
-- displaying your offers with attractive video or image content
+* leading people to your mobile landing page to finish conversions
+* encouraging people to take an action on your mobile app or website
+* displaying your offers with attractive video or image content
 
 ## How to Create a Collection Ad on Facebook
 
@@ -116,9 +118,9 @@ There are three types of visuals you can add to your Collection ads: video, imag
 
 Follow these [video ad specifications](https://softcube.com/questions-about-facebook-video-ad-specs/) if you want to add a video to your Collections:
 
-- **Format:** Progressive scan, high profile preferred, square pixels, fixed frame rate, H.264
-- **Aspect ratio:** 1:1 or 16:9
-- **Audio:** Stereo AAC, 128 kbps
+* **Format:** Progressive scan, high profile preferred, square pixels, fixed frame rate, H.264
+* **Aspect ratio:** 1:1 or 16:9
+* **Audio:** Stereo AAC, 128 kbps
 
 Keep your video short to intrigue viewers. Let them enjoy the images and make a purchase.
 
@@ -126,9 +128,9 @@ Keep your video short to intrigue viewers. Let them enjoy the images and make a 
 
 Here are the specifications for image content in your Collection ads:
 
-- **Image size:** 1200×628 pixels
-- **Aspect ratio:** 1.9:1
-- **For Instagram:** Square (1:1), full landscape / horizontal (16:9), and slideshow
+* **Image size:** 1200×628 pixels
+* **Aspect ratio:** 1.9:1
+* **For Instagram:** Square (1:1), full landscape / horizontal (16:9), and slideshow
 
 Note that Instagram doesn’t support aspect ratios taller than 1:1.
 
@@ -136,10 +138,10 @@ Note that Instagram doesn’t support aspect ratios taller than 1:1.
 
 Check out these guidelines if you decide to add slideshows to your Collections:
 
-- **Video:** High profile preferred, square pixels, progressive scan, fixed frame rate, H.264
-- **Aspect ratio:** 1:1 or 16:9
-- **Audio:** Stereo AAC, 128 kbps
-- **Music:** MP3, M4A, FLAC, WAV, OGG
+* **Video:** High profile preferred, square pixels, progressive scan, fixed frame rate, H.264
+* **Aspect ratio:** 1:1 or 16:9
+* **Audio:** Stereo AAC, 128 kbps
+* **Music:** MP3, M4A, FLAC, WAV, OGG
 
 If you want to use a song in your slideshow Collection ad, make sure you don’t violate any copyrights.
 
@@ -147,8 +149,8 @@ If you want to use a song in your slideshow Collection ad, make sure you don’t
 
 When creating ad copy for your Carousel ads, use these specifications:
 
-- **Headline** (for 4 image cards): Recommended length is 90 characters
-- **Body** (above the main visual): Recommended length is 25 characters
+* **Headline** (for 4 image cards): Recommended length is 90 characters
+* **Body** (above the main visual): Recommended length is 25 characters
 
 Keep in mind that Instagram doesn’t support headlines for Carousel ads.
 
@@ -156,10 +158,10 @@ Keep in mind that Instagram doesn’t support headlines for Carousel ads.
 
 Collection ads support the following marketing objectives in Ads Manager:
 
-- Traffic
-- Conversions
-- Catalog sales
-- Store traffic
+* Traffic
+* Conversions
+* Catalog sales
+* Store traffic
 
 If you choose any other objective, you’ll have to pick another ad format.
 
@@ -167,10 +169,10 @@ If you choose any other objective, you’ll have to pick another ad format.
 
 There are only two supported placements for Collection ads:
 
-- Facebook Mobile Feed
-- Instagram Feed
+* Facebook Mobile Feed
+* Instagram Feed
 
-Keep in mind that your target audience will be able to see your Collections only on _mobile_.
+Keep in mind that your target audience will be able to see your Collections only on *mobile*.
 
 ## 5 Best Practices for Facebook Collections
 
@@ -188,7 +190,7 @@ When it comes to Facebook ads, a Collection is a great method to achieve your ma
 
 If you need high-quality video content for your Collections, we’re ready to help.
 
-<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/4a114899d95f84d84473ce50ee8a22a1.mp4"></video></figure>
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/4a114899d95f84d84473ce50ee8a22a1.mp4"></video></figure></center>
 
 The video ad above was made by Softcube artificial intelligence.
 

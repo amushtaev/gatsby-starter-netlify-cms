@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: instagram ad formats
 templateKey: blog-post
 categories:
   - Instagram Ads
@@ -7,20 +6,23 @@ categories-slug:
   - instagram-ads
 title: "Instagram Ad Formats: Basics and Recommendations"
 date: 2020-03-05T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/instagram-ad-formats-featured-picture.jpg
 image: /img/instagram-ad-formats-featured-picture.jpg
+seotitle: How to Leverage Instagram Ad Formats for Business
+focuskeyphrase: instagram ad formats
+focus_keyphrase: instagram ad formats
+seo_title: How to Leverage Instagram Ad Formats for Business
 tags:
   - Explore ads
   - Stories
   - Image ads
   - Photo ads
   - Facebook Blueprint
-seo_title: How to Leverage Instagram Ad Formats for Business
-metadescription: Learn everything about Instagram ad formats and read a few tips and tricks to use them effectively for any of your Instagram advertising campaigns.
-focus_keyphrase: instagram ad formats
-seotitle: How to Leverage Instagram Ad Formats for Business
+metadescription: Learn everything about Instagram ad formats and read a few tips
+  and tricks to use them effectively for any of your Instagram advertising
+  campaigns.
 ---
 <!--StartFragment-->
 
@@ -28,7 +30,7 @@ Instagram isn’t just a social media platform; it’s a totally different world
 
 The Cambridge dictionary defines an Instagrammer as *someone who regularly shares images, or other things such as video or text, on the social media service Instagram*.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ZeWv3gAKW3FgVC8XSC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coqueta-coqueto-amoroso-ZeWv3gAKW3FgVC8XSC">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ZeWv3gAKW3FgVC8XSC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 The coolest part is that the world of Instagram is growing by leaps and bounds.
 
@@ -96,7 +98,7 @@ Third, frame your photos properly to complete the scene without losing anything 
 
 Video advertising is today’s brightest star in the online marketing universe. And Instagram is where it shines.
 
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Rl6KH5X1SrlYFBU2ip">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Did you know that [88% of Instagram marketers](https://softcube.com/70-video-marketing-statistics-for-2020/) consider video ads effective for their business?
 
@@ -106,7 +108,7 @@ That’s the primary reason why you should try the Instagram video ad format for
 
 The Instagram Story ad format as we know it appeared in 2017. Back then, more than [150 million people](https://business.instagram.com/blog/bringing-insights-and-ads-to-stories/) watched Instagram Stories every day. 
 
-<div style="width:100%;height:0;padding-bottom:194%;position:relative;"><iframe src="https://giphy.com/embed/hricQNvtZOVnzt94Uc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hricQNvtZOVnzt94Uc">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/hricQNvtZOVnzt94Uc" width="247" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 It took just two years for this number to reach over [500 million users](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) every day. 
 
@@ -120,7 +122,7 @@ Mobile users are the major target audience you’ll work with on Instagram. Than
 
 The carousel ad is an all-purpose ad format that allows you to show much more than a traditional image or video ad does. Thanks to carousel ads, you can demonstrate up to 10 images or videos in a single post.
 
-<div style="width:100%;height:0;padding-bottom:198%;position:relative;"><iframe src="https://giphy.com/embed/XeGkFG1NgTaSPQPFxz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/XeGkFG1NgTaSPQPFxz">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/XeGkFG1NgTaSPQPFxz" width="243" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Instagram carousels are a great way to showcase a few products or services simultaneously, highlight the features of one product or service, create a step-by-step tutorial, and do many other amazing things to boost your business.
 
@@ -182,6 +184,8 @@ Make sure you know how to make your ads correctly. Learn all the Instagram ad fo
 Instagram is growing by leaps and bounds. In the future, we’ll definitely see new Instagram ad formats that will make your promotional campaigns even more diverse and effective.
 
 In the meantime, thanks for being curious about Instagram ads.
+
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure></center>
 
 We appreciate your curiosity and would like you to know that you can test the [Softcube AI platform](https://softcube.com) and create lots of high-quality video ads.
 

@@ -1,26 +1,30 @@
 ---
-focuskeyphrase: instagram video ads
 templateKey: blog-post
 categories:
   - Instagram Ads
+  - Video Ads
 categories-slug:
   - instagram-ads
+  - video-ads
 title: "Instagram Video Ads: 8 Tips and Tricks for Marketers"
 date: 2020-04-02T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/instagram-video-ads-featured-image.jpg
 image: /img/instagram-video-ads-featured-image.jpg
+seotitle: The Social Media Marketer’s Guide to Instagram Video Ads
+focuskeyphrase: instagram video ads
+focus_keyphrase: instagram video ads
+seo_title: The Social Media Marketer’s Guide to Instagram Video Ads
 tags:
   - Carousel ads
   - Explore ads
   - Stories
   - mobile ads
   - video ads
-seo_title: The Social Media Marketer’s Guide to Instagram Video Ads
-metadescription: Become a guru in creating Instagram video ads. Learn Instagram video ad formats, take advantage of recommendations, and get inspired by vivid examples.
-focus_keyphrase: instagram video ads
-seotitle: The Social Media Marketer’s Guide to Instagram Video Ads
+metadescription: Become a guru in creating Instagram video ads. Learn Instagram
+  video ad formats, take advantage of recommendations, and get inspired by vivid
+  examples.
 ---
 <!--StartFragment-->
 
@@ -34,7 +38,7 @@ According to a [survey by Social Media Examiner](https://www.statista.com/chart/
 
 Video is one of the crucial catalysts of this growth. Let’s get it straight. No matter what you surf for on Instagram, every third post is an advertisement, and every third sponsored post you stumble upon is a video.
 
-<div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="https://giphy.com/embed/7J1llSYGJhKQJpVS9V" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ralph-intro-7J1llSYGJhKQJpVS9V">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/7J1llSYGJhKQJpVS9V" width="480" height="368" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 All around the globe, brands are disrupting Instagram with high-quality video content.
 
@@ -58,7 +62,7 @@ Let’s recall those formats and mention some Instagram video ad specs:
 
 ### Instagram Video Ads
 
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Rl6KH5X1SrlYFBU2ip">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 * Instagram video ad size: up to 30MB
 * Instagram video ad length: up to 2 minutes
@@ -67,7 +71,7 @@ Traditional video ads on Instagram have two formats: landscape and square.
 
 ### Instagram Stories Ads
 
-<div style="width:100%;height:0;padding-bottom:204%;position:relative;"><iframe src="https://giphy.com/embed/m93R2sZTshqOOwzXYf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/m93R2sZTshqOOwzXYf">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/m93R2sZTshqOOwzXYf" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 * Instagram Story video ad length: up to 2 minutes
 * Instagram Story video ad size: up to 30MB
@@ -80,7 +84,7 @@ To learn how to do that, read our [Instagram Stories ads](https://softcube.com/t
 
 ### Instagram Explore Ads
 
-<div style="width:100%;height:0;padding-bottom:202%;position:relative;"><iframe src="https://giphy.com/embed/egAb7wA5y9gyI5XKgr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/egAb7wA5y9gyI5XKgr">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/egAb7wA5y9gyI5XKgr" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 * Instagram Explore video ad size: up to 30MB
 * Instagram Explore video ad length: up to 2 minutes
@@ -89,7 +93,7 @@ People are always looking for new things, especially on Instagram. Explore ads h
 
 ### Instagram Carousel Ads
 
-<div style="width:100%;height:0;padding-bottom:202%;position:relative;"><iframe src="https://giphy.com/embed/jTAZDxvrW8ddcO60nY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/jTAZDxvrW8ddcO60nY">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/jTAZDxvrW8ddcO60nY" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 * Instagram carousel video ad size: up to 30 MB
 * Instagram carousel video ad length: up to 15 seconds
@@ -114,7 +118,7 @@ Additionally, you can try two official mobile apps developed for Instagram adver
 
 Keep in mind that you’re going to create videos for mobile users. Your video ads should be as short as possible to catch the attention of your target audience and encourage them to become your customers.
 
-<div style="width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/giRYBoxvYkiEyQfDL3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/giRYBoxvYkiEyQfDL3">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/giRYBoxvYkiEyQfDL3" width="480" height="193" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### Focus on Your Business
 
@@ -130,7 +134,7 @@ You can effectively influence your viewers’ perceptions by showing your busine
 
 Every day, the average Instagram user scrolls a few miles on the Instagram feed and makes a few hundred taps on the screen.
 
-<div style="width:100%;height:0;padding-bottom:175%;position:relative;"><iframe src="https://giphy.com/embed/XHXCXmHJFAMpwGQR44" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/XHXCXmHJFAMpwGQR44">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/XHXCXmHJFAMpwGQR44" width="274" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 One of the best ways to increase your customer base on Instagram is to appreciate the time of your potential customers who take part in this marathon. Test several-second videos. They’re instant and informative.
 
@@ -138,7 +142,7 @@ One of the best ways to increase your customer base on Instagram is to appreciat
 
 In 9 out of 10 beta video ad campaigns, polling stickers help achieve a [20% lower cost per video view](https://business.instagram.com/blog/bringing-interactivity-to-instagram-stories-ads/) for three-second videos. Not to mention that it’s a great way to find out the interests and habits of your audience.
 
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/igV317AUzip8oNRork" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/igV317AUzip8oNRork">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/igV317AUzip8oNRork" width="237" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### Post More
 
@@ -150,35 +154,35 @@ Now it’s time to check out the best Instagram video ads for 2020. Remember tha
 
 ### [DailyPure](https://business.instagram.com/success/dairypure/)
 
-<div style="width:100%;height:0;padding-bottom:177%;position:relative;"><iframe src="https://giphy.com/embed/XBiFudP7aPUwlhiVGQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/XBiFudP7aPUwlhiVGQ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/XBiFudP7aPUwlhiVGQ" width="271" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### [Lullabellz](https://business.instagram.com/success/lullabellz/)
 
-<div style="width:100%;height:0;padding-bottom:179%;position:relative;"><iframe src="https://giphy.com/embed/YPVGraxyIIyeOQPuD1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/YPVGraxyIIyeOQPuD1">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/YPVGraxyIIyeOQPuD1" width="268" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### [Chameleon Cold-Brew](https://business.instagram.com/success/chameleon-cold-brew/)
 
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/hugNso3CyijzGzZ5L8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hugNso3CyijzGzZ5L8">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/hugNso3CyijzGzZ5L8" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### [Pringles UK](https://business.instagram.com/success/pringles-uk/)
 
-<div style="width:100%;height:0;padding-bottom:179%;position:relative;"><iframe src="https://giphy.com/embed/URju1HKvuVSEswMCQY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/URju1HKvuVSEswMCQY">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/URju1HKvuVSEswMCQY" width="268" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### [Pepe Jeans](https://business.instagram.com/success/pepe-jeans/)
 
-<div style="width:100%;height:0;padding-bottom:179%;position:relative;"><iframe src="https://giphy.com/embed/Q8mT2H8zqoFKn84BzS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Q8mT2H8zqoFKn84BzS">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Q8mT2H8zqoFKn84BzS" width="268" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### [Bose](https://business.instagram.com/success/bose/)
 
-<div style="width:100%;height:0;padding-bottom:179%;position:relative;"><iframe src="https://giphy.com/embed/XewNPXE1jT6sNmysDg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/XewNPXE1jT6sNmysDg">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/XewNPXE1jT6sNmysDg" width="268" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### [Ubisoft](https://business.instagram.com/success/ubisoft/)
 
-<div style="width:100%;height:0;padding-bottom:179%;position:relative;"><iframe src="https://giphy.com/embed/QvLygOkg2350FfhaRy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/QvLygOkg2350FfhaRy">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/QvLygOkg2350FfhaRy" width="268" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### [Nilla Wafers](https://business.instagram.com/success/nilla-wafers/)
 
-<div style="width:100%;height:0;padding-bottom:179%;position:relative;"><iframe src="https://giphy.com/embed/J1R0jTz1Zj3XXIo09A" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/J1R0jTz1Zj3XXIo09A">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/J1R0jTz1Zj3XXIo09A" width="268" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 If these Instagram video ad examples aren’t enough for you, you can get more inspiration from more than [40 examples of Facebook video ads](https://softcube.com/best-facebook-video-ad-examples-2019/).
 
@@ -188,7 +192,9 @@ Finally, we promised a gift to everyone who read this guide till the end.
 
 Would you like to make Instagram ad videos automatically?
 
-Use the **[Softcube Artificial In](https://softcube.com/get-ten-ads/)****[t](https://softcube.com/)****[elligence platform](https://softcube.com/get-ten-ads/)** right now. Thanks for reading, and enjoy your AI-made videos!
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure></center>
+
+Use the [Softcube artificial intelligence](https://softcube.com/) right now. Thanks for reading, and enjoy your AI-made videos!
 
 <style>
 @media screen and (max-width: 780px){

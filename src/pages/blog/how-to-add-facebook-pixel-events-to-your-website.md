@@ -6,15 +6,21 @@ categories-slug:
   - facebook-ads
 title: How to Add Facebook Pixel Events to Your Website
 date: 2020-07-09
-description: Need modify desk.
+description: ""
 featuredpost: false
 featuredimage: /img/facebook-pixel-events-featured-image.jpg
 image: /img/facebook-pixel-events-featured-image.jpg
+tags:
+  - Pixel
+  - tracking
+  - custom conversions
+  - Lookalike Audience
+  - Custom Audience
+  - Dynamic Ads
 seotitle: Everything You Need to Know About Facebook Pixel Events
 focuskeyphrase: facebook pixel events
-tags:
-  - brewing
-  - chemex
+metadescription: Read the beginner’s guide to Facebook pixel events, learn the
+  differences between Facebook pixel event types, and set up pixel events.
 ---
 <!--StartFragment-->
 
@@ -44,10 +50,10 @@ If Facebook pixel is the backbone of Facebook marketing, Facebook pixel events a
 
 Thanks to Facebook pixel event tracking, you can:
 
-- advance your targeting with [Custom Audiences](https://softcube.com/guide-to-facebook-custom-audiences/) and [Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/)
-- optimize your conversions with [value optimization](https://www.facebook.com/business/help/296463804090290?id=561906377587030)
-- evaluate the influence of your ads with [conversion lift tests](https://www.facebook.com/business/help/688346554927374?id=546437386202686), Ads Manager reports, and the [Facebook Attribution](https://www.facebook.com/business/measurement/attribution) tool
-- get cross-platform and omni-channel insights with [Facebook Analytics](https://analytics.facebook.com/).
+* advance your targeting with [Custom Audiences](https://softcube.com/guide-to-facebook-custom-audiences/) and [Lookalike Audiences](https://softcube.com/how-to-use-facebook-lookalike-audiences/)
+* optimize your conversions with [value optimization](https://www.facebook.com/business/help/296463804090290?id=561906377587030)
+* evaluate the influence of your ads with [conversion lift tests](https://www.facebook.com/business/help/688346554927374?id=546437386202686), Ads Manager reports, and the [Facebook Attribution](https://www.facebook.com/business/measurement/attribution) tool
+* get cross-platform and omni-channel insights with [Facebook Analytics](https://analytics.facebook.com/).
 
 Now let’s review the major types of Facebook pixel events available so far.
 
@@ -63,7 +69,7 @@ Facebook pixel standard events are predetermined events used to track actions re
 
 Here’s the list of Facebook pixel events that are built into the platform:
 
-\[table id=15 /\]
+\[table id=15 /]
 
 When it comes to tracking predefined conversions on Facebook, standard pixel events may have [object properties](https://developers.facebook.com/docs/facebook-pixel/reference/#object-properties) and [custom properties](https://developers.facebook.com/docs/facebook-pixel/implementation/conversion-tracking#custom-properties) that you can use to broaden tracking capabilities for actions taken by your website community. To figure everything out, you’ll need knowledge of the JSON programming language or the assistance of a professional web developer.
 
@@ -93,16 +99,16 @@ The third use case is for adding standard events without adding pixel event code
 
 If you choose this option, you’ll let Facebook register all visits to all webpages. But keep in mind that Facebook won’t tell you which event has happened and where exactly it has happened.
 
-The fourth purpose is to let you share individual custom conversions with your team or partners instead of sharing your entire pixel event data.  
+The fourth purpose is to let you share individual custom conversions with your team or partners instead of sharing your entire pixel event data.\
 You can create up to 100 custom conversions per ad account, but you can’t use them with [Dynamic Ads](https://softcube.com/facebook-dynamic-product-ads/).
 
 ## How to Set Up Facebook Pixel Events Code
 
 To set up code for Facebook pixel events, first of all, read these recommendations. They’ll help you use your code properly no matter which type of event you take advantage of:
 
-- Add the code snippet of every event and its parameters as they are. Otherwise, your event won’t work or Facebook will log it as an event of another type.
-- Set the [value and currency](https://facebook.com/business/help/392174274295227?id=1205376682832142) for events that are related to purchasing products or services.
-- Add events in a way that allows you to cover your entire sales or marketing funnel to let Facebook pixel fully understand your customers’ behavior. The event chain example is page view, view category, view content, add to cart, purchase, etc.
+* Add the code snippet of every event and its parameters as they are. Otherwise, your event won’t work or Facebook will log it as an event of another type.
+* Set the [value and currency](https://facebook.com/business/help/392174274295227?id=1205376682832142) for events that are related to purchasing products or services.
+* Add events in a way that allows you to cover your entire sales or marketing funnel to let Facebook pixel fully understand your customers’ behavior. The event chain example is page view, view category, view content, add to cart, purchase, etc.
 
 Now let’s find out how you can set up events for Facebook pixel and review the installation  process type by type.
 
@@ -155,5 +161,7 @@ After you see the entire Facebook pixel events list and create your standard or 
 And if you want to get high conversion rates with Facebook ads, try [Softcube artificial intelligence](https://softcube.com).
 
 The Softcube platform will help you achieve a higher return on investment by producing high-quality video ads automatically, at scale, and for the same money as image ads.
+
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/7d079d8647803412528a3f2f3ccbe10d.mp4"></video></figure></center>
 
 Good luck with tracking your Facebook pixel events!

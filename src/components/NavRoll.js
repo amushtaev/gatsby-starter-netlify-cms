@@ -107,7 +107,7 @@ class NavRoll extends React.Component {
               <li className="sub-nav">
                 <Link
                   className={`navbar_item ${!active ? "color--yellow" : ""}`}
-                  to="/blog">
+                  to="/blog/">
                   See all
                 </Link>
               </li>
@@ -118,7 +118,7 @@ class NavRoll extends React.Component {
                       <Link
                         key={slug}
                         className={`navbar_item ${active === slug.fieldValue ? "color--yellow" : ""}`}
-                        to={`/category/${slug.fieldValue}`}
+                        to={`/category/${slug.fieldValue}/`}
                         pathname={slug.fieldValue}
                         propsslug={slug.fieldValue}
                       >

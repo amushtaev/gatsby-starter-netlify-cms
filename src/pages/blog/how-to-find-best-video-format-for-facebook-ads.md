@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: best video format for facebook ads
 templateKey: blog-post
 categories:
   - Video Ads
@@ -7,10 +6,14 @@ categories-slug:
   - video-ads
 title: How to Pick the Best Video Format for Facebook Ads
 date: 2019-12-31T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/best-video-format-for-facebook-ads-featured-picture.jpg
 image: /img/best-video-format-for-facebook-ads-featured-picture.jpg
+seotitle: How to Find the Best Video Format for Facebook Ads
+focuskeyphrase: best video format for facebook ads
+focus_keyphrase: best video format for facebook ads
+seo_title: How to Find the Best Video Format for Facebook Ads
 tags:
   - Carousel ads
   - Collection ads
@@ -19,10 +22,9 @@ tags:
   - Slideshow ads
   - Stories
   - video ads
-seo_title: How to Find the Best Video Format for Facebook Ads
-metadescription: Want to take advantage of video advertising on Facebook? Read several recommendations on how you can discover the best video format for Facebook ads.
-focus_keyphrase: best video format for facebook ads
-seotitle: How to Find the Best Video Format for Facebook Ads
+metadescription: Want to take advantage of video advertising on Facebook? Read
+  several recommendations on how you can discover the best video format for
+  Facebook ads.
 ---
 <!--StartFragment-->
 
@@ -179,5 +181,7 @@ Once you know what kind of video ad content you want to produce for your Faceboo
 It’s really simple to find the best Facebook video ad format if you know what you’re doing. The best way to do it is by testing all the video formats you consider useful to your business.
 
 We hope you find our recommendations helpful and wish you luck with your Facebook video advertising.
+
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/a3fbec84d42ac869aad93cb21d283ed1.mp4"></video></figure></center>
 
 And don’t be shy about testing [Softcube artificial intelligence](https://softcube.com) system.

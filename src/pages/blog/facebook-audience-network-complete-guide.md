@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook audience network
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: "Facebook Audience Network: Monetization and Advertising"
 date: 2020-04-30T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/facebook-audience-network-featured-image.jpg
 image: /img/facebook-audience-network-featured-image.jpg
+seotitle: How to Monetize and Advertise on Facebook Audience Network
+focuskeyphrase: facebook audience network
+focus_keyphrase: facebook audience network
+seo_title: How to Monetize and Advertise on Facebook Audience Network
 tags:
   - Ads Manager
   - Audience Network SDK
@@ -20,10 +23,9 @@ tags:
   - Monetization Manager
   - Native ads
   - Playable ads
-seo_title: How to Monetize and Advertise on Facebook Audience Network
-metadescription: "Read a two-part guide to the Facebook Audience Network: for developers and for advertisers. Learn how to succeed by running and monetizing ads."
-focus_keyphrase: facebook audience network
-seotitle: How to Monetize and Advertise on Facebook Audience Network
+metadescription: "Read a two-part guide to the Facebook Audience Network: for
+  developers and for advertisers. Learn how to succeed by running and monetizing
+  ads."
 ---
 <!--StartFragment-->
 
@@ -31,7 +33,7 @@ Mobile is silently winning the internet. And this has big consequences.
 
 As of the fourth quarter of 2019, mobile devices (not counting tablets) amounted to nearly [53% of global internet traffic](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/) according to Statista.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/E8B7aweTkhfqw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mobile-donkey-carrying-E8B7aweTkhfqw">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/E8B7aweTkhfqw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Interestingly, one of the reasons for the skyrocketing growth of mobile traffic is the rising digital markets in India and most African countries that skipped the desktop internet era due to financial restraints and lack of infrastructure.
 
@@ -69,7 +71,7 @@ According to internal data, in 2018 Facebook paid out [over $1.5 billion](https:
 
 In this part, you’ll discover the major elements you need to get started with monetizing your app and find out how to set up monetization step by step.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Additionally, we’ll mention a few tips on how to effectively monetize your app with the Audience Network and how to handle possible challenges. 
 
@@ -117,21 +119,15 @@ Note that it will take nearly 72 hours for Facebook to review and approve your m
 
 * **Rewarded video ads** is a placement you can choose to monetize a gaming app and reward people who have watched your ad. 
 
-<iframe src="https://giphy.com/embed/cJBIT8kiM3hb3z5yrn" width="100%" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 For instance, Pretty Simple achieved a [20% higher CPM](https://www.facebook.com/audiencenetwork/success-stories/pretty-simple-rewarded-video) using rewarded videos on the Audience Network.
 
 **NOTE**: In the Facebook Audience Network, CPC (cost per click) is unavailable.
 
 * **Playable ads** are one more [Facebook ad format](https://www.facebook.com/business/success/2-oneplus) available on the Audience Network for mobile gaming apps.
 
-<iframe src="https://giphy.com/embed/ZClQyZaslepWOPV6Bi" height="350" width="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 A playable ad consists of three parts: a video intro, a game demo, and a call-to-action screen.
 
 * **Interstitial ads** are full-screen video ads that appear soon after a mobile app user takes an action and before they’re about to take the next.
-
-<iframe src="https://giphy.com/embed/JrYP2N7RDvAcOUKszs" width="192" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Interstitial videos can be launched in two formats: autoplay and click-to-play.
 
@@ -242,7 +238,7 @@ This is a wonderful idea, especially since we’re now going to answer the quest
 
 Facebook claims that [over 1 billion people](https://www.facebook.com/audiencenetwork/) see an ad from the Audience Network every month.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3o6Mbmg6AchRmB4ylO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-16-the-simpsons-16x20-3o6Mbmg6AchRmB4ylO">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3o6Mbmg6AchRmB4ylO" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 One [case study](https://www.facebook.com/business/news/insights/optimizing-direct-response-campaigns-across-facebook-instagram-and-audience-network) revealed ad campaigns that run on Facebook, Instagram, and the Audience Network achieve eight times higher conversion rates than ad campaigns launched solely on Facebook.
 
@@ -364,13 +360,14 @@ Facebook controls [nearly 9% of all mobile video](https://softcube.com/70-video-
 
 A few-second video is the best way to gain attention and achieve any marketing objective with Audience Network ads. Test a strategy that includes launching video ads at scale.
 
-<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/27c40ff5f7bd62126167ad55e0b84c5c.mp4"></video></figure>
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/27c40ff5f7bd62126167ad55e0b84c5c.mp4"></video></figure></center>
 
 Keep in mind that you can use [Softcube Artificial Intelligence](https://softcube.com/) to create high-quality video ads for your Audience Network at the cost of image ads
+
 <style>
 @media screen and (max-width: 780px){
   iframe {
     height: inherit !important;
   }
 }
-</style> 
+</style>

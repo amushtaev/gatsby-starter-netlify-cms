@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook ad placements
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,26 +6,29 @@ categories-slug:
   - facebook-ads
 title: How to Place Ads on Facebook Ad Placements
 date: 2020-03-12T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/facebook-ad-placements-featured-image.jpg
 image: /img/facebook-ad-placements-featured-image.jpg
+seotitle: How to Take Advantage of Facebook Ad Placements
+focuskeyphrase: facebook ad placements
+focus_keyphrase: facebook ad placements
+seo_title: How to Take Advantage of Facebook Ad Placements
 tags:
   - Facebook
   - Instagram
   - Messenger
   - Audience Network
   - Facebook Blueprint
-seo_title: How to Take Advantage of Facebook Ad Placements
-metadescription: Want to know how to place your ads on Facebook? Check out this tutorial to see the full list of Facebook ad placements and learn best practices.
-focus_keyphrase: facebook ad placements
-seotitle: How to Take Advantage of Facebook Ad Placements
+metadescription: Want to know how to place your ads on Facebook? Check out this
+  tutorial to see the full list of Facebook ad placements and learn best
+  practices.
 ---
 <!--StartFragment-->
 
 Facebook is the number one social media network. We all know that. But not everyone realizes what the word *network* really means. That’s why we have a question for you.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/UqB9KRApovhliUMnSu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Squideo-UqB9KRApovhliUMnSu">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/UqB9KRApovhliUMnSu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Have you ever wondered how Facebook managed to become the world’s top advertising platform after Google?
 
@@ -165,6 +167,8 @@ Facebook Blueprint is an online training program designed to fill the gaps in yo
 ## Place AI-Produced Video Ads on Facebook Platforms
 
 Now that you know how to place your ads and find the best Facebook ad placements, we’ll be glad to help you even more with your marketing across Facebook, Instagram, Messenger, and the Audience Network the [Softcube artificial intelligence](https://softcube.com). You can test it to automate your marketing!
+
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure></center>
 
 Good luck, and have fun with your placements in Ads Manager!
 

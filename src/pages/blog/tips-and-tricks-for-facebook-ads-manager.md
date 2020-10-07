@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook ads manager
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: 7 Tips and Tricks for Facebook Ads Manager
 date: 2020-01-23T00:00:00.000Z
-description: 
+description: null
 featuredpost: false
 featuredimage: /img/facebook-ads-manager-featured-image.jpg
 image: /img/facebook-ads-manager-featured-image.jpg
+seotitle: 7 Facebook Ads Manager Lifehacks Every Beginner Must Know
+focuskeyphrase: facebook ads manager
+focus_keyphrase: facebook ads manager
+seo_title: 7 Facebook Ads Manager Lifehacks Every Beginner Must Know
 tags:
   - metrics
   - Facebook app
@@ -19,10 +22,8 @@ tags:
   - Facebook Pixel
   - Lookalike Audiences
   - Instagram ads
-seo_title: 7 Facebook Ads Manager Lifehacks Every Beginner Must Know
-metadescription: Are you going to use Facebook Ads Manager for your marketing? Take advantage of seven useful recommendations to become a true professional.
-focus_keyphrase: facebook ads manager
-seotitle: 7 Facebook Ads Manager Lifehacks Every Beginner Must Know
+metadescription: Are you going to use Facebook Ads Manager for your marketing?
+  Take advantage of seven useful recommendations to become a true professional.
 ---
 <!--StartFragment-->
 
@@ -225,6 +226,6 @@ Thanks for reading our Facebook Ads Manager tutorial!
 
 Have you found these seven lifehacks useful? At the beginning, launching Facebook advertising is intriguing, mysterious, and sometimes uncertain. We’d like to jazz it up with some amazing video ads.
 
-<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/a3fbec84d42ac869aad93cb21d283ed1.mp4"></video></figure>
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/a3fbec84d42ac869aad93cb21d283ed1.mp4"></video></figure></center>
 
 Don't forget to test [Softcube AI](https://softcube.com) and create amazing high-quality video ads automatically!

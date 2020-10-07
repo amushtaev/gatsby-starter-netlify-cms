@@ -1,0 +1,14 @@
+#html__content p img{
+    max-height: 400px;
+    margin: 16px auto;
+    display: block
+}
+iframe {
+    margin: auto !important;
+    display: block !important
+}
+@media screen and (max-width: 780px){
+    iframe {
+        height: inherit !important;
+    }
+}

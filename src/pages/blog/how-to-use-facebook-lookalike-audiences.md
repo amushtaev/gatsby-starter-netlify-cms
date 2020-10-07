@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook lookalike audiences
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,19 +6,21 @@ categories-slug:
   - facebook-ads
 title: How to Use Facebook Lookalike Audiences
 date: 2020-02-19T00:00:00.000Z
-description: 
+description: null
 featuredpost: false
 featuredimage: /img/facebook-lookalike-audiences-featured-image.jpg
 image: /img/facebook-lookalike-audiences-featured-image.jpg
+seotitle: The Beginner’s Guide to Facebook Lookalike Audiences
+focuskeyphrase: facebook lookalike audiences
+focus_keyphrase: facebook lookalike audiences
+seo_title: The Beginner’s Guide to Facebook Lookalike Audiences
 tags:
   - Custom Audiences
   - Facebook Pixel
   - Facebook SDK
   - targeting
-seo_title: The Beginner’s Guide to Facebook Lookalike Audiences
-metadescription: Read this beginner’s guide to Facebook Lookalike Audiences and discover how to find the most valuable customers on Facebook without a hitch.
-focus_keyphrase: facebook lookalike audiences
-seotitle: The Beginner’s Guide to Facebook Lookalike Audiences
+metadescription: Read this beginner’s guide to Facebook Lookalike Audiences and
+  discover how to find the most valuable customers on Facebook without a hitch.
 ---
 <!--StartFragment-->
 
@@ -27,7 +28,7 @@ If you decide to generate leads on Facebook, you’ll face a challenge:
 
 *How can you find the most valuable customers?*
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/g01ZnwAUvutuK8GIQn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/high-quality-highqualitygifs-g01ZnwAUvutuK8GIQn">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/g01ZnwAUvutuK8GIQn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Let’s not go around in circles talking about all the possible places.
 
@@ -143,7 +144,10 @@ Lookalike Audience targeting on Facebook is one of the best techniques your busi
 
 And do you know what people from Facebook Lookalike Audiences like the most? They adore attractive video ads. 
 
+<center><figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/dcd31c38a9b810a207e67530f71fef53.mp4"></video></figure></center>
+
 We’ve launched thousands of Facebook video ads made by [artificial intelligence](https://softcube.com) for numerous Lookalike ad campaigns, and they’ve worked great.
+
 <style>
 @media screen and (max-width: 780px){
   iframe {
