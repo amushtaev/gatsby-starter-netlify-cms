@@ -17,12 +17,14 @@ import gplus from '../img/social/gplus.svg';
 import gplusMobile from '../img/social/gplus-m.svg';
 import BlogRollRelated from '../components/blog/BlogRollRelated';
 import {ShowMore, TryAiButton} from '../components/pricing/styledComponents';
-import BlogRollPostsLatest from "../components/blog/BlogRollPostsLatest";
-import BlogRoll from "../components/blog/BlogRoll";
 import useWindowSize from '../components/Getscreen'
 import useDebounce from "../components/DebouncedHook";
-import BlogCallToAction from "../components/blog/BlogCallToAction";
 import StyleForContent from "../components/blog/blog-post.css"
+import loadable from "@loadable/component";
+const BlogCallToAction = loadable(() => import('../components/blog/BlogCallToAction'));
+const BlogRollPostsLatest = loadable(() => import('../components/blog/BlogRollPostsLatest'));
+const BlogRoll = loadable(() => import('../components/blog/BlogRoll'));
+
 
 export const BlogPostTemplate = ({
   content,
