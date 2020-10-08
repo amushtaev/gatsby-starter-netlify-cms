@@ -77,7 +77,7 @@ export const BlogPostTemplate = ({
   return (
     <section className='section Blog-Post' id={id} itemType="http://schema.org/Article">
       <link rel="canonical" href={slug} />
-      <meta name="description" content={seotitle} />
+      <meta name="description" content={metadescription} />
       {/* Twitter */}
       <meta name='twitter:card' content='summary' key='twcard' />
       <meta name='twitter:creator' content={seotitle} key='twhandle' />
@@ -104,8 +104,8 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className='container white s__width' style={{position: `relative`}} itemScope="" itemType="https://schema.org/Organization">
         <div className='columns'>
-          <div className='column post_column'>
-              <img itemType="https://schema.org/ImageObject" itemProp="image" className='post_image' src={image} alt={title} />
+          <div className='column post_column' itemScope itemType="https://schema.org/ImageObject" itemProp="image">
+              <img itemProp="url" itemProp="image" data-flat-attr="yes" className='post_image' src={image} alt={title} />
               <div className='is-for-mobile'>
               <div style={{paddingTop: `8px`}}>
                 {categories && categories.length ? (
@@ -119,8 +119,8 @@ export const BlogPostTemplate = ({
                   ))}
                 </>
               ) : null}
-                <span itemProp="datePublished" dateTime={date} className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
-                <span itemProp="author" style={{display: `none`}}>Softcube</span>
+                <span itemProp="datePublished" dateTime={date} content={date} className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
+                <span itemProp="author" style={{display: `none`}}  itemScope itemType="http://schema.org/Person">Softcube</span>
                 <span itemProp="publisher" itemScope="" itemType="https://schema.org/Organization" style={{display: `none`}}></span>
               </div>
               <h1 className='title post_title' itemProp="headline">
@@ -335,7 +335,7 @@ const BlogPost = ({ data }) => {
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name='description'
-              content={`${post.frontmatter.description}`}
+              content={`${post.frontmatter.metadescription}`}
             />
           </Helmet>
         }
