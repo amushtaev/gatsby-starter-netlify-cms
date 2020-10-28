@@ -176,7 +176,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
-        exclude: ['/blog/*', '/contact/*', '/about/', '/products/', '/contact/']
+        exclude: ['/blog/*', '/contact/*', '/about/', '/products/', '/contact/', '/blog/page/*']
       },
     },
     {

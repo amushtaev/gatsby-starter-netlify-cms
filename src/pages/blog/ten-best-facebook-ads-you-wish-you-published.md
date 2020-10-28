@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: best facebook ad examples
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: 10 Best Facebook Ads You Wish You Published
 date: 2018-10-09T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/best-facebook-ads-featured-image-1.jpg
 image: /img/best-facebook-ads-featured-image-1.jpg
+seotitle: 10 Best Facebook Ad Examples That Drive and Convert Leads
+focuskeyphrase: best facebook ad examples
+focus_keyphrase: best facebook ad examples
+seo_title: 10 Best Facebook Ad Examples That Drive and Convert Leads
 tags:
   - Apple
   - Facebook ads
@@ -18,10 +21,9 @@ tags:
   - Instagram
   - text ads
   - video ads
-seo_title: 10 Best Facebook Ad Examples That Drive and Convert Leads
-metadescription: Need some advertising examples to promote your business on the most popular social media platform? Get inspired by best Facebook ads in this article.
-focus_keyphrase: best facebook ad examples
-seotitle: 10 Best Facebook Ad Examples That Drive and Convert Leads
+metadescription: Need some advertising examples to promote your business on the
+  most popular social media platform? Get inspired by best Facebook ads in this
+  article.
 ---
 <!--StartFragment-->
 
@@ -92,7 +94,7 @@ Are you waiting for your muse? We’ve picked ten different examples of great Fa
 
 You don’t have to be an owner of an iMac, MacBook, or other Apple product to stumble upon one of the numerous Apple commercials. The release of a new iPhone is always global news. And Apple’s ad for their latest iPhone is a perfect example of Facebook ads that work.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fapple%2Fvideos%2F1714027778708271%2F&amp;show_text=1&amp;width=476" width="476" height="612" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fapple%2Fvideos%2F1714027778708271%2F&amp;show_text=1&amp;width=476" width="476" height="612" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" align="center"></iframe></div>
 
 Let’s be honest. You may not like Apple, but this video ad looks spectacular. Called *Apple’s big news in 108 seconds*, it demonstrates the company’s three latest devices and their features.
 
@@ -104,7 +106,7 @@ In fact, this is what every successful video advertisement on Facebook should lo
 
 Burger King has made one of the coolest examples of successful Facebook ads in the food business. As you can see, image-based posts can be as effective as video ads. What’s the secret?
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fburgerking%2Fposts%2F2329572930389363&amp;width=500" width="500" height="595" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fburgerking%2Fposts%2F2329572930389363&amp;width=500" width="500" height="595" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 The Burger King social media team use food as part of their promotion story. Visually speaking, the crispy rings look perfect on the beige background. But the trick lies in the very simple message that includes minimal text but brings maximum value.
 
@@ -118,7 +120,7 @@ Nickelodeon is known for producing many iconic animated shows like SpongeBob Squ
 
 But only a few know that this television network also originated the Worldwide Day of Play — an event aimed at encouraging parents and their children to turn off TVs and play outdoors. The broadcasting company created a video ad on Facebook dedicated to this special day.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnickelodeon%2Fvideos%2F280052075952167%2F&amp;show_text=1&amp;width=476" width="476" height="587" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnickelodeon%2Fvideos%2F280052075952167%2F&amp;show_text=1&amp;width=476" width="476" height="587" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" align="center"></iframe></div>
 
 Events are perfect social triggers. You can attract public attention to a certain problem by establishing your own special day. To do this, you’ll need to create a community of like-minded enthusiasts, attract attention to your brand, and make this world a better place.
 
@@ -136,7 +138,7 @@ When it comes to shoe and clothing advertising, the number of great ad ideas may
 
 Converse gives lots of examples of good Facebook ads that drive leads. Uniqueness is their primary weapon. Scrolling [Converse’s Facebook Page](https://www.facebook.com/converse/), you’ll see each pair of shoes presented in different locations, on different models, and in different compositions.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fconverse%2Fposts%2F10156027465929580%3A0&amp;width=500" width="500" height="620" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fconverse%2Fposts%2F10156027465929580%3A0&amp;width=500" width="500" height="620" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 In the case of the image ad above, composition plays a pivotal role. The combination of an awesome call-to-action, neutral background, bright outfit, and a single hand turned into a real masterpiece.
 
@@ -148,7 +150,7 @@ Tiffany & Co is another company on our best practices list that has taken advant
 
 No wonder. The jewelry business is all about beauty.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTiffany%2Fposts%2F10155934277308068%3A0&amp;width=500" width="500" height="620" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTiffany%2Fposts%2F10155934277308068%3A0&amp;width=500" width="500" height="620" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 But did you know that Tiffany sells teddy bears? We won’t comment on their price. We’re just marveling at the Facebook ad that the Tiffany team has posted.
 
@@ -164,11 +166,11 @@ Talking of toys, let’s mention a global brand that sells them in the form of b
 
 In August 2018, the company did the impossible — they built a life-size Bugatti Chiron. Constructed with 1 million LEGO pieces plus a steel body and wheels, the car accelerates to 20 kilometers per hour.
 
-<iframe src="https://www.youtube.com/embed/ZQdlCQmzUAM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.youtube.com/embed/ZQdlCQmzUAM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 How do your ads benefit from LEGO's having built a life-size Bugatti? You can find yourself a reliable partner as well. When it comes to online advertising, co-branding partnership is a tried and tested strategy.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLEGO%2Fposts%2F10155974604068403&amp;width=500" width="500" height="669" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLEGO%2Fposts%2F10155974604068403&amp;width=500" width="500" height="669" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 For example, wood workshops can partner with printing companies. In short, choose any good fit for your business.
 
@@ -178,7 +180,7 @@ For example, wood workshops can partner with printing companies. In short, choos
 
 Any piano virtuosos here? Yamaha is one of the most popular digital piano and keyboard producers in the world. This company has also created the best example of a text-based ad on Facebook.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FYamahaKeyboardsOfficial%2Fposts%2F1534701983342440&amp;width=500" width="500" height="417" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FYamahaKeyboardsOfficial%2Fposts%2F1534701983342440&amp;width=500" width="500" height="620" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 You might argue that text-based ads aren’t as [effective as image and video](https://softcube.com/creating-effective-facebook-ads/) alternatives. You’re generally right, but not if you want to advertise your YouTube channel as Yamaha did. Indeed, Facebook is a great platform to promote not only your website, online store, or app but also your profiles on other platforms.
 
@@ -192,7 +194,7 @@ Cooking is an art. Just like every artist, every cook needs a professional set o
 
 Kitchenware amazes with its diversity. It seems like there’s an accessory for every food. For instance, the banana slicer. Two guys who call themselves the Berghoff brothers recorded a demo of this weird and handy product.
 
-<iframe src="https://www.youtube.com/embed/ybh6WCbeyoA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.youtube.com/embed/ybh6WCbeyoA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 Just like Yamaha, BergHOFF used Facebook ads to drive leads to YouTube. But the kitchen and cookware designer did this through personalization.
 
@@ -204,7 +206,7 @@ Lots of business owners publicly vouch for their companies, products, and servic
 
 “The perfect ride doesn’t require perfect roads” is an excellent life motto, don’t you think? So why not to use this quote in a Facebook ad?
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgiantbicycles%2Fposts%2F10155958520428002%3A0&amp;width=500" width="500" height="516" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgiantbicycles%2Fposts%2F10155958520428002%3A0&amp;width=500" width="500" height="516" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 Giant Bicycles did just that, demonstrating a concept used by today’s marketers worldwide. In an era of fierce competition, companies don’t sell products. Companies sell emotions.
 
@@ -216,7 +218,7 @@ Mindful riders maneuver around potholes to save their bikes from damage. A bike 
 
 Have you ever played Monopoly? Hasbro is primarily known for this highly addictive board game. The company also produces lots of other games, including Scrabble and Jenga. We’ll focus on a pretty awesome Facebook ad for Jenga.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhasbrogaming%2Fposts%2F2044310798932050%3A0&amp;width=500" width="500" height="614" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhasbrogaming%2Fposts%2F2044310798932050%3A0&amp;width=500" width="500" height="614" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 How can you get your kids to eat vegetables? Hasbro recommends using a fun game. You can do the same when promoting your business — give any great advice to your target audience with reference to your products or services.
 

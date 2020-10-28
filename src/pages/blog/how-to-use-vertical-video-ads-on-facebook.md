@@ -39,7 +39,7 @@ Put another way, people have gotten used to watching a lot of mobile video conte
 
 In the beginning of the 2010s, companies didn’t take vertical video marketing seriously. People mocked vertical videos (mostly uploaded to YouTube) so much that the [vertical video syndrome](/img/giphy_1.gif) meme appeared in 2012.
 
-<center><iframe src="https://giphy.com/embed/QAD2c9bfVENP2Rig82" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 264px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/QAD2c9bfVENP2Rig82" style="max-width:480px; max-height:480px; width:100%; height:480px; min-height: 264px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></center>
 
 In 2013, two mobile apps changed the status quo: Instagram added a [15-second video feature](https://mashable.com/2013/06/20/instagram-video/) and Snapchat invented Stories.
 

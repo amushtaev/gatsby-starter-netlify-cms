@@ -44,7 +44,7 @@ There are two ways you can plan your ad schedule: Facebook runs ads on schedule 
 
 When you're just getting started, we recommend automatic scheduling. One of the cool things about advertising with Facebook is that the system adapts to your actions to better understand your needs and provide you with a higher return on investment.
 
-<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/OBnwDJW77acLK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/OBnwDJW77acLK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 After testing ad scheduling automation, you can schedule your ads manually and use Facebook _dayparting_. When it comes to Facebook ads, dayparting is a synonym for scheduling.
 

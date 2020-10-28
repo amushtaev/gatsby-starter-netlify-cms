@@ -57,25 +57,25 @@ Started by designer Errolson Hugh as [pure fun](https://www.esquire.com/entertai
 
 Two days after Jason Statham published his bottle cap kick, Ryan Reynolds made his own contribution to the viral challenge on YouTube in a very creative way:
 
-<center><iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/-VCPj5F7z7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/-VCPj5F7z7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></center>
 
 We recommend you watch Ryan’s other videos on his official YouTube channel if you haven’t seen them yet. Believe us, they’re worth your time. Ryan used a lot of crazy and genius ideas to promote his product.
 
 Reveal your twin brother to the world and interview him? Check!
 
-<center><iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/MgM-ny6Gxvs\u0026t=1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/MgM-ny6Gxvs\u0026t=1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></center>
 
 Show how bottles are ordained by the church and serenaded with healing music? Check.
 
-<center><iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/NjDCH6SiMgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/NjDCH6SiMgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></center>
 
 Let your friend celebrity roast you? Check.
 
-<center><iframe style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/YioAD0gQQSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/YioAD0gQQSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></center>
 
 Put an ad within an ad that’s within another ad? Check.
 
-<center><iframe style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></center>
 
 The long and the short of it is that Ryan created his own cinematic <em>giniverse</em> that seems to be rapidly expanding.
 
@@ -85,18 +85,18 @@ Red Bull Stratos is one of the greatest examples of successful viral marketing t
 
 You’ve probably already seen the jump. If not, here it is:
 
-<center><iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/FHtvDA0W34I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/FHtvDA0W34I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></center>
 
 And here’s extra GoPro footage from Felix’s perspective:
 
-<center><iframe title=""style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/dYw4meRWGd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title=""style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/dYw4meRWGd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></center>
 
 Of course, you’re unlikely to sponsor space programs like Red Bull Stratos. However, this marketing campaign fulfilled one of the big purposes of viral content — improving the world. The most important thing is you can do the same, and you don’t need a big budget or advanced technology.
 
 ### The Epic Split by Volvo
 In November 2013, Volvo demonstrated the directional stability and precision of Volvo Dynamic Steering, a technology that simplifies the negotiations between two reversing trucks.
 
-<center><iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/M7FIvfx5J10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/M7FIvfx5J10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></center>
 
 Jean-Claude Van Damme performed the <a href="https://usatoday.com/story/life/movies/2014/01/17/van-damme-volvo-trucks/4580861/">epic split</a> in one take and went viral on YouTube, reaching 25 million views within a week. Considering Volvo truck sales increased 31% after the video was released, we can say it became one of the best viral marketing videos uploaded to YouTube.
 
@@ -104,7 +104,7 @@ Jean-Claude Van Damme performed the <a href="https://usatoday.com/story/life/mov
 
 In 2011, Volkswagen made some of the greatest YouTube viral marketing examples.
 
-<center><iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/1n6hf3adNqk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/1n6hf3adNqk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></center>
 
 <p><em>The Force</em> is a Super Bowl commercial that appeared on television one week after its appearance on YouTube, where it hit eight million views. The <a href="https://www.youtube.com/watch?v=R55e-uHQna0">original video</a> of this commercial is unavailable. But you’ll find a lot of <a href="https://www.youtube.com/watch?v=1n6hf3adNqk">copies</a> on YouTube that amount to a few million views.
 
@@ -112,7 +112,7 @@ In 2011, Volkswagen made some of the greatest YouTube viral marketing examples.
 
 In 2012, Dollar Shave Club, the first company to deliver men’s grooming products via mail, changed the way a business can do online sales.
 
-<center><iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/ZUG9qYTJMsI\u0026t=19s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/ZUG9qYTJMsI\u0026t=19s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></center>
 
 You’ve probably already seen this guy. He’s Michael Dubin, a Dollar Shave Club co-founder and the author of this video.
 
@@ -122,7 +122,7 @@ One of the most iconic viral advertising campaigns the world has ever seen attra
 
 As for this guy, you’ve seen him for sure. In 2010, Old Spice launched an unprecedented viral campaign on YouTube featuring Isaiah Mustafa, an American actor and former football player.
 
-<center><iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/uLTIowBF0kE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/uLTIowBF0kE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></center>
 
 After uploading four mindblowing viral videos, the Old Spice marketing team uploaded over <a href="https://www.youtube.com/c/oldspice/videos?view=0&amp;sort=da&amp;flow=grid">200 videos</a> where Isaiah reacted to social media posts of other brands and answered questions sent by users via Facebook, Reddit, Twitter, and other social media channels.
 
@@ -130,7 +130,7 @@ After uploading four mindblowing viral videos, the Old Spice marketing team uplo
 
 In 2014, Matthew McConaughey went viral after playing himself in a <a href="https://www.youtube.com/watch?v=8QEAA94FjHc">series of commercials</a> promoting the 2015 Lincoln MKC. As one of the best viral marketing examples made by a world-known brand, the ad campaign almost doubled sales of the MKC between 2014 and 2019.
 
-<center><iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/dq4Qj_vG9Tg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://www.youtube.com/embed/dq4Qj_vG9Tg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></center>
 
 Not to mention that in December 2019, Lincoln uploaded another YouTube video featuring McConaughey fishing on the Upper Kananaskis Lake in Alberta, Canada. The <a href="https://www.youtube.com/watch?v=dq4Qj_vG9Tg">Lincoln Aviator video ad</a> hit over 20 million views.
 

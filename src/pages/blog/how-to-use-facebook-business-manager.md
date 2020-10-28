@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: how to use facebook business manager
 templateKey: blog-post
 categories:
   - Tutorials
@@ -7,10 +6,14 @@ categories-slug:
   - tutorials
 title: How to Use Facebook Business Manager
 date: 2018-10-26T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/how-to-use-facebook-business-manager-featured-image.jpg
 image: /img/how-to-use-facebook-business-manager-featured-image.jpg
+seotitle: How to Use Facebook Business Manager [Guide + Best Practices]
+focuskeyphrase: how to use facebook business manager
+focus_keyphrase: how to use facebook business manager
+seo_title: How to Use Facebook Business Manager [Guide + Best Practices]
 tags:
   - Facebook ads
   - Messenger
@@ -18,10 +21,8 @@ tags:
   - Audience Network
   - Creative Hub
   - Facebook placements
-seo_title: How to Use Facebook Business Manager [Guide + Best Practices]
-metadescription: Learn how to create, customize, and delete a Facebook Business Manager account and start using ads to promote your business.
-focus_keyphrase: how to use facebook business manager
-seotitle: How to Use Facebook Business Manager [Guide + Best Practices]
+metadescription: Learn how to create, customize, and delete a Facebook Business
+  Manager account and start using ads to promote your business.
 ---
 <!--StartFragment-->
 
@@ -42,17 +43,6 @@ As you can see in the image above, the platform’s revenue mainly comes from ad
 
 Last but not least, Facebook is perfect for those new to advertising. And for professionals, the company has developed Facebook Business Manager.
 
-## Table of Contents
-
-* [What is Facebook Business Manager?](#whatis)
-* [How to Setup Facebook Business Manager](#setup)
-* [How to Add Facebook Business Pages to Business Manager Account](#addpages)
-* [How to Add Your Facebook Ad Accounts](#addaccounts)
-* [How to Add People to Your Business Manager Account](#addpeople)
-* [How to Delete Facebook Business Manager Account](#delete)
-* [Final Thoughts on Facebook Business Manager](#thoughts)
-
-<a name="whatis"></a>
 ## What is Facebook Business Manager?
 
 Facebook Business Manager (FBM) is a free platform that allows users who have several Facebook Pages or ad accounts to work with them in one place.
@@ -131,7 +121,6 @@ Entrepreneurs are always busy, thinking about their businesses 24/7. They can’
 
 If you want to try Facebook Ads Manager, you can download it on [your Android device](https://play.google.com/store/apps/details?id=com.facebook.adsmanager&hl=en) via Google Play or on [your iPhone](https://itunes.apple.com/us/app/facebook-ads-manager/id964397083?mt=8) via the App Store.
 
-<a name="setup"></a>
 ## How to Set Up Facebook Business Manager
 
 If you’re trying to figure out how to set up Facebook Business Manager, the truth is that you don’t have to set up the platform to use it. All you need is an account on Facebook. If you don’t have one, create one.
@@ -145,7 +134,6 @@ The registration process has two major steps.
 
 Facebook will ask you to confirm your email after you fill in all required fields. Once you receive the confirmation email, click the **Confirm now** button to proceed to **Business Settings**.
 
-<a name="addpages"></a>
 ## How to Add Facebook Business Pages to Business Manager Account
 
 Having a few pages on Facebook Business Ad Manager is a routine practice. For example, big companies have separate pages for different countries; entrepreneurs create pages for different businesses.
@@ -166,7 +154,6 @@ This option is for advertisers and marketers. If you [run ad campaigns](https://
 
 This option allows a Business Manager user to create a new Page.
 
-<a name="addaccounts"></a>
 ## How to Add Your Facebook Ad Accounts
 
 To add your Facebook ad accounts, go to **Business Settings**. Open the **Accounts** tab and click **Accounts**.
@@ -197,7 +184,6 @@ Do you help other companies to launch their campaigns? Add accounts that don’t
 
 Create an account in Business Manager from scratch. Note that you can transfer this account to other users only if they have Business Manager profiles.
 
-<a name="addpeople"></a>
 ## How to Add People to Your Business Manager Account
 
 You can set one of two major roles for users of Business Manager on Facebook:
@@ -231,7 +217,6 @@ Choose the asset types you want people to have access to: Pages, ad accounts, ca
 
 Congratulations! The person you’ve invited to your account should have received an email. Here’s what this email looks like.
 
-<a name="delete"></a>
 ## How to Delete Facebook Business Manager Account
 
 If you wish to delete your FBM account, keep in mind three things.
@@ -258,7 +243,6 @@ If you need a break, Facebook can let you pause your project by deactivating you
 
 Remember that you can create a limited number of accounts. By deactivating one of your accounts, you make room for a new account.
 
-<a name="thoughts"></a>
 ## Final Thoughts on Facebook Business Manager
 
 Facebook lives thanks to advertising. According to Statista, [over five million advertisers](https://www.statista.com/statistics/778191/active-facebook-advertisers/) use Facebook to promote their businesses. And this number is only increasing.

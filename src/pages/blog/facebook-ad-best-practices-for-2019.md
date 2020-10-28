@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook ad best practices
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: 8 Facebook Ad Best Practices for 2019
 date: 2019-04-16T00:00:00.000Z
-description: Want to know how to lure Facebook users in 2019? Learn Facebook ad best practices for video, Messenger, and other Facebook marketing channels.
+description: ""
 featuredpost: false
 featuredimage: /img/facebook-ad-best-practices-featured-image.jpg
 image: /img/facebook-ad-best-practices-featured-image.jpg
+seotitle: 8 Facebook Ad Best Practices You Should Know in 2019
+focuskeyphrase: facebook ad best practices
+focus_keyphrase: facebook ad best practices
+seo_title: 8 Facebook Ad Best Practices You Should Know in 2019
 tags:
   - Dynamic ads
   - Carousel ads
@@ -22,10 +25,8 @@ tags:
   - Messenger
   - Stories
   - video ads
-seo_title: 8 Facebook Ad Best Practices You Should Know in 2019
-metadescription: 
-focus_keyphrase: facebook ad best practices
-seotitle: 8 Facebook Ad Best Practices You Should Know in 2019
+metadescription: Want to know how to lure Facebook users in 2019? Learn Facebook
+  ad best practices for video, Messenger, and other Facebook marketing channels.
 ---
 <!--StartFragment-->
 
@@ -65,7 +66,7 @@ We’ll see what the future holds. As for today, let’s see some of the best pr
 
 With today’s massive glut of content, users are trapped in a chase for their emotions.
 
-<iframe src="https://giphy.com/embed/Xickl5YZKUx68" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/Xickl5YZKUx68" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 
 
@@ -83,7 +84,7 @@ Facebook reports that people are watching more video content than ever before.
 
 One of the [most powerful benefits](https://softcube.com/powerful-benefits-of-facebook-video-ads/) of Facebook video advertising is its ability to catch a user’s attention within just a few moments.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsoftcube.video%2Fvideos%2F435422280598737%2F&amp;show_text=1&amp;width=371" width="371" height="684" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsoftcube.video%2Fvideos%2F435422280598737%2F&amp;show_text=1&amp;width=371" width="371" height="684" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe></div>
 
 Here are other Facebook video ad best practices:  
 
@@ -209,7 +210,7 @@ Nevertheless, static image advertising is still trendy, especially in the appare
 
 The first one is Collection — a grid that contains a cover image or video followed by up to four images. Every element is a separate card that can have its own link and description.  
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fconverse%2Fposts%2F10156534686309580&amp;width=500" width="500" height="688" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fconverse%2Fposts%2F10156534686309580&amp;width=500" width="500" height="688" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe></div>
 
 There are four types of [Collection ads](https://softcube.com/guide-to-facebook-collection-ads/), also called templates:  
 
@@ -220,7 +221,7 @@ There are four types of [Collection ads](https://softcube.com/guide-to-facebook-
 
 The second ad format you can use to highlight a few items simultaneously is Carousel.  
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBMW%2Fposts%2F10157233085797269&amp;width=500" width="500" height="570" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBMW%2Fposts%2F10157233085797269&amp;width=500" width="500" height="570" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe></div>
 
 [Carousel ads](https://softcube.com/how-to-show-carousel-ads-on-facebook/) can contain up to 10 image and video cards displayed one after another.  
 

@@ -31,7 +31,7 @@ They are, and they do. You just need to make sure you don’t overlook these 5 e
 
 There are many ways one can make this mistake, but there are three main points I want to concentrate on: Personalization levels, variable embedding, and the length of your emails.
 
-<iframe src="https://giphy.com/embed/Iad4lCRZsYyFa" width="480" height="260" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/Iad4lCRZsYyFa" width="480" height="260" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 All three of them have to be adjusted according to your recipients’ needs, desires, job position, field, and more.
 
@@ -97,7 +97,7 @@ Prove your credibility and respect your leads and clients: Add an unsubscribe li
 
 Make your emails to the point and do not distract readers from the main goal of the email.
 
-<iframe src="https://giphy.com/embed/5ETs34G31iCAg" width="480" height="294" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/5ETs34G31iCAg" width="480" height="294" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 The distracting elements can be various, in fact, you may not even pay attention to them, but they have a negative impact on the recipients’ attention.
 
@@ -120,7 +120,7 @@ Each email in the sequence should push the lead closer to that goal. Having the 
 
 One of the primary reasons emails get labeled as spam is [email frequency](https://snov.io/blog/email-frequency-best-practices/).
 
-<iframe src="https://giphy.com/embed/f0TvnEmF5yPLO" width="377" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/f0TvnEmF5yPLO" width="377" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 Email frequency can be complicated: On the one hand, emails shouldn’t annoy your recipients; on the other, if your emails are too rare, people may forget who you are and simply delete emails from you without even opening them.  
 
@@ -132,7 +132,7 @@ We encourage you to conduct your own research: Start an A/B test with two groups
 
 Even when your emails and content are perfect, the technical side of email marketing might spoil the results when not tuned to perfection.
 
-<iframe src="https://giphy.com/embed/26vUyGHlrt8dKLGgM" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/26vUyGHlrt8dKLGgM" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 Here’s what you can try with every campaign to avoid this mistake.
 
@@ -202,7 +202,7 @@ This will help you control your sender reputation as you’re the only one who i
 
 This is one of the email campaign mistakes that is often made by beginners who believe email marketing automation means they need to launch a campaign and forget about it forever.
 
-<iframe src="https://giphy.com/embed/SqlxE1bVqQnzImuDXy" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/SqlxE1bVqQnzImuDXy" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 While you could do that, if you want to maximize your email campaign results, monitoring your campaign in real time will allow you to make edits where needed, to optimize sequences faster, and to create better follow-ups.  
 

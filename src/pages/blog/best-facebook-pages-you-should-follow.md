@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: best facebook pages
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,20 +6,21 @@ categories-slug:
   - facebook-ads
 title: 29 Best Facebook Pages You Should Follow
 date: 2019-11-07T00:00:00.000Z
-description: Want to look at some of the best Facebook Pages? Scroll through
-  this post, find the Pages you like, and learn how to grow your community.
+description: ""
 featuredpost: false
 featuredimage: /img/best-facebook-pages-featured-image.jpg
 image: /img/best-facebook-pages-featured-image.jpg
+seotitle: 29 Best Facebook Pages You Should Follow
+focuskeyphrase: best facebook pages
+focus_keyphrase: best facebook pages
+seo_title: 29 Best Facebook Pages That Will Help Your Business Grow
 tags:
   - chatbots
   - Messenger
   - video ads
   - video marketing
-seo_title: 29 Best Facebook Pages That Will Help Your Business Grow
-metadescription: 
-focus_keyphrase: best facebook pages
-seotitle: 29 Best Facebook Pages You Should Follow
+metadescription: Want to look at some of the best Facebook Pages? Scroll through
+  this post, find the Pages you like, and learn how to grow your community.
 ---
 <!--StartFragment-->
 
@@ -215,7 +215,7 @@ Post video content on the News Feed and launch video ad campaigns. 
 
 Also, don’t forget to add a cover video for your page. A cover video will make your page more vivid and alive than a cover image.
 
-<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/YLsNzJxDs3dMy9rhbg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/YLsNzJxDs3dMy9rhbg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 Note that your video should be at least 820x312 pixels. For the best results, Facebook recommends picking an 820x462 video. The recommended length for your cover video is 20 to 90 seconds.
 
@@ -247,7 +247,7 @@ Another way to grow your Facebook community is to [create Facebook ads](https://
 
 The first way is to reach more people by boosting News Feed posts. Click **Boost Post** under a post you want to promote, set your ad campaign settings, and you’re good to go.
 
-<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:587px; min-height: 587px;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAmazonPrimeVideo%2Fvideos%2F939250066448132%2F&amp;show_text=1&amp;width=476" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:480px; max-height:395px; width:100%; height:587px; min-height: 587px;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAmazonPrimeVideo%2Fvideos%2F939250066448132%2F&amp;show_text=1&amp;width=476" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 The second way to reach more people is by launching [Page likes ads](https://www.facebook.com/business/help/507612906001199?id=2223788217707136) to get some likes for your Page. To do that, click Promote on the left side of your Page.
 

@@ -86,7 +86,7 @@ Long story short, more and more great features are coming. If you’re looking f
 
 When it comes to e-commerce, Facebook advertising strategies are necessary for promoting any business.
 
-<iframe src="https://giphy.com/embed/dUJxUPSkmZBqE" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/dUJxUPSkmZBqE" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Remember that you need to [set up a Facebook Pixel](https://softcube.com/how-to-create-a-facebook-pixel/) on your website to track conversions and do lots of other marketing things.
 
@@ -230,13 +230,13 @@ The major advantage of your Page is that you can advertise your products or serv
 
 For example, you can create a post to remind your audience about any holiday or special event. Take a look at how LEGO congratulates everyone with World Environment Day in their 15-second video ad.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLEGO%2Fvideos%2F679350942487690%2F&amp;show_text=1&amp;width=476" width="476" height="625" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLEGO%2Fvideos%2F679350942487690%2F&amp;show_text=1&amp;width=476" width="476" height="625" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe></div>
 
 The world-famous brand tries to kill two birds with one stone. First, they build customers’ trust. Second, they save the planet.   
 
 PUMA used animation to promote their collection of football products. And it looks amazing.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPUMA%2Fvideos%2F10156626625693216%2F&amp;show_text=1&amp;width=560" width="560" height="426" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPUMA%2Fvideos%2F10156626625693216%2F&amp;show_text=1&amp;width=560" width="560" height="426" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe></div>
 
 It’s no secret that video is the best ad format for finding new leads and making sales.   
 
@@ -252,7 +252,7 @@ What could be better for telling a story than one advertising image (except for 
 
 Marketers love [Carousel Ads](https://softcube.com/how-to-show-carousel-ads-on-facebook/) because they can contain up to ten image cards with their own headlines and links.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FIKEAUSA%2Fposts%2F10158742333768066&amp;width=500" width="500" height="519" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FIKEAUSA%2Fposts%2F10158742333768066&amp;width=500" width="500" height="519" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe></div>
 
 Carousels are used to promote a few products at the same time or to tell a complete story about one product or collection.
 

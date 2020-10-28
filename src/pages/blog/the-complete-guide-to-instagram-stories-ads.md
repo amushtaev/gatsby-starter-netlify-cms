@@ -29,7 +29,7 @@ metadescription: Learn everything you need to know about Instagram Stories Ads,
 
 That’s perhaps one of the most common questions today and might be throughout the decade.
 
-<iframe src="https://giphy.com/embed/oWi1ED7Sw22PK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/oWi1ED7Sw22PK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Instagram is all about getting attention. As of June 2018, this social networking service had more than [one billion monthly active users](https://www.statista.com/statistics/253577/number-of-monthly-active-instagram-users/) worldwide.
 
@@ -219,19 +219,19 @@ We highly recommend you visit [this case study library](https://business.instagr
 
 ### **[DFS UK](https://business.instagram.com/success/dfs-uk/)**
 
-<iframe src="https://giphy.com/embed/W6cbxb3NuePgvoeEYW" width="237" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/W6cbxb3NuePgvoeEYW" width="237" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 **[Yoga International](https://business.instagram.com/success/yoga-international/)**
 
-<iframe src="https://giphy.com/embed/igV317AUzip8oNRork" width="237" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/igV317AUzip8oNRork" width="237" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ### [The Walt Disney Company France](https://business.instagram.com/success/disney-france/)
 
-<iframe src="https://giphy.com/embed/m93R2sZTshqOOwzXYf" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/m93R2sZTshqOOwzXYf" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ### [Chantelle Lingerie](https://business.instagram.com/success/chantelle-lingerie/)
 
-<iframe src="https://giphy.com/embed/gKZVgHr1IeZ4WdpHkv" width="253" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/gKZVgHr1IeZ4WdpHkv" width="253" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ## Create Instagram Stories Ads Using AI
 

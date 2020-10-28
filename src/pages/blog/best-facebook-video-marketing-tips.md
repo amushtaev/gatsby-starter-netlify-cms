@@ -29,7 +29,7 @@ seotitle: 8 Best Facebook Video Marketing Tips to Boost Your Sales
 
 At the first screening of *The Arrival of a Train at La Ciotat Station* in 1895, it’s said that someone even ran away from the theater because they thought the train would run them down. Some doubt the veracity of the story.
 
-<iframe src="https://www.youtube.com/embed/MT-70ni4Ddo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.youtube.com/embed/MT-70ni4Ddo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 Still, the fact remains that it took less than 40 seconds for the Lumière brothers to create hype over their film. What a successful [video marketing campaign](https://softcube.com/fifteen-best-product-video-ads/), wasn’t it? But today, if you use video content to advertise products on Facebook, you have half that time to catch your customers’ attention.
 
@@ -76,7 +76,7 @@ Naturally, you may start comparing image ads and video ads in your head. It seem
 
 Diversity is the key to successful video marketing on Facebook. The social media network offers a few video ad formats you can test and use simultaneously. 360-degree video is one of them.  
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNOVApbs%2Fvideos%2F10157114020712196%2F&show_text=1&width=560" width="560" height="477" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNOVApbs%2Fvideos%2F10157114020712196%2F&show_text=1&width=560" width="560" height="477" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
 
 It creates a totally new watching experience, especially with VR glasses. Customers will be able to see your products from any side they want. In combination with an engaging cinematic background, 360-degree videos let viewers evoke the feeling of personal presence.  
 
@@ -102,13 +102,13 @@ Carousel and Collection are two ad formats that offer extraordinary ways of usin
 
 Using [this ad format](https://softcube.com/how-to-show-carousel-ads-on-facebook/), you can show up to 10 separate video ads at once. Every ad in a Carousel has its own description and link. Carousel is a handy tool for displaying several products at once, for instance during a sale or after a product release.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 #### Collection
 
 Today, users buy mostly from their smartphones. Collection is a [Facebook ad format](https://softcube.com/how-to-select-types-of-facebook-ads/) that improves the mobile shopping experience by displaying a product video clip as an ad cover, followed by a set of product images.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCartier%2Fposts%2F10157707885347646&amp;width=500" width="500" height="688" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCartier%2Fposts%2F10157707885347646&amp;width=500" width="500" height="688" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 ### Tip 7. Drive Leads from Instagram
 

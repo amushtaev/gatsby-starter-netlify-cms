@@ -45,31 +45,31 @@ When users tap on an ad powered by Instant Experience, they’re directed to a s
 
 Would you like to get leads? Use an Instant Form to collect users’ contact information right on Facebook!
 
-<iframe src="https://giphy.com/embed/eIs5B4NiLenjPfnvJI" width="250" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/eIs5B4NiLenjPfnvJI" width="250" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ### Instant Storytelling
 
 Want to create an interesting and appealing narrative about your business, product, or service? Choose the Instant Storytelling template to let users remember you.
 
-<iframe src="https://giphy.com/embed/dUB8Fw1K0DdLZjtfXe" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/dUB8Fw1K0DdLZjtfXe" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ### Instant Customer Acquisition
 
 Need to encourage your customers to take actions? Pick Instant Customer Acquisition to let your audience complete a range of actions on a screen that looks like a landing page.
 
-<iframe src="https://giphy.com/embed/WQCfUOwKpZPFP0s1fi" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/WQCfUOwKpZPFP0s1fi" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ### Instant Lookbook
 
 Start a special sale or promote a new collection of products by customizing an Instant Lookbook that allows you to feature products right in photos.
 
-<iframe src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ### Instant Storefront
 
 Looking for a place where you can advertise multiple products at once? Instant Storefront is the perfect way to demonstrate products in the form of a grid.
 
-<iframe src="https://giphy.com/embed/dZotadoE7H5O2iNCYz" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/dZotadoE7H5O2iNCYz" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ## How to Launch Instant Experiences in Ads Manager
 
@@ -242,23 +242,23 @@ Check out our small collection of great Instant Experience ad examples and get i
 
 ### [Roman](https://www.facebook.com/business/success/roman)
 
-<iframe src="https://giphy.com/embed/hricQNvtZOVnzt94Uc" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/hricQNvtZOVnzt94Uc" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ### [Lidl Ireland](https://www.facebook.com/business/success/lidl-ireland)
 
-<iframe src="https://giphy.com/embed/JQeZUjfWNHx5a4EGjS" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/JQeZUjfWNHx5a4EGjS" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ### [Missoma](https://www.facebook.com/business/success/missoma)
 
-<iframe src="https://giphy.com/embed/QumuYbVq4kG2t6yPbZ" width="234" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/QumuYbVq4kG2t6yPbZ" width="234" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ### [Audi Canada](https://www.facebook.com/business/success/audi-canada)
 
-<iframe src="https://giphy.com/embed/U7IgiXjNpq4c0CEooz" width="243" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/U7IgiXjNpq4c0CEooz" width="243" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ### [Lalamove](https://www.facebook.com/business/success/lalamove)
 
-<iframe src="https://giphy.com/embed/ibjva5rQOBzWLwTIsA" width="239" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/ibjva5rQOBzWLwTIsA" width="239" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 ## Let Your Facebook Audience Experience the Moment 
 

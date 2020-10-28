@@ -33,7 +33,7 @@ Many online users can’t imagine their lives without making a daily post about 
 
 It’s come to the point where Spongebob Squarepants even has an “Instaclam” profile in his own universe:
 
-<iframe src="https://giphy.com/embed/VtAK1TEI8aTF6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/VtAK1TEI8aTF6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 How often do you take out your phone to check your Instagram Feed in your own universe?
 
@@ -98,7 +98,7 @@ Now that you know how to add a sponsored ad to the Instagram feed of your target
 
 With [Stories Ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/), you can combine video, images, and text into a captivating story.
 
-<iframe src="https://giphy.com/embed/j78YjyHfA087XV1Oux" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/j78YjyHfA087XV1Oux" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ### Photo Ads
 
@@ -112,7 +112,7 @@ There are three types of Instagram photo ads: square, landscape, and portrait.
 
 Video ads have an amazing potential for your company, especially on Instagram.
 
-<iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 If you view Instagram [video marketing statistics](https://softcube.com/70-video-marketing-statistics-for-2020/), you’ll see that:
 
@@ -125,7 +125,7 @@ You can post Instagram video ads in two formats: square and landscape. The maxim
 
 Carousel ads allow you to show up to [ten images or videos](https://softcube.com/how-to-show-carousel-ads-on-facebook/) in one ad.
 
-<iframe src="https://giphy.com/embed/jTAZDxvrW8ddcO60nY" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/jTAZDxvrW8ddcO60nY" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 * show a few products at the same time
 * focus users’ attention on a single product and its features
@@ -138,7 +138,7 @@ If you decide to test this ad format, it makes sense to place the most engaging 
 
 Instagram Collection ads are [grid-like posts](https://softcube.com/guide-to-facebook-collection-ads/) that can contain up to four items: a hero image or video above three product images.
 
-https://giphy.com/gifs/VCtYUFrkryvTKqdebe
+<iframe src="https://giphy.com/embed/VCtYUFrkryvTKqdebe" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 With this Instagram sponsored ad format, you can showcase a few items simultaneously in an immersive way.
 
@@ -150,7 +150,7 @@ Thanks to [Instant Experience](https://softcube.com/how-to-get-started-with-face
 
 Explore is an Instagram page where users are shown content based on their personal interests.
 
-<iframe src="https://giphy.com/embed/egAb7wA5y9gyI5XKgr" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/egAb7wA5y9gyI5XKgr" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 According to [Instagram’s internal data](https://business.instagram.com/igb/a/ads-in-explore/):
 

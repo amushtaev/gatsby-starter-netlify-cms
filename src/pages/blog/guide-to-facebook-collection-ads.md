@@ -48,7 +48,7 @@ To promote your own business, you can choose among four Collection ad templates.
 
 Instant Lookbook is a Collection ad template that reminds of a magazine or catalog.
 
-<iframe src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 It’s perfect for:
 
@@ -60,7 +60,7 @@ It’s perfect for:
 
 Instant Storefront is a Collection ad template that resembles an online storefront.
 
-<iframe src="https://giphy.com/embed/dZotadoE7H5O2iNCYz" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/dZotadoE7H5O2iNCYz" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 It’s perfect for:
 
@@ -74,7 +74,7 @@ It’s perfect for:
 
 Instant Storytelling is a Collection ad template that’s similar to a brochure.
 
-<iframe src="https://giphy.com/embed/dUB8Fw1K0DdLZjtfXe" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/dUB8Fw1K0DdLZjtfXe" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 It’s perfect for:
 
@@ -86,7 +86,7 @@ It’s perfect for:
 
 Instant Customer Acquisition is a Collection ad template that looks like a landing page.
 
-<iframe src="https://giphy.com/embed/WQCfUOwKpZPFP0s1fi" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/WQCfUOwKpZPFP0s1fi" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 It’s perfect for:
 

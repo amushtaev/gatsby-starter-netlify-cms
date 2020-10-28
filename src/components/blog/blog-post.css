@@ -3,9 +3,14 @@
     margin: 16px auto;
     display: block
 }
+.blog-iframe {
+
+}
 iframe {
     margin: auto !important;
-    display: block !important
+}
+.blog-iframe {
+    text-align: center;
 }
 @media screen and (max-width: 780px){
     iframe {

@@ -33,7 +33,7 @@ In one of [his blog posts](https://seths.blog/2019/05/reach-is-overrated/), Seth
 
 In other words, don’t _make_ people buy; present your product or service and _let_ them buy it.
 
-<iframe src="https://giphy.com/embed/U4teIjRowtTSU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/U4teIjRowtTSU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 But how can you be sure that your Facebook ad delivery strategy works well?  
 
@@ -182,7 +182,7 @@ Facebook marketing isn’t rocket science. And launching an ad campaign is much 
 
 Still, both rocket scientists and advertising specialists learn a lot when they practice a lot.  
 
-<iframe src="https://giphy.com/embed/mwwEcxbodLHIk" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/mwwEcxbodLHIk" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 You can run various types of tests. Display different ads to the same audience, pick different audiences to show the same ad to, or use any other narrow strategy.
 

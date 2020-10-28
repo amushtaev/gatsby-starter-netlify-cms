@@ -28,7 +28,7 @@ Humans have been using tools for as long as we’ve been humans. Every marketer 
 
 Naturally, you were introduced to some of the best digital marketing tools in your toolset by your colleagues at the beginning of your career.
 
-<iframe src="https://giphy.com/embed/xT5LMwmfeY3clGXS24" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/xT5LMwmfeY3clGXS24" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Then you probably upgraded your virtual toolkit with instruments you stumbled upon online. For example, in articles like this one.
 
@@ -241,7 +241,7 @@ Dribbble is the go-to platform where designers and creative people connect by sh
 
 In a time when visual content has conquered every platform, text is in the shadows but still makes a difference. If you create ads, you need to know how to write good copy.
 
-<iframe src="https://giphy.com/embed/vpURqIvpuDguQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/vpURqIvpuDguQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Here are some copywriting tools required for digital marketing success:
 

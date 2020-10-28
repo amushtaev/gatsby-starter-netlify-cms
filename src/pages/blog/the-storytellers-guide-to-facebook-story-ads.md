@@ -30,7 +30,7 @@ In one of [his blog posts](https://seths.blog/2020/07/our-top-story/), author an
 
 Instagram has proved this with a vengeance. If you’re an active Instagram Stories user, you’ve noticed that [Instagram Stories ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) represent literally every second, third, or fourth post you swipe.
 
-<iframe src="https://giphy.com/embed/maIEBUU5OmrMA" width="480" height="313" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/maIEBUU5OmrMA" width="480" height="313" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 The huge popularity of Instagram Stories pushed the Facebook team to expand storytelling opportunities across the Facebook family of apps and services and later introduce Stories for Facebook and Messenger. And it was the right move — in one survey, [68% of people](https://softcube.com/70-video-marketing-statistics-for-2020/) said they use Instagram Stories, Messenger Stories, and Facebook Stories at least once a week.
 
@@ -44,7 +44,7 @@ These numbers are huge. And you definitely shouldn’t ignore them when launchin
 
 Introduced on September 26, 2018, Facebook Story ads are an [ad placement](https://softcube.com/how-to-place-ads-on-facebook-ad-placements/) available in Facebook Ads Manager. Want some Facebook Story ads examples? Consider this ad made by KFC during one of their Facebook ad campaigns:
 
-<iframe src="https://giphy.com/embed/MZXnWgUQDsvJUh5qXA" width="272" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/MZXnWgUQDsvJUh5qXA" width="272" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Now let’s learn everything about how to create Facebook Story ads for your business.
 
@@ -163,7 +163,7 @@ Create as many scenes as possible. This technique will enhance the effect of eve
 
 When it comes to cutting scenes, it may be a real challenge to choose the best parts from your footage. We know that firsthand.
 
-<p align="center"><video id="video-1034-1_html5" class="wp-video-shortcode" autoplay="autoplay" loop="loop" width="640" height="360"><source type="video/mp4" src="https://video.softcube.com/media/a293c868a5d278afb37f7f5c7087307a.mp4"></video></p>
+<figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/267464eb20af45b7833faf2273fd55ed.mp4"></video></figure>
 
 The good news is you don't have to do this by hand. When you import your video to the [Softcube artificial intelligence](https://softcube.com) system, an algorithm will help you find the best scenes, cut them, and create a short, high-quality video ad that will boost your conversions.
 

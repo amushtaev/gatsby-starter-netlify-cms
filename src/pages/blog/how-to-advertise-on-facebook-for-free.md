@@ -24,7 +24,7 @@ seotitle: "How to Advertise on Facebook for Free: Guide for Beginners"
 
 Want to know how to advertise on Facebook for free? Bravo! Free advertising sounds like an oxymoron, but it’s real and it’s really effective when combined with targeted ads.
 
-<iframe src="https://giphy.com/embed/M90pBvZvaWPcRzID8S" width="480" height="400" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/M90pBvZvaWPcRzID8S" width="480" height="400" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 According to Statista, [promoted social media posts](https://www.statista.com/statistics/328641/advertising-usage-b2b-content-marketing-north-america/) are the leading method of paid content distribution among B2B marketers in North America, while Facebook is the leading social network in the world.
 
@@ -54,7 +54,7 @@ Here are the best practices for a cover image:
 
 Keep in mind that you can add a video instead of a photo to achieve a more powerful effect:
 
-<iframe src="https://giphy.com/embed/PjHexdHl2Q1btiJcWw" width="480" height="201" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/PjHexdHl2Q1btiJcWw" width="480" height="201" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 If you want to create a high-quality Page cover and you lack inspiration, take a look at some of the [best Facebook Pages](https://softcube.com/best-facebook-pages-you-should-follow/) managed by the world’s top brands. Looking at examples of compelling cover images and videos can inspire you and help you find something useful for your own Page cover.
 

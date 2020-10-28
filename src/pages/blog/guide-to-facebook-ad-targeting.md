@@ -40,7 +40,7 @@ The cool thing is that there are not only lots of ways to promote your products 
 
 You know your audience pretty well, don’t you?
 
-<iframe src="https://giphy.com/embed/dSdvPrKU0w8WGo4c9L" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/dSdvPrKU0w8WGo4c9L" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Then you already know how to use Facebook ad targeting.  
 

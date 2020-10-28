@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: best facebook ad types
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: How to Select Types of Facebook Ads Wisely
 date: 2019-01-17T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/best-facebook-ad-types-featured-image.jpg
 image: /img/best-facebook-ad-types-featured-image.jpg
+seotitle: Guide to Choosing the Best Facebook Ad Types for Your Business
+focuskeyphrase: best facebook ad types
+focus_keyphrase: best facebook ad types
+seo_title: Guide to Choosing the Best Facebook Ad Types for Your Business
 tags:
   - Lead ads
   - 360 videos
@@ -29,10 +32,9 @@ tags:
   - Post Engagement ads
   - Slideshow ads
   - Video ads
-seo_title: Guide to Choosing the Best Facebook Ad Types for Your Business
-metadescription: Don’t know how to pick the best Facebook ad types? Read this guide to learn everything about the major advertising formats on the largest social network.
-focus_keyphrase: best facebook ad types
-seotitle: Guide to Choosing the Best Facebook Ad Types for Your Business
+metadescription: Don’t know how to pick the best Facebook ad types? Read this
+  guide to learn everything about the major advertising formats on the largest
+  social network.
 ---
 <!--StartFragment-->
 
@@ -58,7 +60,7 @@ This article also includes a few useful tips to help you select the right format
 
 Photo ads, also known as image ads, are a time-tested solution that you can’t ignore despite all the other Facebook ad formats. As a [Facebook study](https://www.facebook.com/business/news/insights/creative-combinations-that-work) shows, a series of images can outperform other ad combinations.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Famericastestkitchen%2Fposts%2F10161309475905565%3A0&amp;width=500" width="500" height="633" frameborder="0" scrolling="no"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Famericastestkitchen%2Fposts%2F10161309475905565%3A0&amp;width=500" width="500" height="633" frameborder="0" scrolling="no"></iframe></div>
 
 The most significant advantage of photo ads lies in their simplicity. They’re easy to make. You can take a photo using your smartphone, come up with a short but powerful copy, and that’s it — your ad is ready to go!
 
@@ -66,7 +68,7 @@ The most significant advantage of photo ads lies in their simplicity. They’re 
 
 Launched in 2014, [Facebook video ads](https://softcube.com/best-facebook-video-marketing-tips/) have gained popularity among both users and businesses. No wonder, we love watching videos.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAirAsia%2Fvideos%2F2223733517869393%2F&amp;show_text=1&amp;width=476" width="476" height="631" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAirAsia%2Fvideos%2F2223733517869393%2F&amp;show_text=1&amp;width=476" width="476" height="650" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 Today, advertisers can upload videos in various forms:
 
@@ -83,7 +85,7 @@ Aside from these types of video ads, there are two more ad formats that allow yo
 
 A Carousel Ad can combine up to ten cards that include videos and images. In a Carousel Ad, cards are arranged in a particular order. It’s a perfect way to highlight the features of one product or to showcase a few products from a collection.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBMW%2Fposts%2F10157233085797269&amp;width=500" width="500" height="570" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBMW%2Fposts%2F10157233085797269&amp;width=500" width="500" height="570" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 If you want to know everything about this ad format, read our guide to [Carousel Ads on Facebook](https://softcube.com/how-to-show-carousel-ads-on-facebook/). It includes Carousel Ad sizing and specs, best practices, and great examples.
 
@@ -91,7 +93,7 @@ If you want to know everything about this ad format, read our guide to [Carousel
 
 Collections are similar to Carousels. You can use a [Collection Ad](https://softcube.com/guide-to-facebook-collection-ads/) to publish up to four video and image cards in one ad. The only difference between Collections and Carousels is in their layout.
 
-<iframe class="giphy-embed" src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" class="giphy-embed" src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 While Carousel Ads look like merry-go-rounds, Collection Ads have the form of a grid, with a primary card above the grid. There are four Collection Ad templates you can pick from depending on your goals:
 

@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: best facebook ad tools
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: 15 Best Facebook Ad Tools You Might Not Have Heard Of
 date: 2019-04-18T00:00:00.000Z
-description: Looking for advertising software to boost your conversions? Check out the best Facebook ad tools that you might not have even heard of.
+description: ""
 featuredpost: false
 featuredimage: /img/best-facebook-ad-tools-featured-image.jpg
 image: /img/best-facebook-ad-tools-featured-image.jpg
+seotitle: 15 Best Facebook Ad Tools That Every Marketer Should Use
+focuskeyphrase: best facebook ad tools
+focus_keyphrase: best facebook ad tools
+seo_title: 15 Best Facebook Ad Tools That Every Marketer Should Use
 tags:
   - Ad Library
   - Ads Manager app
@@ -27,10 +30,8 @@ tags:
   - Mobile Studio
   - Pages Manager App
   - Success Stories
-seo_title: 15 Best Facebook Ad Tools That Every Marketer Should Use
-metadescription: 
-focus_keyphrase: best facebook ad tools
-seotitle: 15 Best Facebook Ad Tools That Every Marketer Should Use
+metadescription: Looking for advertising software to boost your conversions?
+  Check out the best Facebook ad tools that you might not have even heard of.
 ---
 <!--StartFragment-->
 
@@ -288,7 +289,7 @@ If a company run a few Pages for different countries, you can see ads for any Pa
 
 People are obsessed with making Stories and posting photos online that portray their everyday lives. Sometimes, too much so.
 
-<iframe src="https://giphy.com/embed/6LzPPnutAquju" width="467" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/6LzPPnutAquju" width="467" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 This makes Instagram one of today’s most popular digital marketing channels. Also, it’s one of the best Facebook marketing tools that allows agencies and businesses to attract customers that are distinct from their Facebook audiences.  
 

@@ -76,7 +76,7 @@ Then check out examples of [Facebook video ads](https://softcube.com/best-facebo
 
 Image ads are the most widespread format of Facebook ads.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fversace%2Fposts%2F10162919241330176&amp;width=500" width="500" height="639" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fversace%2Fposts%2F10162919241330176&amp;width=500" width="500" height="639" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
 
 If you compare [video ads versus image ads](https://softcube.com/facebook-video-ads-vs-image-ads/) on Facebook, you’ll see that photo advertising is still in the game despite the growing popularity of video.
 
@@ -84,7 +84,7 @@ If you compare [video ads versus image ads](https://softcube.com/facebook-video-
 
 [Stories ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) are one of the best video formats for Facebook ads. They allow advertisers to provide users with fast, immersive, authentic, and entertaining shopping experiences.
 
-<iframe src="https://giphy.com/embed/jpVobagjy1StnS2FQY" width="236" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/jpVobagjy1StnS2FQY" width="236" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 The cool thing about Stories ads is that you can buy and run them not only on Instagram but on Facebook, WhatsApp, and Messenger.
 
@@ -103,7 +103,7 @@ In [Facebook Marketing Science Studies 2018](https://www.facebook.com/business/a
 
 More than 1.3 billion users send over 20 billion messages on Messenger every month. Messenger ads are one of the best Facebook mobile ad formats you can use.
 
-<iframe src="https://giphy.com/embed/UTYtawNwSTtt4vwG0p" width="250" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/UTYtawNwSTtt4vwG0p" width="250" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 [Messenger ads](https://softcube.com/how-to-start-a-personal-chat-with-messenger-ads/) are divided into four major types:
 
@@ -118,7 +118,7 @@ To launch any of these Messenger ad types, go to Ads Manager and pick the Messag
 
 [Collection ads](https://softcube.com/guide-to-facebook-collection-ads/) are grid-like posts where you can add one major video or image plus up to four images above it. If you advertise an online store, hotel, or airline, you should give Collection ads a try.
 
-<iframe src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/LkqzTSCDT4skLsUYt7" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 The Collection ad format on Facebook has four different templates: 
 
@@ -133,7 +133,7 @@ Powered by Instant Experience, [Facebook Collection ads](https://softcube.com/gu
 
 [Carousel ads](https://softcube.com/how-to-show-carousel-ads-on-facebook/) are posts that have the form of a merry-go-round.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftommyhilfiger%2Fposts%2F10156999283175686&amp;width=500" width="500" height="532" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftommyhilfiger%2Fposts%2F10156999283175686&amp;width=500" width="500" height="532" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe></div>
 
 Every Carousel ad includes up to ten videos or images.
 
@@ -149,7 +149,7 @@ Run an e-commerce business? You should definitely launch some Carousel ads.
 
 Dynamic ads are generated automatically to show the right products to the right audience.
 
-<iframe src="https://giphy.com/embed/jRBwd8g0BCFQ2Zdzn2" width="254" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/jRBwd8g0BCFQ2Zdzn2" width="254" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 To set up [Dynamic ads](https://softcube.com/facebook-dynamic-product-ads/), you need to do three things:
 
@@ -198,7 +198,7 @@ Once Automated ads are launched, Facebook sends notifications about your ad perf
 
 Slideshow ads are the golden middle between photo and video ads.
 
-<iframe src="https://giphy.com/embed/QzBopSr2NXVGgTbAxo" width="285" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/QzBopSr2NXVGgTbAxo" width="285" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 As a matter of fact, these are slideshows. However, Facebook calls them video-like ads because they use motion, sound, and text to tell a compelling story. 
 

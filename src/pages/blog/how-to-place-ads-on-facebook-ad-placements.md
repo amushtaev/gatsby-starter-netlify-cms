@@ -28,7 +28,7 @@ metadescription: Want to know how to place your ads on Facebook? Check out this
 
 Facebook is the number one social media network. We all know that. But not everyone realizes what the word *network* really means. That’s why we have a question for you.
 
-<iframe src="https://giphy.com/embed/UqB9KRApovhliUMnSu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/UqB9KRApovhliUMnSu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Have you ever wondered how Facebook managed to become the world’s top advertising platform after Google?
 

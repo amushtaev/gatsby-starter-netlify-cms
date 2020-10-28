@@ -150,7 +150,7 @@ After you gain insights on Facebook pixel and how it works, you’ll be able to 
 
 Say you have an online store where customers can choose among hundreds or even thousands of products. Along with launching ad campaigns to promote seasonal sales or special offers, you can use Facebook to promote your entire inventory of products. That’s where Dynamic Ads come in handy. 
 
-<iframe src="https://giphy.com/embed/QXDi9OAXTngvzfcfRa" width="243" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/QXDi9OAXTngvzfcfRa" width="243" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 All you need to do is create a product catalog, fill it with items, create a Dynamic Ad template, and launch your ad campaign. Based on your items and your pixel, Facebook will automatically generate Dynamic Ads and decide who sees them and when.
 

@@ -44,7 +44,7 @@ This makes competition among companies in all industries fiercer than ever. The 
 
 Advertising on Facebook – like on any other platform – is all about results.
 
-<iframe src="https://giphy.com/embed/kEuC3j5TU1l27YjzVC" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/kEuC3j5TU1l27YjzVC" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Measuring results gives you a better understanding of how good you are at launching your [current ad campaigns](https://softcube.com/facebook-ad-best-practices-for-2019/) and sheds light on what you can do to improve the outcome for future ad strategies.
 

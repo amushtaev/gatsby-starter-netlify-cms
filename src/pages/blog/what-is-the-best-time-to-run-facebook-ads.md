@@ -29,7 +29,7 @@ According to The Verge Tech Survey 2020, almost [10% of people](https://www.thev
 
 The right ads delivered to the right people at the right time do magic and make people (and the Facebook team) happier, even if these people don’t like seeing ads.
 
-<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/3og0ILJig6zIu1hRVm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/3og0ILJig6zIu1hRVm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 But if something is wrong with this formula, happiness gives way to annoyance, which eventually pushes people away and reduces the number of active Facebook users.
 

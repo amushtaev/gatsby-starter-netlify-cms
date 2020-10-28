@@ -42,7 +42,7 @@ Along with users, advertisers and marketers can find everything they need on Fac
 
 [Facebook Marketplace](https://www.facebook.com/marketplace/) as we know it today was introduced in 2016 as a response to the growing number of Facebook Groups where users bought and sold anything they wanted with no third party.
 
-<iframe src="https://giphy.com/embed/MF0pOwqwMuW5XrE2Fg" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/MF0pOwqwMuW5XrE2Fg" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 At the 2018 Facebook F8 Developer Conference, Mark Zuckerberg said that there were [800 million people](https://www.cnet.com/news/facebook-marketplace-is-used-in-70-countries-by-800-million-people-monthly/) who used Facebook Marketplace in 70 countries around the world.
 
@@ -87,7 +87,7 @@ After you add pixel (or Facebook SDK) and event tracking codes to your website (
 
 After you create an ad account in Facebook Business Manager and install Facebook ad tracking software, you’re ready to launch your first Facebook Marketplace ad campaign.
 
-<iframe src="https://giphy.com/embed/l1a48M1MgZe8nMCc87" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/l1a48M1MgZe8nMCc87" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Note that if you’re wondering how to make an ad on Facebook Marketplace, the answer is that you can’t. You need to create Facebook Marketplace ads with Ads Manager.
 

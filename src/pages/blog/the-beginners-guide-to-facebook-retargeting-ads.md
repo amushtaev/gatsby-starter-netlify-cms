@@ -27,7 +27,7 @@ Retargeting (or remarketing) is essential for every business.
 
 We bet the majority of your website visitors look like this:
 
-<iframe src="https://giphy.com/embed/fDO2Nk0ImzvvW" width="480" height="365" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/fDO2Nk0ImzvvW" width="480" height="365" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 That’s okay. When it comes to Google advertising, the [majority of websites](https://www.gorocketfuel.com/the-rocket-blog/whats-the-average-bounce-rate-in-google-analytics/) have a bounce rate between 26% and 70%.
 

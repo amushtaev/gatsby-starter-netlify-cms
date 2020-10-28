@@ -25,7 +25,7 @@ metadescription: Read about what viral marketing campaigns are, discover why
 
 We all have it inside us: a quiet voice that constantly reminds us that we need to find the best way to market our business and make it famous. Because when a company or startup comes to prominence, it converts, it sells, and it evolves into something big.
 
-<center><iframe src="https://giphy.com/embed/erldqIniuBYo8" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/erldqIniuBYo8" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></center>
 
 With the advent of the internet and social media, information spreads like a virus. Going big means going viral, being famous means being viral, and prominence means virality.
 
@@ -83,7 +83,7 @@ YouTube was the first platform to demonstrate how content goes viral. And you kn
 
 In 2005, OK Go, an American rock band, recorded a low-budget homemade video for their song [A Million Ways](https://www.youtube.com/watch?v=M1_CLW-NNwc). Originally, they sent it to some of their friends who uploaded it to video hosting website iFilm where it was downloaded hundreds of thousands of times. This was many times the number of copies OK Go sold of their first song after touring and promoting it on the radio.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/dTAAsCNK7RA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/dTAAsCNK7RA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></center>
 
 After recording the [Here It Goes Again](https://www.youtube.com/watch?v=dTAAsCNK7RA) official music video based on the same simple concept, OK Go’s label uploaded it to YouTube in 2006. Within a single day, the video reached 900,000 views.
 

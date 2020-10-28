@@ -82,7 +82,7 @@ function VideoBanner() {
       <TryButton
         text='Try for free!'
         onClick={() => {
-          window.location.href = 'https://app.softcube.com'
+          window.location.href = 'https://login.softcube.com/signin/register'
         }}
       />
     </div>

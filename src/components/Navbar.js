@@ -70,7 +70,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar_item" to="/pricing" activeClassName="activePage">
                 Pricing
               </Link>
-              <Link className="navbar_item" to="/blog" activeClassName="activePage">
+              <Link className="navbar_item" to="/blog/" activeClassName="activePage">
                 Blog
               </Link>
             </div>
@@ -78,7 +78,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar_item" to="https://app.softcube.com">
                 Sign In
               </Link>
-              <Link className="navbar_item color--yellow Sign Up" to="https://app.softcube.com">
+              <Link className="navbar_item color--yellow Sign Up" to="https://login.softcube.com/signin/register">
                 Sign Up
               </Link>
             </div>

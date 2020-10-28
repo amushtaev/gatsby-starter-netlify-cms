@@ -28,7 +28,7 @@ If you decide to generate leads on Facebook, you’ll face a challenge:
 
 *How can you find the most valuable customers?*
 
-<iframe src="https://giphy.com/embed/g01ZnwAUvutuK8GIQn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/g01ZnwAUvutuK8GIQn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Let’s not go around in circles talking about all the possible places.
 

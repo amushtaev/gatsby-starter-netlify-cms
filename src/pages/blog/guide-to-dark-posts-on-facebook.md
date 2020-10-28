@@ -25,7 +25,7 @@ seotitle: Everything You Need to Know about Dark Posts on Facebook
 
 Did you know that dark posts on Facebook are also light? Surprise!
 
-<iframe src="https://giphy.com/embed/j4kdx6uRLeA3maAp53" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/j4kdx6uRLeA3maAp53" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 On March 28, 2019, Facebook announced a [new ad library](https://www.facebook.com/ads/library/) that makes Facebook ads transparent.
 

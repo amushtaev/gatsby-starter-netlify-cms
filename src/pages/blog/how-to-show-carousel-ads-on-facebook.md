@@ -106,7 +106,7 @@ Here’s the same process but through Ads Manager:
 
 Here are some tips and tricks that will help you to convert leads into customers and increase your ROI using Carousel Ads on Facebook.
 
-<iframe src="https://giphy.com/embed/3oz8xUoZC8D0J2Grss?video=0" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/3oz8xUoZC8D0J2Grss?video=0" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ### Take Advantage of All Ad Elements
 
@@ -136,7 +136,7 @@ Now it’s time for inspiration. Below are some of the best Facebook Carousel Ad
 
 Criminal Case is a detective game originally developed for Facebook and later adapted for iOS and Android. The goal of the game is to find objects. In this example, you’re asked to find a hairdryer.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCriminalCaseGame%2Fposts%2F1052576951561462&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCriminalCaseGame%2Fposts%2F1052576951561462&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 Of course, it takes less than two minutes to find it, but this ad from Criminal Case is really stunning. Not because of the complete mess in the bathroom but because of how the ad was produced.
 
@@ -146,13 +146,13 @@ The ad contains three cards that tell a single story and lead to the download li
 
 This ad, made by one of the world’s most famous coffee brands, is one of the best examples of video Carousel Ads on Facebook. The video novel consists of three parts, each less than ten seconds long. By means of a short story, Carte Noire demonstrates its new product collection.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 ### Coca-Cola
 
 Coca-Cola has launched hundreds of diverse marketing campaigns over the years. In 2015, one of them was devoted to promoting a GIF creation service called GIFthefeeling.com. Unfortunately, the website isn’t available today, but we’ll remember it thanks to the Facebook ad you see below.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCocaColaUnitedStates%2Fposts%2F1159323160767063&amp;width=500" width="500" height="538" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCocaColaUnitedStates%2Fposts%2F1159323160767063&amp;width=500" width="500" height="538" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 To promote their GIF service, Coca-Cola resorted to a trick. Since Facebook Carousel Ads don’t support GIFs, the company published them in the form of videos. The ad includes five cheerful cards to inspire creators who like one of the most consumed beverages in the world.
 
@@ -160,7 +160,7 @@ To promote their GIF service, Coca-Cola resorted to a trick. Since Facebook Caro
 
 Spotify created one of its ads in an even more creative way than Coca-Cola. They took the five most popular Beatles albums, animated them, and then launched them as one of the most unusual Facebook video Carousel Ads. Why not directly upload images?
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSpotifyUK%2Fposts%2F1183328715087405&amp;width=500" width="500" height="532" frameborder="0" scrolling="no"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSpotifyUK%2Fposts%2F1183328715087405&amp;width=500" width="500" height="532" frameborder="0" scrolling="no"></iframe></div>
 
 Because the result turned out to be amazing. We bet the fans who waited for a long time for the entire Beatles discography to appear on Spotify were pleased with this Facebook post.
 
@@ -168,7 +168,7 @@ Because the result turned out to be amazing. We bet the fans who waited for a lo
 
 Mad Max is probably the world’s most popular post-apocalyptic movie ever. Released in 2015, Mad Max: Fury Road became the fourth film in the franchise and collected over $370 million around the world.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMadMaxMovieUK%2Fposts%2F1163234180358590&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMadMaxMovieUK%2Fposts%2F1163234180358590&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 If you take a look at the movie’s official Facebook Page, you’ll see many posts that promote it. One of them is a Carousel Ad with four image cards dedicated to the release of four editions — Blu-ray, 3D Blu-ray, a four-disc anthology, and DVD.
 
@@ -176,7 +176,7 @@ If you take a look at the movie’s official Facebook Page, you’ll see many po
 
 Today, every internet user has their own needs. Some play video games, some work online, some spend their time on social media. In every case, the number of gigabytes used is different. That’s why Verizon compared its plans with dog breeds to help their customers find the ideal size.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fverizon%2Fposts%2F10155892979010123&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fverizon%2Fposts%2F10155892979010123&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 ## Have Fun With Your Carousels
 

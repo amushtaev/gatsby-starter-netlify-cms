@@ -57,7 +57,7 @@ Pretty soon, the number of Messenger users is likely to approach the population 
 
 As of October 2019, there were over [1.3 billion people](https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/) using Messenger every month. Just imagine how many Pusheen cat stickers people send each other every day!
 
-<iframe src="https://giphy.com/embed/czhp123dcmKFG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/czhp123dcmKFG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Actually, let’s imagine you’re about to get started with Facebook Messenger advertising. How should you go about it?
 
@@ -89,7 +89,7 @@ Here are four types of ads you can launch on Messenger:
 
 Ads in the Messenger Inbox will encourage people from your target audience to start a conversation with your business by appearing in the Chats tab of the Messenger app. 
 
-<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/MbAUFfYbEg95QIaeNL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/MbAUFfYbEg95QIaeNL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 Another huge benefit you get with this Messenger ad format is that it can help you be in the limelight for a large number of people so they’ll keep your business in mind.
 
@@ -106,7 +106,7 @@ After users stumble on an ad in their inbox and tap on it, they’re directed to
 
 Having first appeared on Instagram and Facebook, [Stories ads](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) are now also available on Messenger.
 
-<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/QBWzHQmf0XQ32PnnCz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/QBWzHQmf0XQ32PnnCz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 Powered by [Instant Experience](https://softcube.com/how-to-get-started-with-facebook-instant-experience/), Messenger Stories ads allow you to spark users’ interest with an appealing, dynamic, and captivating visual narrative about your company, products, and services.
 
@@ -121,7 +121,7 @@ After people tap on a call-to-action button on your Story ad, they’re driven t
 
 Facebook reports that click to Messenger ads is one of the [fastest-growing ad formats](https://www.facebook.com/business/news/insights/5-reasons-messaging-is-taking-flight-with-travelers). This format allows you to hook the attention of customers on Messenger, Instagram, and Facebook and then chat with them one-on-one after they tap the ad.
 
-<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/XGVemHE9kNl58efqVm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/XGVemHE9kNl58efqVm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 **Best Practices for Messenger Stories Ads:**
 
@@ -133,7 +133,7 @@ Facebook reports that click to Messenger ads is one of the [fastest-growing ad f
 
 Using sponsored Messenger ads is one of the best Messenger retargeting techniques. With this advertising format, you can contact Messenger users you’ve already engaged with by sending highly personalized offers they’re likely to be interested in.
 
-<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/d8VewvkMFMrXsi5ZwJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/d8VewvkMFMrXsi5ZwJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 **Best Practices for Messenger Sponsored Ads:**
 
@@ -196,7 +196,7 @@ As Pablo Picasso once said, *Good artists copy, great artists steal.*
 
 But how would he respond to one of the best Facebook Messenger ad examples ever?
 
-<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/JUFuSFsgD1tZOgW0jU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/JUFuSFsgD1tZOgW0jU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 The [Pablo Picasso Messenger bot](https://www.facebook.com/business/inspiration?show=27%2F09%2F2018-National-Geographic) received lots of responses from fans of the Genius series by National Geographic.
 

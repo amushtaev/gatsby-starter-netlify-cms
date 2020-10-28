@@ -36,7 +36,7 @@ Searching for the best strategy will give you lots of experience that will help 
 
 A Facebook ad campaign is like a journey to Mars. We know how it works in theory, don’t we?
 
-<iframe src="https://giphy.com/embed/1gCWGWkZZHE7QbbzLk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/1gCWGWkZZHE7QbbzLk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Once launched, an ad campaign can’t be canceled. Well, it can be canceled, but it’d be a waste of time and effort in that case.  
 

@@ -44,7 +44,7 @@ To give an answer to this tricky question, let’s first recall the major Facebo
 
 If you ask any experienced Facebook marketer about this format, they will answer with certainty that [Carousel ads](https://softcube.com/how-to-show-carousel-ads-on-facebook/) are one of the most effective Facebook video ad formats.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartenoire%2Fposts%2F1181951648540092&amp;width=500" width="500" height="532" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
 
 Carousel ads empower advertisers with the ability to display two or more videos (or images) within one publication in the form of a merry-go-round. That’s why this is one of the best video formats to upload to Facebook.
 
@@ -58,7 +58,7 @@ If you’re an e-commerce business, you should definitely learn [how to use Caro
 
 The [Collection ad format](https://softcube.com/guide-to-facebook-collection-ads/) is the Carousel ad’s little cousin.
 
-<iframe src="https://giphy.com/embed/dUB8Fw1K0DdLZjtfXe" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/dUB8Fw1K0DdLZjtfXe" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 Just like Carousels, Collections have cards that can include links, headlines, and buttons. However, these Facebook ad formats have two differences.
 
@@ -77,7 +77,7 @@ The second difference is the number of cards. Collection ads can include up to f
 
 [Stories](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) are the most loved Facebook video ad format so far. And for good reason, as they offer everything people love video for: they’re quick, fun, and informative.
 
-<iframe src="https://giphy.com/embed/KHb7EULx2ptMeCzNNs" width="235" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/KHb7EULx2ptMeCzNNs" width="235" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 What else do today’s customers want?
 
@@ -94,7 +94,7 @@ Not to mention that you can run Stories ads on three platforms at once: Facebook
 
 A Slideshow is a video created from a set of images, sound, and text. It’s a good substitute for traditional video ads.
 
-<iframe src="https://giphy.com/embed/J5LhcBWHwxfCFQ561s" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/J5LhcBWHwxfCFQ561s" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 By the way, if you want to optimize your video production process, test out our [artificial intelligence](https://softcube.com/) engine.
 
@@ -126,7 +126,7 @@ According to [Facebook](https://about.fb.com/news/2019/06/catching-up-with-faceb
 
 Want to [promote a mobile app](https://softcube.com/the-developers-guide-to-facebook-app-install-ads/) on Facebook? Then you should test Playable ads, which are  interactive videos designed to present a game or app and boost installs.
 
-<iframe src="https://giphy.com/embed/KDndH0oI3SZ2xdJRLr" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/KDndH0oI3SZ2xdJRLr" width="247" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div>
 
 This video format for Facebook ads is made up of three parts:
 

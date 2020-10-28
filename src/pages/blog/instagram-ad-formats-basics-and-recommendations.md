@@ -30,7 +30,7 @@ Instagram isn’t just a social media platform; it’s a totally different world
 
 The Cambridge dictionary defines an Instagrammer as *someone who regularly shares images, or other things such as video or text, on the social media service Instagram*.
 
-<iframe src="https://giphy.com/embed/ZeWv3gAKW3FgVC8XSC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/ZeWv3gAKW3FgVC8XSC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 The coolest part is that the world of Instagram is growing by leaps and bounds.
 
@@ -98,7 +98,7 @@ Third, frame your photos properly to complete the scene without losing anything 
 
 Video advertising is today’s brightest star in the online marketing universe. And Instagram is where it shines.
 
-<iframe src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/Rl6KH5X1SrlYFBU2ip" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Did you know that [88% of Instagram marketers](https://softcube.com/70-video-marketing-statistics-for-2020/) consider video ads effective for their business?
 
@@ -108,7 +108,7 @@ That’s the primary reason why you should try the Instagram video ad format for
 
 The Instagram Story ad format as we know it appeared in 2017. Back then, more than [150 million people](https://business.instagram.com/blog/bringing-insights-and-ads-to-stories/) watched Instagram Stories every day. 
 
-<iframe src="https://giphy.com/embed/hricQNvtZOVnzt94Uc" width="247" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/hricQNvtZOVnzt94Uc" width="247" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 It took just two years for this number to reach over [500 million users](https://softcube.com/the-complete-guide-to-instagram-stories-ads/) every day. 
 
@@ -122,7 +122,7 @@ Mobile users are the major target audience you’ll work with on Instagram. Than
 
 The carousel ad is an all-purpose ad format that allows you to show much more than a traditional image or video ad does. Thanks to carousel ads, you can demonstrate up to 10 images or videos in a single post.
 
-<iframe src="https://giphy.com/embed/XeGkFG1NgTaSPQPFxz" width="243" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/XeGkFG1NgTaSPQPFxz" width="243" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Instagram carousels are a great way to showcase a few products or services simultaneously, highlight the features of one product or service, create a step-by-step tutorial, and do many other amazing things to boost your business.
 

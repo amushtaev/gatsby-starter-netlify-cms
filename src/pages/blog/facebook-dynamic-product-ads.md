@@ -25,7 +25,7 @@ seotitle: 5 Ways to Use Dynamic Product Ads on Facebook Wisely
 
 eCommerce is all about counting things. Whether on their own or with someone’s help, entrepreneurs track product inventory, maintain records, calculate and pay taxes, take stock, set prices, and [promote their businesses](https://softcube.com/) on social media.
 
-<iframe src="https://giphy.com/embed/3oEdv1vkhqxcynkB5C" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/3oEdv1vkhqxcynkB5C" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Facebook remains the [world’s most popular social network](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/), which makes it the most promising channel for retailers. Still, tracking multiple advertising campaigns is hard, especially for online stores that offer hundreds or thousands of goods.
 

@@ -28,7 +28,7 @@ ctatext: Start creating promotional video for facebook
 
 Knowing how to make effective Facebook ads is the holy grail of Facebook marketing. However, you don’t have to search for this grail. It’s waiting for you to take it. Let’s do this together right now, shall we?
 
-<iframe src="https://giphy.com/embed/ZgYBhq1x7L1bW" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/ZgYBhq1x7L1bW" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 As of December 2018, Facebook had [2.32 billion monthly active users](https://newsroom.fb.com/company-info/). To direct their attention to your business, you should drive your own attention to the fundamentals.
 
@@ -139,7 +139,7 @@ Experiments bear fruit. Naturally, both [images and videos have their benefits](
 
 People love videos, and online stores successfully use them to boost conversions. However, images can be effective as well when used in the right way.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnatgeo%2Fposts%2F10156243975208951&amp;width=500" width="500" height="506" frameborder="0" scrolling="no" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnatgeo%2Fposts%2F10156243975208951&amp;width=500" width="500" height="506" frameborder="0" scrolling="no" align="center"></iframe></div>
 
 Examine [all available formats of Facebook ads](https://softcube.com/how-to-select-types-of-facebook-ads/) to find the best format for your business. Some formats are aimed at reaching specific objectives. For example, Lead Ads are perfect if you want to drive users to your website or landing page using pre-made forms.
 
@@ -187,7 +187,7 @@ Aside from participating in ad auctions, you can also boost popular posts in you
 
 The other day we published a post that contains a video originally made by our AI for the [second biggest marketplace](https://softcube.com/allo-facebook-ads-case-study/) in Ukraine. Of course, it’s not so popular as it would seem. That’s not the point.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsoftcube.video%2Fvideos%2F300764910635517%2F&show_text=1&width=476" width="476" height="679" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsoftcube.video%2Fvideos%2F300764910635517%2F&show_text=1&width=476" width="476" height="679" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true" align="center"></iframe></div>
 
 The point is that Facebook was already there, recommending that we boost that video.
 

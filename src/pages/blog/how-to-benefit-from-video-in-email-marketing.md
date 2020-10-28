@@ -106,15 +106,15 @@ The obvious alternative to video in email is an animated GIF. This animation is 
 
 That’s why so many emails we receive contain animated GIFs. Sometimes, GIF is enough itself to replace videos, it especially goes to manuals on how to use [tools or software](https://softcube.com/best-facebook-ad-tools/). When actions are not too long and complex, and no sound is required - just arrange visualization as GIFs.
 
-<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://giphy.com/embed/WRKxVLBiZXTLRimAkV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:281px; min-height: 170px;" src="https://giphy.com/embed/WRKxVLBiZXTLRimAkV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 On the other hand, GIFs may be combined with links to videos. As they give the illusion of video in an email, make an animated GIF of your video fragment - and add the link to complete video. Perfect.
 
-<iframe title="" style="max-width:500px; max-height:281px; width:100%; height:360px; min-height: 170px;" src="https://giphy.com/embed/Q99mlKCztxcSxgdOD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:500px; max-height:281px; width:100%; height:360px; min-height: 170px;" src="https://giphy.com/embed/Q99mlKCztxcSxgdOD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 Cinemagraphs are another cool alternative to embedded video.
 
-<iframe title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/iesfgXJfJhXc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:360px; max-height:481px; width:100%; height:480px; min-height: 480px;" src="https://giphy.com/embed/iesfgXJfJhXc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 A simple image with one or two moving elements that give an impression of the video. The rest is the regular static image.
 

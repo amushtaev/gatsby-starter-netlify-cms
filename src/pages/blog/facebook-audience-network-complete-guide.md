@@ -33,7 +33,7 @@ Mobile is silently winning the internet. And this has big consequences.
 
 As of the fourth quarter of 2019, mobile devices (not counting tablets) amounted to nearly [53% of global internet traffic](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/) according to Statista.
 
-<iframe src="https://giphy.com/embed/E8B7aweTkhfqw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/E8B7aweTkhfqw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Interestingly, one of the reasons for the skyrocketing growth of mobile traffic is the rising digital markets in India and most African countries that skipped the desktop internet era due to financial restraints and lack of infrastructure.
 
@@ -71,7 +71,7 @@ According to internal data, in 2018 Facebook paid out [over $1.5 billion](https:
 
 In this part, you’ll discover the major elements you need to get started with monetizing your app and find out how to set up monetization step by step.
 
-<iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Additionally, we’ll mention a few tips on how to effectively monetize your app with the Audience Network and how to handle possible challenges. 
 
@@ -238,7 +238,7 @@ This is a wonderful idea, especially since we’re now going to answer the quest
 
 Facebook claims that [over 1 billion people](https://www.facebook.com/audiencenetwork/) see an ad from the Audience Network every month.
 
-<iframe src="https://giphy.com/embed/3o6Mbmg6AchRmB4ylO" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/3o6Mbmg6AchRmB4ylO" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 One [case study](https://www.facebook.com/business/news/insights/optimizing-direct-response-campaigns-across-facebook-instagram-and-audience-network) revealed ad campaigns that run on Facebook, Instagram, and the Audience Network achieve eight times higher conversion rates than ad campaigns launched solely on Facebook.
 

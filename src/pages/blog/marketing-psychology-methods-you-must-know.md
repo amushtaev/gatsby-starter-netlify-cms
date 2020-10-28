@@ -32,7 +32,7 @@ metadescription: Learn well-known marketing psychology techniques to create an
 
 Marketers and psychologists have one major thing in common: they both analyze the human mind. When we buy, we play mind games. For this reason, the most popular and most effective ads often blow one’s mind, sometimes literally.
 
-<iframe src="https://giphy.com/embed/b8kHKZq3YFfnq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/b8kHKZq3YFfnq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 We can only guess what psychological experiments businesses carry out in their laboratories, away from prying eyes, in order to create more advanced mind games and help marketers stay on top. 
 

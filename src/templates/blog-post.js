@@ -25,7 +25,6 @@ const BlogCallToAction = loadable(() => import('../components/blog/BlogCallToAct
 const BlogRollPostsLatest = loadable(() => import('../components/blog/BlogRollPostsLatest'));
 const BlogRoll = loadable(() => import('../components/blog/BlogRoll'));
 
-
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -248,7 +247,7 @@ export const BlogPostTemplate = ({
           <Link
             className="read-more" to={'/blog/'}
           >
-            View all blog post  <span style={{fontSize: '24px', paddingLeft: '15px', lineHeight: '2.7rem'}}>→</span>
+            View all blog posts  <span style={{fontSize: '24px', paddingLeft: '15px', lineHeight: '2.7rem'}}>→</span>
           </Link>
         </h3>
         <BlogRollPostsLatest />

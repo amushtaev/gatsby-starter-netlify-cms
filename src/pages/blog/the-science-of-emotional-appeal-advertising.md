@@ -51,7 +51,7 @@ Emotional appeal advertising urges customers to buy products and services by tri
 
 In fact, it’s more than a technique. It’s a real science pushed by big corporations in order to understand the inner world of the average consumer. 
 
-<iframe src="https://giphy.com/embed/Lx9GSD2b5M1PO" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/Lx9GSD2b5M1PO" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 For years, [Coca-Cola, AT&T, Dove](https://www.researchgate.net/publication/235270965_Understanding_and_using_emotions_in_advertising), and many other world-known brands have launched successful advertising campaigns based on data gained by professional diagnostic departments that are similar to those found in medical clinics.
 
@@ -141,7 +141,7 @@ Put simply, do what Fender’s marketers do: use your emotional appeal ads to le
 
 In one of the best emotional appeal commercials you could ever see, New Balance doesn’t make their product a means to an end.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xP52XhzbHSg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/xP52XhzbHSg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Instead, they remind their customers about their strengths: *You don’t need us to know you’re fast. Be fast!*
 
@@ -149,7 +149,7 @@ A spectacular emotional appeal powered by a charismatic cast, sparky effects, an
 
 Talking of family, here’s one more ad that brings the right values to the viewer’s mind:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HWmoME64Y9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/HWmoME64Y9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The New Balance advertising team mixes a few emotional appeals in one video: vision, respect, strength, fearlessness, game, winning, and independence.
 
@@ -165,7 +165,7 @@ Fact number two is that customers are becoming more addicted to video. According
 
 The sooner you test a video format for your advertisements using emotional appeal, the better.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsquarespace%2Fvideos%2F10156104242374731%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" align="center" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsquarespace%2Fvideos%2F10156104242374731%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" align="center" allowfullscreen="allowfullscreen"></iframe></div>
 
 And by the way, if you need even more emotional advertising examples, check out our [Facebook video ad list](https://softcube.com/best-facebook-video-ad-examples-2019/) that contains over 40 commercials that will help you come up with ideas for different appeals for your ads.
 

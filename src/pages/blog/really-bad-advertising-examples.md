@@ -46,7 +46,7 @@ Another [survey from 2018 published on eMarketer](https://www.emarketer.com/char
 
 Interestingly, some people hate advertising so much they want to buy freedom from it. According to Statista, [33% of US consumers surveyed in September 2017](https://www.statista.com/statistics/760619/us-consumers-willing-pay-more-services-without-ads/) were ready to pay more for services if they didn’t have ads.
 
-<iframe title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://giphy.com/embed/d2YZzTQvyoNYf9YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://giphy.com/embed/d2YZzTQvyoNYf9YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 No matter what, bad marketing examples always give food for thought. 
 
@@ -64,13 +64,13 @@ On April 23, 1985, Roberto Goizueta, the CEO of Coca-Cola, introduced a new form
 
 In this TV commercial, Coca-Cola marketers told about a taste test conducted by an independent research firm which showed that “more people all around the country” chose New Coke over Pepsi in a taste test:
 
-<iframe title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://www.youtube.com/embed/QkfFdQ1yaqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://www.youtube.com/embed/QkfFdQ1yaqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 Surprisingly, consumers changed their opinion soon after New Coke was released. And the best part? People didn’t want Pepsi. They wanted the classic taste of Coca-Cola back.
 
 In June 1985, Coca-Cola was forced to launch a mea culpa commercial where Ron Keough, the president of Coca-Cola, told about thousands of phone calls and letters from customers who wanted to go back to the classic taste.
 
-<iframe title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://www.youtube.com/embed/Nqir3-NXqG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://www.youtube.com/embed/Nqir3-NXqG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 We might assume this wasn’t a failure but actually a cunning plan to succeed — after turning back, Classic Coca-Cola not only outsold New Coke within several months but even strengthened its position in the market and went ahead of Pepsi.
 
@@ -80,7 +80,7 @@ Nevertheless, the fact is that you should always think twice before changing you
 
 Released in 2017, this Pepsi YouTube commercial featuring American model Kendall Jenner made one of the world’s top beverage brands officially apologize to their customers.
 
-<iframe title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://www.youtube.com/embed/uwvAgDCOdU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:480px; max-height:270px; width:100%; height:270px; min-height: 264px;" src="https://www.youtube.com/embed/uwvAgDCOdU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 After viewers saw how PepsiCO switched the view from young protesters and a woman in a hijab to a model handing a Pepsi can to a police officer, the food and beverage corporation faced strong criticism for using the Black Lives Matter movement as a reason to advertise one of their products. 
 
@@ -96,7 +96,7 @@ Just as Pepsi failed to stand with protesters, Dove failed to celebrate the beau
 
 After posting a three-second Facebook video ad in October 2017, Dove faced a PR disaster after demonstrating a black woman turning white.
 
-<iframe title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/Uq54ajLgpC2SNGKwXf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="blog-iframe"><iframe loading="lazy" title="" style="max-width:480px; max-height:395px; width:100%; height:395px; min-height: 264px;" src="https://giphy.com/embed/Uq54ajLgpC2SNGKwXf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 As a result of one of the most unsuccessful advertising campaigns Facebook has ever known, social media users in the United States and Europe urged a boycott of Dove products and compared Dove marketing with racist 1880s posters.
 
@@ -134,7 +134,7 @@ The 70s were an interesting time, weren’t they?
 
 Born in 1974, Baby Soft was aimed at young girls who were looking forward to becoming young women. The brand’s slogan was “because innocence is sexier than you think.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l7IP5SV6GqQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/l7IP5SV6GqQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 A young woman, a lollipop, and a creepy male voiceover made this TV commercial one of the creepiest icons on the advertising market.
 
@@ -142,7 +142,7 @@ A young woman, a lollipop, and a creepy male voiceover made this TV commercial o
 
 In 2014, Sony announced the Remote Play feature for PS4 driven by the PlayStation Vita and Xperia Z smartphones. To promote it, the company uploaded a video ad to their YouTube channel.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxtMA9zipIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/lxtMA9zipIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The video you see above is a copy. The original video was removed from Sony’s official channel after a wave of accusations of sexism.
 
@@ -150,7 +150,7 @@ The video you see above is a copy. The original video was removed from Sony’s 
 
 To promote the European release of the Xbox in 2002, Sony’s major competitor in the gaming industry produced one of the most viral video ads of the pre-YouTube era.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TrVTH5R-INw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/TrVTH5R-INw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 With a budget of £500,000, Microsoft hired 12 actors ranging from 3 months old to 70 years old. The commercial was banned after receiving 136 complaints.
 
@@ -158,7 +158,7 @@ With a budget of £500,000, Microsoft hired 12 actors ranging from 3 months old 
 
 Launched in 1992 by Tyco, Magic Potty Baby was a unique toy that allowed little girls to watch their baby answering the call of nature. The commercial for this product has no need for an explanation. Just have a look at it:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eeZXYgdjORQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/eeZXYgdjORQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Is it appropriate to say that this commercial made it onto the list of bad marketing campaigns? You decide! The coolest part is that the little baby owners could turn the toilet chamber upside down in order to use it again, and again, and again...
 
@@ -166,7 +166,7 @@ Is it appropriate to say that this commercial made it onto the list of bad marke
 
 Sometimes, marketers follow the rule the more ridiculous, the better.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cbnMFOTGrg0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/cbnMFOTGrg0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 MiO made a special tribute to “Eye of the Tiger” by Survivor and demonstrated how exactly their target audience can use their product in order to do sports more effectively.
 
@@ -174,7 +174,7 @@ MiO made a special tribute to “Eye of the Tiger” by Survivor and demonstrate
 
 On January 13, 2019, Gillette released a short film on their official YouTube channel that was supposed to celebrate manhood and criticize bullying and harassment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/koPmuEyP3a0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/koPmuEyP3a0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 And you know what? Instead of celebrating, men started bullying Gillette. According to people’s reactions, it was one of the most prominent examples of bad commercials YouTube have ever seen.
 
@@ -182,7 +182,7 @@ And you know what? Instead of celebrating, men started bullying Gillette. Accord
 
 The example once again shows that big brands have a poor understanding of the reality their customers live in. Only two days after Gillette uploaded the video, it received a response:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x_HL0wiK4Zc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/x_HL0wiK4Zc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The response received more positive feedback than Gillette’s attempt to celebrate masculinity.
 
@@ -194,7 +194,7 @@ On June 17, 2017, the KFC UK and Ireland YouTube channel released a controversia
 
 Despite numerous complaints, the United Kingdom’s Advertising Standards Authority (ASA) didn’t find the ad offensive because there were no explicit references to animal slaughter.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KykM1kwdaOA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/KykM1kwdaOA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Promote a food business? Take a look at [40 examples of the tastiest food ads](https://softcube.com/best-examples-of-the-tastiest-food-ads/) now.
 
@@ -204,7 +204,7 @@ Imagine. If a candy was a baby, what would it look like?
 
 Warning. If you’re sensitive, be careful when watching this video ad:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K_x8i9RGRAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/K_x8i9RGRAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Happy birthday, Reese’s Pieces! People will remember you till the end of time.
 

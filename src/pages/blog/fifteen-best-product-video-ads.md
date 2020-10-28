@@ -57,7 +57,7 @@ Today, anyone can become a professional filmmaker using a smartphone. However, s
 
 FlowMotion announced *the end of shaky videos* with its release of the FlowMotion ONE stabilizer. The startup has raised $1.3 million, made it into the top 150 Kickstarter projects of all time, and sold over 25,000 stabilizers to customers.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FFlowMotionTech%2Fvideos%2F592793444178774%2F&show_text=true&width=734&height=552&appId" width="734" height="552" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FFlowMotionTech%2Fvideos%2F592793444178774%2F&show_text=true&width=734&height=552&appId" width="734" height="552" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
 
 It’s no wonder this team knows how to produce engaging product videos. After recording a video ad using their own stabilizer, the FlowMotion team applied an invisible cut technique to creatively move between scenes.
 
@@ -65,7 +65,7 @@ It’s no wonder this team knows how to produce engaging product videos. After r
 
 GoPro is another *shaky video killer* on our list. Using its deadly weapon, the GoPro HERO 7, the company made one of the best product introduction videos ever. Underscored by upbeat EDM music, a quick epic montage highlights all the new features of the seventh-generation GoPro.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgopro%2Fvideos%2F274307453292168%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgopro%2Fvideos%2F274307453292168%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 In less than two minutes, you can enjoy footage recorded in the middle of diving, snowboarding, helicopter flying, bike riding, yachting, racing, hiking, rollercoaster riding, kayaking, skating, surfing, and traveling.
 
@@ -75,7 +75,7 @@ Based in California, Boosted is a company founded by three classmates who were t
 
 Some of you might have already heard about Boosted boards from [Casey Neistat](https://www.youtube.com/user/caseyneistat/), a popular YouTuber and entrepreneur who uses them to maneuver in New York City’s crazy traffic.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBoostedBoards%2Fvideos%2F2177081322364886%2F&amp;show_text=0&amp;width=476" width="476" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBoostedBoards%2Fvideos%2F2177081322364886%2F&amp;show_text=0&amp;width=476" width="476" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 If you haven’t seen Casey riding a Boosted board, check out another guy cruising down Battery Street in San Francisco. This video ad demonstrates the board’s full potential in action.
 
@@ -83,7 +83,7 @@ If you haven’t seen Casey riding a Boosted board, check out another guy cruisi
 
 Any guitarists reading this article? In fact, you don’t have to play guitar to enjoy this video. It will please the eyes of anyone who likes satisfying videos. In this video ad, Gibson, one of the world’s top guitar manufacturers, gives a sneak peek at the Holy of Holies.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGibson%2Fvideos%2F332667030875898%2F&amp;show_text=0&amp;width=476" width="476" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGibson%2Fvideos%2F332667030875898%2F&amp;show_text=0&amp;width=476" width="476" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></div>
 
 Meet PLEK, a machine that levels frets with an accuracy of 001. Let’s admit it. Sometimes computers can do a better job than humans. In Gibson’s case, technological advancement does a lot of good, even when it comes to creating handmade masterpieces.
 
@@ -91,7 +91,7 @@ Meet PLEK, a machine that levels frets with an accuracy of 001. Let’s admit it
 
 Speaking of machines that help businesses in manufacturing, Lacoste also shows how automation provides efficiency. If you’ve ever wondered how a Lacoste crocodile is sewn, here’s an awesome Facebook video ad for you:
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLacoste%2Fvideos%2F305574030219959%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLacoste%2Fvideos%2F305574030219959%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 As the video description says, *straight to the point*. We couldn’t agree more.
 
@@ -99,7 +99,7 @@ As the video description says, *straight to the point*. We couldn’t agree more
 
 Is it a good idea to try hot honey chicken? KFC tried to answer this question by transforming its brand face for a new product campaign. In this seven-second video ad, Colonel Sanders turns into Colonel Honey to present KFC Hot Honey as a tremendous event in the world of fast food.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FKFC%2Fvideos%2F1857800454327964%2F&amp;show_text=0&amp;width=380" width="380" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FKFC%2Fvideos%2F1857800454327964%2F&amp;show_text=0&amp;width=380" width="380" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 A platform with a plate on it. Lights. Fireworks. What could be better to draw customers’ attention?
 
@@ -107,13 +107,13 @@ A platform with a plate on it. Lights. Fireworks. What could be better to draw c
 
 HP has developed the Polaroid of the 21st century — a pocket printer that can instantly print photos from a smartphone or tablet via Bluetooth. Ben Charman and Will Thompson, the creators of this ad, used an action transition technique, some video and audio effects, and a sand background to show the beauty of summer adventures.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FHP%2Fvideos%2F10160582725205290%2F&amp;show_text=0&amp;width=267" width="267" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FHP%2Fvideos%2F10160582725205290%2F&amp;show_text=0&amp;width=267" width="267" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></div>
 
 ### Old Spice: Mask
 
 The Old Spice marketing team knows the formula for creating a top product video advertisement. We bet you remember the series of viral Old Spice video ads starring Terry Crews. This big guy can easily promote any Old Spice product, except for one. Can you imagine Terry with *endlessly handsome hair*?
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOldSpice%2Fvideos%2F10155636415644069%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOldSpice%2Fvideos%2F10155636415644069%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 Every man is a mystery. A woman should take off several masks to see a man’s mysterious eyes. And don’t forget to buy him a hair care product.
 
@@ -121,13 +121,13 @@ Every man is a mystery. A woman should take off several masks to see a man’s m
 
 Instead of filming a video, Apple’s major rival on the smartphone market drew its ad. Samsung presented the new superpowered Note and its features using its own product and a stylus.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSamsungUS%2Fvideos%2F10155471905531786%2F&amp;show_text=0&amp;width=231" width="231" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSamsungUS%2Fvideos%2F10155471905531786%2F&amp;show_text=0&amp;width=231" width="231" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 ### Tesla Motors
 
 If someone were to offer you the choice between a Lamborghini and a Tesla, which car would you choose? We present you with the most epic car battle in the world between the Tesla Model X’s dance and the Lambo’s thunder. This is an example of a good promotional video made without any visuals, effects, or filters.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Felectriceverywhere%2Fvideos%2F390796091323810%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Felectriceverywhere%2Fvideos%2F390796091323810%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 ### Colgate: Every Drop Counts
 
@@ -137,7 +137,7 @@ The best product videos are those that bring value. Businesses can use their inf
 
 That’s why companies join different events, campaigns, social movements to draw attention to particular problems or topics.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheClimateGroup%2Fvideos%2F290152191807252%2F&amp;show_text=0&amp;width=380" width="380" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheClimateGroup%2Fvideos%2F290152191807252%2F&amp;show_text=0&amp;width=380" width="380" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 Colgate recommends that everyone turn off the faucet when brushing their teeth. If you follow this recommendation, you’ll save over 60 glasses of water each time.
 
@@ -145,7 +145,7 @@ Colgate recommends that everyone turn off the faucet when brushing their teeth. 
 
 Since its first appearance in 1959, Barbie has been a fashion icon. When Barbie was first released, women could either stand on a podium or be full-time mothers.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbarbie%2Fvideos%2F326291218104877%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbarbie%2Fvideos%2F326291218104877%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 Today, Barbie encourages women to stand up for their rights, dispel this image, and prove that a modern lady can fulfill her dreams by becoming anyone she wants to be. Barbie has manufactured a set of dolls dedicated to the [most outstanding women](https://barbie.mattel.com/en-us/about/role-models.html) in history:
 
@@ -162,7 +162,7 @@ As for the video ad, it’s very cute. This kind of content helps us keep faith 
 
 If you’re a father, you’ll definitely like this video ad from Huggies. While taking a break in a park, the protagonist looks after his baby. Feeling the support of another dad running nearby, he finally makes it — the diaper has been changed. Celebrating his triumph, the father imitates Freddie Mercury’s signature move. Changing diapers without a hitch is always a victory, isn’t it?
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhuggies%2Fvideos%2F2195610300762162%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhuggies%2Fvideos%2F2195610300762162%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 Just imagine a sports commentator on this commercial. And at the moment when the father lifts his kid up in the air, we hear *We Are the Champions*, the most iconic Queen song. Perfect.
 
@@ -170,7 +170,7 @@ Just imagine a sports commentator on this commercial. And at the moment when the
 
 With a $200 million budget, Guardians of the Galaxy 2 pulled in over $860 million in total. Skittles helped Marvel hit the box office by launching its video ads on the most popular social media platforms.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fskittles%2Fvideos%2F10155966893373475%2F&amp;show_text=0&amp;width=476" width="476" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fskittles%2Fvideos%2F10155966893373475%2F&amp;show_text=0&amp;width=476" width="476" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 It’s probably possible to make any kind of image using Skittles candies. For example, you can draw Star-Lord’s mask. But a mask made from sweets doesn’t look so impressive without animation. That’s why video designers decided to animate the entire creation process. Looks great.
 
@@ -178,7 +178,7 @@ It’s probably possible to make any kind of image using Skittles candies. For e
 
 Drones have brought about a revolution in video production. No more shots taken from moving cranes. No more panorama scenes taken from helicopters. Drone cameras open the door to amateur filmmakers and help professionals save money.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDJIAmericas%2Fvideos%2F577690122664881%2F&amp;show_text=0&amp;width=476" width="476" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDJIAmericas%2Fvideos%2F577690122664881%2F&amp;show_text=0&amp;width=476" width="476" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
 DJI is a technology company that offers unmanned aerial vehicles, cameras, stabilizers, accessories, and software for consumers and enterprises.
 

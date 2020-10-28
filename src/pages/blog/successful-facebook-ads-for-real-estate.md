@@ -219,7 +219,7 @@ Compared to standard Dynamic Ads, they have unique options to present your prope
 
 Carousel Ads is an ad format that allows you to [display up to 10 images or videos](https://softcube.com/how-to-show-carousel-ads-on-facebook/) in a single post.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fremax%2Fposts%2F10160230685154418&show_text=true&width=552&height=533&appId" width="552" height="533" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" align="center"></iframe>
+<div class="blog-iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fremax%2Fposts%2F10160230685154418&show_text=true&width=552&height=533&appId" width="552" height="533" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" align="center"></iframe></div>
 
 Every card in a Carousel ad has its own image, headline, link, and button. This gives you great options for demonstrating:  
 

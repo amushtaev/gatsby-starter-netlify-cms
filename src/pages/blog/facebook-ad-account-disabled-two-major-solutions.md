@@ -28,7 +28,7 @@ Unfortunately, it's happened...
 
 As usual, you were monitoring a couple of ad campaigns you launched in Ads Manager. Everything was fine. But one day, you found that your Facebook ad account was disabled.
 
-<center><iframe src="https://giphy.com/embed/l2Jegv1leoimrHPcQ" style="max-width:480px; max-height:360px; width:100%; height:360px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
+<center><div class="blog-iframe"><iframe loading="lazy" src="https://giphy.com/embed/l2Jegv1leoimrHPcQ" style="max-width:480px; max-height:360px; width:100%; height:360px; min-height: 300px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></center>
 
 Keep your head up! In this tutorial, you’ll find out why Facebook may suspend your ads and show you how to activate a disabled Facebook ad account as fast as possible.
 
