@@ -14,6 +14,7 @@ import VideoTemplate from '../components/industries/VideoTemplate'
 import BlogRoll from "../components/blog/BlogRoll";
 import BlogRollRelatedIndex from "../components/blog/BlogRollRelatedIndex";
 import loadable from "@loadable/component";
+import Helmet from "react-helmet";
 const ScCookie = loadable(() => import('../components/Cookies'));
 
 const Tags = [
@@ -107,6 +108,9 @@ const IndustriesPage = (props) => {
 
     return (
       <Layout>
+        <Helmet>
+          <title>Industries | Softcube</title>
+        </Helmet>
         <PricingPageContainer>
           <IndustriesHead />
           <SearchYourLink />

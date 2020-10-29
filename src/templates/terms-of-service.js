@@ -3,12 +3,16 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import Helmet from "react-helmet";
 
 export const TermsOfServiceTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
     <section className="section section--gradient">
+      <Helmet>
+        <title>Terms of Service | Softcube</title>
+      </Helmet>
       <div className="container white s__width">
         <div className="columns">
           <div className="column is-10 is-offset-1">

@@ -96,7 +96,9 @@ When it comes to a Facebook disabled ad account, any help is welcome. We hope yo
 
 <figure class="wp-block-video aligncenter"><video controls autoplay="autoplay" loop="loop" width="640" height="360"src="https://video.softcube.com/media/3f8d56313730fd78343bb1f10b876fcd.mp4"></video></figure>
 
-After you do that, don’t forget to try <a href="https://softcube.com">the AI-powered Softcube platform</a> to save your efforts and budget while producing high-quality video ads.
+After you do that, don’t forget to try <a href="https://softcube.com">the AI-powered Softcube platform</a> to save your efforts and budget while producing high-quality video ads. 
+
+The platform offers a rich collection of pre-made and verified video ad content you can use to significantly reduce the chances of your ad account being blocked by Facebook.
 
 <style>
 @media screen and (max-width: 780px){

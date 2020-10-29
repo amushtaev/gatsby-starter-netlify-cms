@@ -11,7 +11,6 @@ import {
   TryButton,
   SearchButton,
 } from '../components/pricing/styledComponents';
-import BlogCallToAction from "../components/blog/BlogCallToAction";
 
 const BlogRoll = loadable(() => import('../components/blog/BlogRoll'));
 const BlogRollRelatedIndex = loadable(() => import('../components/blog/BlogRollRelatedIndex'));
@@ -82,7 +81,7 @@ function VideoBanner() {
       <TryButton
         text='Try for free!'
         onClick={() => {
-          window.location.href = 'https://login.softcube.com/signin/register'
+          window.location.href = 'https://app.softcube.com'
         }}
       />
     </div>

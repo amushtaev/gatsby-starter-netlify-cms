@@ -184,7 +184,7 @@ module.exports = {
       options: {
         host: 'https://softcube.com/',
         sitemap: 'https://softcube.com/sitemap.xml',
-        policy: [{ userAgent: '*', allow: '/', disallow: ['recom.softcube.com', 'test.softcube.com'] }]
+        policy: [{ userAgent: '*', allow: '/', disallow: ['recom.softcube.com', 'https://recom.softcube.com/', 'test.softcube.com', 'https://test.softcube.com/'] }]
       }
     },
     {
@@ -192,6 +192,18 @@ module.exports = {
       options: {
         trackingId: "UA-115185661-1",
       },
+    },
+    {
+      resolve: 'gatsby-plugin-amp',
+      options: {
+        canonicalBaseUrl: 'https://softcube.com/',
+        components: ['amp-carousel'],
+        // excludedPaths: ['/404*', '/*', '/industries', '/pricing'],
+        includedPaths: ['/instagram-ads-examples-to-awake-your-creativity'],
+        pathIdentifier: '/amp',
+        relAmpHtmlPattern: '{{canonicalBaseUrl}}{{pathname}}{{pathIdentifier}}',
+        useAmpClientIdApi: true,
+      }
     },
     // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array

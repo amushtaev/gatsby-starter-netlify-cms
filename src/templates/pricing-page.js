@@ -59,6 +59,7 @@ import {
 } from '../img/icons';
 import Layout from '../components/Layout';
 import { initialPlans } from '../components/pricing/stripe/plans';
+import Helmet from "react-helmet";
 const Accordion = loadable(() => import('../components/Accordion'));
 const WhatOurClientSay = loadable(() => import('../components/WhatOurClientSay'));
 const ScCookie = loadable(() => import('../components/Cookies'));
@@ -66,6 +67,9 @@ const ScCookie = loadable(() => import('../components/Cookies'));
 const PricingPage = ({ isSubscribing, subscribe, subscribeResult }) => {
   return (
     <Layout>
+      <Helmet>
+        <title>Pricing | Softcube</title>
+      </Helmet>
       <PricingPageContainer>
         <PlansPricing
           isSubscribing={isSubscribing}

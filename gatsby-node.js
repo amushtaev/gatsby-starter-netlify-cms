@@ -130,6 +130,21 @@ exports.createPages = ({ actions, graphql }) => {
           slug: pagePath,
         },
       });
+
+      if (pagePath.indexOf("instagram-ads-examples-to-awake-your-creativity") !== -1) {
+        createPage({
+          path: pagePath + "amp/",
+          tags: edge.node.frontmatter.tags,
+          component: path.resolve(
+              `src\/templates\/blog-post.amp.js`
+          ),
+          // additional data can be passed via context
+          context: {
+            id: id,
+            slug: pagePath +"amp/",
+          },
+        });
+      }
     });
 
     //Categories page with pagination
