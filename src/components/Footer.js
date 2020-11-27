@@ -28,11 +28,6 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar_item footer" to="/membership-agreement/">
-                        Membership Agreement
-                      </Link>
-                    </li>
-                    <li>
                       <Link className="navbar_item footer" to="/copyright/">
                         Copyright
                       </Link>

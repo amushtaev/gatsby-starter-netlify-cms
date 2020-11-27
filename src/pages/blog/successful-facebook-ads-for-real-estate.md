@@ -1,5 +1,4 @@
 ---
-focuskeyphrase: facebook ads for real estate
 templateKey: blog-post
 categories:
   - Facebook Ads
@@ -7,10 +6,14 @@ categories-slug:
   - facebook-ads
 title: 6 Tips to Create Successful Facebook Ads for Real Estate
 date: 2019-05-20T00:00:00.000Z
-description:
+description: null
 featuredpost: false
 featuredimage: /img/facebook-ads-for-real-estate-featured-image.jpg
 image: /img/facebook-ads-for-real-estate-featured-image.jpg
+seotitle: 6 Tips to Create Facebook Ads for Real Estate [with Examples]
+focuskeyphrase: facebook ads for real estate
+focus_keyphrase: facebook ads for real estate
+seo_title: 6 Tips to Create Facebook Ads for Real Estate [with Examples]
 tags:
   - Zillow
   - Trulia
@@ -19,10 +22,8 @@ tags:
   - Facebook Pixel
   - Dynamic Ads
   - Realtors
-seo_title: 6 Tips to Create Facebook Ads for Real Estate [with Examples]
-metadescription: Learn how to launch Facebook ads for real estate wisely. Read recommendations and get advertising inspiration from ten great examples.
-focus_keyphrase: facebook ads for real estate
-seotitle: 6 Tips to Create Facebook Ads for Real Estate [with Examples]
+metadescription: Learn how to launch Facebook ads for real estate wisely. Read
+  recommendations and get advertising inspiration from ten great examples.
 ---
 <!--StartFragment-->
 
@@ -350,7 +351,11 @@ The world’s top social media network offers amazing opportunities to brokers, 
 
 There are various ad types, targeting options, placements, and tools that can be effective for achieving different marketing objectives on Facebook and beyond.
 
-<video muted="" loop="" poster="https://s3.eu-central-1.amazonaws.com/s-http-public/video_offers/img/photo_2019-04-02_12-55-07.jpg" playsinline="https://s3.eu-central-1.amazonaws.com/s-http-public/video_offers/img/photo_2019-04-02_12-55-07.jpg" id="video_01" width="100%" height="100%"><source src="https://s3.eu-central-1.amazonaws.com/s-http-public/pacificunion_480x480.webm" type="video/webm; codecs=vp9,vorbis"><source src="https://s3.eu-central-1.amazonaws.com/s-http-public/video_offers-s/pacificunion_480x480_1.mp4" type="video/mp4"></video>
+<center><figure class="video_container">
+  <video controls="true" allowfullscreen="true" width="480" height="360">
+    <source src="https://graph.softcube.com/site/media/1664/preview" type="video/mp4">
+  </video>
+</figure></center>
 
 If you’d like to get better results using video ads, start by testing [Softcube artificial intelligence](https://softcube.com) platform.
 

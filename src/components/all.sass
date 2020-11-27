@@ -294,10 +294,10 @@ a.title.has-text-primary:hover
   text-decoration: underline !important
 
 .activePage
-  border-bottom: 4px solid $color-white
   font-weight: 900
   color: $color-white
   opacity: 1
+  display: grid
 
 .sub-nav .navbar_item,
 .navbar_item.color--yellow
@@ -313,15 +313,23 @@ a.title.has-text-primary:hover
 
 .navbar_item:hover
   opacity: 1
-  margin-top: 4px
   color: $color-white
-  border-bottom: 4px solid $color-white
   background: transparent
+  display: grid
+  position: relative
+  &:after
+    content: ""
+    border-bottom: 1px solid #FED300
+    width: 100%
+    display: flex
+    margin-left: 18px
+    position: absolute
+    margin-top: 28px
 
 .navbar_item.color--yellow
   color: $color-yellow
-  margin-top: 4px
-  border-bottom: 4px solid $color-yellow
+  margin-top: 1px
+  /*border-bottom: 4px solid $color-yellow*/
 
 .navbar_item.color--yellow.Sign.Up
   color: $color-yellow
@@ -424,7 +432,7 @@ footer.footer
   margin-top: 82px
 
 #navMenu
-  height: 40px
+  /*height: 40px*/
   margin-top: 16px
 
 .section.index.Posts
@@ -435,13 +443,13 @@ footer.footer
   /* position: fixed */
   /* left: 72px */
   /* top: 12px */
-  width: 54px
+  width: 156px
 .navbar-item.logo
   max-height: 100% !important
   position: absolute !important
   left: 72px !important
-  top: 12px !important
-  width: 54px !important
+  top: 29px !important
+  width: 156px !important
   padding: 0 !important
 
 .title.post_title
@@ -705,7 +713,7 @@ $menu-label-color: $white-ter
 
 .container.header.top
   max-width: 100%
-  padding: 0 0 0 200px
+  padding: 0 0 0 314px
 @media screen and (min-width: 1408px)
   .container:not(.is-max-desktop):not(.is-max-widescreen):not(.top)
     max-width: 1078px

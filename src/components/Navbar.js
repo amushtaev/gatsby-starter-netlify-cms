@@ -75,7 +75,7 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <Link className="navbar_item" to="https://app.softcube.com">
+              <Link className="navbar_item color--yellow" to="https://app.softcube.com">
                 Sign In
               </Link>
               {/*<Link className="navbar_item color--yellow Sign Up" to="https://login.softcube.com/signin/register">
