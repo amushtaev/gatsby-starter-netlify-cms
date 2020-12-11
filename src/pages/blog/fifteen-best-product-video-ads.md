@@ -16,6 +16,7 @@ tags:
   - video footage
   - brands
 seo_title: 15 Best Examples of Product Video Ads for Your Business
+minread: 5
 metadescription: Want some examples of great video content? Check out this list of the best product video ads and make the perfect advertisement for your business.
 focus_keyphrase: best product video ads
 seotitle: 15 Best Examples of Product Video Ads for Your Business

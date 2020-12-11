@@ -23,6 +23,7 @@ tags:
   - lowest cost
   - target cost
 seo_title: What Affects Instagram Ads Cost and How to Reduce It
+minread: 5
 metadescription: Learn how to get Instagram ads cost under control, read bidding recommendations, and win your ad auction with free video ads made by AI.
 focus_keyphrase: instagram ads cost
 seotitle: What Affects Instagram Ads Cost and How to Reduce It

@@ -16,6 +16,7 @@ tags:
   - placements
 seotitle: How to Become a Powerful Storyteller with Facebook Story Ads
 focuskeyphrase: facebook story ads
+minread: 5
 metadescription: Learn how to create impressive Facebook Story ads in seconds.
   Take advantage of best practices and review all the relevant design
   specifications.

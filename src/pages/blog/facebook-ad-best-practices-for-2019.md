@@ -25,6 +25,7 @@ tags:
   - Messenger
   - Stories
   - video ads
+minread: 5
 metadescription: Want to know how to lure Facebook users in 2019? Learn Facebook
   ad best practices for video, Messenger, and other Facebook marketing channels.
 ---

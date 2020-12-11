@@ -21,6 +21,7 @@ tags:
   - video advertising
   - YouTube ads
   - statistics
+minread: 5
 metadescription: Discover the latest video marketing statistics to see which
   advertising platforms you should use to promote your business with video ads.
 ---

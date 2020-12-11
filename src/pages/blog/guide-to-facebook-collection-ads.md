@@ -22,6 +22,7 @@ tags:
   - Instant Storytelling
   - Instant Storefront
   - video ads
+minread: 5
 metadescription: Learn how to create successful Facebook Collection Ads,
   discover their major types, check specifications, and read the best practices
   in this guide.

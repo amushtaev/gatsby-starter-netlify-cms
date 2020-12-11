@@ -19,6 +19,7 @@ tags:
   - Messenger
   - video ads
   - video marketing
+minread: 5
 metadescription: Want to look at some of the best Facebook Pages? Scroll through
   this post, find the Pages you like, and learn how to grow your community.
 ---

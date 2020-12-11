@@ -15,6 +15,7 @@ tags:
   - email marketing
   - Facebook Business Manager
 seo_title: How to Promote Your Facebook Account with Email Signature Marketing
+minread: 5
 metadescription: How can you promote a Facebook business profile with professional email signatures? Learn the most powerful ways to boost email and social media marketing.
 focus_keyphrase: email signature
 seotitle: How to Promote Your Facebook Account with Email Signature Marketing

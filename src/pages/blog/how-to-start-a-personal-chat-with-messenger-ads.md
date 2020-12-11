@@ -19,6 +19,7 @@ tags:
   - Messenger inbox
   - Sponsored ads
   - Stories
+minread: 5
 metadescription: Learn everything you need to know to get started with Messenger
   ads, including the best practices for Messenger ad formats and tips for
   launching your ads.

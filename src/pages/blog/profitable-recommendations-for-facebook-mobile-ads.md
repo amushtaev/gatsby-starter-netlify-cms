@@ -17,6 +17,7 @@ tags:
   - Messenger
   - Mobile Studio
 seo_title: How to Boost Conversions with Facebook Mobile Ads
+minread: 5
 metadescription: Discover everything you need to know about Facebook mobile ads and get tips and tricks for launching them quickly and effectively.
 focus_keyphrase: facebook mobile ads
 seotitle: How to Boost Conversions with Facebook Mobile Ads

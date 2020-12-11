@@ -18,6 +18,7 @@ tags:
   - Google
   - Instagram
   - Facebook
+minread: 5
 metadescription: Check out this list of helpful digital marketing tools for
   planning, tracking, analytics, SEO, design, and copywriting. Plus, get a gift
   to grow your brand.

@@ -21,6 +21,7 @@ tags:
   - Custom Audiences
   - Lookalike Audiences
   - video ads
+minread: 5
 metadescription: Want to find new customers on Instagram with advertising? These
   short tips will help you make a good start and create the best Instagram
   sponsored ads.

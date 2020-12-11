@@ -18,6 +18,7 @@ tags:
   - R&D
   - social media
 seo_title: 7 Effective In-Store and Online Retail Trends for 2020
+minread: 5
 metadescription: Want to discover the latest retail trends for 2020? Read this article for a few ideas on how to meet the new era of retail technology evolution.
 focus_keyphrase: retail trends 2020
 seotitle: 7 Effective In-Store and Online Retail Trends for 2020

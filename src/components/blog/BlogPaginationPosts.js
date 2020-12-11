@@ -51,7 +51,7 @@ export default class BlogPaginationPosts extends React.Component {
                   <div className="articl-footer">
                     <span className="date" itemProp="datePublished">
                       <span style={{display: "none"}} itemProp="author">Softcube</span>
-                      {post.frontmatter.date}
+                      {post.frontmatter.date}&nbsp;&nbsp;•&nbsp;&nbsp;{post.frontmatter.minread} min read
                     </span>
                     <Link className="read-more-arrow" to={post.fields.slug.replace("/blog", "")}>
                       <ShowMore />

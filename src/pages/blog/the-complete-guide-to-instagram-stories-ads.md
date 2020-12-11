@@ -19,6 +19,7 @@ tags:
   - ad format
   - storytelling
   - ad type
+minread: 5
 metadescription: Learn everything you need to know about Instagram Stories Ads,
   including best practices and ad specifications, plus get post ideas, examples
   and freebies.

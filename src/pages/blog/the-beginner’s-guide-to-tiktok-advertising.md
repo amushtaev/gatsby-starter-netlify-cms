@@ -13,6 +13,7 @@ tags:
   - TikTok ads
 seotitle: How to Create the Best TikTok Advertising and What It Costs
 focuskeyphrase: tiktok advertising
+minread: 5
 metadescription: Learn everything you need to know about how to create TikTok
   advertising and read the best practices for making your ads convert.
 ---

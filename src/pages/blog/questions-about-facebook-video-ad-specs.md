@@ -17,6 +17,7 @@ tags:
   - video advertising
   - video marketing
 seo_title: All Facebook Video Ad Specs You Need to Create Amazing Ads
+minread: 5
 metadescription: Read this post to find answers to five major questions about Facebook video ad specs and learn how to make flawless high-quality video ads.
 focus_keyphrase: facebook video ad specs
 seotitle: All Facebook Video Ad Specs You Need to Create Amazing Ads

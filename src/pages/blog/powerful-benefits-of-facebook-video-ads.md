@@ -16,6 +16,7 @@ tags:
   - video ad campaigns
   - artificial intelligence
 seo_title: How Can Video Ads Improve Your Performance on Facebook?
+minread: 5
 metadescription: Want to know the benefits of Facebook video ads? Learn the advantages of video advertisement on the world’s most popular social media platform in our guide.
 focus_keyphrase: benefits of facebook video ads
 seotitle: How Can Video Ads Improve Your Performance on Facebook?

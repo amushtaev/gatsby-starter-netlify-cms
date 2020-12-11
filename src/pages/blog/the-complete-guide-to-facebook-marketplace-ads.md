@@ -17,6 +17,7 @@ tags:
   - Business Manager
 seotitle: How to Boost Your Sales with Facebook Marketplace Ads
 focuskeyphrase: facebook marketplace ads
+minread: 5
 metadescription: Read about what you need to know before launching Facebook
   Marketplace ads, including how to create ads and design specifications.
 ---

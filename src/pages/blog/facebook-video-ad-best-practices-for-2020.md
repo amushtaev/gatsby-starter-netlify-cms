@@ -17,6 +17,7 @@ seo_title: 7 Facebook Video Ad Best Practices for Your Business in 2020
 tags:
   - mobile ads
   - video ads
+minread: 5
 metadescription: Want to produce high-quality and captivating Facebook video
   ads? Learn the most important Facebook video ad best practices for 2020 in
   this guide.

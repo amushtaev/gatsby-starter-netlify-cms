@@ -17,6 +17,7 @@ tags:
   - facebook ads
   - target cost
 seo_title: "Facebook Worldwide Targeting Trap: A Case Study"
+minread: 5
 metadescription: Learn how you can avoid losing your money, read a few useful recommendations, and see real numbers in a Facebook worldwide targeting case study.
 focus_keyphrase: facebook worldwide targeting
 ---

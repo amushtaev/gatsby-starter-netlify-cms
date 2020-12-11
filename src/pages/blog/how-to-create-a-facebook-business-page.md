@@ -18,6 +18,7 @@ tags:
   - boosted posts
   - video ads
 seo_title: 5 Simple Steps to Create a Facebook Business Page
+minread: 5
 metadescription: Learn how to create a Facebook Business Page and start using your account to launch effective ad campaigns with no mistakes.
 focus_keyphrase: create a facebook business page
 seotitle: 5 Simple Steps to Create a Facebook Business Page

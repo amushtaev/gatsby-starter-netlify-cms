@@ -16,6 +16,7 @@ tags:
   - conversions
 seotitle: Best Marketing Objective Examples to Achieve Your Ad Strategies
 focuskeyphrase: marketing objective examples
+minread: 5
 metadescription: Consider these marketing objective examples to create the best
   advertising strategy for your business on the major marketing platforms.
 ---

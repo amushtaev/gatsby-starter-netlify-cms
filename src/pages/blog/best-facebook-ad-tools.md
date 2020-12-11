@@ -30,6 +30,7 @@ tags:
   - Mobile Studio
   - Pages Manager App
   - Success Stories
+minread: 5
 metadescription: Looking for advertising software to boost your conversions?
   Check out the best Facebook ad tools that you might not have even heard of.
 ---

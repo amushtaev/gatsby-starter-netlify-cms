@@ -18,6 +18,7 @@ tags:
   - Google Ads
   - Lookalike Audience
 seo_title: 7 Powerful Facebook Ad Targeting Strategies That Work
+minread: 5
 metadescription: If you run or promote an online business, you already know effective Facebook ad targeting strategies. You just don’t think you do.
 focus_keyphrase: facebook ad targeting
 seotitle: 7 Powerful Facebook Ad Targeting Strategies That Work

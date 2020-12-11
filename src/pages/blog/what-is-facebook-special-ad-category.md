@@ -17,6 +17,7 @@ tags:
   - targeting
   - housing ads
 seo_title: "Facebook Special Ad Category: What’s So Special About It?"
+minread: 5
 metadescription: Learn what a Facebook special ad category is and how it has changed the opportunities of advertisers in the areas of housing, employment, and  credit.
 focus_keyphrase: facebook special ad category
 seotitle: "Facebook Special Ad Category: What’s So Special About It?"

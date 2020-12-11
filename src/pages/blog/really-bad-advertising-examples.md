@@ -18,6 +18,7 @@ tags:
   - TV commercials
   - YouTube ads
   - ad examples
+minread: 5
 metadescription: Want to know how to succeed in promoting your business? Check
   out this list of bad advertising examples to avoid these same mistakes and
   grow your sales.

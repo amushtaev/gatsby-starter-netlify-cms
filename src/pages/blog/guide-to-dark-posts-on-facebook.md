@@ -17,6 +17,7 @@ tags:
   - custom audiences
   - lookalike audiences
 seo_title: Everything You Need to Know about Dark Posts on Facebook
+minread: 5
 metadescription: Discover the secret of dark posts on Facebook and read about what you need to create effective Facebook dark posts from scratch.
 focus_keyphrase: dark post facebook
 seotitle: Everything You Need to Know about Dark Posts on Facebook

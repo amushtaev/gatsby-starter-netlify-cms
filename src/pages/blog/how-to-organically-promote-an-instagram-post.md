@@ -21,6 +21,7 @@ tags:
   - targeting
 seotitle: How to Promote an Instagram Post for Free and with a Budget
 focuskeyphrase: promote instagram post
+minread: 5
 metadescription: Want to effectively promote Instagram posts? Learn how to do it
   with and without a budget and discover a few methods of growing your Instagram
   community.

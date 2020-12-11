@@ -28,6 +28,7 @@ tags:
   - trailers
 seotitle: 25 Types of Video Marketing to Boost Your Conversions
 focuskeyphrase: types of video marketing
+minread: 5
 metadescription: Want to use video to promote your business? Learn the major
   types of video marketing and get inspired by great examples to create
   top-notch video content.

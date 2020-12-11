@@ -19,6 +19,7 @@ tags:
   - ad auction
   - CPC
   - CPM
+minread: 5
 metadescription: Can’t find any pricing information for advertising on Facebook?
   Read this guide to learn how to calculate Facebook ads cost.
 ---

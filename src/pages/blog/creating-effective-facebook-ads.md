@@ -20,6 +20,7 @@ ctabutton: Try for free
 focus_keyphrase: creating effective facebook ads
 seo_title: 10 Tips for Creating an Effective Facebook Ad Campaign
 seotitle: 10 Tips for Creating an Effective Facebook Ad Campaign
+minread: 5
 metadescription: Become the master of creating effective Facebook ads and launch
   an ad campaign that increases conversions. Read the 10 hottest tips now.
 ctatext: Start creating promotional video for facebook

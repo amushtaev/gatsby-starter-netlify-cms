@@ -16,6 +16,7 @@ tags:
   - image ads
   - video ads
 seo_title: Best Practices of Using Facebook Carousel Ads for Increasing ROI
+minread: 5
 metadescription: Learn a few simple tips about Facebook Carousel Ads and check out a few great ad examples to make engaging video and image carousels for your audience.
 focus_keyphrase: facebook carousel ads
 seotitle: Best Practices of Using Facebook Carousel Ads for Increasing ROI

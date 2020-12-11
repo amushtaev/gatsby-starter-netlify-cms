@@ -19,6 +19,7 @@ tags:
   - Facebook Community Standards
   - Facebook Help Center
   - Facebook representative
+minread: 5
 metadescription: Got your Facebook ad account disabled? Read why Facebook may
   suspend your marketing and discover possible ways of unlocking your account.
 ---

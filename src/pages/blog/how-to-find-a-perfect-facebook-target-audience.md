@@ -21,6 +21,7 @@ tags:
   - Facebook SDK
   - Lookalike Audiences
   - Placements
+minread: 5
 metadescription: Don’t have experience targeting ads across the Facebook family
   of apps? Learn how to create an ideal Facebook target audience in several
   minutes.

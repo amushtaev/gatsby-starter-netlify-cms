@@ -20,6 +20,7 @@ tags:
   - Messenger
   - video ads
 seo_title: How to Choose the Right E-Commerce Facebook Ads Strategy
+minread: 5
 metadescription: Want to sell more with Facebook advertising? Learn how to boost sales using automated video ads and choose your e-commerce Facebook ads strategy.
 focus_keyphrase: e-commerce facebook ads strategy
 seotitle: How to Choose the Right E-Commerce Facebook Ads Strategy

@@ -19,6 +19,7 @@ tags:
   - Dynamic Ads
 seotitle: Everything You Need to Know About Facebook Pixel Events
 focuskeyphrase: facebook pixel events
+minread: 5
 metadescription: Read the beginner’s guide to Facebook pixel events, learn the
   differences between Facebook pixel event types, and set up pixel events.
 ---

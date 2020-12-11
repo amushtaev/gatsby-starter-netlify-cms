@@ -20,6 +20,7 @@ tags:
   - Bottle Cap Challenge
   - Old Spice
   - Aviation Gin
+minread: 5
 metadescription: Looking for viral ideas to boost your sales and promote your
   business? Get inspired by viral marketing examples from top brands.
 ---

@@ -19,6 +19,7 @@ tags:
   - Carousels
 seotitle: Is It Really Worth Clicking the Facebook Boost Post Button?
 focuskeyphrase: facebook boost post
+minread: 5
 metadescription: Learn everything about Facebook boost posts and discover the
   difference between boosted posts and traditional Facebook ads launched from
   Ads Manager.

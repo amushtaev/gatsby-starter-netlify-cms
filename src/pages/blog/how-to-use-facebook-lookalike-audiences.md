@@ -19,6 +19,7 @@ tags:
   - Facebook Pixel
   - Facebook SDK
   - targeting
+minread: 5
 metadescription: Read this beginner’s guide to Facebook Lookalike Audiences and
   discover how to find the most valuable customers on Facebook without a hitch.
 ---

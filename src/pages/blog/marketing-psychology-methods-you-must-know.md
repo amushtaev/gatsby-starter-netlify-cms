@@ -23,6 +23,7 @@ tags:
   - Reciprocity
   - Scarcity
   - Social proof
+minread: 5
 metadescription: Learn well-known marketing psychology techniques to create an
   effective strategy to grow your business and achieve your advertising goals.
 ---

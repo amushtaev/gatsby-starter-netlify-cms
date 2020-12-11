@@ -18,6 +18,7 @@ tags:
   - Facebook Analytics
   - Page Insights
 seo_title: How to Save Time and Money with Facebook Ad Scheduling
+minread: 5
 metadescription: Read how to get started with Facebook ad scheduling. Discover three methods that will help you find the perfect moment to show your Facebook ads.
 focus_keyphrase: facebook ad scheduling
 seotitle: How to Save Time and Money with Facebook Ad Scheduling

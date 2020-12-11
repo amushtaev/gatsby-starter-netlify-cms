@@ -14,6 +14,7 @@ image: /img/email-automation-featured-image.jpg
 tags:
   - email marketing
 seo_title: 5 Tips to Use Email Automation to Improve Conversion Rates
+minread: 5
 metadescription: Learn how to become an email automation professional. Read a few recommendations to make emails to your customers more attractive and informative.
 focus_keyphrase: email automation
 seotitle: 5 Tips to Use Email Automation to Improve Conversion Rates

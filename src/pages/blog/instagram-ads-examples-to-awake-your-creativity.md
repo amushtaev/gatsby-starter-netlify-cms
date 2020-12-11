@@ -14,6 +14,7 @@ tags:
   - food ads
 seotitle: 47 Instagram Ads Examples to Make Your Ads Convert
 focuskeyphrase: instagram ads examples
+minread: 5
 metadescription: Get inspiration from Instagram ads examples by world-known
   brands and find the best ideas for creating top-notch advertising for your own
   business.

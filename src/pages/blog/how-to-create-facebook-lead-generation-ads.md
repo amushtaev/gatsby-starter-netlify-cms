@@ -14,6 +14,7 @@ image: /img/create-facebook-lead-generation-ads-featured-picture.jpg
 tags:
   - lead generation
 seo_title: How to Create Facebook Lead Generation Ads [with Examples]
+minread: 5
 metadescription: Learn how to create Facebook lead generation ads, get inspired by a few great ad examples, and discover effective practices for your business.
 focus_keyphrase: create facebook lead generation ads
 seotitle: How to Create Facebook Lead Generation Ads [with Examples]

@@ -14,6 +14,7 @@ tags:
   - ""
 seotitle: 14 Hilarious Ad Campaigns to Inspire You to Make Funny Ads
 focuskeyphrase: funny ads
+minread: 5
 metadescription: Check out these super funny ads produced by different brands
   and companies for ideas on how to use comedy in your marketing strategy — and
   succeed.

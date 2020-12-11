@@ -19,6 +19,7 @@ tags:
   - vimeo
   - YouTube
 seo_title: "Video in Email Marketing: Everything You Need to Know"
+minread: 5
 metadescription: Read why you should use video in email marketing campaigns and learn how to embed video content to your emails from scratch without a hitch.
 focus_keyphrase: video in email marketing
 seotitle: "Video in Email Marketing: Everything You Need to Know"

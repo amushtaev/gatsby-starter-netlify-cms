@@ -18,6 +18,7 @@ tags:
   - Ads Manager
   - Facebook business manager
   - Facebook Targeting
+minread: 5
 metadescription: Read a few recommendations on how to create effective Facebook
   ad sets and complete the Facebook learning phase on your first attempt.
 ---

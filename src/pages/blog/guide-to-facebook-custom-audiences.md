@@ -16,6 +16,7 @@ tags:
   - Facebook Pixel
   - Facebook Dynamic Ads
 seo_title: What Are Facebook Custom Audiences? [Complete Guide]
+minread: 5
 metadescription: Want to create lists of customers from any possible marketing channel? Learn everything about Facebook Custom Audiences targeting in this article.
 focus_keyphrase: facebook custom audiences
 seotitle: What Are Facebook Custom Audiences? [Complete Guide]

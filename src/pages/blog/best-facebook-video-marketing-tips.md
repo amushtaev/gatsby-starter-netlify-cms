@@ -19,6 +19,7 @@ tags:
   - video ads
   - video advertising
 seo_title: 8 Best Facebook Video Marketing Tips to Boost Your Sales
+minread: 5
 metadescription: Check out top Facebook video marketing tips, see attractive ad examples, and learn how to make high-quality video ads in this special guide.
 focus_keyphrase: facebook video marketing tips
 seotitle: 8 Best Facebook Video Marketing Tips to Boost Your Sales

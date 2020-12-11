@@ -17,6 +17,7 @@ tags:
   - product ads
   - video ads
 seo_title: "Facebook Ads vs. Google Ads (Ex-AdWords): How to Reach a Better ROI"
+minread: 5
 metadescription: Choosing between Google Ads (formerly AdWords) and Facebook ads to launch your advertising campaigns? Compare Facebook Ads vs. Google Ads in our article.
 focus_keyphrase: Facebook Ads vs. Google Ads
 seotitle: "Facebook Ads vs. Google Ads (Ex-AdWords): How to Reach a Better ROI"

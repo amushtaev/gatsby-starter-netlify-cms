@@ -15,6 +15,7 @@ tags:
   - email advertising
   - email marketing
 seo_title: 5 Email Marketing Automation Mistakes You Need Avoid
+minread: 5
 metadescription: Email marketing automation requires attention to detail. Want to make sure you nail it every time? Avoid these five email marketing automation mistakes.
 focus_keyphrase: email marketing mistakes
 seotitle: 5 Email Marketing Automation Mistakes You Need Avoid

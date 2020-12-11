@@ -20,6 +20,7 @@ tags:
   - Image ads
   - Photo ads
   - Facebook Blueprint
+minread: 5
 metadescription: Learn everything about Instagram ad formats and read a few tips
   and tricks to use them effectively for any of your Instagram advertising
   campaigns.

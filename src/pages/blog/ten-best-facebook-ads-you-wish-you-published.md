@@ -21,6 +21,7 @@ tags:
   - Instagram
   - text ads
   - video ads
+minread: 5
 metadescription: Need some advertising examples to promote your business on the
   most popular social media platform? Get inspired by best Facebook ads in this
   article.

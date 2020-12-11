@@ -34,6 +34,7 @@ exports.createPages = ({ actions, graphql }) => {
               categories
               categories_slug
               title
+              minread
               date(formatString: "MMMM DD, YYYY")
               image {
                 publicURL
@@ -243,7 +244,7 @@ exports.createPages = ({ actions, graphql }) => {
       circular: true,
     });
 
-    let tags = []
+    let tags = [];
     // Iterate through each post, putting all found tags into `tags`
     edges.forEach((edge) => {
       if (_.get(edge, `node.frontmatter.tags`)) {

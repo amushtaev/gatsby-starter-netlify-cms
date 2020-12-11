@@ -18,6 +18,7 @@ tags:
   - Google Trends
   - Viral ads
   - YouTube
+minread: 5
 metadescription: Read about what viral marketing campaigns are, discover why
   they spread, and get a few recommendations for viral marketing success.
 ---

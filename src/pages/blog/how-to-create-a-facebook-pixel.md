@@ -18,6 +18,7 @@ tags:
   - Business Manager
 seotitle: 3 Tools to Create a Facebook Pixel with No Mistakes
 focuskeyphrase: create a facebook pixel
+minread: 5
 metadescription: Want to create a Facebook pixel to measure the performance of
   your Facebook ads? Read this guide and learn how to do it on your first try.
 ---

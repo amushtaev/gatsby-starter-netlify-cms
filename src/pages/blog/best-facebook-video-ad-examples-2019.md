@@ -22,6 +22,7 @@ tags:
   - video advertising
   - video marketing
 seotitle: 42 Best Facebook Video Ad Examples for 2020
+minread: 5
 metadescription: Check out awesome Facebook video ad examples and read best
   practices for converting users into real customers with your Facebook ads.
 ---

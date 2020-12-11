@@ -17,6 +17,7 @@ tags:
   - Custom Audiences
   - Facebook Pixel
 seo_title: The Beginner's Guide to Facebook Sponsored Ads
+minread: 5
 metadescription: Discover what Facebook sponsored ads are and read a few recommendations on how to launch them in order to make your ad campaign truly successful.
 focus_keyphrase: facebook sponsored ads
 seotitle: The Beginner's Guide to Facebook Sponsored Ads

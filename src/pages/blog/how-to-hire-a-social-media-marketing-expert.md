@@ -17,6 +17,7 @@ tags:
   - social media
   - social media advertising
 seo_title: What to Look For When Hiring a Social Media Marketing Expert
+minread: 5
 metadescription: Are you ready to give a boost to your social media marketing strategy? Hire a social media marketing expert with insightful tips and get set to succeed.
 focus_keyphrase: social media marketing expert
 seotitle: What to Look For When Hiring a Social Media Marketing Expert

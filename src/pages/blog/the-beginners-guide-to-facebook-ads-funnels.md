@@ -17,6 +17,7 @@ tags:
   - attribution
 seotitle: How to Develop the Most Effective Facebook Ads Funnel
 focuskeyphrase: facebook ads funnel
+minread: 5
 metadescription: Follow this tutorial to develop the best Facebook ads funnel
   for your e-commerce or brick-and-mortar business and make your ads more
   effective.

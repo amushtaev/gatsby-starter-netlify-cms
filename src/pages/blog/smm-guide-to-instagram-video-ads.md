@@ -20,6 +20,7 @@ tags:
   - Stories
   - mobile ads
   - video ads
+minread: 5
 metadescription: Become a guru in creating Instagram video ads. Learn Instagram
   video ad formats, take advantage of recommendations, and get inspired by vivid
   examples.

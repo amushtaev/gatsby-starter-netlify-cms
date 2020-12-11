@@ -15,6 +15,7 @@ tags:
   - brewing
   - chemex
 seo_title: "Best Time to Run Facebook Ads: 3 Things to Remember"
+minread: 5
 metadescription: Discover how to find the best time to run Facebook Ads by means of simple recommendations, user-friendly tools, and artificial intelligence.
 focus_keyphrase: best time to run facebook ads
 seotitle: "Best Time to Run Facebook Ads: 3 Things to Remember"

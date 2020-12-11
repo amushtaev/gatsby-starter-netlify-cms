@@ -22,6 +22,7 @@ tags:
   - Slideshow ads
   - Stories
   - video ads
+minread: 5
 metadescription: Want to take advantage of video advertising on Facebook? Read
   several recommendations on how you can discover the best video format for
   Facebook ads.

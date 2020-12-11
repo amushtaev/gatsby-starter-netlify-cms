@@ -20,6 +20,7 @@ tags:
   - Messenger
   - Audience Network
   - Facebook Blueprint
+minread: 5
 metadescription: Want to know how to place your ads on Facebook? Check out this
   tutorial to see the full list of Facebook ad placements and learn best
   practices.

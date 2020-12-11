@@ -22,6 +22,7 @@ tags:
   - Facebook Pixel
   - Lookalike Audiences
   - Instagram ads
+minread: 5
 metadescription: Are you going to use Facebook Ads Manager for your marketing?
   Take advantage of seven useful recommendations to become a true professional.
 ---

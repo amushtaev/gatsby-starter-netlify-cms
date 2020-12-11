@@ -19,6 +19,7 @@ tags:
   - Blueprint eLearning
   - Facebook ads
   - Facebook Blueprint Certification
+minread: 5
 metadescription: Read about the Facebook Blueprint learning platform, which
   offers Facebook Blueprint Certification, and get tips for passing
   certification.

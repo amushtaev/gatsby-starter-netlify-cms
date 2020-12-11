@@ -21,6 +21,7 @@ tags:
   - Audience Network
   - Creative Hub
   - Facebook placements
+minread: 5
 metadescription: Learn how to create, customize, and delete a Facebook Business
   Manager account and start using ads to promote your business.
 ---

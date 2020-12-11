@@ -24,6 +24,7 @@ tags:
   - Relevance Score
   - Result Rate
 seo_title: 11 Facebook Ad Metrics That Make the Difference in Marketing
+minread: 5
 metadescription: Read everything about monitoring the performance of your Facebook ads. Find the key Facebook ad metrics to measure results in the most effective way.
 focus_keyphrase: facebook ad metrics
 seotitle: 11 Facebook Ad Metrics That Make the Difference in Marketing

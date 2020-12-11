@@ -24,6 +24,7 @@ tags:
   - lowest cost
   - target cost
   - value optimization with minimum return on ad spend
+minread: 5
 metadescription: Read about Facebook bidding fundamentals including strategies,
   bidding types, and bidding recommendations. Plus get a free gift to help you
   win an auction.

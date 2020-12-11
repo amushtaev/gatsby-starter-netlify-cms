@@ -17,6 +17,7 @@ tags:
   - lookalike audiences
   - ad tracking
 seo_title: What Is Facebook Pixel and Why Should Your Business Use It?
+minread: 5
 metadescription:  What is Facebook pixel? Discover the advantages of using Facebook pixel to learn more about your conversions and boost your sales.
 focus_keyphrase: what is facebook pixel
 seotitle: What Is Facebook Pixel and Why Should Your Business Use It?

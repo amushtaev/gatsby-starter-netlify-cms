@@ -17,6 +17,7 @@ tags:
   - YouTube Ads
 seotitle: How to Create Vertical Video Ads on Facebook and Its Services
 focuskeyphrase: vertical video ads facebook
+minread: 5
 metadescription: Read this guide to learn about the rise of vertical video and
   how you can successfully take advantage of vertical video ads on Facebook and
   its family of apps.

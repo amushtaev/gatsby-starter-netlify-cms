@@ -21,6 +21,7 @@ tags:
   - image ads
   - video ads
   - Facebook Pixel
+minread: 5
 metadescription: Read everything about Facebook Instant Experience. Learn design
   specifications, get recommendations, look at ad examples, and receive a free
   gift.

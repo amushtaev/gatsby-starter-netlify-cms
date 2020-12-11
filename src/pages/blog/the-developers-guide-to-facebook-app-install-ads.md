@@ -18,6 +18,7 @@ tags:
   - Ads Manager
   - free ads
   - Facebook Blueprint
+minread: 5
 metadescription: Attract new users to your mobile app and make it more popular
   among current users by reading this beginner’s guide to Facebook app install
   ads.

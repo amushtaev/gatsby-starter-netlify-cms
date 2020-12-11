@@ -17,6 +17,7 @@ tags:
   - Messenger
 seotitle: 4 Things to Know Before You Promote a Facebook Page
 focuskeyphrase: promote a facebook page
+minread: 5
 metadescription: Use these recommendations for beginners to promote a Facebook
   Page like a professional and achieve great results for your business.
 ---

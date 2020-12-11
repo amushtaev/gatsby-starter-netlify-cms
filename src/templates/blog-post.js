@@ -35,6 +35,7 @@ export const BlogPostTemplate = ({
   categories,
   slug,
   id,
+  minread,
   image,
   date,
   focuskeyphrase,
@@ -118,7 +119,7 @@ export const BlogPostTemplate = ({
                   ))}
                 </>
               ) : null}
-                <span itemProp="datePublished" dateTime={date} content={date} className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}</span>
+                <span itemProp="datePublished" dateTime={date} content={date} className='date' style={{display: `inline-flex`}} >&nbsp;&nbsp;•&nbsp;&nbsp;{date}&nbsp;&nbsp;•&nbsp;&nbsp;{minread} min read</span>
                 <span itemProp="author" style={{display: `none`}}  itemScope itemType="http://schema.org/Person">Softcube</span>
                 <span itemProp="publisher" itemScope="" itemType="https://schema.org/Organization" style={{display: `none`}}></span>
               </div>
@@ -309,6 +310,7 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object,
   categories: PropTypes.array,
   id: PropTypes.string,
+  minread: PropTypes.string,
   image: PropTypes.string,
   date: PropTypes.string,
   focuskeyphrase: PropTypes.string,
@@ -350,6 +352,7 @@ const BlogPost = ({ data }) => {
         }
         date={post.frontmatter.date}
         snippet={post.snippet}
+        minread={post.frontmatter.minread}
       />
     </LayoutBlog>
   )
@@ -377,6 +380,7 @@ export const pageQuery = graphql`
                 frontmatter {
                     date(formatString: "YYYY-MM-DD")
                     title
+                    minread
                 }
             }
         }
@@ -390,6 +394,7 @@ export const pageQuery = graphql`
         categories
         description
         tags
+        minread
         image {
           publicURL
         }

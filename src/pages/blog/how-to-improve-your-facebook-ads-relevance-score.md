@@ -17,6 +17,7 @@ tags:
   - video ads
   - video marketing
 seo_title: facebook ads relevance score
+minread: 5
 metadescription: View where to find Facebook ad relevance score, learn why it's important, and read the tips to improve the relevance score for your advertising on Facebook.
 focus_keyphrase: 6 Tips to Improve Your Facebook Ads Relevance Score
 seotitle: 6 Tips to Improve Your Facebook Ads Relevance Score

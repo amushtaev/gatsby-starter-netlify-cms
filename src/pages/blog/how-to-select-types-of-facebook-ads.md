@@ -32,6 +32,7 @@ tags:
   - Post Engagement ads
   - Slideshow ads
   - Video ads
+minread: 5
 metadescription: Don’t know how to pick the best Facebook ad types? Read this
   guide to learn everything about the major advertising formats on the largest
   social network.

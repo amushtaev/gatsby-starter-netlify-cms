@@ -21,6 +21,7 @@ tags:
   - video ad campaigns
   - video ads
 seo_title: "Softcube for Google Ads: Use AI to Make Video Ads at Scale"
+minread: 5
 metadescription: Softcube for Google Ads is available. Learn how to make your ad campaigns eye-catching and dynamic using AI-generated video ads.
 focus_keyphrase: softcube for google ads
 seotitle: "Softcube for Google Ads: Use AI to Make Video Ads at Scale"

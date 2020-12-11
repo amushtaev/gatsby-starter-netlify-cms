@@ -18,6 +18,7 @@ tags:
   - Lookalike Audiences
   - Messenger
 seo_title: What’s the Best Way to Sell Products on Facebook?
+minread: 5
 metadescription: Want to promote your products and services on the world’s number one social network? Learn how to sell on Facebook using ten simple recommendations.
 focus_keyphrase: how to sell on facebook
 seotitle: What’s the Best Way to Sell Products on Facebook?

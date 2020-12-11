@@ -18,6 +18,7 @@ tags:
   - Instagram ads
   - video ads
 seotitle: 40 Delicious Examples of Food Ads You Would Eat If You Could
+minread: 5
 metadescription: Would you like to see food ads of all sorts? Check out this
   list of awesome fast food ads, Instagram and Facebook food ads, video food
   ads, and AI  food ads.

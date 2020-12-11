@@ -16,6 +16,7 @@ tags:
   - targeting
   - free ads
 seo_title: "How to Advertise on Facebook for Free: Guide for Beginners"
+minread: 5
 metadescription: Learn how to advertise on Facebook for free after reading the tutorial that includes eight priceless tips you can use to grow your business wisely.
 focus_keyphrase: how to advertise on facebook for free
 seotitle: "How to Advertise on Facebook for Free: Guide for Beginners"

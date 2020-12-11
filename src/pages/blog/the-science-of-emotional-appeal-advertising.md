@@ -23,6 +23,7 @@ tags:
   - neuromarketing
   - New Balance
   - video ads
+minread: 5
 metadescription: Learn how you can use your ads to stir emotions with this guide
   to emotional appeal advertising, try three original best practices, and
   succeed.

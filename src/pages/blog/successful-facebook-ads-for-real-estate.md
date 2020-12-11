@@ -22,6 +22,7 @@ tags:
   - Facebook Pixel
   - Dynamic Ads
   - Realtors
+minread: 5
 metadescription: Learn how to launch Facebook ads for real estate wisely. Read
   recommendations and get advertising inspiration from ten great examples.
 ---

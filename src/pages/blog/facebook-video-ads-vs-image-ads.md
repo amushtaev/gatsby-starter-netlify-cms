@@ -19,6 +19,7 @@ tags:
   - video marketing
   - image marketing
 seo_title: "Video Ads vs. Photo Ads: What Converts Better on Facebook?"
+minread: 5
 metadescription: This article compares Facebook video ads vs. photo ads. Learn the costs and advantages of video and image advertising on the world's top social media.
 focus_keyphrase: facebook video ads vs. image ads
 seotitle: "Video Ads vs. Photo Ads: What Converts Better on Facebook?"

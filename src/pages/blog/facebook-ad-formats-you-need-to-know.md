@@ -27,6 +27,7 @@ tags:
   - Stories
   - video ads
 seo_title: The Most Complete List of Facebook Ad Formats in 2020
+minread: 5
 metadescription: Check out all the Facebook ad formats that exist today, find the best way to visualize your Facebook advertising, and get high-quality video ads for free.
 focus_keyphrase: facebook ad formats
 seotitle: The Most Complete List of Facebook Ad Formats in 2020

@@ -23,6 +23,7 @@ tags:
   - Monetization Manager
   - Native ads
   - Playable ads
+minread: 5
 metadescription: "Read a two-part guide to the Facebook Audience Network: for
   developers and for advertisers. Learn how to succeed by running and monetizing
   ads."

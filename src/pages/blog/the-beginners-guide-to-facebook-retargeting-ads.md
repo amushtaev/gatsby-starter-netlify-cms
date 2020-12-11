@@ -17,6 +17,7 @@ tags:
   - Custom Audiences
   - Facebook Pixel
 seo_title: How to Bring Customers Back with Facebook Retargeting Ads
+minread: 5
 metadescription: Learn everything about launching retargeting ads and get inspired by a few examples of engaging Facebook retargeting ads.
 focus_keyphrase: facebook retargeting ads
 seotitle: How to Bring Customers Back with Facebook Retargeting Ads

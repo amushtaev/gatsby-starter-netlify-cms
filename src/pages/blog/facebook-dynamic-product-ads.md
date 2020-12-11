@@ -17,6 +17,7 @@ tags:
   - product ads
   - Carousel
 seo_title: 5 Ways to Use Dynamic Product Ads on Facebook Wisely
+minread: 5
 metadescription: Want to get into Facebook dynamic advertisement? Check out ways for boosting your sales with Facebook dynamic product ads and create your first campaign.
 focus_keyphrase: dynamic product ads on facebook
 seotitle: 5 Ways to Use Dynamic Product Ads on Facebook Wisely

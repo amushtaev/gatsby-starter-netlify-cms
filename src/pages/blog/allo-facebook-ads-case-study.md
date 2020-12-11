@@ -16,6 +16,7 @@ tags:
   - video ads
   - artificial intelligence
 seo_title: "Facebook Ads Case Study: 62% Better Performance of Dynamic Ads"
+minread: 5
 metadescription: Want to know the benefits of Facebook video ads? Learn the advantages of video advertisement on the world’s most popular social media platform in our guide.
 focus_keyphrase: facebook ads case study
 seotitle: "Facebook Ads Case Study: 62% Better Performance of Dynamic Ads"
