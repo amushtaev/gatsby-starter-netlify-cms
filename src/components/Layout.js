@@ -19,7 +19,12 @@ const TemplateWrapper = ({ children }) => {
         <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
         <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
         <link
-          href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" rel="stylesheet" />
+          rel="preload"
+          as="style"
+          href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" />
+        <link rel="stylesheet"
+              href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap"
+              media="print" onLoad="this.media='all'"/>
         <link
           rel="apple-touch-icon"
           sizes="180x180"
