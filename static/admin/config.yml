@@ -32,7 +32,7 @@ collections:
       - {label: "Seo title", name: "seotitle", widget: "string", required: false}
       - {label: "Focus keyphrase", name: "focuskeyphrase", widget: "string", required: false}
       - {label: "Matadescription", name: "metadescription", widget: "string", required: false}
-      - {label: "Min Read", name: "minread", widget: "string", required: false}
+      - {label: "Min Read", name: "minread", widget: "number", required: false}
       - {label: "Call-to-action text", name: "ctatext", widget: "string", required: false}
       - {label: "Call-to-action button", name: "ctabutton", widget: "string", required: false}
 
