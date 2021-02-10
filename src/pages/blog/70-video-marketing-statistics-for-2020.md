@@ -10,10 +10,6 @@ description: null
 featuredpost: false
 featuredimage: /img/video-marketing-statistics-featured-image.jpg
 image: /img/video-marketing-statistics-featured-image.jpg
-seotitle: 70 Surprising Video Marketing Statistics for 2020 You Must Know
-focuskeyphrase: video marketing statistics
-focus_keyphrase: video marketing statistics
-seo_title: 70 Surprising Video Marketing Statistics for 2020 You Must Know
 tags:
   - Facebook ads
   - Instagram ads
@@ -21,7 +17,11 @@ tags:
   - video advertising
   - YouTube ads
   - statistics
-minread: 5
+focuskeyphrase: video marketing statistics
+minread: 6
+focus_keyphrase: video marketing statistics
+seo_title: 70 Surprising Video Marketing Statistics for 2020 You Must Know
+seotitle: 70 Surprising Video Marketing Statistics for 2020 You Must Know
 metadescription: Discover the latest video marketing statistics to see which
   advertising platforms you should use to promote your business with video ads.
 ---

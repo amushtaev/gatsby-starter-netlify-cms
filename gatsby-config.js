@@ -184,7 +184,18 @@ module.exports = {
       options: {
         host: 'https://softcube.com/',
         sitemap: 'https://softcube.com/sitemap.xml',
-        policy: [{ userAgent: '*', allow: '/', disallow: ['recom.softcube.com', 'https://recom.softcube.com/', 'test.softcube.com', 'https://test.softcube.com/'] }]
+        policy: [
+          { userAgent: '*',
+            allow: '/',
+            disallow: [
+              'recom.softcube.com',
+              'https://recom.softcube.com/',
+              'test.softcube.com',
+              'https://test.softcube.com/',
+              'softcube.com/email-gif/'
+            ]
+          }
+        ]
       }
     },
     {
