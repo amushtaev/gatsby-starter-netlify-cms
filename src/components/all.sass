@@ -357,6 +357,12 @@ a.title.has-text-primary:hover
   display: grid
   grid-template-columns: 228px 69px
 
+.articl-footer-video
+  position: absolute
+  bottom: 15px
+  display: grid
+  grid-template-columns: 228px 69px
+
 .date
   font-family: Source Sans Pro
   font-style: normal
@@ -883,6 +889,12 @@ footer section.menu
   flex-basis: 448px
   margin-right: 30px
 
+.automatic-creat--ru
+  text-align: left
+  order: 1
+  flex-basis: 612px
+  margin-right: 43px
+
 .automatic-creat--content
   width: 100%
   height: 150px
@@ -940,6 +952,12 @@ footer section.menu
   padding: 35px 14px 14px
   margin: -23px auto 0
 
+.works-text--inner-ru
+  width: 332px
+  padding: 35px 14px 81px
+  margin: -18px auto 0
+  display: grid
+
 .maximize-text--inner
   width: 332px
   height: 663px
@@ -957,6 +975,14 @@ footer section.menu
 
 .SearchYourLink
   max-width: 1068px
+  width: calc(100% - 20px)
+  align-items: center
+  display: flex
+  flex-direction: column
+  margin: 32px 0 0 0
+
+.SearchYourLinkSmall
+  max-width: 768px
   width: calc(100% - 20px)
   align-items: center
   display: flex
@@ -1140,6 +1166,24 @@ footer section.menu
 .slick-dots li button
   display: none
 
+.before-after
+  margin: 125px 0
+  display: flex
+  width: 100%
+  max-width: 1078px
+
+.before-item
+  text-align: center
+  width: 440px
+
+.after-item
+  text-align: center
+  width: 440px
+  margin-left: auto
+
+.price-video
+  display: block
+
 @media screen and (min-width: 780px) and (max-width: 1405px)
   .columns.footer_grid
     flex-direction: column
@@ -1171,7 +1215,7 @@ footer section.menu
     align-self: center
   .marketing-videos--content img
       max-width: 100%
-  .works-text--inner
+  .works-text--inner, .works-text--inner-ru
     width: 87%
   .marketing-videos--content
     width: 49%
@@ -1224,7 +1268,7 @@ footer section.menu
     align-self: center
   .marketing-videos--content img
     max-width: 100%
-  .works-text--inner
+  .works-text--inner, .works-text--inner-ru
     width: 87%
   .marketing-videos--content
     width: 49%
@@ -1286,6 +1330,24 @@ footer section.menu
   .post_column .giphy-embed
     width: 100% !important
 
+  .before-after
+    margin: 103px 0
+    display: block
+    width: 100%
+    flex-wrap: wrap
+    padding: 0 23px
+
+  .before-item
+    order: 1
+    text-align: center
+    width: 100%
+
+  .after-item
+    order: 2
+    text-align: center
+    width: 100%
+    margin-left: auto
+
 .is-for-mobile iframe
   width: 100% !important
 
@@ -1344,6 +1406,11 @@ footer section.menu
     margin: 0 0 1em
 
   .articl-footer
+    display: grid
+    grid-template-columns: 1fr 69px
+    width: calc(100% - 24px)
+
+  .articl-footer-video
     display: grid
     grid-template-columns: 1fr 69px
     width: calc(100% - 24px)
@@ -1823,6 +1890,11 @@ footer section.menu
     padding: 0 24px
     margin: 0 auto
     order: 2
+  .automatic-creat--ru
+    text-align: center
+    padding: 0 24px
+    margin: 0 auto
+    order: 2
 
   .automatic-creat svg
     display: block
@@ -1878,7 +1950,7 @@ footer section.menu
   .bottom-marketing--videos
     margin-top: 52px
 
-  .works-text--inner
+  .works-text--inner, .works-text--inner
     margin: -36px auto 82px
     padding: 25px 10px 33px 10px
 
@@ -2198,3 +2270,9 @@ footer section.menu
     height: auto
     overflow-x: hidden
     overflow-y: hidden
+
+  .price-video
+    margin-top: 105px !important
+
+  .price-video button
+    margin-top: 82px

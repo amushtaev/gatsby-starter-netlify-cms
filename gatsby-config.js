@@ -176,7 +176,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
-        exclude: ['/blog/*', '/contact/*', '/about/', '/products/', '/contact/', '/blog/page/*']
+        exclude: ['/blog/*', '/contact/*', '/about/', '/products/', '/contact/', '/blog/page/*', '/email-gif', '/email-gif/*']
       },
     },
     {
@@ -192,7 +192,8 @@ module.exports = {
               'https://recom.softcube.com/',
               'test.softcube.com',
               'https://test.softcube.com/',
-              'softcube.com/email-gif/'
+              'softcube.com/email-gif/',
+              'https://softcube.com/email-gif/',
             ]
           }
         ]

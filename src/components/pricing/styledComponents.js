@@ -3,6 +3,7 @@ import styled, { css } from 'styled-components';
 import Accordion from '../Accordion';
 import AccordionPanel from '../AccordionPanel'
 import {BigSimpleTextInput} from "../BigSimple";
+import {SmallSimpleTextInput} from "../SmallSimple";
 
 export const PlansIncludeContainer = styled.div`
     width: 1068px;
@@ -40,6 +41,23 @@ export const IncludeContainerIndex = styled.div`
     max-width: 1078px;
     margin-top: 62px;
     height: 383px;
+    
+    @media screen and (max-width: 720px) {
+      max-width: inherit;
+      height: auto;
+    }
+`;
+
+export const IncludeContainerIndexRu = styled.div`
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:stretch;
+    width: 100%;
+    max-width: 1078px;
+    margin-top: 62px;
+    margin-bottom: 140px;
     
     @media screen and (max-width: 720px) {
       max-width: inherit;
@@ -153,6 +171,16 @@ export const Article = styled.article`
   : '-10px -10px 15px rgba(28, 28, 72, 0.5), 10px 10px 15px rgba(8, 8, 22, 0.5)'};
     transition: all 0.2s;
     z-index: ${props => props.noShadow ? '102' : '150'}
+`;
+
+export const ArticleVideo = styled.article`
+    overflow: visible;
+      box-shadow: ${props => props.noShadow ? 'none'
+    : '-10px -10px 15px rgba(28, 28, 72, 0.5), 10px 10px 15px rgba(8, 8, 22, 0.5)'};
+    transition: all 0.2s;
+    background: ${props => props.noShadow ? '#fff' : '#fff'};
+    opacity: ${props => props.noShadow ? '0.9' : '1'};
+    z-index: ${props => props.noShadow ? '102' : '150'};
 `;
 
 export const CommentContainer = styled.div`
@@ -419,6 +447,25 @@ export const IndexHeading = styled(CreateLargeHeading)`
     }
 `;
 
+export const IndexHeadingRu = styled(CreateLargeHeading)`
+    margin: ${props => props.top} 0 ${props => props.bottom ? '82px' : '0'} 0;
+    max-width: 1078px;
+    
+    @media screen and (max-width: 780px) {
+      max-width: 90%;
+      font-family: Source Sans Pro;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 32px;
+      line-height: 40px;
+      display: block;
+      text-align: center;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: #FFFFFF;
+    }
+`;
+
 export const SloganSmall = styled.span`
     font-family: Source Sans Pro, sans-serif;
     font-style: normal;
@@ -522,6 +569,20 @@ export const PlanCardContainer = styled.div`
     background: #12122f;
     box-shadow: -10px -10px 20px rgba(255, 255, 255, 0.05), 10px 10px 20px rgba(0, 0, 0, 0.25);
 `;
+export const PlanCardContainerRu = styled.div`
+    width: 416px;
+    height: 562px;
+    max-height: 562px;
+    background: #12122f;
+    box-shadow: 10px 10px 20px rgba(8, 8, 22, 0.5), -10px -10px 20px rgba(28, 28, 72, 0.5);
+    
+    @media screen and (max-width: 780px) {
+      width: 100%;
+      padding: 0 23px;
+      height: initial;
+      max-height: initial;
+    }
+`;
 
 export const Tier = styled.div`
     display: flex;
@@ -542,6 +603,20 @@ export const CardHeader = styled.div`
     box-shadow: -10px -10px 20px rgba(47, 47, 80, 0.5), 10px 10px 20px rgba(8, 8, 22, 0.5);
     ${props => props.pro ? 'border: 2px solid #fff;' : undefined}
     ${props => props.pro ? 'box-sizing: border-box;' : undefined}
+`;
+export const CardHeaderRu = styled.div`
+    position: relative;
+    flex-direction: column;*/
+    text-align: center;
+    width: 416px;
+    height: 120px;
+    background: #46465d;
+    box-shadow: -10px -10px 20px rgba(47, 47, 80, 0.5), 10px 10px 20px rgba(8, 8, 22, 0.5);
+    
+    @media screen and (max-width: 780px) {
+      width: 100%;
+      padding: 0 23px;
+    }
 `;
 
 export const PopularLabel = styled.div`
@@ -584,6 +659,25 @@ export const PlanHeading = styled.span`
     letter-spacing: 1.2px;
     color: #ffffff;
     margin: 42px auto 24px auto;
+    width: min-content;
+`;
+export const PlanHeadingRu = styled.span`
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 52px;
+    line-height: 65px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 1.2px;
+    color: #ffffff;
+    margin: 28px auto 27px auto;
     width: min-content;
 `;
 
@@ -760,11 +854,46 @@ export const SearchButton = styled(BigButton)`
     }
 `;
 
+export const SearchButtonRu = styled(BigButton)`
+    min-width: 196px;
+    width: 196px;
+    margin: 0 auto 0 14px;
+    
+    @media screen and (max-width:780px) {
+      min-width: 196px;
+      width: 100%;
+      max-width: 420px;
+      margin: auto;
+    }
+`;
+
 export const TryButton = styled(BigButton)`
     position: absolute;
     min-width: 288px;
     width: 288px;
     top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0 auto 42px 14px;
+    z-index: 101;
+    cursor: pointer;
+    
+    @media screen and (max-width: 768px) {
+      position: relative;
+      min-width: 288px;
+      width: 288px;
+      -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      margin: 0;
+      z-index: 101;
+    }
+`;
+export const TryButtonPriceCard = styled(BigButton)`
+    position: absolute;
+    min-width: 288px;
+    width: 288px;
+    top: calc(100% - 90px);
     left: 50%;
     transform: translate(-50%, -50%);
     margin: 0 auto 42px 14px;
@@ -792,6 +921,16 @@ export const Feature = styled.span`
     color: #fff;
     margin: 0 0 0 8px;
 `;
+export const FeatureRu = styled.span`
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #fff;
+    margin: 0 0 0 8px;
+    text-align: left;
+`;
 
 export const MediumHeading = styled.span`
     font-family: Source Sans Pro;
@@ -809,9 +948,41 @@ export const MediumHeading = styled.span`
     }
 `;
 
+export const MediumHeadingRu = styled.span`
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #fff;
+    margin: 14px 0 0 0;
+    
+    @media screen and (max-width: 780px) {
+      margin: 24px 0 0 0;
+    }
+`;
+
 export const MediumHeadingLeft = styled(MediumHeading)`
     text-align: left;
     line-height: 0;
+    display: flex;
+    float: right;
+    width: calc(100% - 106px);
+    
+    @media screen and (max-width: 780px) {
+      width: 100%;
+      float: inherit;
+      text-align: center;
+      display: block;
+      padding: 16px 0 0;
+    }
+`;
+
+export const MediumHeadingLeftRu = styled(MediumHeadingRu)`
+    text-align: left;
+    line-height: initial;
     display: flex;
     float: right;
     width: calc(100% - 106px);
@@ -911,6 +1082,16 @@ export const InputContainer = styled.div`
 
 export const BigSimpleTextInputStyled = styled(BigSimpleTextInput)`
     flex: 0 1 auto;
+    
+    @media screen and (max-width:560px) {
+      margin-bottom: 30px;
+    }
+`;
+
+export const SmallSimpleTextInputStyled = styled(SmallSimpleTextInput)`
+    flex: 0 1 auto;
+    max-width:459px;
+    width:100%;
     
     @media screen and (max-width:560px) {
       margin-bottom: 30px;
