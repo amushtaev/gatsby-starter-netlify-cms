@@ -157,6 +157,17 @@ export const DarkRectangle = styled.div`
     }
 `;
 
+export const OverlayModal = styled.div`
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 200;
+    height: 100%;
+    background: linear-gradient(270deg, rgba(18, 18, 47, 0.24) 0%, rgba(18, 18, 47, 0) 62.95%),
+        rgba(18, 18, 47, 0.92);
+    opacity: 1;
+`;
+
 export const CommentCard = styled.div`
     overflow: visible;
     box-shadow: ${props => props.noShadow ? 'none'
@@ -452,7 +463,7 @@ export const IndexHeadingRu = styled(CreateLargeHeading)`
     max-width: 1078px;
     
     @media screen and (max-width: 780px) {
-      max-width: 90%;
+      max-width: 100%;
       font-family: Source Sans Pro;
       font-style: normal;
       font-weight: 900;

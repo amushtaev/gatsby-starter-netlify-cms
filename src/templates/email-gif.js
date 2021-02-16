@@ -9,7 +9,7 @@ import {
   PricingPageContainer,
   SloganSmall,
   TryButton,
-  SearchButtonRu, IndexHeadingRu,
+  SearchButtonRu, IndexHeadingRu, DarkRectangle, OverlayModal,
 } from '../components/pricing/styledComponents';
 import SliderVideo from "../components/blog/SliderVideo";
 
@@ -35,6 +35,7 @@ const IndexPageTemplate = () => {
         <PriceInfo/>
       </PricingPageContainer>
       <ScCookie />
+      {/*<ModalThanks/>*/}
     </Layout>
   )
 };
@@ -43,31 +44,34 @@ export default IndexPageTemplate
 
 function VideoBanner() {
   useEffect(() => {
-    document.querySelector("#mainVideo").play()
-  }, [typeof document !== 'undefined' && document.querySelector("#mainVideo")]);
+    document.querySelector('#mainVideo').play()
+  }, [typeof document !== 'undefined' && document.querySelector('#mainVideo')]);
 
   return (
-    <div className="video-banner">
-      <div className="video-banner--conteiner">
+    <div className='video-banner'>
+      <div className='video-banner--conteiner'>
         <video
-          className='video-item__content_banner'
+          className='video-item__content_banner email-page-top'
           autoPlay={true}
           preload='auto'
-          poster='../img/main_email-gif.jpg?1e26'
+          poster='../img/main_email-gif.jpf?1e26'
           loop={true}
           playsInline
           id='mainVideo'
-          loading="lazy"
+          loading='lazy'
           muted={true}
+          width={'1078'}
+          height={'490'}
         >
           <source src='../img/main_email-gif.webm?1e26' type='video/webm; codecs=vp9,vorbis' />
           <source src='../img/main_email-gif.mp4?1e26' type='video/mp4' />
         </video>
+        {/*<img src='../img/main_email-gif-1?1e26' />*/}
       </div>
       <TryButton
         text='Узнать больше'
         onClick={() => {
-          document.getElementById("videoEmail").scrollIntoView();
+          document.getElementById('videoEmail').scrollIntoView();
         }}
       />
     </div>
@@ -127,7 +131,7 @@ function BeforeAfter() {
     <div className='before-after'>
       <div className='before-item'>
         <IndexHeadingRu>ДО</IndexHeadingRu>
-        <img src='../img/foxtrot_3.jpg?1e26' />
+        <img width={'440'} height={'782'} src='../img/foxtrot_3.webp?1e26' />
       </div>
       <div className='after-item'>>
         <IndexHeadingRu>ПОСЛЕ</IndexHeadingRu>
@@ -142,8 +146,20 @@ function BeforeAfter() {
         >
           <source src='../img/foxtrot_31.mp4?1e26' type='video/mp4' />
         </video>*/}
-        <img src='../img/foxtrot.gif?1e26' />
+        <img width={'440'} height={'782'} src='../img/foxtrot_31.webp?1e26' />
       </div>
     </div>
+  )
+}
+
+function ModalThanks() {
+  return(
+    <>
+      <div id='modal' style={{display: 'none'}}>>
+        <PricingHeading>Спасибо</PricingHeading>
+        <SloganSmall>Мы свяжемся с вами</SloganSmall>
+        <OverlayModal />
+      </div>
+    </>
   )
 }

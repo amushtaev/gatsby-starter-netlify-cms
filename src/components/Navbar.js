@@ -46,7 +46,7 @@ const Navbar = class extends React.Component {
         <div className="container header top" style={{maxWidth: '100%'}}>
           <div className="navbar-brand">
             <Link to="/" className="navbar-item logo" title="Logo Softcube">
-              <img src={logo} alt="Softcube" className="logo"/>
+              <img height={'26'} width={'156'} src={logo} alt="Softcube" className="logo"/>
             </Link>
             {/* Hamburger menu */}
             <div

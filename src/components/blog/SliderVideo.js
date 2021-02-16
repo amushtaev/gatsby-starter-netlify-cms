@@ -95,19 +95,21 @@ const SliderVideo = () => {
                 {windowSize.width > 780 ? <DarkRectangle visible={!isVisiblePost} /> : null}
                 <header className="header article video-slider">
                   {video.text ? (
-                    <video
-                      key={`${video.link}:link:${index + 1}`}
+                    /*<video
+                      key={`${video.src}:link:${index + 1}`}
                       className='video-item__content_slider'
                       autoPlay={true}
                       preload='none'
+                      poster={video.poster}
                       loop={true}
                       playsInline
                       id={`sliderVideo_${index + 1}`}
-                      loading="lazy"
+                      loading='lazy'
                       muted={true}
                     >
                       <source src={`${video.src}`} type='video/mp4'/>
-                    </video>
+                    </video>*/
+                    <img width={'306'} height={'306'} key={`${video.src}:link:${index + 1}`} src={`${video.src}`} />
                   ) : null}
                 </header>
                 {/*<div className="short-news-container">

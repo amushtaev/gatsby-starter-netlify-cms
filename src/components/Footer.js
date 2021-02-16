@@ -38,6 +38,8 @@ const Footer = class extends React.Component {
                       <img
                         src={facebookFooter}
                         alt="Facebook"
+                        width={'34'}
+                        height={'34'}
                       />
                     </a>
                     <a title="twitter" href="https://twitter.com/Softcube_video">
@@ -45,12 +47,16 @@ const Footer = class extends React.Component {
                         className="fas fa-lg"
                         src={twitterFooter}
                         alt="Twitter"
+                        width={'34'}
+                        height={'34'}
                       />
                     </a>
                     <a title="instagram" href="https://www.instagram.com/softcube.video/">
                       <img
                         src={instagramFooter}
                         alt="InstagramF"
+                        width={'34'}
+                        height={'34'}
                       />
                     </a>
                   </div>
