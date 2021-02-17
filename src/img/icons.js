@@ -368,6 +368,15 @@ export const TriangleUpIcon = (props) => {
   );
 };
 
+export const LineVideo = () => {
+  return (
+    <svg className='marketing-videos--line' width="786" height="2" viewBox="0 0 786 2" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <line x1="8.74228e-08" y1="1" x2="786" y2="1.00007" stroke="#3F3F55" strokeWidth="2" strokeDasharray="8 8"/>
+    </svg>
+
+  )
+};
+
 export const FastIcon = (props) => {
   /*const [height, width, fill, stroke] = props;*/
   return (
@@ -536,6 +545,7 @@ export const Crawl = (props) => {
 
 export const VideoContent = () => {
   return(
+
     <svg width="86" height="86" viewBox="0 0 86 86" fill="none" xmlns="http://www.w3.org/2000/svg">
       <circle cx="43" cy="43" r="43" fill="#3F3F55"/>
       <g clipPath="url(#clip0)">
@@ -742,5 +752,24 @@ export const ShowMoreActive = () => {
       <path d="M-0.00121801 12.3327L19.4468 12.3327L12.3894 19.3901L14.2748 21.2754L24.5508 10.9994L14.2748 0.72339L12.3894 2.60873L19.4468 9.66606L-0.00121778 9.66606L-0.00121801 12.3327Z" fill="#fed300" fillOpacity="0.82"/>
     </svg>
 
+  )
+};
+
+export const SlickArrowLeft = () => {
+  return (
+    <div className="slick-arrow left"><svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle r="18" transform="matrix(-1 0 0 1 18 18)" fill="white" fillOpacity="0.54"/>
+      <path d="M22.6435 26.6477C22.5312 26.7594 22.3978 26.848 22.251 26.9084C22.1042 26.9689 21.9468 27 21.7878 27C21.6289 27 21.4715 26.9689 21.3247 26.9084C21.1778 26.848 21.0445 26.7594 20.9322 26.6477L12.8981 18.6764C12.8085 18.5877 12.7374 18.4822 12.6888 18.3662C12.6403 18.2502 12.6154 18.1258 12.6154 18.0001C12.6154 17.8745 12.6403 17.7501 12.6888 17.6341C12.7374 17.518 12.8085 17.4126 12.8981 17.3239L20.9322 9.35252C21.4059 8.88249 22.1697 8.88249 22.6435 9.35252C23.1172 9.82255 23.1172 10.5804 22.6435 11.0504L15.6438 18.0049L22.6531 24.9595C23.1172 25.4199 23.1172 26.1873 22.6435 26.6477Z" fill="white"/>
+    </svg>
+    </div>
+  )
+};
+export const SlickArrowRight = () => {
+  return (
+    <div className="slick-arrow right"><svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="18" cy="18" r="18" fill="white" fillOpacity="0.54"/>
+      <path d="M13.3565 26.6477C13.4688 26.7594 13.6022 26.848 13.749 26.9084C13.8958 26.9689 14.0532 27 14.2122 27C14.3711 27 14.5285 26.9689 14.6753 26.9084C14.8222 26.848 14.9555 26.7594 15.0678 26.6477L23.1019 18.6764C23.1915 18.5877 23.2626 18.4822 23.3112 18.3662C23.3597 18.2502 23.3846 18.1258 23.3846 18.0001C23.3846 17.8745 23.3597 17.7501 23.3112 17.6341C23.2626 17.518 23.1915 17.4126 23.1019 17.3239L15.0678 9.35252C14.5941 8.88249 13.8303 8.88249 13.3565 9.35252C12.8828 9.82255 12.8828 10.5804 13.3565 11.0504L20.3562 18.0049L13.3469 24.9595C12.8828 25.4199 12.8828 26.1873 13.3565 26.6477Z" fill="white"/>
+    </svg>
+    </div>
   )
 };

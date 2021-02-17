@@ -1,17 +1,16 @@
-import React, {useState} from 'react'
+import React from 'react'
 import {
-  IncludeContainerIndex, ItemsWrapper,
+  IncludeContainerRu,
   MediumHeadingLeftRu,
-  MediumSloganLeft,
+  MediumSloganLeftRu,
   softcubeDark
 } from "../pricing/styledComponents";
 import {EasyIcon, EffectiveIcon, FastIcon} from "../../img/icons";
 import AutomaticImgRectangle from "../../img/Rectangle.svg";
-import {initialPlans} from "../pricing/stripe/plans";
 
 const AutomaticCreat = () => {
   return (
-    <IncludeContainerIndex>
+    <IncludeContainerRu>
       <div className='automatic-creat '>
         <div className='automatic-creat--content'>
           <FastIcon
@@ -19,10 +18,13 @@ const AutomaticCreat = () => {
             width={82}
             fill={softcubeDark.global.colors['sc-yellow-3']}
           />
-          <MediumHeadingLeftRu>Быстро</MediumHeadingLeftRu>
-          <MediumSloganLeft>
-            Экономь время на редактирование видео
-          </MediumSloganLeft>
+          <div>
+            <MediumHeadingLeftRu>Быстро</MediumHeadingLeftRu>
+            <MediumSloganLeftRu>
+              Экономь время на редактирование видео
+            </MediumSloganLeftRu>
+          </div>
+
         </div>
         <div className='automatic-creat--content'>
           <EasyIcon
@@ -30,10 +32,12 @@ const AutomaticCreat = () => {
             width={82}
             fill={softcubeDark.global.colors['sc-yellow-3']}
           />
-          <MediumHeadingLeftRu>Просто</MediumHeadingLeftRu>
-          <MediumSloganLeft>
-            Выбери анимацию – получи видео
-          </MediumSloganLeft>
+          <div className='automatic-one-stroke'>>
+            <MediumHeadingLeftRu>Просто</MediumHeadingLeftRu>
+            <MediumSloganLeftRu>
+              Выбери анимацию – получи видео
+            </MediumSloganLeftRu>
+          </div>
         </div>
         <div className='automatic-creat--content last'>
           <EffectiveIcon
@@ -41,16 +45,19 @@ const AutomaticCreat = () => {
             width={82}
             fill={softcubeDark.global.colors['sc-yellow-3']}
           />
-          <MediumHeadingLeftRu>Эффективно</MediumHeadingLeftRu>
-          <MediumSloganLeft>
-            Получи высокий CTR и увеличь продажи товаров
-          </MediumSloganLeft>
+          <div>
+            <MediumHeadingLeftRu>Эффективно</MediumHeadingLeftRu>
+            <MediumSloganLeftRu>
+              Получи высокий CTR и увеличь продажи товаров
+            </MediumSloganLeftRu>
+          </div>
+
         </div>
       </div>
       <div className='automatic-creat-img'>
         <img src={AutomaticImgRectangle} alt="AUTOMATICALLY CREATE & OPTIMIZE VIDEO ADS" loading="lazy" />
       </div>
-    </IncludeContainerIndex>
+    </IncludeContainerRu>
   )
 };
 

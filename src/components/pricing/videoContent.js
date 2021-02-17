@@ -2,67 +2,78 @@ export const VideoSlideItems = [
   {
     text:
       'email-gif',
+    src: '../img/email-gifdissolve.webp',
+    video: '../img/email-gifdissolve.mp4',
+    poster: '../img/email-gifdissolve.jpg',
+  },
+  {
+    text:
+      'email-gif',
     src: '../img/email-gif9.webp',
-    poster: '../img/email-gif9.jpf',
+    video: '../img/email-gif9.mp4',
+    poster: '../img/email-gif9.jpg',
   },
   {
     text:
       'email-gif',
     src: '../img/email-gif10.webp',
-    poster: '../img/email-gif10.jpf',
+    video: '../img/email-gif10.mp4',
+    poster: '../img/email-gif10.jpg',
   },
   {
     text:
       'email-gif',
     src: '../img/email-gifcube.webp',
-    poster: '../img/email-gifcube.jpf',
-  },
-  {
-    text:
-      'email-gif',
-    src: '../img/email-gifdissolve.webp',
-    poster: '../img/email-gifdissolve.jpf',
+    video: '../img/email-gifcube.mp4',
+    poster: '../img/email-gifcube.jpg',
   },
   {
     text:
       'email-gif',
     src: '../img/email-gifglitch.webp',
-    poster: '../img/email-gifglitch.jpf',
+    video: '../img/email-gifglitch.mp4',
+    poster: '../img/email-gifglitch.jpg',
   },
   {
     text:
       'email-gif',
     src: '../img/email-gifgrid_blur.webp',
-    poster: '../img/email-gifgrid_blur.jpf',
+    video: '../img/email-gifgrid_blur.mp4',
+    poster: '../img/email-gifgrid_blur.jpg',
   },
   {
     text:
       'email-gif',
     src: '../img/email-gifgrid_slideshow.webp',
-    poster: '../img/email-gifgrid_slideshow.jpf',
+    video: '../img/email-gifgrid_slideshow.mp4',
+    poster: '../img/email-gifgrid_slideshow.jpg',
   },
   {
     text:
       'email-gif',
     src: '../img/email-gifshape.webp',
-    poster: '../img/email-gifshape.jpf',
+    video: '../img/email-gifshape.mp4',
+    poster: '../img/email-gifshape.jpg',
   },
   {
     text:
       'email-gif',
     src: '../img/email-gifshape2.webp',
-    poster: '../img/email-gifshape2.jpf',
+    video: '../img/email-gifshape2.mp4',
+    poster: '../img/email-gifshape2.jpg',
   },
   {
     text:
       'email-gif',
     src: '../img/email-gifsmoke.webp',
-    poster: '../img/email-gifsmoke.jpf',
+    video: '../img/email-gifsmoke.mp4',
+    poster: '../img/email-gifsmoke.jpg',
   },
   {
     text:
       'email-gif',
     src: '../img/email-gifzoom.webp',
-    poster: '../img/email-gifzoom.jpf',
+    video: '../img/email-gifzoom.mp4',
+    poster: '../img/email-gifzoom.jpg',
   },
 ];

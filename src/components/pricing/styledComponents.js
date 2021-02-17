@@ -4,6 +4,7 @@ import Accordion from '../Accordion';
 import AccordionPanel from '../AccordionPanel'
 import {BigSimpleTextInput} from "../BigSimple";
 import {SmallSimpleTextInput} from "../SmallSimple";
+import {SmallSimpleTextInputRus} from "../SmallSimpleRu";
 
 export const PlansIncludeContainer = styled.div`
     width: 1068px;
@@ -48,6 +49,24 @@ export const IncludeContainerIndex = styled.div`
     }
 `;
 
+export const IncludeContainerRu = styled.div`
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:stretch;
+    width: 100%;
+    max-width: 1078px;
+    margin-top: 62px;
+    height: 383px;
+    
+    @media screen and (max-width: 720px) {
+      max-width: inherit;
+      height: auto;
+      margin-top: 37px;
+    }
+`;
+
 export const IncludeContainerIndexRu = styled.div`
     display:flex;
     flex-wrap:wrap;
@@ -62,6 +81,7 @@ export const IncludeContainerIndexRu = styled.div`
     @media screen and (max-width: 720px) {
       max-width: inherit;
       height: auto;
+      margin-bottom: 96px;
     }
 `;
 
@@ -156,6 +176,20 @@ export const DarkRectangle = styled.div`
       background: none
     }
 `;
+export const DarkRectangleRu = styled.div`
+    height: 100%;
+    width: 100%;
+    opacity: 0.6;
+    transition: all 0.2s;
+    position: absolute;
+    z-index: 120;
+    background: linear-gradient(270deg, rgba(18, 18, 47, 0.24) 0%, rgba(18, 18, 47, 0) 62.95%),
+        rgba(18, 18, 47, 0.92);
+        
+    @media screen and (max-width: 768px) {
+      background: none
+    }
+`;
 
 export const OverlayModal = styled.div`
     position: fixed;
@@ -192,6 +226,10 @@ export const ArticleVideo = styled.article`
     background: ${props => props.noShadow ? '#fff' : '#fff'};
     opacity: ${props => props.noShadow ? '0.9' : '1'};
     z-index: ${props => props.noShadow ? '102' : '150'};
+    
+    @media screen and (max-width: 768px) {
+      background: transparent;
+    }
 `;
 
 export const CommentContainer = styled.div`
@@ -458,9 +496,53 @@ export const IndexHeading = styled(CreateLargeHeading)`
     }
 `;
 
+export const VideoHeadingRu = styled(CreateLargeHeading)`
+    max-width: 1078px;
+    margin-top: 140px;
+    
+    @media screen and (max-width: 780px) {
+      max-width: 90%;
+      font-family: Source Sans Pro;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 32px;
+      line-height: 40px;
+      display: flex;
+      align-items: flex-end;
+      text-align: center;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: #FFFFFF;
+      margin-top: 90px;
+    }
+`;
+
+export const SearchHeadingRu = styled(CreateLargeHeading)`
+    max-width: 1078px;
+    margin-top: 65px;
+    
+    @media screen and (max-width: 780px) {
+      max-width: 90%;
+      font-family: Source Sans Pro;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 32px;
+      line-height: 40px;
+      display: flex;
+      align-items: flex-end;
+      text-align: center;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: #FFFFFF;
+      margin-top: 30px;
+    }
+`;
+
 export const IndexHeadingRu = styled(CreateLargeHeading)`
     margin: ${props => props.top} 0 ${props => props.bottom ? '82px' : '0'} 0;
     max-width: 1078px;
+    padding-bottom: 36px;
+    display: block;
     
     @media screen and (max-width: 780px) {
       max-width: 100%;
@@ -474,6 +556,7 @@ export const IndexHeadingRu = styled(CreateLargeHeading)`
       letter-spacing: 0.02em;
       text-transform: uppercase;
       color: #FFFFFF;
+      padding-bottom: 12px;
     }
 `;
 
@@ -486,6 +569,22 @@ export const SloganSmall = styled.span`
     text-align: center;
     letter-spacing: 0.02em;
     color: rgba(255, 255, 255, 0.84);
+    padding-bottom: 32px;
+    
+    @media screen and (max-width: 720px) {
+      padding: 0 20px 0
+    }
+`;
+
+export const SloganSmallRu = styled.span`
+    font-family: Source Sans Pro, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: rgba(255, 255, 255, 0.62);
     padding-bottom: 32px;
     
     @media screen and (max-width: 720px) {
@@ -875,6 +974,7 @@ export const SearchButtonRu = styled(BigButton)`
       width: 100%;
       max-width: 420px;
       margin: auto;
+      height: 57px;
     }
 `;
 
@@ -900,6 +1000,32 @@ export const TryButton = styled(BigButton)`
       z-index: 101;
     }
 `;
+
+
+export const TryButtonRu = styled(BigButton)`
+    position: absolute;
+    min-width: 288px;
+    width: 288px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0 auto 42px 14px;
+    z-index: 101;
+    cursor: pointer;
+    
+    @media screen and (max-width: 768px) {
+      position: relative;
+      min-width: 99%;
+      width:99%;
+      -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      margin: 0;
+      z-index: 101;
+      height: 57px;
+    }
+`;
+
 export const TryButtonPriceCard = styled(BigButton)`
     position: absolute;
     min-width: 288px;
@@ -993,10 +1119,15 @@ export const MediumHeadingLeft = styled(MediumHeading)`
 
 export const MediumHeadingLeftRu = styled(MediumHeadingRu)`
     text-align: left;
-    line-height: initial;
-    display: flex;
-    float: right;
-    width: calc(100% - 106px);
+    display: block;
+    margin: 0;
+    /* margin: -45px 0 0 0; */
+    /* width: calc(100% - 106px); */
+    /* float: right;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;*/
     
     @media screen and (max-width: 780px) {
       width: 100%;
@@ -1091,6 +1222,31 @@ export const InputContainer = styled.div`
     }
 `;
 
+export const InputContainerRu = styled.div`
+    display: inline-flex;
+    flex-direction: row;
+    margin: 20px 0 0 37px;
+    padding: 0;
+    width: 96%;
+    
+    @media (min-width: 561px) and (max-width: 1100px) {
+      display: inline-flex;
+      flex-direction: row;
+      margin: 20px 20px 0;
+      padding: 0;
+      width: 80%;
+      text-align: center;
+    }
+    
+    @media screen and (max-width: 560px) {
+      display: block;
+      margin: 20px 30px 0;
+      padding: 0;
+      width: 90%;
+      text-align: center;
+    }
+`;
+
 export const BigSimpleTextInputStyled = styled(BigSimpleTextInput)`
     flex: 0 1 auto;
     
@@ -1106,6 +1262,16 @@ export const SmallSimpleTextInputStyled = styled(SmallSimpleTextInput)`
     
     @media screen and (max-width:560px) {
       margin-bottom: 30px;
+    }
+`;
+
+export const SmallSimpleTextInputRu = styled(SmallSimpleTextInputRus)`
+    flex: 0 1 auto;
+    max-width:459px;
+    width:100%;
+    
+    @media screen and (max-width:560px) {
+      margin-bottom: 14px;
     }
 `;
 
@@ -1153,6 +1319,26 @@ export const MediumSloganLeft = styled(MediumSlogan)`
       display: block;
       padding-left: 0;
       margin: 26px 0 0 0;
+    }
+`;
+
+export const MediumSloganLeftRu = styled(MediumSlogan)`
+    text-align: left;
+    line-height: initial;
+    /* display: -webkit-box; */
+    /* display: -webkit-flex; */
+    display: -ms-flexbox;
+    /* display: flex; */
+    /* float: right; */
+    /* width: calc(100% - 106px);*/
+    
+    @media screen and (max-width: 780px) {
+      width: 100%;
+      float: inherit;
+      text-align: center;
+      display: block;
+      padding-left: 0;
+      margin: 8px 0 0 0;
     }
 `;
 

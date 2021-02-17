@@ -3,7 +3,7 @@ import {
   BilledAnnually, CardHeaderRu, FeatureRu,
   IncludeContainerIndexRu,
   MediumHeadingLeftRu,
-  MediumSloganLeft, Per, PlanCardContainerRu, PlanHeadingRu, Price, PriceContainer,
+  MediumSloganLeft, MediumSloganLeftRu, Per, PlanCardContainerRu, PlanHeadingRu, Price, PriceContainer,
   Tier, TryButtonPriceCard
 } from "../pricing/styledComponents";
 import {
@@ -19,34 +19,42 @@ const AutomaticCreat = () => {
       <div className='automatic-creat--ru'>
         <div className='automatic-creat--content'>
           <VideoContent/>
-          <MediumHeadingLeftRu>HD видео контент</MediumHeadingLeftRu>
-          <MediumSloganLeft>
-            Получите лучшую видеорекламу с высококачественными клипами из нашей видеотеки
-          </MediumSloganLeft>
+          <div>
+            <MediumHeadingLeftRu>HD видео контент</MediumHeadingLeftRu>
+            <MediumSloganLeftRu>
+              Получите лучшую видеорекламу с высококачественными клипами из нашей видеотеки
+            </MediumSloganLeftRu>
+          </div>
         </div>
         <div className='automatic-creat--content'>
           <ReadyTemplates/>
-          <MediumHeadingLeftRu>Готовые шаблоны</MediumHeadingLeftRu>
-          <MediumSloganLeft>
-            Экономьте время на редактировании с помощью профессионально разработанных шаблонов
-          </MediumSloganLeft>
+          <div>
+            <MediumHeadingLeftRu>Готовые шаблоны</MediumHeadingLeftRu>
+            <MediumSloganLeftRu>
+              Экономьте время на редактировании с помощью профессионально разработанных шаблонов
+            </MediumSloganLeftRu>
+          </div>
         </div>
         <div className='automatic-creat--content'>
           <ReadyTemplates/>
-          <MediumHeadingLeftRu>Неограниченное количество проектов</MediumHeadingLeftRu>
-          <MediumSloganLeft>
-            Попробуйте разные шаблоны и платите только тогда, когда ваше видео будет готово
-          </MediumSloganLeft>
+          <div>
+            <MediumHeadingLeftRu>Неограниченное количество проектов</MediumHeadingLeftRu>
+            <MediumSloganLeftRu>
+              Попробуйте разные шаблоны и платите только тогда, когда ваше видео будет готово
+            </MediumSloganLeftRu>
+          </div>
         </div>
         <div className='automatic-creat--content last'>
         <SupportSoftcube/>
-        <MediumHeadingLeftRu>Поддержка Softcube</MediumHeadingLeftRu>
-        <MediumSloganLeft>
-          Наши технические специалисты и маркетологи всегда готовы помочь
-        </MediumSloganLeft>
+        <div>
+          <MediumHeadingLeftRu>Поддержка Softcube</MediumHeadingLeftRu>
+          <MediumSloganLeftRu>
+            Наши технические специалисты и маркетологи всегда готовы помочь
+          </MediumSloganLeftRu>
+        </div>
       </div>
       </div>
-      <div className='price-video' style={{ maxWidth: '416px', margin: '0 auto', order: '2'}}>
+      <div className='price-video'>
         <PlanCardContainerRu style={{position: 'relative',}}>
           <Tier>
             <CardHeaderRu>

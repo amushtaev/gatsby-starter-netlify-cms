@@ -2,14 +2,18 @@ import React, {useEffect} from 'react'
 import loadable from '@loadable/component'
 import Layout from '../components/Layout';
 import {
-  SmallSimpleTextInputStyled,
   InputContainer,
-  IndexHeading,
   PricingHeading,
   PricingPageContainer,
   SloganSmall,
-  TryButton,
-  SearchButtonRu, IndexHeadingRu, DarkRectangle, OverlayModal,
+  SearchButtonRu,
+  IndexHeadingRu,
+  OverlayModal,
+  TryButtonRu,
+  SmallSimpleTextInputRu,
+  SloganSmallRu,
+  VideoHeadingRu,
+  SearchHeadingRu,
 } from '../components/pricing/styledComponents';
 import SliderVideo from "../components/blog/SliderVideo";
 
@@ -23,13 +27,14 @@ const IndexPageTemplate = () => {
     <Layout>
       <PricingPageContainer>
         <PricingHeading>АНИМИРУЙ EMAIL</PricingHeading>
-        <SloganSmall>Добавь видео товаров в email-рассылку и увеличь CTR</SloganSmall>
+        <SloganSmallRu>Добавь видео товаров в email-рассылку и увеличь CTR</SloganSmallRu>
         <VideoBanner/>
         <HowItWorksRu/>
+        <SearchHeadingRu>ПОЛУЧИТЬ ДОСТУП</SearchHeadingRu>
         <SearchYourLinkRu />
-        <IndexHeading top={'138px'}>ПРИМЕРЫ ГОТОВЫХ ВИДЕО</IndexHeading>
+        <VideoHeadingRu>ПРИМЕРЫ ГОТОВЫХ ВИДЕО</VideoHeadingRu>
         <SliderVideo />
-        <IndexHeading top={'152px'}>АВТОМАТИЧЕСКИ СОЗДАННЫЕ ВИДЕО ИЗ ТОВАРНЫХ ФОТО</IndexHeading>
+        <VideoHeadingRu>АВТОМАТИЧЕСКИ СОЗДАННЫЕ ВИДЕО ИЗ ТОВАРНЫХ ФОТО</VideoHeadingRu>
         <AutomaticCreat />
         <BeforeAfter/>
         <PriceInfo/>
@@ -48,7 +53,7 @@ function VideoBanner() {
   }, [typeof document !== 'undefined' && document.querySelector('#mainVideo')]);
 
   return (
-    <div className='video-banner'>
+    <div className='video-banner email-page-top'>
       <div className='video-banner--conteiner'>
         <video
           className='video-item__content_banner email-page-top'
@@ -68,7 +73,7 @@ function VideoBanner() {
         </video>
         {/*<img src='../img/main_email-gif-1?1e26' />*/}
       </div>
-      <TryButton
+      <TryButtonRu
         text='Узнать больше'
         onClick={() => {
           document.getElementById('videoEmail').scrollIntoView();
@@ -90,7 +95,7 @@ function SearchYourLinkRu() {
     >
       <input type='hidden' name='contact' value='videoEmail' />
       <InputContainer>
-        <SmallSimpleTextInputStyled
+        <SmallSimpleTextInputRu
           name='email'
           defaultValue={inputValue}
           placeholder='name@softcube.com'
@@ -133,7 +138,7 @@ function BeforeAfter() {
         <IndexHeadingRu>ДО</IndexHeadingRu>
         <img width={'440'} height={'782'} src='../img/foxtrot_3.webp?1e26' />
       </div>
-      <div className='after-item'>>
+      <div className='after-item'>
         <IndexHeadingRu>ПОСЛЕ</IndexHeadingRu>
         {/*<video
           autoPlay={true}

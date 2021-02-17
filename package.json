@@ -47,7 +47,8 @@
     "seo": "^0.0.15",
     "styled-components": "^5.2.0",
     "universal-cookie": "^4.0.4",
-    "uuid": "^7.0.0"
+    "uuid": "^7.0.0",
+    "react-slick": "^0.28.0"
   },
   "keywords": [
     "gatsby"

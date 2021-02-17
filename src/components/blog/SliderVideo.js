@@ -1,104 +1,102 @@
-import React, {useState} from 'react'
-import { Link } from 'gatsby'
-import {useKeenSlider} from "keen-slider/react";
-import { DarkRectangle, Dot, Dots, KeenSlider, ArticleVideo} from "../pricing/styledComponents";
+import React, {useState, useEffect} from 'react'
+import SliderSlick from "react-slick";
+import {DarkRectangle, ArticleVideo, DarkRectangleRu} from "../pricing/styledComponents";
 import ArrowRight from "../ArrowRight";
 import ArrowLeft from "../ArrowLeft";
-import { ShowMore } from '../pricing/styledComponents';
 import useWindowSize from '../Getscreen';
+import "../slick.min.css";
 import {VideoSlideItems} from '../pricing/videoContent'
+import {SlickArrowLeft, SlickArrowRight} from "../../img/icons";
 
-const SliderVideo = () => {
+const SliderVideo = (props) => {
   const [currentSlide, setCurrentSlide] = useState(0);
-  const windowSize = useWindowSize();
-  /*const [opacities, setOpacities] = React.useState([]);*/
-  const [sliderRef, slider] = useKeenSlider({
-    initial: 0,
-    slideChanged(s) {
-      setCurrentSlide(s.details().relativeSlide);
-    },
-    spacing: 24,
-    slidesPerView: 5,
-    centered: false,
-    loop: false,
-    mode: 'snap',
-    //duration: 1000,
-    breakpoints: {
-      '(min-width: 300px)': {
-        slidesPerView: 1,
-        mode: 'free-snap',
-        centered: false,
-        loop: false,
-      },
-      '(min-width: 520px)': {
-        slidesPerView: 2,
-        mode: 'free-snap',
-        centered: true,
-        loop: true,
-      },
-      '(min-width: 768px)': {
-        slidesPerView: 3,
-        mode: 'free-snap',
-      },
-      '(min-width: 1200px)': {
-        slidesPerView: 5,
-        mode: 'free-snap',
-        loop: true,
-      },
-    },
-  });
 
-  const getVisibleCard = (index) => {
-    switch (currentSlide) {
-      case 0:
-        return index === 1 || index === 2 || index === 3;
-      case 1:
-        return index === 2 || index === 3 || index === 4;
-      case 2:
-        return index === 3 || index === 4 || index === 5;
-      case 3:
-        return index === 4 || index === 5 || index === 6;
-      case 4:
-        return index === 5 || index === 6 || index === 7;
-      case 5:
-        return index === 6 || index === 7 || index === 8;
-      case 6:
-        return index === 7 || index === 8 || index === 9;
-      case 7:
-        return index === 8 || index === 9 || index === 10;
-      case 8:
-        return index === 9 || index === 10 || index === 0;
-      case 9:
-        return index === 10 || index === 0 || index === 1;
-      case 10:
-        return index === 0 || index === 1 || index === 2;
-      default:
-        return false;
-    }
+  useEffect(() =>{
+    /*for (let i = 0; document.querySelectorAll(".slick-slide").length; i++){
+      document.querySelectorAll(".slick-slide video")[i].pause();
+    }*/
+    document.querySelector('.slick-center video').play();
+  });
+  const windowSize = useWindowSize();
+/*  useEffect(() => {
+    document.querySelectorAll(".slick-active")[0].style.transform = 'scale(1)';
+    document.querySelectorAll(".slick-active")[1].style.transform = 'scale(1.2)';
+    document.querySelectorAll(".slick-active")[2].style.transform = 'scale(1.5)';
+    document.querySelectorAll(".slick-active")[4].style.transform = 'scale(1)';
+    document.querySelectorAll(".slick-active")[3].style.transform = 'scale(1.2)';
+  })*/
+
+  const onBeforeChange = (oldIndex, newIndex) => {
+    document.querySelector('.slick-center video').pause()
+    //this.setState({ foo: "bar" });
+  };
+  const onafterChange = (oldIndex, newIndex) => {
+    document.querySelector('.slick-center video').pause()
+    document.querySelector('.slick-center video').play()
+    //this.setState({ foo: "bar" });
+  };
+  const settings = {
+    centerMode: true,
+    centerPadding: '100px',
+    slidesToShow: 5,
+    arrows: true,
+    dots: true,
+    infinite: true,
+    //speed: 1500,
+    slidesToScroll: 1,
+    dotsClass: "slick-dots",
+    className: "sliderSlick",
+    beforeChange: onBeforeChange,
+    afterChange: onafterChange,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 5,
+          slidesToScroll: 1,
+          infinite: true,
+        }
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 2,
+          centerPadding: '0',
+          slidesToScroll: 1,
+          dots: true,
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          centerPadding: '0px',
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          dots: true,
+        }
+      }
+    ]
   };
 
-  return (
-    <>
-      <section className='section index'>
-        <KeenSlider
-          ref={sliderRef}
-        >
-          {VideoSlideItems.map(
-            (video, index) => {
-            const isVisiblePost = getVisibleCard(index, VideoSlideItems.length);
+  return <>
+    <section className='section index video'>
+      <SlickArrowRight />
+      <SlickArrowLeft />
+      <SliderSlick {...settings}>
+        {VideoSlideItems.map(
+          (video, index) => {
             return (
               <ArticleVideo
                 key={`${video.link}:link:${index + 1}`}
                 className={`keen-slider__slide number-slide${index + 1}`}
-                noShadow={windowSize.width > 780 ? !isVisiblePost : false}
               >
-                {windowSize.width > 780 ? <DarkRectangle visible={!isVisiblePost} /> : null}
+                <div key={`${video.link}:dark:${index + 1}`} className='dark-rectangle'></div>
                 <header className="header article video-slider">
                   {video.text ? (
-                    /*<video
+                    <video
                       key={`${video.src}:link:${index + 1}`}
                       className='video-item__content_slider'
-                      autoPlay={true}
+                      autoPlay={false}
                       preload='none'
                       poster={video.poster}
                       loop={true}
@@ -106,11 +104,16 @@ const SliderVideo = () => {
                       id={`sliderVideo_${index + 1}`}
                       loading='lazy'
                       muted={true}
+                      width='370'
+                      height='370'
                     >
-                      <source src={`${video.src}`} type='video/mp4'/>
-                    </video>*/
-                    <img width={'306'} height={'306'} key={`${video.src}:link:${index + 1}`} src={`${video.src}`} />
+                      <source src={`${video.video}`} type='video/mp4'/>
+                    </video>
+                    /*<img width={'306'} height={'306'} key={`${video.src}:link:${index + 1}`} src={`${video.src}`}/>*/
                   ) : null}
+                  {/*{video.text ? (
+                    <img width={'306'} height={'306'} key={`${video.poster}:poster:${index + 1}`} src={`${video.poster}`}/>
+                  ) : null}*/}
                 </header>
                 {/*<div className="short-news-container">
                   <p className="post-meta">
@@ -139,43 +142,10 @@ const SliderVideo = () => {
               </ArticleVideo>
             )
           })}
-        </KeenSlider>
-        {slider && (
-          <>
-            <ArrowLeft
-              onClick={(e) => {
-                e.stopPropagation() ||
-                slider.prev()}}
-              disabled={currentSlide === 0}
-            />
-            <ArrowRight
-              onClick={(e) => {
-                e.stopPropagation() ||
-                slider.next()}
-              }
-              disabled={currentSlide === slider.details().size - 1}
-            />
-          </>
-        )}
-      </section>
-      {slider && (
-        <Dots>
-          {[...Array(slider.details().size).keys()].map((idx) => {
-            return (
-              <Dot
-                key={idx}
-                onClick={()=> {
-                  slider.moveToSlideRelative(idx);
-                }}
-                active={currentSlide === idx}
-              />
-            );
-          })}
-        </Dots>
-      )}
-      <div className='margin'></div>
-    </>
-  )
-}
+      </SliderSlick>
+    </section>
+    <div className='margin'></div>
+  </>
+};
 
 export default SliderVideo

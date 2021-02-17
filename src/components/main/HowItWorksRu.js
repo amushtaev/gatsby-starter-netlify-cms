@@ -1,11 +1,11 @@
 import React from 'react'
-import {VideoEditor, AnimateEmail, SendEmail} from "../../img/icons";
+import {VideoEditor, AnimateEmail, SendEmail, LineVideo} from "../../img/icons";
 import {softcubeDark} from "../pricing/styledComponents";
 
 const HowItWorks = () => {
   return (
     <>
-      <div className='marketing-videos how' style={{marginTop: '65px'}}>
+      <div className='marketing-videos how'>
         <div className='marketing-videos--content'>
           <VideoEditor/>
           <div className='works-text--inner-ru'>
@@ -30,6 +30,7 @@ const HowItWorks = () => {
             </span>
           </div>
         </div>
+        <LineVideo/>
         {/*<VideoHowItWorks />*/}
       </div>
     </>

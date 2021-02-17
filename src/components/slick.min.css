@@ -1,0 +1,182 @@
+.slick-list,.slick-slider,.slick-track{position:relative;display:block}.slick-loading .slick-slide,.slick-loading .slick-track{visibility:hidden}.slick-slider{box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}.slick-list{overflow:hidden;margin:0;padding:0}.slick-list:focus{outline:0}.slick-list.dragging{cursor:pointer;cursor:hand}.slick-slider .slick-list,.slick-slider .slick-track{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.slick-track{top:0;left:0}.slick-track:after,.slick-track:before{display:table;content:''}.slick-track:after{clear:both}.slick-slide{display:none;float:left;height:100%;min-height:1px}[dir=rtl] .slick-slide{float:right}.slick-slide img{display:block}.slick-slide.slick-loading img{display:none}.slick-slide.dragging img{pointer-events:none}.slick-initialized .slick-slide{display:block}.slick-vertical .slick-slide{display:block;height:auto;}.slick-arrow.slick-hidden{display:none}
+
+.slick-center
+{
+    transform: scale(1.5)!important;
+    z-index: 200;
+}
+.slick-active article
+{opacity: 1 !important;}
+
+.slick-list
+{overflow: visible;}
+
+.slick-slide
+{
+    transform: scale(1);
+    position: relative;
+    outline: none;
+}
+.slick-slide:not(.slick-active){
+    transform: scale(0.8);
+    position: relative;
+    opacity: 0;
+}
+
+.dark-rectangle{
+    background: rgba(18, 18, 47, 0.6);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    right: 0;
+    bottom: 0;
+}
+.slick-center .dark-rectangle{
+    background: none;
+}
+.slick-cloned + .slick-active, .slick-center + .slick-active + .slick-active
+{transform: scale(1);}
+div.slick-active + .slick-active
+{
+    transform: scale(1.2);
+}
+.slick-active + .slick-center
+{
+    /*transform: scale(1.5);*/
+    width: 393px;
+    height: 393px;
+    margin-top: 35px;
+}
+
+.slick-center + .slick-active
+{
+    transform: scale(1.2);
+    z-index: 150;
+}
+
+.slick-dots
+{
+    display: flex !important;
+    position: absolute;
+    bottom: 20px;
+    left: calc(50% - 132px);
+}
+
+header:focus, article:focus{
+    outline: none !important
+}
+
+
+.slick-arrow {
+    position: absolute;
+    bottom: 0;
+    z-index: 202;
+}
+.left
+{left: calc(50% - 200px);}
+.right
+{right: calc(50% - 200px);}
+
+.slick-center article{
+    width: 393px;
+    height: 263px;
+}
+.slick-center video{
+    width: 393px;
+    height: 263px;
+}
+div:focus {
+   outline: none;
+}
+div:focus {
+    border: none;
+    background: none;
+    outline: none;
+}
+.slick-dots li{
+    background: rgba(255, 255, 255, 0.54);
+    opacity: 0.5;
+}
+.slick-dots li.slick-active{
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+}
+.slick-arrow.slick-next{
+    right: calc(50% - 200px);
+    background-image: url(../img/left.svg);
+}
+.slick-arrow.right, .slick-arrow.left{
+    bottom: 25px;
+}
+.slick-arrow.slick-prev{
+    left: calc(50% - 200px);
+}
+button.slick-arrow{
+    bottom: 11px;
+    opacity: 0;
+}
+button.slick-next{
+      display: block;
+      width: calc(50% - 292px);
+      position: absolute;
+      left: calc(50% + 166px);
+      height: 460px;
+  }
+button.slick-prev{
+    display: block;
+    width: calc(50% - 292px);
+    position: absolute;
+    left: calc(20% - 200px) !important;
+    height: 460px;
+}
+@media screen and (max-width: 560px){
+    .section.index.video {
+        overflow: hidden;
+        margin-top: 10px;
+        padding-top: 5px !important;
+        padding-bottom: 52px;
+        width: 100% !important;
+    }
+    .slick-center {
+        transform: scale(1)!important;
+        z-index: 200;
+    }
+    .slick-dots {
+        display: flex !important;
+        position: absolute;
+        bottom: -40px;
+        left: calc(50% - 132px);
+    }
+    .slick-slide:not(.slick-active) {
+        transform: scale(1);
+        position: relative;
+        opacity: 0;
+    }
+    .slick-center article {
+        width: 393px;
+        height: 100%;
+    }
+    .slick-center video {
+        width: 393px;
+        height: 100%;
+    }
+    .sliderSlick .slick-slide {
+        padding: 0 24px !important;
+    }
+    .right {
+        right: calc(50% - 171px);
+    }
+    .left {
+        left: calc(50% - 171px);
+    }
+    .slick-arrow {
+        position: absolute;
+        bottom: -57px;
+    }
+    .slick-arrow.right, .slick-arrow.left{
+        bottom: -6px;
+    }
+    button.slick-arrow{
+        opacity: 0;
+    }
+}
