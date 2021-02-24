@@ -1,11 +1,8 @@
 import React, {useState, useEffect} from 'react'
 import SliderSlick from "react-slick";
 import {DarkRectangle, ArticleVideo, DarkRectangleRu} from "../pricing/styledComponents";
-import ArrowRight from "../ArrowRight";
-import ArrowLeft from "../ArrowLeft";
 import useWindowSize from '../Getscreen';
-import "../slick.min.css";
-import {VideoSlideItems} from '../pricing/videoContent'
+import {VideoSlideItems} from '../emailvideo/videoContent'
 import {SlickArrowLeft, SlickArrowRight} from "../../img/icons";
 
 const SliderVideo = (props) => {
@@ -27,12 +24,19 @@ const SliderVideo = (props) => {
   })*/
 
   const onBeforeChange = (oldIndex, newIndex) => {
+    console.log(oldIndex, newIndex);
     document.querySelector('.slick-center video').pause()
+    document.querySelectorAll("div[data-index='" + newIndex + "'] video")[0].style.opacity = '0'
+    document.querySelectorAll("div[data-index='" + newIndex + "'] video")[0].pause()
+
     //this.setState({ foo: "bar" });
   };
   const onafterChange = (oldIndex, newIndex) => {
-    document.querySelector('.slick-center video').pause()
-    document.querySelector('.slick-center video').play()
+    console.log(oldIndex, newIndex);
+    document.querySelector('.slick-center video').play();
+    document.querySelector('.slick-center video').play();
+    document.querySelectorAll("div[data-index='" + oldIndex + "'] video")[0].style.opacity = '1'
+    document.querySelectorAll("div[data-index='" + oldIndex + "'] video")[0].play();
     //this.setState({ foo: "bar" });
   };
   const settings = {
@@ -60,7 +64,7 @@ const SliderVideo = (props) => {
       {
         breakpoint: 600,
         settings: {
-          slidesToShow: 2,
+          slidesToShow: 1,
           centerPadding: '0',
           slidesToScroll: 1,
           dots: true,
@@ -91,9 +95,12 @@ const SliderVideo = (props) => {
                 className={`keen-slider__slide number-slide${index + 1}`}
               >
                 <div key={`${video.link}:dark:${index + 1}`} className='dark-rectangle'></div>
-                <header className="header article video-slider">
+                <header className="header article video-slider"
+                        style={{background: "transparent", backgroundRepeat: "no-repeat", backgroundImage:`url(${video.poster})`, backgroundSize: "100%",    maHeight: '100%',  maxWidth: '100%', height: '100%', objectFit: 'fill'}}
+                >
                   {video.text ? (
                     <video
+                      /*style={{background: "transparent", backgroundRepeat: "no-repeat", backgroundImage:`url(${video.poster})`, backgroundSize: "100%"}}*/
                       key={`${video.src}:link:${index + 1}`}
                       className='video-item__content_slider'
                       autoPlay={false}
@@ -102,7 +109,6 @@ const SliderVideo = (props) => {
                       loop={true}
                       playsInline
                       id={`sliderVideo_${index + 1}`}
-                      loading='lazy'
                       muted={true}
                       width='370'
                       height='370'

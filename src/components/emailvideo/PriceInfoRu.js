@@ -17,7 +17,7 @@ const AutomaticCreat = () => {
   return (
     <IncludeContainerIndexRu>
       <div className='automatic-creat--ru'>
-        <div className='automatic-creat--content'>
+        <div className='automatic-creat--content video'>
           <VideoContent/>
           <div>
             <MediumHeadingLeftRu>HD видео контент</MediumHeadingLeftRu>
@@ -26,7 +26,7 @@ const AutomaticCreat = () => {
             </MediumSloganLeftRu>
           </div>
         </div>
-        <div className='automatic-creat--content'>
+        <div className='automatic-creat--content video'>
           <ReadyTemplates/>
           <div>
             <MediumHeadingLeftRu>Готовые шаблоны</MediumHeadingLeftRu>
@@ -35,7 +35,7 @@ const AutomaticCreat = () => {
             </MediumSloganLeftRu>
           </div>
         </div>
-        <div className='automatic-creat--content'>
+        <div className='automatic-creat--content video'>
           <ReadyTemplates/>
           <div>
             <MediumHeadingLeftRu>Неограниченное количество проектов</MediumHeadingLeftRu>
@@ -44,7 +44,7 @@ const AutomaticCreat = () => {
             </MediumSloganLeftRu>
           </div>
         </div>
-        <div className='automatic-creat--content last'>
+        <div className='automatic-creat--content video last'>
         <SupportSoftcube/>
         <div>
           <MediumHeadingLeftRu>Поддержка Softcube</MediumHeadingLeftRu>
@@ -97,7 +97,7 @@ const AutomaticCreat = () => {
               <TryButtonPriceCard
                 text='Узнать больше'
                 onClick={() => {
-                  document.getElementById("videoEmail").scrollIntoView();
+                  document.getElementById("videoEmailTop").scrollIntoView();
                 }}
               />
             </PriceContainer>

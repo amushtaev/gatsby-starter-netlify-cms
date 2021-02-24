@@ -1,6 +1,6 @@
-import React, {useEffect} from 'react'
+import React, {useEffect, useState} from 'react'
 import loadable from '@loadable/component'
-import Layout from '../components/Layout';
+import LayoutEmail from '../components/LayoutEmail';
 import {
   InputContainer,
   PricingHeading,
@@ -15,22 +15,25 @@ import {
   VideoHeadingRu,
   SearchHeadingRu,
 } from '../components/pricing/styledComponents';
-import SliderVideo from "../components/blog/SliderVideo";
+import SliderVideo from "../components/emailvideo/SliderVideo";
+import FrequentlyAskedQuestionsVideo from "../components/emailvideo/FrequentlyAskedQuestionsVideo";
 
-const HowItWorksRu = loadable(() => import('../components/main/HowItWorksRu'));
-const AutomaticCreat = loadable(() => import('../components/main/AutomaticCreatRu'));
+const HowItWorksRu = loadable(() => import('../components/emailvideo/HowItWorksRu'));
+const AutomaticCreat = loadable(() => import('../components/emailvideo/AutomaticCreatRu'));
 const ScCookie = loadable(() => import('../components/Cookies'));
-const PriceInfo = loadable(() => import('../components/main/PriceInfoRu'));
+const PriceInfo = loadable(() => import('../components/emailvideo/PriceInfoRu'));
 
 const IndexPageTemplate = () => {
   return (
-    <Layout>
+    <LayoutEmail>
       <PricingPageContainer>
         <PricingHeading>АНИМИРУЙ EMAIL</PricingHeading>
         <SloganSmallRu>Добавь видео товаров в email-рассылку и увеличь CTR</SloganSmallRu>
         <VideoBanner/>
         <HowItWorksRu/>
-        <SearchHeadingRu>ПОЛУЧИТЬ ДОСТУП</SearchHeadingRu>
+        <SearchHeadingRu
+          id='videoEmailTop'
+        >ПОЛУЧИТЬ ДОСТУП</SearchHeadingRu>
         <SearchYourLinkRu />
         <VideoHeadingRu>ПРИМЕРЫ ГОТОВЫХ ВИДЕО</VideoHeadingRu>
         <SliderVideo />
@@ -38,10 +41,11 @@ const IndexPageTemplate = () => {
         <AutomaticCreat />
         <BeforeAfter/>
         <PriceInfo/>
+        <FrequentlyAskedQuestionsVideo/>
       </PricingPageContainer>
       <ScCookie />
-      {/*<ModalThanks/>*/}
-    </Layout>
+      <ModalThanks/>
+    </LayoutEmail>
   )
 };
 
@@ -76,7 +80,7 @@ function VideoBanner() {
       <TryButtonRu
         text='Узнать больше'
         onClick={() => {
-          document.getElementById('videoEmail').scrollIntoView();
+          document.getElementById('videoEmailTop').scrollIntoView();
         }}
       />
     </div>
@@ -86,8 +90,44 @@ function VideoBanner() {
 
 function SearchYourLinkRu() {
   const [inputValue, setInputValue] = React.useState('');
+  /*var form = document.getElementById("videoEmail");
+  function handleForm(event) { event.preventDefault(); }
+  form.addEventListener('submit', handleForm);*/
+
+  const onFormSubmit = e => {
+    e.preventDefault();
+
+    fetch('/', {
+      method: 'POST',
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({
+        "form-name": document.getElementById('videoEmail').getAttribute("name"),
+        "email": document.querySelector("input[name='email']").value,
+      })
+    }).then(() => {
+      let validate = validateEmail(document.querySelector(".emailVal").innerHTML = document.querySelectorAll('input[name="email"]')[0].value);
+      console.log('validate', validate);
+      if(validate) {
+        console.log('Form successfully submitted', validate);
+        document.getElementById('modal').style.display = "block";
+        document.querySelector(".emailVal").innerHTML = document.querySelectorAll('input[name="email"]')[0].value
+      } else {
+        //alert ("Заполните email")
+      }
+      }).catch((error) =>
+      alert(error))
+
+  };
+
+  function validateEmail(email)
+  {
+    let re = /\S+@\S+\.\S+/;
+    return re.test(email);
+  }
+
   return (
     <form
+      onSubmit={onFormSubmit}
       className='SearchYourLinkSmall'
       id='videoEmail'
       data-netlify='true'
@@ -107,8 +147,7 @@ function SearchYourLinkRu() {
           text='Узнать больше'
           onClick={(e) => {
             e.preventDefault();
-            let myForm = document.getElementById('videoEmail');
-            let formData = new FormData(myForm)
+
             fetch('/', {
               method: 'POST',
               headers: { "Content-Type": "application/x-www-form-urlencoded" },
@@ -116,7 +155,16 @@ function SearchYourLinkRu() {
                 "form-name": document.getElementById('videoEmail').getAttribute("name"),
                 "email": document.querySelector("input[name='email']").value,
               })
-            }).then(() => console.log('Form successfully submitted')).catch((error) =>
+            }).then(() => {
+              let validate = validateEmail(document.querySelector(".emailVal").innerHTML = document.querySelectorAll('input[name="email"]')[0].value);
+              if(validate){
+                console.log('Form successfully submitted');
+                document.getElementById('modal').style.display = "block";
+                document.querySelector(".emailVal").innerHTML = document.querySelectorAll('input[name="email"]')[0].value
+              } else {
+                //alert ("Заполните email")
+              }
+            }).catch((error) =>
               alert(error))
           }}
         />
@@ -136,33 +184,53 @@ function BeforeAfter() {
     <div className='before-after'>
       <div className='before-item'>
         <IndexHeadingRu>ДО</IndexHeadingRu>
-        <img width={'440'} height={'782'} src='../img/foxtrot_3.webp?1e26' />
+        <picture>
+          <source srcSet="../img/foxtrot_3.webp" type="image/webp" />
+            <img width={'440'} height={'782'} src='../img/foxtrot_3.jpg?1e26' />
+        </picture>
+
       </div>
       <div className='after-item'>
         <IndexHeadingRu>ПОСЛЕ</IndexHeadingRu>
-        {/*<video
+        <video
           autoPlay={true}
           preload='auto'
+          poster='../img/foxtrot_3.jpg'
           loop={true}
-          playsinline
-          id='beforeVideo'
-          loading="lazy"
+          id="beforeVideo"
+          playsInline
+          loading='lazy'
           muted={true}
+          width={'440'}
+          height={'889'}
         >
           <source src='../img/foxtrot_31.mp4?1e26' type='video/mp4' />
-        </video>*/}
-        <img width={'440'} height={'782'} src='../img/foxtrot_31.webp?1e26' />
+        </video>
+        {/*<img width={'440'} height={'782'} src='../img/foxtrot_31.webp?1e26' />*/}
       </div>
     </div>
   )
 }
 
 function ModalThanks() {
+  const [emailVal, setemailVal] = useState();
+  useEffect(() => {
+    setemailVal(document.querySelectorAll('input[name="email"]')[0].value)
+  });
+
   return(
     <>
-      <div id='modal' style={{display: 'none'}}>>
-        <PricingHeading>Спасибо</PricingHeading>
-        <SloganSmall>Мы свяжемся с вами</SloganSmall>
+      <div id='modal' style={{display: 'none'}}>
+        <div className='closeModal'>
+          <img id='closeModal'
+               src='../img/modal.svg'
+               onClick={() => {
+                 document.getElementById('modal').style.display = "none";
+               }}/>
+          <div className='emailVal'>
+            {emailVal}
+          </div>
+        </div>
         <OverlayModal />
       </div>
     </>

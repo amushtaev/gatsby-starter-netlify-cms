@@ -16,4 +16,7 @@ iframe {
     iframe {
         height: inherit !important;
     }
+    .blog-iframe iframe{
+        width: 100%
+    }
 }

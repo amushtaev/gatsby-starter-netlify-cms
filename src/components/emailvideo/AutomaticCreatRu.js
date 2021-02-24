@@ -12,7 +12,7 @@ const AutomaticCreat = () => {
   return (
     <IncludeContainerRu>
       <div className='automatic-creat '>
-        <div className='automatic-creat--content'>
+        <div className='automatic-creat--content video'>
           <FastIcon
             height={82}
             width={82}
@@ -26,20 +26,20 @@ const AutomaticCreat = () => {
           </div>
 
         </div>
-        <div className='automatic-creat--content'>
+        <div className='automatic-creat--content video'>
           <EasyIcon
             height={82}
             width={82}
             fill={softcubeDark.global.colors['sc-yellow-3']}
           />
-          <div className='automatic-one-stroke'>>
+          <div className='automatic-one-stroke'>
             <MediumHeadingLeftRu>Просто</MediumHeadingLeftRu>
             <MediumSloganLeftRu>
               Выбери анимацию – получи видео
             </MediumSloganLeftRu>
           </div>
         </div>
-        <div className='automatic-creat--content last'>
+        <div className='automatic-creat--content video last'>
           <EffectiveIcon
             height={82}
             width={82}

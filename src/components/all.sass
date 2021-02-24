@@ -27,6 +27,7 @@ body
   min-height: 100vh
   cursor: default
   outline: none !important
+  overflow: hidden
 
 header:focus
   outline: none !important
@@ -828,6 +829,9 @@ footer section.menu
   margin-top: 68px
 
 @media screen and (min-width: 450px) and (max-width: 780px)
+  .blog-iframe iframe
+    width: 100%
+
   .columns.footer_grid
     flex-direction: column
     flex-basis: 100%
@@ -908,6 +912,8 @@ footer section.menu
 .automatic-creat--content
   width: 100%
   height: 150px
+
+.automatic-creat--content.video
   display: grid
   grid-template-columns: 109px 1fr
 
@@ -1197,7 +1203,7 @@ footer section.menu
   height: 12px
   background: rgba(255,255,255,1)
   border-radius: 50%
-  margin: 0 6px
+  margin: 0 8px
   cursor: pointer
   padding: 0
 
@@ -1341,6 +1347,7 @@ footer section.menu
   ul.menu-list_footer li
     display: block
     width: fit-content
+      text-align: center
 
   .copyright
     padding: 20px 162px 0 0
@@ -1370,11 +1377,14 @@ footer section.menu
     width: 334px
 
 @media (min-width: 300px) and (max-width: 780px)
+  .blog-iframe iframe
+    width: 100%
+
   .works-text--inner-ru
     margin: -28px auto 0
 
   #videoEmail
-    margin-top: -30px !important
+    margin-top: 0px !important
 
   .marketing-videos.how
     margin-top: 55px
@@ -1420,14 +1430,46 @@ footer section.menu
   .header.article.video-slider
     text-align: center
 
+  .slick-dots li
+    border: none
+    width: 12px
+    height: 12px
+    background: white
+    border-radius: 50%
+    margin: 0 6px
+    cursor: pointer
+    padding: 0
+
 .is-for-mobile iframe
   width: 100% !important
+
+.faq-question-panel
+  margin-bottom: 140px
+
+.videoPageAccordion
+  width: 100%
 
 @media screen and (max-width: 768px)
   .sliderSlick
     width: 100%
   .marketing-videos--line
     display: none
+  .menu-list_footer
+    display: flex
+    width: 100%
+    text-align: center
+  .navbar_item.footer:hover
+    color: #FED300 !important
+    text-align: center
+    margin: auto
+  .navbar_item:hover:after
+    content: ""
+    border-bottom: 1px solid #FED300
+    width: 100%
+    display: flex
+    margin-left: 0
+    position: absolute
+    margin-top: 28px
 
 @import "~bulma"
 
@@ -1501,6 +1543,7 @@ footer section.menu
 
   .copyright
     padding: 20px 32px 0
+    text-align: center
 
   .column.social
     width: auto !important
@@ -1748,8 +1791,12 @@ footer section.menu
 
   a.navbar_item:focus, a.navbar_item:focus-within, a.navbar_item:hover, a.navbar_item.is-active
     width: fit-content
-    border-bottom: 4px #fff solid
+    //border-bottom: 4px #fff solid
     background: none
+
+    .navbar_item.footer:hover
+      color: #FED300 !important
+      margin: auto
 
   .image_related img
     min-width: 100% !important
@@ -1842,6 +1889,9 @@ footer section.menu
     text-align: center
     font-size: 16px
     float: inherit
+
+  .blog-iframe iframe
+    width: 100%
 
   .read-more-arrow.like
     font-family: Source Sans Pro
@@ -1984,8 +2034,17 @@ footer section.menu
     height: auto
     padding-bottom: 62px
     display: block
+  .automatic-creat--content.video
+    width: 100%
+    height: auto
+    padding-bottom: 62px
+    display: block
 
   .automatic-creat--content.last
+    width: 100%
+    height: auto
+    padding-bottom: 0
+  .automatic-creat--content.video.last
     width: 100%
     height: auto
     padding-bottom: 0

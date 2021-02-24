@@ -1,7 +1,8 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
 import Accordion from '../Accordion';
-import AccordionPanel from '../AccordionPanel'
+import AccordionPanel from '../AccordionPanel';
+import AccordionPanelVideo from '../AccordionPanelVideo';
 import {BigSimpleTextInput} from "../BigSimple";
 import {SmallSimpleTextInput} from "../SmallSimple";
 import {SmallSimpleTextInputRus} from "../SmallSimpleRu";
@@ -76,7 +77,7 @@ export const IncludeContainerIndexRu = styled.div`
     width: 100%;
     max-width: 1078px;
     margin-top: 62px;
-    margin-bottom: 140px;
+    margin-bottom: 75px;
     
     @media screen and (max-width: 720px) {
       max-width: inherit;
@@ -195,7 +196,7 @@ export const OverlayModal = styled.div`
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 200;
+    z-index: 2000;
     height: 100%;
     background: linear-gradient(270deg, rgba(18, 18, 47, 0.24) 0%, rgba(18, 18, 47, 0) 62.95%),
         rgba(18, 18, 47, 0.92);
@@ -475,6 +476,11 @@ export const PricingHeading = styled(CreateLargeHeading)`
     max-width: 1078px
 `;
 
+export const FaqHeading = styled(CreateLargeHeading)`
+    margin: 0 0 56px 0;
+    max-width: 1078px
+`;
+
 export const IndexHeading = styled(CreateLargeHeading)`
     margin: ${props => props.top} 0 ${props => props.bottom ? '82px' : '0'} 0;
     max-width: 1078px;
@@ -687,8 +693,8 @@ export const PlanCardContainerRu = styled.div`
     box-shadow: 10px 10px 20px rgba(8, 8, 22, 0.5), -10px -10px 20px rgba(28, 28, 72, 0.5);
     
     @media screen and (max-width: 780px) {
-      width: 100%;
-      padding: 0 23px;
+      width: calc(100% - 46px);
+      margin: 0 23px;
       height: initial;
       max-height: initial;
     }
@@ -816,6 +822,17 @@ export const DivAskedQuestions = styled.div`
 export const DivAccordion = styled.div`
     display: flex; 
     flex-direction: row;
+    
+    @media screen and (max-width: 1040px) {
+      flex-direction: column;
+      max-width: 100%;
+    }
+`;
+
+export const DivAccordionVideo = styled.div`
+    display: flex; 
+    flex-direction: row;
+    width: 100%;
     
     @media screen and (max-width: 1040px) {
       flex-direction: column;
@@ -1009,7 +1026,7 @@ export const TryButtonRu = styled(BigButton)`
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    margin: 0 auto 42px 14px;
+    margin: 0 auto 42px 0;
     z-index: 101;
     cursor: pointer;
     
@@ -1167,6 +1184,26 @@ export const QuestionPanel = styled(AccordionPanel)`
       margin: 0 auto;
     }
 `;
+export const QuestionPanelVideo = styled(AccordionPanelVideo)`
+    min-width: 100%;
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    min-height: 94px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    padding: 0 24px;
+    align-items: center;
+    
+    @media screen and (max-width: 560px) {
+      /*min-width: calc(100% - 48px);
+      max-width: calc(100% - 48px);*/
+      margin: 0 auto;
+    }
+`;
 
 export const Answer = styled.div`
     box-sizing: border-box;
@@ -1186,6 +1223,27 @@ export const Answer = styled.div`
     @media screen and (max-width: 780px) {
       min-width: 100%;
       max-width: 100%;
+    }
+`;
+export const AnswerVideo = styled.div`
+    box-sizing: border-box;
+    min-width: 100%;
+    max-width: 526px;
+    padding: 0 24px 24px 24px;
+    /* background: #12122f;
+    background: transparent;
+    box-shadow: 0px 0px 0px rgba(28, 28, 72, 0.5), 0 10px 20px rgba(8, 8, 22, 0.5); */
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #fff;
+    
+    @media screen and (max-width: 780px) {
+      min-width: 100%;
+      max-width: 100%;
+      padding: 24px;
     }
 `;
 

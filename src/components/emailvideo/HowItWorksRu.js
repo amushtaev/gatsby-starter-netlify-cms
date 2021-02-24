@@ -26,7 +26,7 @@ const HowItWorks = () => {
           <SendEmail/>
           <div className='works-text--inner-ru'>
             <span className='marketing-videos--text'>
-              Начни сейчас – просто отправь нам свой e-mail
+              Начни сейчас – просто отправь нам свой email
             </span>
           </div>
         </div>
