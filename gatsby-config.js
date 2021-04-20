@@ -124,7 +124,21 @@ module.exports = {
         name: 'images',
       },
     },
-    'gatsby-plugin-sharp',
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        // Defaults used for gatsbyImageData and StaticImage
+        defaults: {},
+        // Set to false to allow builds to continue on image errors
+        failOnError: true,
+        // deprecated options and their defaults:
+        base64Width: 20,
+        forceBase64Format: ``, // valid formats: png,jpg,webp
+        useMozJpeg: process.env.GATSBY_JPEG_ENCODER === `MOZJPEG`,
+        stripMetadata: true,
+        defaultQuality: 70,
+      }
+    },
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',
@@ -188,12 +202,10 @@ module.exports = {
           { userAgent: '*',
             allow: '/',
             disallow: [
-              'recom.softcube.com',
-              'https://recom.softcube.com/',
-              'test.softcube.com',
-              'https://test.softcube.com/',
-              'softcube.com/email-gif/',
-              'https://softcube.com/email-gif/',
+              '*.softcube.com',
+              '//recom.softcube.com/',
+              '//test.softcube.com',
+              '//softcube.com/email-gif/',
             ]
           }
         ]

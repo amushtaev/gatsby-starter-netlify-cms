@@ -11,7 +11,7 @@ const Maximize = () => {
       <div className='marketing-videos' style={{marginTop: '82px'}}>
         <div className='marketing-videos--content'>
           <div className='maximize-text--inner'>
-            <img src={Instagram} alt="Instagram" style={{margin: 'auto'}} loading="lazy" />
+            <img width='162' height='288' src={Instagram} alt="Instagram" style={{margin: 'auto'}} loading="lazy" />
             <span className='marketing-videos--title is-paddigg-5'>Instagram Stories ads</span>
             <span className='marketing-videos--text'>
               Launch an advertising campaign in Facebook Ads Manager or in Page ads
@@ -27,7 +27,7 @@ const Maximize = () => {
         </div>
         <div className='marketing-videos--content'>
           <div className='maximize-text--inner'>
-            <img src={YouTube} alt="YouTube" style={{margin: 'auto'}} loading="lazy" />
+            <img width='288' height='162' src={YouTube} alt="YouTube" style={{margin: 'auto'}} loading="lazy" />
             <span className='marketing-videos--title is-paddigg-5'>YouTube ads</span>
             <span className='marketing-videos--text'>
               Let people find you with YouTube and Google Display Network ads
@@ -44,7 +44,7 @@ const Maximize = () => {
         </div>
         <div className='marketing-videos--content'>
           <div className='maximize-text--inner'>
-            <img src={Facebook} alt="Facebook" style={{margin: 'auto'}} loading="lazy" />
+            <img width='288' height='288' src={Facebook} alt="Facebook" style={{margin: 'auto'}} loading="lazy" />
             <span className='marketing-videos--title is-paddigg-5'>Facebook video ads</span>
             <span className='marketing-videos--text'>
               Run an advertising campaign in Facebook Ads Manager and show your ads on Facebook and the Audience Network

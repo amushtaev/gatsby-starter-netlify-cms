@@ -18,13 +18,20 @@ const TemplateWrapper = ({ children }) => {
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
         <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-        <link
+
+        <link rel="preconnect" href="https://googleads.g.doubleclick.net" />
+        <link rel="preconnect" href="https://www.google.com" />
+        <link rel="preconnect" href="https://www.google.com.ua" />
+        <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net" />
+        <link rel="dns-prefetch" href="https://www.google.com.ua" />
+        <link rel="dns-prefetch" href="https://www.google.com" />
+        {/*<link
           rel="preload"
           as="style"
           href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" />
         <link rel="stylesheet"
               href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap"
-              media="print" onLoad="this.media='all'"/>
+              media="print" onLoad="this.media='all'"/>*/}
         <link
           rel="apple-touch-icon"
           sizes="180x180"

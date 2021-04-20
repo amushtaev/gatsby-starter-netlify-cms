@@ -310,7 +310,7 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object,
   categories: PropTypes.array,
   id: PropTypes.string,
-  minread: PropTypes.string,
+  minread: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
   image: PropTypes.string,
   date: PropTypes.string,
   focuskeyphrase: PropTypes.string,

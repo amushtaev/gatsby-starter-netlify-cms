@@ -64,7 +64,7 @@ export default function BlogCallToAction({text, buttonText, attachTo}) {
             if (window.scrollY > contentEl.getBoundingClientRect().top && window.scrollY < contentEl.offsetHeight) {
                 setShow(true);
             }else {
-                console.log('Set false');
+                /*console.log('Set false');*/
                 setShow(false);
             }
         };
@@ -74,7 +74,7 @@ export default function BlogCallToAction({text, buttonText, attachTo}) {
     }, []);
 
     useEffect(() => {
-        console.log(show);
+        /*console.log(show);*/
     }, [show]);
 
     return(

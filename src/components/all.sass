@@ -1,5 +1,42 @@
 @import "~bulma/sass/utilities/initial-variables"
 
+@font-face
+  font-family: "Source Sans Pro"
+  font-style: normal
+  font-weight: 400
+  font-display: swap
+  src : local(''),
+  url('../../fonts/source-sans-pro-v14-latin_cyrillic-regular.woff2') format('woff2'),
+  url('../../fonts/source-sans-pro-v14-latin_cyrillic-regular.ttf') format('truetype')
+
+@font-face
+  font-family: "Source Sans Pro"
+  font-style: normal
+  font-weight: 600
+  font-display: swap
+  src : local(''),
+  url('../../fonts/source-sans-pro-v14-latin_cyrillic-600.woff2') format('woff2'),
+  url('../../fonts/source-sans-pro-v14-latin_cyrillic-600.ttf') format('truetype')
+
+@font-face
+  font-family: "Source Sans Pro"
+  font-style: italic
+  font-weight: 600
+  font-display: swap
+  src : local(''),
+  url('../../fonts/source-sans-pro-v14-latin_cyrillic-600italic.woff2') format('woff2'),
+  url('../../fonts/source-sans-pro-v14-latin_cyrillic-600italic.ttf') format('truetype')
+
+@font-face
+  font-family: "Source Sans Pro"
+  font-style: normal
+  font-weight: 900
+  font-display: swap
+  src : local(''),
+  url('../../fonts/source-sans-pro-v14-latin_cyrillic-900.woff2') format('woff2'),
+  url('../../fonts/source-sans-pro-v14-latin_cyrillic-900.ttf') format('truetype')
+
+
 // Config vars
 // Kaldi logo brand color: #FD461E
 $black-invert: #fff
@@ -570,7 +607,7 @@ footer.footer
   margin-bottom: 72px !important
 
 .pagination-link, .pagination-next, .pagination-previous
-  font-family: Roboto !important
+  font-family: Source Sans Pro !important
   font-style: normal !important
   font-weight: normal !important
   font-size: 16px !important
@@ -592,7 +629,7 @@ footer.footer
   background-color: #FED300 !important
   border-color: #FED300 !important
   color: #fff !important
-  font-family: Roboto !important
+  font-family: Source Sans Pro !important
   font-style: normal !important
   font-weight: 900 !important
   font-size: 16px !important

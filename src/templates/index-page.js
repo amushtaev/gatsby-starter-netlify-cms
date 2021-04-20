@@ -72,6 +72,8 @@ function VideoBanner() {
           id='mainVideo'
           loading="lazy"
           muted={true}
+          width='1076'
+          height='420'
         >
           <source src='../img/comp_1_4_2.webm?1e26' type='video/webm; codecs=vp9,vorbis' />
           <source src='../img/comp_1_4_2.mp4?1e26' type='video/mp4' />

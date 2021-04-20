@@ -42,7 +42,7 @@ const AutomaticCreat = () => {
         </div>
       </div>
       <div className='automatic-creat-img'>
-        <img src={AutomaticImgRectangle} alt="AUTOMATICALLY CREATE & OPTIMIZE VIDEO ADS" loading="lazy" />
+        <img width='600' height='370' src={AutomaticImgRectangle} alt="AUTOMATICALLY CREATE & OPTIMIZE VIDEO ADS" loading="lazy" />
       </div>
     </IncludeContainerIndex>
   )

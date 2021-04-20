@@ -16,7 +16,7 @@ const MarketingVideos = () => {
           <Link
             to={'/industries/#ecommerce'}
           >
-            <img src={Commerce} alt="E-commerce" loading="lazy" />
+            <img width='322' height='163' src={Commerce} alt="E-commerce" loading="lazy" />
             <span className='marketing-videos--title'>E-commerce</span>
           </Link>
         </div>
@@ -24,7 +24,7 @@ const MarketingVideos = () => {
           <Link
             to={'/industries/#food-and-delivery'}
           >
-            <img src={Food} alt="Food & Delivery" loading="lazy" />
+            <img width='322' height='163' src={Food} alt="Food & Delivery" loading="lazy" />
             <span className='marketing-videos--title'>Food & Delivery</span>
           </Link>
         </div>
@@ -32,7 +32,7 @@ const MarketingVideos = () => {
           <Link
             to={'/industries/#real-estate'}
           >
-            <img src={Real} alt="Real Estate" loading="lazy" />
+            <img width='322' height='163' src={Real} alt="Real Estate" loading="lazy" />
             <span className='marketing-videos--title'>Real Estate</span>
           </Link>
         </div>
@@ -42,7 +42,7 @@ const MarketingVideos = () => {
           <Link
             to={'/industries/#fitness'}
           >
-            <img src={Fitness} alt="Fitness" loading="lazy" />
+            <img width='322' height='163' src={Fitness} alt="Fitness" loading="lazy" />
             <span className='marketing-videos--title'>Fitness</span>
           </Link>
         </div>
@@ -50,7 +50,7 @@ const MarketingVideos = () => {
           <Link
             to={'/industries/#ecommerce'}
           >
-            <img src={Electronics} alt="Electronics" loading="lazy" />
+            <img width='322' height='163' src={Electronics} alt="Electronics" loading="lazy" />
             <span className='marketing-videos--title'>Electronics</span>
           </Link>
         </div>
@@ -58,7 +58,7 @@ const MarketingVideos = () => {
           <Link
             to={'/industries/#travel'}
           >
-            <img src={Travel } alt="Travel " loading="lazy" />
+            <img width='322' height='163' src={Travel } alt="Travel " loading="lazy" />
             <span className='marketing-videos--title'>Travel </span>
           </Link>
         </div>

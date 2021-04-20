@@ -6,6 +6,7 @@
 .blog-iframe {
 
 }
+
 iframe {
     margin: auto !important;
 }
@@ -18,5 +19,8 @@ iframe {
     }
     .blog-iframe iframe{
         width: 100%
+    }
+    blockquote.instagram-media, .instagram-media.instagram-media-rendered{
+        min-width:273px !important;
     }
 }
