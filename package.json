@@ -29,7 +29,7 @@
     "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-source-filesystem": "^2.3.32",
     "gatsby-source-graphql": "^2.7.5",
-    "gatsby-transformer-remark": "^2.8.37",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.16",
     "grommet": "^2.15.0",
     "history": "^5.0.0",
